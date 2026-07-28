@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1943290138542641610",
+    "created_at": "2025-07-10T14:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T15:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943323088051143026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909553877739085825",
+          "start": 0,
+          "username": "TOKYOheshan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943323088051143026",
+    "in_reply_to_user_id": "1909553877739085825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943290138542641610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOKYOheshan 叫厨师来（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1758,
+        "media_key": "3_1943289965355634689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvfz7XCakAEQwTS.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1806,
+        "media_key": "3_1943289965343059969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvfz7W_asAE-50w.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1764,
+        "media_key": "3_1943289965502164992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvfz7XlWcAAvxG5.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1802,
+        "media_key": "3_1943289965351440386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvfz7XBakAIOjhW.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1943290138542641610",
+        "created_at": "2025-07-10T14:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943323088051143026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "TOKYOheshan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943323088051143026",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943290138542641610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYOheshan 叫厨师来（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943289965355634689",
+            "3_1943289965343059969",
+            "3_1943289965502164992",
+            "3_1943289965351440386"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1943290138542641610",
+        "created_at": "2025-07-10T12:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:43:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943289974830567733",
+          "1943290138542641610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzpqmodGZ6",
+              "end": 37,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1943290138542641610/photo/1",
+              "media_key": "3_1943289965355634689",
+              "start": 14,
+              "url": "https://t.co/GzpqmodGZ6"
+            },
+            {
+              "display_url": "pic.x.com/GzpqmodGZ6",
+              "end": 37,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1943290138542641610/photo/1",
+              "media_key": "3_1943289965343059969",
+              "start": 14,
+              "url": "https://t.co/GzpqmodGZ6"
+            },
+            {
+              "display_url": "pic.x.com/GzpqmodGZ6",
+              "end": 37,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1943290138542641610/photo/1",
+              "media_key": "3_1943289965502164992",
+              "start": 14,
+              "url": "https://t.co/GzpqmodGZ6"
+            },
+            {
+              "display_url": "pic.x.com/GzpqmodGZ6",
+              "end": 37,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1943290138542641610/photo/1",
+              "media_key": "3_1943289965351440386",
+              "start": 14,
+              "url": "https://t.co/GzpqmodGZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943290138542641610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1264,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "历史上最伟大的四个字是什么 https://t.co/GzpqmodGZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 447,
+          "like_count": 18653,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 468
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "互联网冲浪找史炒作高手 07男娘 IP🇯🇵東京池袋 精日罕见 成分复杂：键政｜抽象｜二次元｜神友｜自由民主｜无神论｜LGBTQ🏳️‍🌈｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜进击的巨人｜MYGO｜平常会更新日常或抽象爱国TV 互fo扩列请私信 欢迎线下找我玩 逃生舱:@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象耶格尔",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942513800084594688/rlG9AqcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4801,
+          "following_count": 551,
+          "like_count": 636,
+          "listed_count": 10,
+          "media_count": 264,
+          "tweet_count": 442
+        },
+        "username": "TOKYOheshan",
+        "verified": true
+      }
+    ]
+  }
+}

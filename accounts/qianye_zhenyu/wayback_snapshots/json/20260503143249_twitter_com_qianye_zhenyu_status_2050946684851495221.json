@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2050755198185009246",
+    "created_at": "2026-05-03T14:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050946684851495221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        },
+        {
+          "end": 18,
+          "id": "1967500683760021504",
+          "start": 9,
+          "username": "rkk17629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050946684851495221",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050755198185009246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 @rkk17629 骗你的，即使是表面上爱你的实际根本不会去了解你🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2050755120556806144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHW-6rIaEAA8Hsd.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2050755198185009246",
+        "created_at": "2026-05-03T14:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050946684851495221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 18,
+              "id": "1967500683760021504",
+              "start": 9,
+              "username": "rkk17629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050946684851495221",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050755198185009246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 @rkk17629 骗你的，即使是表面上爱你的实际根本不会去了解你🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050755120556806144"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2050755198185009246",
+        "created_at": "2026-05-03T01:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T02:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050755198185009246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faooPihW87",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2050755198185009246/photo/1",
+              "media_key": "3_2050755120556806144",
+              "start": 0,
+              "url": "https://t.co/faooPihW87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050755198185009246",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 14515,
+          "like_count": 565,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/faooPihW87"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\ninfp//喜欢一个人安静//路人勿扰请原谅//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 816,
+          "like_count": 30464,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 600
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119496,
+          "following_count": 1124,
+          "like_count": 52237,
+          "listed_count": 287,
+          "media_count": 21125,
+          "tweet_count": 31540
+        },
+        "username": "hsn8086",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-15T08:08:22.000Z",
+        "description": "当朋友圈发基本上全是碎碎念/ADHD/重焦重抑/ed/宅家啃老养病中/回避型/自毁/低精力/od/是常年封闭自我活在幻想中的幽灵、大脑十分平滑的空心人/欢迎互fo，大家可以叫我卡子或者卡卡！",
+        "id": "1967500683760021504",
+        "name": "阿尔卡卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967501242814672896/KGZCCEW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 87,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "rkk17629",
+        "verified": false
+      }
+    ]
+  }
+}

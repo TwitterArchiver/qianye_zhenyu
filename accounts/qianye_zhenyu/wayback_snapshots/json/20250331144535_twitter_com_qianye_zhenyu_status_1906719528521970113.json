@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1906503893434998953",
+    "created_at": "2025-03-31T14:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T15:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906719528521970113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836420929611796486",
+          "start": 0,
+          "username": "jishixingle0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906719528521970113",
+    "in_reply_to_user_id": "1836420929611796486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906503893434998953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jishixingle0721 精日什么的我也能理解，但是给法西斯日本辩解的才是真欠屠（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1906503893434998953",
+        "created_at": "2025-03-31T14:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906719528521970113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836420929611796486",
+              "start": 0,
+              "username": "jishixingle0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906719528521970113",
+        "in_reply_to_user_id": "1836420929611796486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906503893434998953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jishixingle0721 精日什么的我也能理解，但是给法西斯日本辩解的才是真欠屠（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836420929611796486",
+        "conversation_id": "1906503893434998953",
+        "created_at": "2025-03-31T00:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T01:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906503893434998953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xu96175836/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/xu96175836/status/1906303642136965407",
+              "start": 6,
+              "url": "https://t.co/IpLsav0dCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906503893434998953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 781,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906303642136965407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家怎么看 https://t.co/IpLsav0dCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中…… 最近在学日语ing…",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 385,
+          "like_count": 13509,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 203
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T15:04:34.000Z",
+        "description": "最喜欢鹿乃和泠鸢yousa了！https://t.co/g6qTrnMU3a匿名邮箱，都没人来问啥的气煞我也🤯🤯🤯致力于交国际友人😉😉",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jishixingle0721",
+                "end": 38,
+                "expanded_url": "https://ngl.link/jishixingle0721",
+                "start": 15,
+                "url": "https://t.co/g6qTrnMU3a"
+              }
+            ]
+          }
+        },
+        "id": "1836420929611796486",
+        "location": "中国福建",
+        "name": "要及时行乐",
+        "pinned_tweet_id": "1898295498894684667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898422105638924288/jfic4hn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1660,
+          "like_count": 32443,
+          "listed_count": 3,
+          "media_count": 962,
+          "tweet_count": 12334
+        },
+        "username": "jishixingle0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1979625943380500922",
+    "created_at": "2025-10-19T15:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979930488405188782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1216408807905120257",
+          "start": 0,
+          "username": "squid4046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979930488405188782",
+    "in_reply_to_user_id": "1216408807905120257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979625943380500922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@squid4046 感觉有点像斯大林（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1979625887797596160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kLQaZX0AAelOF.png",
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1979625943380500922",
+        "created_at": "2025-10-19T15:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979930488405188782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1216408807905120257",
+              "start": 0,
+              "username": "squid4046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979930488405188782",
+        "in_reply_to_user_id": "1216408807905120257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979625943380500922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@squid4046 感觉有点像斯大林（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979625887797596160"
+          ]
+        },
+        "author_id": "1216408807905120257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1979625943380500922",
+        "created_at": "2025-10-18T19:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979625943380500922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y7MO4ukh2I",
+              "end": 152,
+              "expanded_url": "https://x.com/squid4046/status/1979625943380500922/photo/1",
+              "media_key": "3_1979625887797596160",
+              "start": 129,
+              "url": "https://t.co/y7MO4ukh2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979625943380500922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在的习近平，才是真实的习近平。\n\n以往的习近平，是戴着面具的习近平。\n\n习近平，骨子里就是一枚小粉红，铁杆毛粉，也是最最典型的支那人，具有最强烈的支性。\n\n习近平的精神本质，就是反西方，甚至要对抗西方的，义和团式的，从其对待基督教的态度，就可以看得出来。\n\n习犬犬受二月河的影响很大，满脑子的康熙大帝，雍正皇帝，乾隆皇帝等等诸如此类的东西。\n\n习犬犬没有一丝一毫的谦卑之心，并确具有强烈的英雄情节，它要成为民族的领袖，它亲自部署，亲自指挥，这么大的灾难那，它还《大国战疫》，试图要在灾难之中给自己颁布旷古未闻的赞己诏，它没有如同那个意大利市长一样眼望无人的街头而掉泪，相反，它还想让人民感恩它，它还想亲自攻打台湾，名垂青史等等.....这些，都是支那人的精神劣根性的汇总表现。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 21057,
+          "like_count": 219,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "现在的习近平，才是真实的习近平。\n\n以往的习近平，是戴着面具的习近平。\n\n习近平，骨子里就是一枚小粉红，铁杆毛粉，也是最最典型的支那人，具有最强烈的支性。\n\n习近平的精神本质，就是反西方，甚至要对抗西方的，义和团式的，从其对待基督教的态度，就可以看得出来。 https://t.co/y7MO4ukh2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 476,
+          "like_count": 21210,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 516
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-12T17:17:21.000Z",
+        "description": "#全中人绝育主义 #页游开发者 #废物利用环保主义 手工作品见：https://t.co/ySqImglXDH 个人运营的页游https://t.co/UPFgWSM3GL  TG粉丝群https://t.co/H6mnowhkS4",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "全中人绝育主义"
+              },
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "页游开发者"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "tag": "废物利用环保主义"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/squid4046/stat…",
+                "end": 55,
+                "expanded_url": "https://x.com/squid4046/status/1871404784781259179?s=46",
+                "start": 32,
+                "url": "https://t.co/ySqImglXDH"
+              },
+              {
+                "display_url": "play.usdc.li",
+                "end": 86,
+                "expanded_url": "http://play.usdc.li",
+                "start": 63,
+                "url": "https://t.co/UPFgWSM3GL"
+              },
+              {
+                "display_url": "t.me/squid4046",
+                "end": 116,
+                "expanded_url": "https://t.me/squid4046",
+                "start": 93,
+                "url": "https://t.co/H6mnowhkS4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "play.usdc.li",
+                "end": 23,
+                "expanded_url": "https://play.usdc.li",
+                "start": 0,
+                "url": "https://t.co/X5NyO9Ykui"
+              }
+            ]
+          }
+        },
+        "id": "1216408807905120257",
+        "location": "方脸星系",
+        "name": "小鱿鱼 反贼页游play.usdc.li",
+        "pinned_tweet_id": "1979575397164679325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974319943714803712/sP2Jh6s0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2770,
+          "following_count": 1061,
+          "like_count": 3255,
+          "listed_count": 13,
+          "media_count": 2150,
+          "tweet_count": 9106
+        },
+        "url": "https://t.co/X5NyO9Ykui",
+        "username": "squid4046",
+        "verified": true
+      }
+    ]
+  }
+}

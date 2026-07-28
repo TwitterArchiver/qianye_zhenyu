@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1916161329674539116",
+    "created_at": "2025-04-26T16:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T17:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916161329674539116"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916161329674539116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玛宝男大胜利！！！六周年老玛新皮肤和新模组！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1916161329674539116",
+        "created_at": "2025-04-26T16:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T17:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916161329674539116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916161329674539116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玛宝男大胜利！！！六周年老玛新皮肤和新模组！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 419,
+          "like_count": 15908,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 346
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

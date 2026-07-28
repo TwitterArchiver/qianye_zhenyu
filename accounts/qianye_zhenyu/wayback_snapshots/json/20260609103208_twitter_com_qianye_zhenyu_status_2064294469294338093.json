@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063987461093720065"
+      ],
+      "media_source_tweet_id": [
+        "2063987471663407615"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2064294469294338093",
+    "created_at": "2026-06-09T10:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064294469294338093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420072716963520520",
+          "start": 3,
+          "username": "meiqinyuban"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M2Oo2vQDdR",
+          "end": 40,
+          "expanded_url": "https://x.com/meiqinyuban/status/2063987471663407615/photo/1",
+          "media_key": "3_2063987461093720065",
+          "start": 17,
+          "url": "https://t.co/M2Oo2vQDdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064294469294338093",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063987471663407615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiqinyuban: https://t.co/M2Oo2vQDdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1764,
+        "media_key": "3_2063987461093720065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTBqQ9aAAExyq0.jpg",
+        "width": 1432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063987461093720065"
+          ],
+          "media_source_tweet_id": [
+            "2063987471663407615"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2064294469294338093",
+        "created_at": "2026-06-09T10:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064294469294338093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420072716963520520",
+              "start": 3,
+              "username": "meiqinyuban"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2Oo2vQDdR",
+              "end": 40,
+              "expanded_url": "https://x.com/meiqinyuban/status/2063987471663407615/photo/1",
+              "media_key": "3_2063987461093720065",
+              "start": 17,
+              "url": "https://t.co/M2Oo2vQDdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064294469294338093",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063987471663407615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiqinyuban: https://t.co/M2Oo2vQDdR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063987461093720065"
+          ]
+        },
+        "author_id": "1420072716963520520",
+        "conversation_id": "2063987471663407615",
+        "created_at": "2026-06-08T14:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063987471663407615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2Oo2vQDdR",
+              "end": 23,
+              "expanded_url": "https://x.com/meiqinyuban/status/2063987471663407615/photo/1",
+              "media_key": "3_2063987461093720065",
+              "start": 0,
+              "url": "https://t.co/M2Oo2vQDdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063987471663407615",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 44309,
+          "like_count": 592,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/M2Oo2vQDdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 1924,
+          "like_count": 37137,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1058
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、古董数码、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！提问箱点下方链接（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meiqinyuban8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meiqinyuban8",
+                "start": 0,
+                "url": "https://t.co/dvlWzpleAX"
+              }
+            ]
+          }
+        },
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035389972740739072/zyUO7hv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 896,
+          "like_count": 20316,
+          "listed_count": 1,
+          "media_count": 1775,
+          "tweet_count": 9422
+        },
+        "url": "https://t.co/dvlWzpleAX",
+        "username": "meiqinyuban",
+        "verified": true
+      }
+    ]
+  }
+}

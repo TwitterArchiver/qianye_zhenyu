@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1913775224631545907",
+    "created_at": "2025-04-20T16:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T17:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913995680093270490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639664012907429890",
+          "start": 0,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913995680093270490",
+    "in_reply_to_user_id": "1639664012907429890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913775224631545907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je1nFaur_l 艹，第一眼看成黑人女了🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1913775224631545907",
+        "created_at": "2025-04-20T16:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T17:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913995680093270490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913995680093270490",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913775224631545907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l 艹，第一眼看成黑人女了🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639664012907429890",
+        "conversation_id": "1913775224631545907",
+        "created_at": "2025-04-20T02:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T03:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913775224631545907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913775224631545907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 34051,
+          "like_count": 228,
+          "quote_count": 7,
+          "reply_count": 48,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现支黑女好像都是美女🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 407,
+          "like_count": 15232,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 305
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "前世Previous acc:@moeTvT \n我是Mio大王 叫我00 宅女一枚呀 \n我号暂时登不上去了救命🌚✌️\n女宝互关大欢迎 Cute girls plz interact!\nFAFO\n前世的前世pre previous acc：@G_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "moeTvT"
+              },
+              {
+                "end": 126,
+                "start": 119,
+                "username": "G_8964"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "Orange County",
+        "name": "Mio大王666",
+        "pinned_tweet_id": "1906209232648569211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781719164769726464/I0Oci5da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 2319,
+          "like_count": 46072,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4156
+        },
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

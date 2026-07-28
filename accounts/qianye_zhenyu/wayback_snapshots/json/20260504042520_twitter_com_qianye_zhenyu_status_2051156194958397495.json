@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2050974601057030530",
+    "created_at": "2026-05-04T04:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051156194958397495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "912623216899715072",
+          "start": 0,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051156194958397495",
+    "in_reply_to_user_id": "912623216899715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050974601057030530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianzhong_1953 我这边看到的都是摆烂躺平，免费公园都是一大堆人来玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2050974601057030530",
+        "created_at": "2026-05-04T04:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051156194958397495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "912623216899715072",
+              "start": 0,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051156194958397495",
+        "in_reply_to_user_id": "912623216899715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050974601057030530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianzhong_1953 我这边看到的都是摆烂躺平，免费公园都是一大堆人来玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "912623216899715072",
+        "conversation_id": "2050974601057030530",
+        "created_at": "2026-05-03T16:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050974601057030530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050974601057030530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 301954,
+          "like_count": 620,
+          "quote_count": 5,
+          "reply_count": 458,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一边是大量年轻人失业，一边是假期时景区的年轻人挤来挤去。\n墙内到底是什么样的世界？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\ninfp｜istp//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2050985824091541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 851,
+          "like_count": 30748,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 616
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "location": "Los Angeles, CA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108211,
+          "following_count": 826,
+          "like_count": 265021,
+          "listed_count": 353,
+          "media_count": 24347,
+          "tweet_count": 47829
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

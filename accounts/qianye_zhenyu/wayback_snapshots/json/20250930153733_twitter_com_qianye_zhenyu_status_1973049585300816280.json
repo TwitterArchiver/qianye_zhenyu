@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1972800765233332606",
+    "created_at": "2025-09-30T15:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T16:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973049585300816280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973049585300816280",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972800765233332606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup bro不反对k签，bro只是期待百年后这片土地上的牢中全是棕色和黑色皮肤的那一天💀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 543,
+        "media_key": "3_1972800762670723072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DL11-bsAAfsHX.jpg",
+        "width": 480
+      },
+      {
+        "height": 625,
+        "media_key": "3_1972800762943356928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DL12_bwAARVv3.jpg",
+        "width": 467
+      },
+      {
+        "height": 663,
+        "media_key": "3_1972800763169841152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DL131boAAvUuG.jpg",
+        "width": 461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1972800765233332606",
+        "created_at": "2025-09-30T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973049585300816280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973049585300816280",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972800765233332606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup bro不反对k签，bro只是期待百年后这片土地上的牢中全是棕色和黑色皮肤的那一天💀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972800762670723072",
+            "3_1972800762943356928",
+            "3_1972800763169841152"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1972800765233332606",
+        "created_at": "2025-09-29T23:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T00:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972800765233332606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GC06nwfnQk",
+              "end": 36,
+              "expanded_url": "https://x.com/jianlvup/status/1972800765233332606/photo/1",
+              "media_key": "3_1972800762670723072",
+              "start": 13,
+              "url": "https://t.co/GC06nwfnQk"
+            },
+            {
+              "display_url": "pic.x.com/GC06nwfnQk",
+              "end": 36,
+              "expanded_url": "https://x.com/jianlvup/status/1972800765233332606/photo/1",
+              "media_key": "3_1972800762943356928",
+              "start": 13,
+              "url": "https://t.co/GC06nwfnQk"
+            },
+            {
+              "display_url": "pic.x.com/GC06nwfnQk",
+              "end": 36,
+              "expanded_url": "https://x.com/jianlvup/status/1972800765233332606/photo/1",
+              "media_key": "3_1972800763169841152",
+              "start": 13,
+              "url": "https://t.co/GC06nwfnQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972800765233332606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 248606,
+          "like_count": 808,
+          "quote_count": 12,
+          "reply_count": 151,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "一群不生孩子的在反对k签 https://t.co/GC06nwfnQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 469,
+          "like_count": 20047,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 489
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1972800765233332606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8766,
+          "following_count": 975,
+          "like_count": 44354,
+          "listed_count": 32,
+          "media_count": 1622,
+          "tweet_count": 3858
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

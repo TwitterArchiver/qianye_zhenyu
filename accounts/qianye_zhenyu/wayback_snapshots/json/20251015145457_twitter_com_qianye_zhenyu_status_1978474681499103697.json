@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1978127480402669629",
+    "created_at": "2025-10-15T14:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T15:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978474681499103697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673318575195717634",
+          "start": 0,
+          "username": "Chloehappy_0824"
+        },
+        {
+          "end": 32,
+          "id": "1865419581206208512",
+          "start": 17,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978474681499103697",
+    "in_reply_to_user_id": "1673318575195717634",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978179461460684863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloehappy_0824 @DDzhanshou5150 +1（🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1978127480402669629",
+        "created_at": "2025-10-15T14:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T15:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978474681499103697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673318575195717634",
+              "start": 0,
+              "username": "Chloehappy_0824"
+            },
+            {
+              "end": 32,
+              "id": "1865419581206208512",
+              "start": 17,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978474681499103697",
+        "in_reply_to_user_id": "1673318575195717634",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978179461460684863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloehappy_0824 @DDzhanshou5150 +1（🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673318575195717634",
+        "conversation_id": "1978127480402669629",
+        "created_at": "2025-10-14T19:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T20:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978179461460684863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978179461460684863",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5612,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978127480402669629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 又哑又癫又软又废我天哪我这人还有未来啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 475,
+          "like_count": 21186,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 515
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T13:13:45.000Z",
+        "description": "可以叫我淡淡鱼 我是一条鱼/除了小女孩们 我不聊骚也不加别的联系方式 希望推特和现生分开谢谢理解！如果你长的像基努里维斯或者克里斯海当我没说 允许私信",
+        "id": "1673318575195717634",
+        "location": "Night City",
+        "name": "电子鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960007171682562048/xDP6_MXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 579,
+          "like_count": 5829,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 932
+        },
+        "username": "Chloehappy_0824",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7647,
+          "following_count": 7056,
+          "like_count": 25178,
+          "listed_count": 15,
+          "media_count": 5528,
+          "tweet_count": 37066
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

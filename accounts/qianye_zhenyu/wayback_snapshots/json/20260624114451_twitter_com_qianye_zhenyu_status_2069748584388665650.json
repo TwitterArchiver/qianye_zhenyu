@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2069730500898594848",
+    "created_at": "2026-06-24T11:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069748584388665650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734906028087721984",
+          "start": 0,
+          "username": "shantianliang08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069748584388665650",
+    "in_reply_to_user_id": "1734906028087721984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069730500898594848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shantianliang08 玩了那么多二游，到头来还是只有碧蓝能让我一直肝（其他二游有时候好几天才想去来去上一次号"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2069730491121750016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLko6nAbUAA3E4P.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2069730500898594848",
+        "created_at": "2026-06-24T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069748584388665650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734906028087721984",
+              "start": 0,
+              "username": "shantianliang08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069748584388665650",
+        "in_reply_to_user_id": "1734906028087721984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069730500898594848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shantianliang08 玩了那么多二游，到头来还是只有碧蓝能让我一直肝（其他二游有时候好几天才想去来去上一次号"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069730491121750016"
+          ]
+        },
+        "author_id": "1734906028087721984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069730500898594848",
+        "created_at": "2026-06-24T10:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069730500898594848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVhLOplwzR",
+              "end": 60,
+              "expanded_url": "https://x.com/shantianliang08/status/2069730500898594848/photo/1",
+              "media_key": "3_2069730491121750016",
+              "start": 37,
+              "url": "https://t.co/SVhLOplwzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069730500898594848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩习惯了碧蓝航线等高福利二游，为什么感觉米家游戏太肝了几个月还是这个样😡 https://t.co/SVhLOplwzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2069033829675762151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 2101,
+          "like_count": 38539,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1168
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T12:00:15.000Z",
+        "description": "/无政治立场/喜欢日常📷/友🏳️‍🌈🏳️‍⚧️/E社玩家/少女乐队/\n请勿在我帖子下发表关于政治言论\n优先群体：大学生/职校生/08同龄人\n前身：山田凉official（@shantian1944）\nsteam好友代码：1527038776\n2008.9.19+互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "shantian1944"
+              }
+            ]
+          }
+        },
+        "id": "1734906028087721984",
+        "location": "hello pig god",
+        "name": "新汕田凉official（每年底淡推）",
+        "pinned_tweet_id": "2063678689397940505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063140065166168064/mBj5IakM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 255,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "shantianliang08",
+        "verified": false
+      }
+    ]
+  }
+}

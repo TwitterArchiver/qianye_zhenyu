@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2053151296920883591",
+    "created_at": "2026-05-10T15:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053504830820225236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1116895867632402432",
+          "start": 0,
+          "username": "AndyKaluosi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053504830820225236",
+    "in_reply_to_user_id": "1116895867632402432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053151296920883591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndyKaluosi 生日快乐呀！！！🎉🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053151289551585280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5COEPbgAAEo_V.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2053151296920883591",
+        "created_at": "2026-05-10T15:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053504830820225236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1116895867632402432",
+              "start": 0,
+              "username": "AndyKaluosi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053504830820225236",
+        "in_reply_to_user_id": "1116895867632402432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053151296920883591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndyKaluosi 生日快乐呀！！！🎉🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053151289551585280"
+          ]
+        },
+        "author_id": "1116895867632402432",
+        "conversation_id": "2053151296920883591",
+        "created_at": "2026-05-09T16:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053151296920883591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvwODuZLeM",
+              "end": 46,
+              "expanded_url": "https://x.com/AndyKaluosi/status/2053151296920883591/photo/1",
+              "media_key": "3_2053151289551585280",
+              "start": 23,
+              "url": "https://t.co/fvwODuZLeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053151296920883591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3316,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好耶 有小气球啦🥳\n\n成为21岁的老登了ww https://t.co/fvwODuZLeM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 1370,
+          "like_count": 33444,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 785
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-13T02:48:20.000Z",
+        "description": "furry｜Programmer｜国语Mandarin & 吴语Wu Chinese & 英语English｜数码&音乐（欧美kpop华语流行）&历史 &VibeCoding｜欢迎同好骚扰，扩列可私信～ oc是一只小龙叫卡洛斯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docandyc.github.io",
+                "end": 23,
+                "expanded_url": "http://docandyc.github.io",
+                "start": 0,
+                "url": "https://t.co/42qHFCxdnW"
+              }
+            ]
+          }
+        },
+        "id": "1116895867632402432",
+        "location": "Hangzhou",
+        "name": "Carlos·Andy🔜备战考研",
+        "pinned_tweet_id": "2050208200952324202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884864358804828160/Mp8t4a0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 657,
+          "like_count": 1421,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/42qHFCxdnW",
+        "username": "AndyKaluosi",
+        "verified": false
+      }
+    ]
+  }
+}

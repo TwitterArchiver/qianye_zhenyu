@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985268473933520896"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1985268490320928881",
+    "created_at": "2025-11-03T08:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T09:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985268490320928881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tTmHVTWM4p",
+          "end": 40,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1985268490320928881/photo/1",
+          "media_key": "3_1985268473933520896",
+          "start": 17,
+          "url": "https://t.co/tTmHVTWM4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985268490320928881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次画建筑ww（孩子不懂乱画的 https://t.co/tTmHVTWM4p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1985268473933520896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40XKJyW4AAtuhp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985268473933520896"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1985268490320928881",
+        "created_at": "2025-11-03T08:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985268490320928881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTmHVTWM4p",
+              "end": 40,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1985268490320928881/photo/1",
+              "media_key": "3_1985268473933520896",
+              "start": 17,
+              "url": "https://t.co/tTmHVTWM4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985268490320928881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次画建筑ww（孩子不懂乱画的 https://t.co/tTmHVTWM4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 485,
+          "like_count": 21529,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 537
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

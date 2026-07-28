@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2048304730661933266",
+    "created_at": "2026-04-26T07:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048304730661933266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048304730661933266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047841333126271103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @Morris_LT: 自取其辱九件套：\n1、试图拯救母亲、改变父亲（把他们的人生问题当成自己的责任）；\n2、给别人买很贵的东西，自己却舍不得用好的；\n3、沉迷扮演受害者角色，长期自怨自艾；\n4、把大量注意力浪费在不值得的人和烂事上；\n5、用卑微讨好的方式换取他人的认可；…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2048304730661933266",
+        "created_at": "2026-04-26T07:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048304730661933266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048304730661933266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047841333126271103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @Morris_LT: 自取其辱九件套：\n1、试图拯救母亲、改变父亲（把他们的人生问题当成自己的责任）；\n2、给别人买很贵的东西，自己却舍不得用好的；\n3、沉迷扮演受害者角色，长期自怨自艾；\n4、把大量注意力浪费在不值得的人和烂事上；\n5、用卑微讨好的方式换取他人的认可；…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "conversation_id": "2047841333126271103",
+        "created_at": "2026-04-25T00:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047841333126271103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047841333126271103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "自取其辱九件套：\n1、试图拯救母亲、改变父亲（把他们的人生问题当成自己的责任）；\n2、给别人买很贵的东西，自己却舍不得用好的；\n3、沉迷扮演受害者角色，长期自怨自艾；\n4、把大量注意力浪费在不值得的人和烂事上；\n5、用卑微讨好的方式换取他人的认可；\n6、强行进入不适合自己的圈子或关系；\n7、长期忽视自己的需求，压低自我存在感；\n8、花大量时间反复分析有毒的亲密关系；\n9、分不清轻重缓急，在小事上消耗，在关键处失焦。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1045,
+          "impression_count": 136308,
+          "like_count": 3048,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 428
+        },
+        "reply_settings": "verified",
+        "text": "自取其辱九件套：\n1、试图拯救母亲、改变父亲（把他们的人生问题当成自己的责任）；\n2、给别人买很贵的东西，自己却舍不得用好的；\n3、沉迷扮演受害者角色，长期自怨自艾；\n4、把大量注意力浪费在不值得的人和烂事上；\n5、用卑微讨好的方式换取他人的认可；\n6、强行进入不适合自己的圈子或关系；"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年耐杀王美术生再次复活！\ninfp，阴暗比远离我\n主玩明日方舟，wt，魔裁｜最喜欢二阶堂希罗亲！！\n招募坐骑中（不是）欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2048070220800274630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 670,
+          "like_count": 29519,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 568
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/ENueGgS5rj",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/2047853521777881460?s=20",
+                "start": 83,
+                "url": "https://t.co/ENueGgS5rj"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "2048233788661284906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199531,
+          "following_count": 413,
+          "like_count": 54453,
+          "listed_count": 1109,
+          "media_count": 7104,
+          "tweet_count": 73228
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

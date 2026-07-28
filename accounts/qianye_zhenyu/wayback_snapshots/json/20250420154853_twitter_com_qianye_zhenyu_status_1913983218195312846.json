@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1913878735578906905",
+    "created_at": "2025-04-20T15:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T16:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913983218195312846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1522857102888226816",
+          "start": 0,
+          "username": "hakai42038139"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913983218195312846",
+    "in_reply_to_user_id": "1522857102888226816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913878735578906905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakai42038139 第一眼：为什么离富士山这么近？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1913878722597519360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go92jtuagAADHuS.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1913878735578906905",
+        "created_at": "2025-04-20T15:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913983218195312846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1522857102888226816",
+              "start": 0,
+              "username": "hakai42038139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913983218195312846",
+        "in_reply_to_user_id": "1522857102888226816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913878735578906905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakai42038139 第一眼：为什么离富士山这么近？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913878722597519360"
+          ]
+        },
+        "author_id": "1522857102888226816",
+        "conversation_id": "1913878735578906905",
+        "created_at": "2025-04-20T08:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T09:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913878735578906905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgfpVnxmi5",
+              "end": 49,
+              "expanded_url": "https://x.com/hakai42038139/status/1913878735578906905/photo/1",
+              "media_key": "3_1913878722597519360",
+              "start": 26,
+              "url": "https://t.co/mgfpVnxmi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913878735578906905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 170833,
+          "like_count": 463,
+          "quote_count": 14,
+          "reply_count": 368,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "日本东京的全景图，你第一眼看到的第一个想法是什么？ https://t.co/mgfpVnxmi5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 407,
+          "like_count": 15137,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 299
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T08:33:39.000Z",
+        "description": "和平主义者。爱世界。爱宇宙。爱正义和真理。爱的未完待续。。。",
+        "id": "1522857102888226816",
+        "name": "二月花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619178080416985088/tI4sAeBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17155,
+          "following_count": 3314,
+          "like_count": 10884,
+          "listed_count": 73,
+          "media_count": 11319,
+          "tweet_count": 16671
+        },
+        "username": "hakai42038139",
+        "verified": false
+      }
+    ]
+  }
+}

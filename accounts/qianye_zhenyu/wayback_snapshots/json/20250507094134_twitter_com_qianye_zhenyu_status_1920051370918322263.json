@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919332417267208192"
+      ],
+      "media_source_tweet_id": [
+        "1919332425177379283"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1920051370918322263",
+    "created_at": "2025-05-07T09:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T10:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920051370918322263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1398221870072176642",
+          "start": 3,
+          "username": "hidulme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tF5B2KQkqr",
+          "end": 36,
+          "expanded_url": "https://x.com/hidulme/status/1919332425177379283/photo/1",
+          "media_key": "3_1919332417267208192",
+          "start": 13,
+          "url": "https://t.co/tF5B2KQkqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920051370918322263",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11913
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919332425177379283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hidulme: https://t.co/tF5B2KQkqr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_1919332417267208192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqLWqhkakAAdcpT.jpg",
+        "width": 2197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919332417267208192"
+          ],
+          "media_source_tweet_id": [
+            "1919332425177379283"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1920051370918322263",
+        "created_at": "2025-05-07T09:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920051370918322263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1398221870072176642",
+              "start": 3,
+              "username": "hidulme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF5B2KQkqr",
+              "end": 36,
+              "expanded_url": "https://x.com/hidulme/status/1919332425177379283/photo/1",
+              "media_key": "3_1919332417267208192",
+              "start": 13,
+              "url": "https://t.co/tF5B2KQkqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920051370918322263",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11913
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919332425177379283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hidulme: https://t.co/tF5B2KQkqr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919332417267208192"
+          ]
+        },
+        "author_id": "1398221870072176642",
+        "conversation_id": "1919332425177379283",
+        "created_at": "2025-05-05T10:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T11:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919332425177379283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF5B2KQkqr",
+              "end": 23,
+              "expanded_url": "https://x.com/hidulme/status/1919332425177379283/photo/1",
+              "media_key": "3_1919332417267208192",
+              "start": 0,
+              "url": "https://t.co/tF5B2KQkqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919332425177379283",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20760,
+          "impression_count": 1702091,
+          "like_count": 118592,
+          "quote_count": 68,
+          "reply_count": 66,
+          "retweet_count": 11913
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tF5B2KQkqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 424,
+          "like_count": 16358,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 392
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-28T10:17:44.000Z",
+        "description": "Illustrator . hidulme☆https://t.co/NqcELSsNEY (☆→@) (AI学習禁止×)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 45,
+                "expanded_url": "http://gmail.com",
+                "start": 22,
+                "url": "https://t.co/NqcELSsNEY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/69101980",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/users/69101980",
+                "start": 0,
+                "url": "https://t.co/9fmAd7Mnh2"
+              }
+            ]
+          }
+        },
+        "id": "1398221870072176642",
+        "location": "Japan   ",
+        "name": "ひづるめ / Hidzzz",
+        "pinned_tweet_id": "1919332425177379283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604771301511827456/QvpdtB9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248408,
+          "following_count": 554,
+          "like_count": 6862,
+          "listed_count": 1701,
+          "media_count": 282,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/9fmAd7Mnh2",
+        "username": "hidulme",
+        "verified": true
+      }
+    ]
+  }
+}

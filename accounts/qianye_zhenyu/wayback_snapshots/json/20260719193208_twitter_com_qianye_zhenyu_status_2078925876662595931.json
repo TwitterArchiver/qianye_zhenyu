@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078776299255107584"
+      ],
+      "media_source_tweet_id": [
+        "2078776473893363841"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2078925876662595931",
+    "created_at": "2026-07-19T19:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078925876662595931"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "まのさば"
+        },
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558379757540352000",
+          "start": 3,
+          "username": "negima_363"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2O8j7dIvDG",
+          "end": 64,
+          "expanded_url": "https://x.com/negima_363/status/2078776473893363841/photo/1",
+          "media_key": "3_2078776299255107584",
+          "start": 41,
+          "url": "https://t.co/2O8j7dIvDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078925876662595931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078776473893363841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @negima_363: 一周年おめでとう\n#まのさば #まのさば二次創作 https://t.co/2O8j7dIvDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2238,
+        "media_key": "3_2078776299255107584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlMB8SaEAAfH7t.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078776299255107584"
+          ]
+        },
+        "author_id": "1558379757540352000",
+        "conversation_id": "2078776473893363841",
+        "created_at": "2026-07-19T09:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078776473893363841"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "まのさば"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2O8j7dIvDG",
+              "end": 48,
+              "expanded_url": "https://x.com/negima_363/status/2078776473893363841/photo/1",
+              "media_key": "3_2078776299255107584",
+              "start": 25,
+              "url": "https://t.co/2O8j7dIvDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078776473893363841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1676,
+          "impression_count": 230512,
+          "like_count": 11490,
+          "quote_count": 66,
+          "reply_count": 34,
+          "retweet_count": 2449
+        },
+        "reply_settings": "everyone",
+        "text": "一周年おめでとう\n#まのさば #まのさば二次創作 https://t.co/2O8j7dIvDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078776299255107584"
+          ],
+          "media_source_tweet_id": [
+            "2078776473893363841"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2078925876662595931",
+        "created_at": "2026-07-19T19:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078925876662595931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "まのさば"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558379757540352000",
+              "start": 3,
+              "username": "negima_363"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2O8j7dIvDG",
+              "end": 64,
+              "expanded_url": "https://x.com/negima_363/status/2078776473893363841/photo/1",
+              "media_key": "3_2078776299255107584",
+              "start": 41,
+              "url": "https://t.co/2O8j7dIvDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078925876662595931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078776473893363841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @negima_363: 一周年おめでとう\n#まのさば #まのさば二次創作 https://t.co/2O8j7dIvDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 2103,
+          "like_count": 39186,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T09:08:08.000Z",
+        "description": "絵描いてる自堕落人間。✉negima.363@gmail.com\n▶︎サブ垢@negimatyo▶︎YouTube https://t.co/h5XpGJrsdR \n▶︎Skeb https://t.co/szZXinkBDc ▶︎マシュマロhttps://t.co/LesgDPxPFp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "negimatyo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/LLKLX",
+                "end": 81,
+                "expanded_url": "https://x.gd/LLKLX",
+                "start": 58,
+                "url": "https://t.co/h5XpGJrsdR"
+              },
+              {
+                "display_url": "x.gd/w300o",
+                "end": 113,
+                "expanded_url": "https://x.gd/w300o",
+                "start": 90,
+                "url": "https://t.co/szZXinkBDc"
+              },
+              {
+                "display_url": "x.gd/K77zTu",
+                "end": 144,
+                "expanded_url": "https://x.gd/K77zTu",
+                "start": 121,
+                "url": "https://t.co/LesgDPxPFp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/119946143",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/119946143",
+                "start": 0,
+                "url": "https://t.co/YYJkFvKFtu"
+              }
+            ]
+          }
+        },
+        "id": "1558379757540352000",
+        "location": "何かあればDMへ",
+        "name": "ねぎま💐",
+        "pinned_tweet_id": "2078776473893363841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063049713939800064/xmIMzMB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13126,
+          "following_count": 57,
+          "like_count": 5371,
+          "listed_count": 64,
+          "media_count": 164,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/YYJkFvKFtu",
+        "username": "negima_363",
+        "verified": false
+      }
+    ]
+  }
+}

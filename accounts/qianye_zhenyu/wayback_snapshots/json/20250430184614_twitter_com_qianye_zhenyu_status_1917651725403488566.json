@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917651708059979776"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1917651725403488566",
+    "created_at": "2025-04-30T18:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T19:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917651725403488566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6326nQacYR",
+          "end": 71,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1917651725403488566/photo/1",
+          "media_key": "3_1917651708059979776",
+          "start": 48,
+          "url": "https://t.co/6326nQacYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917651725403488566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "饿了，直接开整！！（密码的，时隔两年，我才再一次在山姆这里见到我最爱的豚骨拉面😭早tm干嘛了啊 https://t.co/6326nQacYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917651708059979776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpzeEX3WEAAoBv8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917651708059979776"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1917651725403488566",
+        "created_at": "2025-04-30T18:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T19:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917651725403488566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6326nQacYR",
+              "end": 71,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1917651725403488566/photo/1",
+              "media_key": "3_1917651708059979776",
+              "start": 48,
+              "url": "https://t.co/6326nQacYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917651725403488566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饿了，直接开整！！（密码的，时隔两年，我才再一次在山姆这里见到我最爱的豚骨拉面😭早tm干嘛了啊 https://t.co/6326nQacYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 422,
+          "like_count": 16020,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 368
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

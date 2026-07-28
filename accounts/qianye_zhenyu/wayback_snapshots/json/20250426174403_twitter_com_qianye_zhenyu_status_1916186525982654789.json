@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916142798170107904"
+      ],
+      "media_source_tweet_id": [
+        "1916142800548335926"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1916186525982654789",
+    "created_at": "2025-04-26T17:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T18:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916186525982654789"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "アニメムジカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1867111036836515841",
+          "start": 3,
+          "username": "SakuraHougetsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LMj4WN6RpV",
+          "end": 51,
+          "expanded_url": "https://x.com/SakuraHougetsu/status/1916142800548335926/photo/1",
+          "media_key": "3_1916142798170107904",
+          "start": 28,
+          "url": "https://t.co/LMj4WN6RpV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916186525982654789",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916142800548335926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakuraHougetsu: #アニメムジカ https://t.co/LMj4WN6RpV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_1916142798170107904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpeBuQfaMAAinPi.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916142798170107904"
+          ],
+          "media_source_tweet_id": [
+            "1916142800548335926"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1916186525982654789",
+        "created_at": "2025-04-26T17:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T18:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916186525982654789"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "アニメムジカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1867111036836515841",
+              "start": 3,
+              "username": "SakuraHougetsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMj4WN6RpV",
+              "end": 51,
+              "expanded_url": "https://x.com/SakuraHougetsu/status/1916142800548335926/photo/1",
+              "media_key": "3_1916142798170107904",
+              "start": 28,
+              "url": "https://t.co/LMj4WN6RpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916186525982654789",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916142800548335926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakuraHougetsu: #アニメムジカ https://t.co/LMj4WN6RpV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916142798170107904"
+          ]
+        },
+        "author_id": "1867111036836515841",
+        "conversation_id": "1916142800548335926",
+        "created_at": "2025-04-26T14:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916142800548335926"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "アニメムジカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMj4WN6RpV",
+              "end": 31,
+              "expanded_url": "https://x.com/SakuraHougetsu/status/1916142800548335926/photo/1",
+              "media_key": "3_1916142798170107904",
+              "start": 8,
+              "url": "https://t.co/LMj4WN6RpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916142800548335926",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2884,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "#アニメムジカ https://t.co/LMj4WN6RpV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 420,
+          "like_count": 15916,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 348
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T07:35:42.000Z",
+        "description": "👆看Mygo看的\nCiallo~(＜・ω−)⌒☆，アニメ大好き丨Mygo丨アニメムジカ丨よろしくお願いします☺️，無言フォロー失礼します，フォローありがとうございます🥰\n⭐（自制/搬运梗图，侵删🙇🏻‍♀️）中立，不键政",
+        "id": "1867111036836515841",
+        "location": "千葉の堕天聖",
+        "name": "島村さくら🌸",
+        "pinned_tweet_id": "1888552924827337191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891285381221609472/BQLjjvIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5160,
+          "following_count": 2856,
+          "like_count": 11366,
+          "listed_count": 8,
+          "media_count": 761,
+          "tweet_count": 1749
+        },
+        "username": "SakuraHougetsu",
+        "verified": false
+      }
+    ]
+  }
+}

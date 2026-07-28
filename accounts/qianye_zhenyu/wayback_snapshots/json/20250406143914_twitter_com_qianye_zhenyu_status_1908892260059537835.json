@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1908793800429814039",
+    "created_at": "2025-04-06T14:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T15:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908892260059537835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850632169523470336",
+          "start": 0,
+          "username": "TianShaYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908892260059537835",
+    "in_reply_to_user_id": "1850632169523470336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908793800429814039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianShaYS 就是要磨平他们的棱角罢（悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1908793800429814039",
+        "created_at": "2025-04-06T14:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908892260059537835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850632169523470336",
+              "start": 0,
+              "username": "TianShaYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908892260059537835",
+        "in_reply_to_user_id": "1850632169523470336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908793800429814039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianShaYS 就是要磨平他们的棱角罢（悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850632169523470336",
+        "conversation_id": "1908793800429814039",
+        "created_at": "2025-04-06T08:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T09:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908793800429814039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908793800429814039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1570,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国学校普遍不让留头发，指甲可以理解，头发真不理解，剪了头发导致学生自卑导致心情低落，反倒会导致影响学习。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 397,
+          "like_count": 14208,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 259
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T20:14:54.000Z",
+        "description": "二代目（本人）| 每天和鏡子玩石頭剪刀布 | 14岁mtf🏳️‍⚧️13岁含糖2月|性别认知障碍|心境情感障碍 | 是十分正经的生活日常发颠推喵|有事IG私聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ystiansha?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ystiansha?igsh=ZnluN3ZlNjhqZGdn",
+                "start": 0,
+                "url": "https://t.co/RG4HyQxlmE"
+              }
+            ]
+          }
+        },
+        "id": "1850632169523470336",
+        "location": "天國",
+        "name": "𝑇𝑖𝑎𝑛𝑆ℎ𝑎𝑌𝑆",
+        "pinned_tweet_id": "1896074461537042600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850634563585974272/KutPBTJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 326,
+          "like_count": 2549,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/RG4HyQxlmE",
+        "username": "TianShaYS",
+        "verified": true
+      }
+    ]
+  }
+}

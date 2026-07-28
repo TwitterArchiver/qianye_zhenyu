@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2056333680507768928",
+    "created_at": "2026-05-19T11:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056693161028895123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595110651621318656",
+          "start": 0,
+          "username": "ProcyonCoke731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056693161028895123",
+    "in_reply_to_user_id": "1595110651621318656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056333680507768928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProcyonCoke731 +1，听到这种声音我真的难受的想似；"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056333265976414208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImQNeJX0AAdS5I.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2056333680507768928",
+        "created_at": "2026-05-19T11:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056693161028895123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595110651621318656",
+              "start": 0,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056693161028895123",
+        "in_reply_to_user_id": "1595110651621318656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056333680507768928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProcyonCoke731 +1，听到这种声音我真的难受的想似；"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056333265976414208"
+          ]
+        },
+        "author_id": "1595110651621318656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056333680507768928",
+        "created_at": "2026-05-18T11:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056333680507768928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMwnby185x",
+              "end": 69,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2056333680507768928/photo/1",
+              "media_key": "3_2056333265976414208",
+              "start": 46,
+              "url": "https://t.co/NMwnby185x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056333680507768928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在一听到类似粉笔划黑板的尖锐声音就难受，比如说手指划衣服的声音，真是谢谢滞纳猪教师了啊 https://t.co/NMwnby185x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1708,
+          "like_count": 35410,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 928
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023258759754080256/8WJDUScr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5449,
+          "following_count": 1191,
+          "like_count": 33673,
+          "listed_count": 58,
+          "media_count": 3946,
+          "tweet_count": 17087
+        },
+        "username": "ProcyonCoke731",
+        "verified": false
+      }
+    ]
+  }
+}

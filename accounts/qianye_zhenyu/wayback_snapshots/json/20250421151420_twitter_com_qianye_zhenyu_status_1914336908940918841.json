@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1914243193606176800",
+    "created_at": "2025-04-21T15:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T16:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914336908940918841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1587308083071447042",
+          "start": 0,
+          "username": "ViPlayerFX"
+        },
+        {
+          "end": 27,
+          "id": "1260553941714186241",
+          "start": 12,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914336908940918841",
+    "in_reply_to_user_id": "1587308083071447042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914251004641710182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ViPlayerFX @whyyoutouzhele 来广岛，两千度也就一两秒，不热的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1914243193606176800",
+        "created_at": "2025-04-21T15:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914336908940918841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1587308083071447042",
+              "start": 0,
+              "username": "ViPlayerFX"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914336908940918841",
+        "in_reply_to_user_id": "1587308083071447042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914251004641710182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ViPlayerFX @whyyoutouzhele 来广岛，两千度也就一两秒，不热的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587308083071447042",
+        "conversation_id": "1914243193606176800",
+        "created_at": "2025-04-21T09:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T10:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914251004641710182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914251004641710182",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42190,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914243193606176800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 1千度？才2秒？煮个鸡蛋？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 408,
+          "like_count": 15322,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 311
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T04:58:41.000Z",
+        "description": "https://t.co/sv5XSIMIWM A modern video player with sound effects. So users can have a viewing experience similar to that of in a movie theater.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ViPlayer.app",
+                "end": 23,
+                "expanded_url": "http://ViPlayer.app",
+                "start": 0,
+                "url": "https://t.co/sv5XSIMIWM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "viplayer.app",
+                "end": 23,
+                "expanded_url": "http://viplayer.app",
+                "start": 0,
+                "url": "https://t.co/lgAkeEHeWY"
+              }
+            ]
+          }
+        },
+        "id": "1587308083071447042",
+        "name": "ViPlayer.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802955729969844224/G93GWmaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 49,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/lgAkeEHeWY",
+        "username": "ViPlayerFX",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978102,
+          "following_count": 950,
+          "like_count": 6223,
+          "listed_count": 8105,
+          "media_count": 26825,
+          "tweet_count": 33255
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

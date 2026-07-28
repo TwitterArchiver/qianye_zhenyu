@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1872259035346686175",
+    "created_at": "2024-12-26T18:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T19:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872348915695321461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1237891169822146560",
+          "start": 0,
+          "username": "xumouren_yt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872348915695321461",
+    "in_reply_to_user_id": "1237891169822146560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872259035346686175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xumouren_yt 所以…这类似于…什么为了加强稳定而特意进行的公开试飞吗（不知道）\n但感觉机身和j20怎么好像（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1872259035346686175",
+        "created_at": "2024-12-26T18:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T19:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872348915695321461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1237891169822146560",
+              "start": 0,
+              "username": "xumouren_yt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872348915695321461",
+        "in_reply_to_user_id": "1237891169822146560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872259035346686175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xumouren_yt 所以…这类似于…什么为了加强稳定而特意进行的公开试飞吗（不知道）\n但感觉机身和j20怎么好像（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872259031013670914",
+            "3_1872259031013670913",
+            "3_1872259031009468416",
+            "3_1872259031017930752"
+          ]
+        },
+        "author_id": "1237891169822146560",
+        "conversation_id": "1872259035346686175",
+        "created_at": "2024-12-26T12:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T13:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872259035346686175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWkGNp9FHH",
+              "end": 39,
+              "expanded_url": "https://x.com/xumouren_yt/status/1872259035346686175/photo/1",
+              "media_key": "3_1872259031013670914",
+              "start": 16,
+              "url": "https://t.co/aWkGNp9FHH"
+            },
+            {
+              "display_url": "pic.x.com/aWkGNp9FHH",
+              "end": 39,
+              "expanded_url": "https://x.com/xumouren_yt/status/1872259035346686175/photo/1",
+              "media_key": "3_1872259031013670913",
+              "start": 16,
+              "url": "https://t.co/aWkGNp9FHH"
+            },
+            {
+              "display_url": "pic.x.com/aWkGNp9FHH",
+              "end": 39,
+              "expanded_url": "https://x.com/xumouren_yt/status/1872259035346686175/photo/1",
+              "media_key": "3_1872259031009468416",
+              "start": 16,
+              "url": "https://t.co/aWkGNp9FHH"
+            },
+            {
+              "display_url": "pic.x.com/aWkGNp9FHH",
+              "end": 39,
+              "expanded_url": "https://x.com/xumouren_yt/status/1872259035346686175/photo/1",
+              "media_key": "3_1872259031017930752",
+              "start": 16,
+              "url": "https://t.co/aWkGNp9FHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872259035346686175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 101978,
+          "like_count": 350,
+          "quote_count": 5,
+          "reply_count": 128,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "每个角度都有，怎么看啊各位？🤔 https://t.co/aWkGNp9FHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 256,
+          "like_count": 8493,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 85
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T00:00:34.000Z",
+        "description": "YouTube: 说真话的徐某人 互动三原则：1万fo以下不回复，不露脸不回复，无私交不回复; 此外，影响阅读体验者，随时会遭封锁/静音。推特是我丢垃圾话的平台\n军事主频道：https://t.co/V4EZ0gwVww\n户外旅行频道：https://t.co/OaWjLPODve",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@xumouren",
+                "end": 110,
+                "expanded_url": "http://youtube.com/@xumouren",
+                "start": 87,
+                "url": "https://t.co/V4EZ0gwVww"
+              },
+              {
+                "display_url": "youtube.com/@mountaintalk",
+                "end": 141,
+                "expanded_url": "http://youtube.com/@mountaintalk",
+                "start": 118,
+                "url": "https://t.co/OaWjLPODve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@xumouren",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@xumouren",
+                "start": 0,
+                "url": "https://t.co/QrMZMyno7O"
+              }
+            ]
+          }
+        },
+        "id": "1237891169822146560",
+        "name": "说真话的徐某人",
+        "pinned_tweet_id": "1872265832329527315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569332262935691264/Azk9Y8CE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133267,
+          "following_count": 122,
+          "like_count": 9983,
+          "listed_count": 386,
+          "media_count": 2411,
+          "tweet_count": 11573
+        },
+        "url": "https://t.co/QrMZMyno7O",
+        "username": "xumouren_yt",
+        "verified": true
+      }
+    ]
+  }
+}

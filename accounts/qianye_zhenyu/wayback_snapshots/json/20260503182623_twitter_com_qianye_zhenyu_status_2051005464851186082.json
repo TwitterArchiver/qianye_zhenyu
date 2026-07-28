@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2050897612480684148",
+    "created_at": "2026-05-03T18:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051005464851186082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013218070689447936",
+          "start": 0,
+          "username": "rita_burns52614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051005464851186082",
+    "in_reply_to_user_id": "2013218070689447936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050897612480684148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rita_burns52614 给我狠狠电！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2050897612480684148",
+        "created_at": "2026-05-03T18:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051005464851186082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013218070689447936",
+              "start": 0,
+              "username": "rita_burns52614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051005464851186082",
+        "in_reply_to_user_id": "2013218070689447936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050897612480684148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rita_burns52614 给我狠狠电！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013218070689447936",
+        "conversation_id": "2050897612480684148",
+        "created_at": "2026-05-03T11:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050897612480684148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050897612480684148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢小骨架的女生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\n//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2050985824091541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 838,
+          "like_count": 30635,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 613
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:52:56.000Z",
+        "description": "原账号@LST12123，互fo快来骚扰我\n07男大学生傻卵二次，新手交易员，碎碎念区煮波，可以找我打游戏apex|英雄联盟|邦邦人|明日方舟……\n喜欢我请给我打钱\n自用梯子yy：https://t.co/HTQeTyPE7T\n欢迎提问！https://t.co/bgDcJAfMGm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LST12123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register",
+                "end": 113,
+                "expanded_url": "https://www.yy.tz69.vip/#/register",
+                "start": 90,
+                "url": "https://t.co/HTQeTyPE7T"
+              },
+              {
+                "display_url": "miyu.link/LST",
+                "end": 142,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 119,
+                "url": "https://t.co/bgDcJAfMGm"
+              }
+            ]
+          }
+        },
+        "id": "2013218070689447936",
+        "location": "520m",
+        "name": "困困神",
+        "pinned_tweet_id": "2049538287019462722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 287,
+          "like_count": 2170,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1128
+        },
+        "username": "rita_burns52614",
+        "verified": false
+      }
+    ]
+  }
+}

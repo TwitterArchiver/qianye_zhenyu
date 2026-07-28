@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1912766011352429004",
+    "created_at": "2025-04-17T17:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T18:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912915036269416579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481943703878991872",
+          "start": 0,
+          "username": "xiaoyi_e_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912915036269416579",
+    "in_reply_to_user_id": "1481943703878991872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912766011352429004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi_e_ 坏了，我是学艺术的，还真是这样（悲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_1912765998421483520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GouCipJboAA_G0X.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1912766011352429004",
+        "created_at": "2025-04-17T17:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T18:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912915036269416579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481943703878991872",
+              "start": 0,
+              "username": "xiaoyi_e_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912915036269416579",
+        "in_reply_to_user_id": "1481943703878991872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912766011352429004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi_e_ 坏了，我是学艺术的，还真是这样（悲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912765998421483520"
+          ]
+        },
+        "author_id": "1481943703878991872",
+        "conversation_id": "1912766011352429004",
+        "created_at": "2025-04-17T07:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912766011352429004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbvoEur7k4",
+              "end": 47,
+              "expanded_url": "https://x.com/xiaoyi_e_/status/1912766011352429004/photo/1",
+              "media_key": "3_1912765998421483520",
+              "start": 24,
+              "url": "https://t.co/ZbvoEur7k4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912766011352429004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 127700,
+          "like_count": 937,
+          "quote_count": 55,
+          "reply_count": 87,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "研究表明，对某些科目的兴趣可能来源于童年创伤： https://t.co/ZbvoEur7k4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 405,
+          "like_count": 15015,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 289
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T10:59:37.000Z",
+        "description": "A twisted angel.小C在此！ || INTP、asd?、nd、ADHD?、nerd?、bdsm||非常非常热爱科学||喜欢的游戏：Rimworld、noita、inside、oneshot等||想交朋友！ 提供情绪价值 ￥50/30min.前3免费",
+        "id": "1481943703878991872",
+        "location": "Event Horizon, Sgr A*",
+        "name": "crazycq · 疯狂小C🌟",
+        "pinned_tweet_id": "1909767696755180004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860287077109334016/Wy_Wp6ZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 330,
+          "like_count": 10618,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 2212
+        },
+        "username": "xiaoyi_e_",
+        "verified": false
+      }
+    ]
+  }
+}

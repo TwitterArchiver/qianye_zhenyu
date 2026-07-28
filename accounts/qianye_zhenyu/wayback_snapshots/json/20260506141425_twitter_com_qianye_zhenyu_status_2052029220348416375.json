@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2052000714801696934",
+    "created_at": "2026-05-06T14:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052029220348416375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "975134504393347072",
+          "start": 0,
+          "username": "zhinarencnm8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052029220348416375",
+    "in_reply_to_user_id": "975134504393347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052000714801696934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarencnm8964 这入什么时候复活的？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1996,
+        "media_key": "3_2052000708418043904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHorxbgbgAAAru9.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2052000714801696934",
+        "created_at": "2026-05-06T14:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052029220348416375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "975134504393347072",
+              "start": 0,
+              "username": "zhinarencnm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052029220348416375",
+        "in_reply_to_user_id": "975134504393347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052000714801696934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencnm8964 这入什么时候复活的？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052000708418043904"
+          ]
+        },
+        "author_id": "975134504393347072",
+        "conversation_id": "2052000714801696934",
+        "created_at": "2026-05-06T12:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052000714801696934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sNw6vEPjo",
+              "end": 30,
+              "expanded_url": "https://x.com/zhinarencnm8964/status/2052000714801696934/photo/1",
+              "media_key": "3_2052000708418043904",
+              "start": 7,
+              "url": "https://t.co/9sNw6vEPjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052000714801696934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 596,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "炒作娜娜寄了 https://t.co/9sNw6vEPjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2051680473718346218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 943,
+          "like_count": 31505,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 670
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "功名何ぞ夢の跡\n消えざるものはただ誠\n人生意気に感じては\n成否を誰かあげつらう\n\nやめよ離騒の一悲曲\n悲歌慷慨の日は去りぬ\nわれらが剣今こそは\n廓清の血に躍るかな｜小号@zhinarensml8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 84,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "汉支满支一家亲共和国",
+        "name": "中東の虎✡️内格夫🩵🌸",
+        "pinned_tweet_id": "2049550460886126977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045434310237589504/UrpPa--O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1295,
+          "like_count": 51055,
+          "listed_count": 3,
+          "media_count": 1109,
+          "tweet_count": 5299
+        },
+        "username": "zhinarencnm8964",
+        "verified": false
+      }
+    ]
+  }
+}

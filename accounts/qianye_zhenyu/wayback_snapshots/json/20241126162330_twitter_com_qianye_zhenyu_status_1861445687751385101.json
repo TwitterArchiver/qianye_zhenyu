@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1861238378685231380",
+    "created_at": "2024-11-26T16:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T17:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861445687751385101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1743651797087277056",
+          "start": 0,
+          "username": "Aether9008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861445687751385101",
+    "in_reply_to_user_id": "1743651797087277056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861238378685231380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aether9008 中正一花（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1861238378685231380",
+        "created_at": "2024-11-26T16:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T17:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861445687751385101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether9008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861445687751385101",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861238378685231380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether9008 中正一花（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861238376143421440"
+          ]
+        },
+        "author_id": "1743651797087277056",
+        "conversation_id": "1861238378685231380",
+        "created_at": "2024-11-26T02:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T03:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861238378685231380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68sfFnwx46",
+              "end": 28,
+              "expanded_url": "https://x.com/Aether9008/status/1861238378685231380/photo/1",
+              "media_key": "3_1861238376143421440",
+              "start": 5,
+              "url": "https://t.co/68sfFnwx46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861238378685231380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12709,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 87,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫什麼呢 https://t.co/68sfFnwx46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 180,
+          "like_count": 5764,
+          "listed_count": 0,
+          "tweet_count": 28
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "日常👉@sora_kunidaime\nTelegram：https://t.co/ngpTT2PiFN\nBluesky：https://t.co/IbIrVKsK1T\nMail：aether9008@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "sora_kunidaime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008/",
+                "end": 51,
+                "expanded_url": "http://t.me/Aether_9008/",
+                "start": 28,
+                "url": "https://t.co/ngpTT2PiFN"
+              },
+              {
+                "display_url": "bsky.app/profile/aether…",
+                "end": 83,
+                "expanded_url": "http://bsky.app/profile/aether9008.bsky.social/",
+                "start": 60,
+                "url": "https://t.co/IbIrVKsK1T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aethernochannel",
+                "end": 23,
+                "expanded_url": "https://t.me/Aethernochannel",
+                "start": 0,
+                "url": "https://t.co/8Qm6arCeaX"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "納塔 • 提瓦特",
+        "name": "空ちゃん",
+        "pinned_tweet_id": "1860887508336377980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843880411551936513/4sGaiNZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 1626,
+          "like_count": 12322,
+          "listed_count": 5,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/8Qm6arCeaX",
+        "username": "Aether9008",
+        "verified": false
+      }
+    ]
+  }
+}

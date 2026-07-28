@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917097099872899079"
+      ],
+      "media_source_tweet_id": [
+        "1917097107665915930"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1917542315645714532",
+    "created_at": "2025-04-30T11:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T12:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917542315645714532"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 36,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826156410373287940",
+          "start": 3,
+          "username": "guii434"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kXlaBBiZl1",
+          "end": 70,
+          "expanded_url": "https://x.com/guii434/status/1917097107665915930/photo/1",
+          "media_key": "3_1917097099872899079",
+          "start": 47,
+          "url": "https://t.co/kXlaBBiZl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917542315645714532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 431
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917097107665915930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guii434: ふわぴゅあ♡とろける魔法のオムライス(巨大)\n#ぼっち・ざ・ろっく https://t.co/kXlaBBiZl1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1917097099872899079",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gprlp7XbEAckf0M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917097099872899079"
+          ],
+          "media_source_tweet_id": [
+            "1917097107665915930"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1917542315645714532",
+        "created_at": "2025-04-30T11:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917542315645714532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826156410373287940",
+              "start": 3,
+              "username": "guii434"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kXlaBBiZl1",
+              "end": 70,
+              "expanded_url": "https://x.com/guii434/status/1917097107665915930/photo/1",
+              "media_key": "3_1917097099872899079",
+              "start": 47,
+              "url": "https://t.co/kXlaBBiZl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917542315645714532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 431
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917097107665915930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guii434: ふわぴゅあ♡とろける魔法のオムライス(巨大)\n#ぼっち・ざ・ろっく https://t.co/kXlaBBiZl1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917097099872899079"
+          ]
+        },
+        "author_id": "1826156410373287940",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1917097107665915930",
+        "created_at": "2025-04-29T06:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T07:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917097107665915930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kXlaBBiZl1",
+              "end": 57,
+              "expanded_url": "https://x.com/guii434/status/1917097107665915930/photo/1",
+              "media_key": "3_1917097099872899079",
+              "start": 34,
+              "url": "https://t.co/kXlaBBiZl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917097107665915930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 42902,
+          "like_count": 3171,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 431
+        },
+        "reply_settings": "everyone",
+        "text": "ふわぴゅあ♡とろける魔法のオムライス(巨大)\n#ぼっち・ざ・ろっく https://t.co/kXlaBBiZl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 420,
+          "like_count": 15943,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 356
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T07:17:54.000Z",
+        "description": "アニメと絵とカラオケと飯と結束バンド／自己満絵垢→@guii434_illust",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "guii434_illust"
+              }
+            ]
+          }
+        },
+        "id": "1826156410373287940",
+        "location": "カラオケまねきねこ",
+        "name": "賞味期限切れのカステラ",
+        "pinned_tweet_id": "1910300927275548777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906927630915682304/LT03ZxVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 906,
+          "like_count": 26419,
+          "listed_count": 12,
+          "media_count": 589,
+          "tweet_count": 8786
+        },
+        "username": "guii434",
+        "verified": false
+      }
+    ]
+  }
+}

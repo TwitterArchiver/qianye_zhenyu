@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1961276103584354478",
+    "created_at": "2025-08-30T13:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T14:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961784075686940959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "869768913709481986",
+          "start": 0,
+          "username": "yibingsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961784075686940959",
+    "in_reply_to_user_id": "869768913709481986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961276103584354478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yibingsg 但是我需要活着（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_1961276009296400385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfaI6CbkAE5Ov0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1961276103584354478",
+        "created_at": "2025-08-30T13:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961784075686940959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "869768913709481986",
+              "start": 0,
+              "username": "yibingsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961784075686940959",
+        "in_reply_to_user_id": "869768913709481986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961276103584354478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yibingsg 但是我需要活着（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961276009296400385"
+          ]
+        },
+        "author_id": "869768913709481986",
+        "conversation_id": "1961276103584354478",
+        "created_at": "2025-08-29T03:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961276103584354478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GigNkWoPLa",
+              "end": 23,
+              "expanded_url": "https://x.com/yibingsg/status/1961276103584354478/photo/1",
+              "media_key": "3_1961276009296400385",
+              "start": 0,
+              "url": "https://t.co/GigNkWoPLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961276103584354478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 631308,
+          "like_count": 2654,
+          "quote_count": 21,
+          "reply_count": 73,
+          "retweet_count": 380
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GigNkWoPLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 447,
+          "like_count": 19179,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 476
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-31T04:14:03.000Z",
+        "description": "艺术人生，政经人生，休闲人生，玫瑰人生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "smartlypickit.com",
+                "end": 23,
+                "expanded_url": "https://www.smartlypickit.com",
+                "start": 0,
+                "url": "https://t.co/3JS6ZdpC93"
+              }
+            ]
+          }
+        },
+        "id": "869768913709481986",
+        "name": "Fairice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152583025672110083/bn1B7p-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28369,
+          "following_count": 16684,
+          "like_count": 4857,
+          "listed_count": 74,
+          "media_count": 15339,
+          "tweet_count": 21761
+        },
+        "url": "https://t.co/3JS6ZdpC93",
+        "username": "yibingsg",
+        "verified": true
+      }
+    ]
+  }
+}

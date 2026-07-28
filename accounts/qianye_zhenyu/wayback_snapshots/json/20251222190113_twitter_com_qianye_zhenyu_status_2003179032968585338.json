@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003084860739715072"
+      ],
+      "media_source_tweet_id": [
+        "2003084871342903333"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003179032968585338",
+    "created_at": "2025-12-22T19:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T20:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003179032968585338"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "XB70",
+          "probability": 0.6819,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1724294829427900416",
+          "start": 3,
+          "username": "DaeboBbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pSgrYmAntD",
+          "end": 49,
+          "expanded_url": "https://x.com/DaeboBbb/status/2003084871342903333/photo/1",
+          "media_key": "3_2003084860739715072",
+          "start": 26,
+          "url": "https://t.co/pSgrYmAntD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003179032968585338",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003084871342903333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DaeboBbb: XB70 Fire！！ https://t.co/pSgrYmAntD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2003084860739715072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xjEWtagAAfso6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003084860739715072"
+          ],
+          "media_source_tweet_id": [
+            "2003084871342903333"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003179032968585338",
+        "created_at": "2025-12-22T19:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003179032968585338"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "XB70",
+              "probability": 0.6819,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1724294829427900416",
+              "start": 3,
+              "username": "DaeboBbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSgrYmAntD",
+              "end": 49,
+              "expanded_url": "https://x.com/DaeboBbb/status/2003084871342903333/photo/1",
+              "media_key": "3_2003084860739715072",
+              "start": 26,
+              "url": "https://t.co/pSgrYmAntD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003179032968585338",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003084871342903333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DaeboBbb: XB70 Fire！！ https://t.co/pSgrYmAntD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003084860739715072"
+          ]
+        },
+        "author_id": "1724294829427900416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003084871342903333",
+        "created_at": "2025-12-22T12:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003084871342903333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "XB70",
+              "probability": 0.695,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSgrYmAntD",
+              "end": 35,
+              "expanded_url": "https://x.com/DaeboBbb/status/2003084871342903333/photo/1",
+              "media_key": "3_2003084860739715072",
+              "start": 12,
+              "url": "https://t.co/pSgrYmAntD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003084871342903333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 11101,
+          "like_count": 1253,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "XB70 Fire！！ https://t.co/pSgrYmAntD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 636,
+          "like_count": 25609,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 716
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T05:15:10.000Z",
+        "description": "🇬🇧EN 🇨🇳CN\nPIXIV：PCKCOOL",
+        "id": "1724294829427900416",
+        "location": "China ",
+        "name": "PCKCOOL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001483829522173953/sA5kVZfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4497,
+          "following_count": 213,
+          "like_count": 625,
+          "listed_count": 21,
+          "media_count": 123,
+          "tweet_count": 175
+        },
+        "username": "DaeboBbb",
+        "verified": false
+      }
+    ]
+  }
+}

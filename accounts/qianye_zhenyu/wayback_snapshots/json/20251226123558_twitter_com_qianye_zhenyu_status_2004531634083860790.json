@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2004531429322240054",
+    "created_at": "2025-12-26T12:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T13:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004531634083860790"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004531634083860790",
+    "in_reply_to_user_id": "1834507955804536833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004531429322240054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你还没加入伟大的自卫队？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2004531408577196032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9GGshVbcAAsSeA.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2004531429322240054",
+        "created_at": "2025-12-26T12:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004531634083860790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004531634083860790",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004531429322240054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你还没加入伟大的自卫队？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004531408577196032"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2004531429322240054",
+        "created_at": "2025-12-26T12:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004531429322240054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdANhJSuQd",
+              "end": 32,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2004531429322240054/photo/1",
+              "media_key": "3_2004531408577196032",
+              "start": 9,
+              "url": "https://t.co/UdANhJSuQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004531429322240054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱你老己！\n开！ https://t.co/UdANhJSuQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 644,
+          "like_count": 25893,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 739
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

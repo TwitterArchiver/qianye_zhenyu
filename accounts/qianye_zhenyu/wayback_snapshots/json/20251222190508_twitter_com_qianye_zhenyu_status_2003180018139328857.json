@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003127639557443584"
+      ],
+      "media_source_tweet_id": [
+        "2003127643651412328"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2003180018139328857",
+    "created_at": "2025-12-22T19:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T20:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003180018139328857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430605489277218824",
+          "start": 3,
+          "username": "MagdaGangsta"
+        },
+        {
+          "end": 30,
+          "id": "1504956528914309122",
+          "start": 18,
+          "username": "memechaotic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zJ2l4EeSvJ",
+          "end": 54,
+          "expanded_url": "https://x.com/MagdaGangsta/status/2003127643651412328/photo/1",
+          "media_key": "3_2003127639557443584",
+          "start": 31,
+          "url": "https://t.co/zJ2l4EeSvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003180018139328857",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003127643651412328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MagdaGangsta: @memechaotic https://t.co/zJ2l4EeSvJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2003127639557443584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8yJ-aOWkAArYhR.jpg",
+        "width": 1110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003127639557443584"
+          ],
+          "media_source_tweet_id": [
+            "2003127643651412328"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2003180018139328857",
+        "created_at": "2025-12-22T19:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003180018139328857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430605489277218824",
+              "start": 3,
+              "username": "MagdaGangsta"
+            },
+            {
+              "end": 30,
+              "id": "1504956528914309122",
+              "start": 18,
+              "username": "memechaotic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJ2l4EeSvJ",
+              "end": 54,
+              "expanded_url": "https://x.com/MagdaGangsta/status/2003127643651412328/photo/1",
+              "media_key": "3_2003127639557443584",
+              "start": 31,
+              "url": "https://t.co/zJ2l4EeSvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003180018139328857",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003127643651412328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MagdaGangsta: @memechaotic https://t.co/zJ2l4EeSvJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003127639557443584"
+          ]
+        },
+        "author_id": "1430605489277218824",
+        "conversation_id": "2003126216128368700",
+        "created_at": "2025-12-22T15:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003127643651412328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504956528914309122",
+              "start": 0,
+              "username": "memechaotic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJ2l4EeSvJ",
+              "end": 36,
+              "expanded_url": "https://x.com/MagdaGangsta/status/2003127643651412328/photo/1",
+              "media_key": "3_2003127639557443584",
+              "start": 13,
+              "url": "https://t.co/zJ2l4EeSvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003127643651412328",
+        "in_reply_to_user_id": "1504956528914309122",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2014,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003126216128368700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@memechaotic https://t.co/zJ2l4EeSvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 636,
+          "like_count": 25635,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 719
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T18:59:44.000Z",
+        "description": "Multidisciplinary artist | Life observer | Dreamer | In relationship with NFT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/magda_american…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/magda_americangangsta",
+                "start": 0,
+                "url": "https://t.co/Fz9av4y2kU"
+              }
+            ]
+          }
+        },
+        "id": "1430605489277218824",
+        "location": "Warszawa, Polska",
+        "name": "Magda ᴀᴍᴇʀɪᴄᴀɴɢᴀɴɢꜱᴛᴀ",
+        "pinned_tweet_id": "1986164583367647491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518893601215979520/4L4esUVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16884,
+          "following_count": 4903,
+          "like_count": 375793,
+          "listed_count": 148,
+          "media_count": 39643,
+          "tweet_count": 250627
+        },
+        "url": "https://t.co/Fz9av4y2kU",
+        "username": "MagdaGangsta",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-18T23:03:01.000Z",
+        "description": "DM for credit or removal",
+        "id": "1504956528914309122",
+        "name": "chaotic memes",
+        "pinned_tweet_id": "1627737823896866833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504957216893415424/CQAkGrwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640891,
+          "following_count": 8,
+          "like_count": 3528,
+          "listed_count": 1907,
+          "media_count": 4299,
+          "tweet_count": 4390
+        },
+        "username": "memechaotic",
+        "verified": true
+      }
+    ]
+  }
+}

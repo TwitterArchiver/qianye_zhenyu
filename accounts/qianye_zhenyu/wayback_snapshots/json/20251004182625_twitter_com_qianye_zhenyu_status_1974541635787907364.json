@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1974015236928925755",
+    "created_at": "2025-10-04T18:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T19:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974541635787907364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682447075571830784",
+          "start": 0,
+          "username": "shinxxx666781"
+        },
+        {
+          "end": 29,
+          "id": "1913631704914219008",
+          "start": 15,
+          "username": "ninarin_tokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974541635787907364",
+    "in_reply_to_user_id": "1682447075571830784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974132959075868842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinxxx666781 @ninarin_tokyo 还有trf💀👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 644,
+        "media_key": "3_1974132938666356744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WHcsSbMAgxFlw.jpg",
+        "width": 800
+      },
+      {
+        "height": 498,
+        "media_key": "3_1974132955749732352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WHdr7a0AAx7bK.jpg",
+        "width": 338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1974015236928925755",
+        "created_at": "2025-10-04T18:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974541635787907364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682447075571830784",
+              "start": 0,
+              "username": "shinxxx666781"
+            },
+            {
+              "end": 29,
+              "id": "1913631704914219008",
+              "start": 15,
+              "username": "ninarin_tokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974541635787907364",
+        "in_reply_to_user_id": "1682447075571830784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974132959075868842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinxxx666781 @ninarin_tokyo 还有trf💀👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974132938666356744",
+            "3_1974132955749732352"
+          ]
+        },
+        "author_id": "1682447075571830784",
+        "conversation_id": "1974015236928925755",
+        "created_at": "2025-10-03T15:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974132959075868842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1913631704914219008",
+              "start": 0,
+              "username": "ninarin_tokyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kMA3fzMW3",
+              "end": 54,
+              "expanded_url": "https://x.com/shinxxx666781/status/1974132959075868842/photo/1",
+              "media_key": "3_1974132938666356744",
+              "start": 31,
+              "url": "https://t.co/3kMA3fzMW3"
+            },
+            {
+              "display_url": "pic.x.com/3kMA3fzMW3",
+              "end": 54,
+              "expanded_url": "https://x.com/shinxxx666781/status/1974132959075868842/photo/1",
+              "media_key": "3_1974132955749732352",
+              "start": 31,
+              "url": "https://t.co/3kMA3fzMW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974132959075868842",
+        "in_reply_to_user_id": "1913631704914219008",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 838,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974015236928925755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninarin_tokyo wo zai bei jing https://t.co/3kMA3fzMW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 475,
+          "like_count": 20816,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 501
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:47:13.000Z",
+        "description": "🚫🚬",
+        "id": "1682447075571830784",
+        "name": "shinxxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920873577970016257/4gfDL1u1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 5121,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 612
+        },
+        "username": "shinxxx666781",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T16:32:38.000Z",
+        "description": "正因為存在本沒有意義，所以我們便有了定義意義的自由",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/973907",
+                "end": 23,
+                "expanded_url": "https://ngl.link/973907",
+                "start": 0,
+                "url": "https://t.co/irpyGN974U"
+              }
+            ]
+          }
+        },
+        "id": "1913631704914219008",
+        "location": "中華民國",
+        "name": "ninarin.",
+        "pinned_tweet_id": "1956978717374427220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974511033105707008/1FNhvvc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 1169,
+          "like_count": 17780,
+          "listed_count": 4,
+          "media_count": 716,
+          "tweet_count": 6708
+        },
+        "url": "https://t.co/irpyGN974U",
+        "username": "ninarin_tokyo",
+        "verified": false
+      }
+    ]
+  }
+}

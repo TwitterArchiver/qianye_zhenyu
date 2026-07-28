@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1906286124231954566",
+    "created_at": "2025-03-31T15:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T16:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906731796374716910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860224342778609665",
+          "start": 0,
+          "username": "VonLinne2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906731796374716910",
+    "in_reply_to_user_id": "1860224342778609665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906286124231954566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonLinne2004 bro现在经济困难的时候还能一个月去两次山姆（我滴豪老登啊🖐️😭🖐️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1906286124231954566",
+        "created_at": "2025-03-31T15:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T16:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906731796374716910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860224342778609665",
+              "start": 0,
+              "username": "VonLinne2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906731796374716910",
+        "in_reply_to_user_id": "1860224342778609665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906286124231954566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne2004 bro现在经济困难的时候还能一个月去两次山姆（我滴豪老登啊🖐️😭🖐️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860224342778609665",
+        "conversation_id": "1906286124231954566",
+        "created_at": "2025-03-30T10:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T11:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906286124231954566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VonLinne2004/s…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/VonLinne2004/status/1906285804579848211",
+              "start": 84,
+              "url": "https://t.co/IaMOP2y7XM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906286124231954566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 114806,
+          "like_count": 128,
+          "quote_count": 4,
+          "reply_count": 44,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906285804579848211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当今的山姆超市在国民中的地位，好似过去星巴克在国民中的地位。\n\n所以 20 岁没去过星巴克的情况不如过去常见了，但是 20 岁了还没去过山姆超市的情况还是比比皆是的。 https://t.co/IaMOP2y7XM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中…… 最近在学日语ing…. ………(正在努力逃离这片炼狱）",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 385,
+          "like_count": 13541,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 208
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T07:30:29.000Z",
+        "description": "医专护士生冯琳奈的四号机，没那么日常有些严肃的内容在三号机@VonLinne2003\n\n❤️好姬友：@LING_bdnit\n🌟背景板插图的作者：@mo__zk31\n\n❤️喜欢一切可爱的人和美好的事物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "VonLinne2003"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "LING_bdnit"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "mo__zk31"
+              }
+            ]
+          }
+        },
+        "id": "1860224342778609665",
+        "location": "Taiwan",
+        "name": "VonLinne（四号机）",
+        "pinned_tweet_id": "1893876559309611452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891857065489924097/pip6muZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 191,
+          "like_count": 8324,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2840
+        },
+        "username": "VonLinne2004",
+        "verified": false
+      }
+    ]
+  }
+}

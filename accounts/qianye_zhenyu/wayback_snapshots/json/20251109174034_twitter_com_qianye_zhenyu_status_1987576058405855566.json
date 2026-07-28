@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983195140610199552"
+      ],
+      "media_source_tweet_id": [
+        "1983195153671258180"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987576058405855566",
+    "created_at": "2025-11-09T17:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T18:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987576058405855566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1549317339757387776",
+          "start": 3,
+          "username": "yemaoxuan2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vGjcuYJCSV",
+          "end": 39,
+          "expanded_url": "https://x.com/yemaoxuan2/status/1983195153671258180/photo/1",
+          "media_key": "3_1983195140610199552",
+          "start": 16,
+          "url": "https://t.co/vGjcuYJCSV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987576058405855566",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 391
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983195153671258180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yemaoxuan2: https://t.co/vGjcuYJCSV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_1983195140610199552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4W5eRRaEAA38tU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983195140610199552"
+          ],
+          "media_source_tweet_id": [
+            "1983195153671258180"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987576058405855566",
+        "created_at": "2025-11-09T17:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T18:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987576058405855566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1549317339757387776",
+              "start": 3,
+              "username": "yemaoxuan2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGjcuYJCSV",
+              "end": 39,
+              "expanded_url": "https://x.com/yemaoxuan2/status/1983195153671258180/photo/1",
+              "media_key": "3_1983195140610199552",
+              "start": 16,
+              "url": "https://t.co/vGjcuYJCSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987576058405855566",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 391
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983195153671258180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yemaoxuan2: https://t.co/vGjcuYJCSV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983195140610199552"
+          ]
+        },
+        "author_id": "1549317339757387776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983195153671258180",
+        "created_at": "2025-10-28T15:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983195153671258180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGjcuYJCSV",
+              "end": 23,
+              "expanded_url": "https://x.com/yemaoxuan2/status/1983195153671258180/photo/1",
+              "media_key": "3_1983195140610199552",
+              "start": 0,
+              "url": "https://t.co/vGjcuYJCSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983195153671258180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 35516,
+          "like_count": 3113,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 391
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vGjcuYJCSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 502,
+          "like_count": 22047,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 549
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T08:57:25.000Z",
+        "description": "会进化的",
+        "id": "1549317339757387776",
+        "name": "我ymx没有开挂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685650694433607680/uMi3wjnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5404,
+          "following_count": 428,
+          "like_count": 4161,
+          "listed_count": 23,
+          "media_count": 83,
+          "tweet_count": 147
+        },
+        "username": "yemaoxuan2",
+        "verified": false
+      }
+    ]
+  }
+}

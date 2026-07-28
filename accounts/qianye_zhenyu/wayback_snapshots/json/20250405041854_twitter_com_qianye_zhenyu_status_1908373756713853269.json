@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1907660750430105680",
+    "created_at": "2025-04-05T04:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T05:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908373756713853269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352188646766436352",
+          "start": 0,
+          "username": "techeconomyana"
+        },
+        {
+          "end": 21,
+          "id": "1720665183188922368",
+          "start": 16,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908373756713853269",
+    "in_reply_to_user_id": "1352188646766436352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907660750430105680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@techeconomyana @grok 分析一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1907660750430105680",
+        "created_at": "2025-04-05T04:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T05:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908373756713853269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352188646766436352",
+              "start": 0,
+              "username": "techeconomyana"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908373756713853269",
+        "in_reply_to_user_id": "1352188646766436352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907660750430105680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@techeconomyana @grok 分析一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352188646766436352",
+        "conversation_id": "1907660750430105680",
+        "created_at": "2025-04-03T05:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907660750430105680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907660750430105680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 324,
+          "impression_count": 960087,
+          "like_count": 2041,
+          "quote_count": 24,
+          "reply_count": 346,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "特朗普真的是天才。他已经进入到了1800年人们对贸易理论的理解。\n\nC国对美国出口了100亿美元，美国只出口了40亿美元给C国，那么逆差就是60亿美元。对这进口额（100亿）加60%的关税率，逆差就会被“自动抵消”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 394,
+          "like_count": 13981,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 240
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T09:37:58.000Z",
+        "description": "经济数据分析，科技行业动态追踪。",
+        "id": "1352188646766436352",
+        "location": "China",
+        "name": "高级分析师",
+        "pinned_tweet_id": "1908103265277051032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751245194069188608/ToFwo_l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27905,
+          "following_count": 453,
+          "like_count": 19551,
+          "listed_count": 325,
+          "media_count": 515,
+          "tweet_count": 4536
+        },
+        "username": "techeconomyana",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "iOS: https://t.co/taNZVy3vpq \nAndroid: https://t.co/sDFB1bIhSw \n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 64,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "apps.apple.com/us/app/grok/id…",
+                "end": 28,
+                "expanded_url": "https://apps.apple.com/us/app/grok/id6670324846",
+                "start": 5,
+                "url": "https://t.co/taNZVy3vpq"
+              },
+              {
+                "display_url": "play.google.com/store/apps/det…",
+                "end": 62,
+                "expanded_url": "https://play.google.com/store/apps/details?id=ai.x.grok",
+                "start": 39,
+                "url": "https://t.co/sDFB1bIhSw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909717,
+          "following_count": 2,
+          "like_count": 51,
+          "listed_count": 3098,
+          "media_count": 747145,
+          "tweet_count": 4218857
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

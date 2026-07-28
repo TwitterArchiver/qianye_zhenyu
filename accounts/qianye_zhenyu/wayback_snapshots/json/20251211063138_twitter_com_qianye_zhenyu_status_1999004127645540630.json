@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1999004127645540630",
+    "created_at": "2025-12-11T06:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999004127645540630"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "twitter",
+          "probability": 0.9243,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1665823353276342273",
+          "start": 3,
+          "username": "ajytweets"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999004127645540630",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88406
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998469673403212065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ajytweets: nobody:\n\nme on twitter:🔁🔁🔁🔁🔁🔁🔁🔁🔁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1999004127645540630",
+        "created_at": "2025-12-11T06:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999004127645540630"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "twitter",
+              "probability": 0.9243,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665823353276342273",
+              "start": 3,
+              "username": "ajytweets"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999004127645540630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88406
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998469673403212065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ajytweets: nobody:\n\nme on twitter:🔁🔁🔁🔁🔁🔁🔁🔁🔁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665823353276342273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1998469673403212065",
+        "created_at": "2025-12-09T19:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T20:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998469673403212065"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "twitter",
+              "probability": 0.9512,
+              "start": 15,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998469673403212065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2923,
+          "impression_count": 2251261,
+          "like_count": 186192,
+          "quote_count": 788,
+          "reply_count": 353,
+          "retweet_count": 88406
+        },
+        "reply_settings": "everyone",
+        "text": "nobody:\n\nme on twitter:🔁🔁🔁🔁🔁🔁🔁🔁🔁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 564,
+          "like_count": 23963,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 616
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T20:50:31.000Z",
+        "description": "Dream chaser.",
+        "id": "1665823353276342273",
+        "location": "M4RS",
+        "name": "↯",
+        "pinned_tweet_id": "1998829074215743684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982133961150107648/oO-BxL_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3581,
+          "following_count": 3407,
+          "like_count": 27263,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 1623
+        },
+        "username": "ajytweets",
+        "verified": false
+      }
+    ]
+  }
+}

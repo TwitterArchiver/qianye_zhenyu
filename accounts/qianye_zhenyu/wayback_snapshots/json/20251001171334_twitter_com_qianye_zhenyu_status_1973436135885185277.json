@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972828786875047936"
+      ],
+      "media_source_tweet_id": [
+        "1972828794454254058"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1973436135885185277",
+    "created_at": "2025-10-01T17:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T18:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973436135885185277"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "ペロロ",
+          "probability": 0.6288,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1285113556749266944",
+          "start": 3,
+          "username": "shusuchii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tD10do579Q",
+          "end": 50,
+          "expanded_url": "https://x.com/shusuchii/status/1972828794454254058/photo/1",
+          "media_key": "3_1972828786875047936",
+          "start": 27,
+          "url": "https://t.co/tD10do579Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973436135885185277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2940
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972828794454254058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shusuchii: ペロロ様はいかが？✨💛 https://t.co/tD10do579Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972828786875047936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DlVERaIAAVoMy.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972828786875047936"
+          ],
+          "media_source_tweet_id": [
+            "1972828794454254058"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1973436135885185277",
+        "created_at": "2025-10-01T17:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T18:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973436135885185277"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ペロロ",
+              "probability": 0.6288,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1285113556749266944",
+              "start": 3,
+              "username": "shusuchii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tD10do579Q",
+              "end": 50,
+              "expanded_url": "https://x.com/shusuchii/status/1972828794454254058/photo/1",
+              "media_key": "3_1972828786875047936",
+              "start": 27,
+              "url": "https://t.co/tD10do579Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973436135885185277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2940
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972828794454254058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shusuchii: ペロロ様はいかが？✨💛 https://t.co/tD10do579Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972828786875047936"
+          ]
+        },
+        "author_id": "1285113556749266944",
+        "conversation_id": "1972828794454254058",
+        "created_at": "2025-09-30T01:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T02:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972828794454254058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "ペロロ",
+              "probability": 0.676,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tD10do579Q",
+              "end": 35,
+              "expanded_url": "https://x.com/shusuchii/status/1972828794454254058/photo/1",
+              "media_key": "3_1972828786875047936",
+              "start": 12,
+              "url": "https://t.co/tD10do579Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972828794454254058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5710,
+          "impression_count": 315741,
+          "like_count": 33805,
+          "quote_count": 9,
+          "reply_count": 43,
+          "retweet_count": 2940
+        },
+        "reply_settings": "everyone",
+        "text": "ペロロ様はいかが？✨💛 https://t.co/tD10do579Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 471,
+          "like_count": 20331,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 495
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-20T07:25:31.000Z",
+        "description": "ɪ'ᴍ ꜱʜᴜ | ᴇɴ /ᴊᴘ｜ɪ ᴅʀᴀᴡ ʜᴏʟᴏʟɪᴠᴇ ᴀɴᴅ ɢᴀᴍᴇ ꜰᴀɴ ᴀʀᴛ! | 🧀 https://t.co/gVbsZ2USaS ᴠɢᴇɴ: https://t.co/bChvvcEan3 /🏷️CM / お仕事: shushu440920@gmail.com//PFP: ちりこ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Ko-fi.com/shu0920/",
+                "end": 78,
+                "expanded_url": "http://Ko-fi.com/shu0920/",
+                "start": 55,
+                "url": "https://t.co/gVbsZ2USaS"
+              },
+              {
+                "display_url": "vgen.co/Shusuchii",
+                "end": 108,
+                "expanded_url": "https://vgen.co/Shusuchii",
+                "start": 85,
+                "url": "https://t.co/bChvvcEan3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/SHUSHU44",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/SHUSHU44",
+                "start": 0,
+                "url": "https://t.co/EnuIKZgx52"
+              }
+            ]
+          }
+        },
+        "id": "1285113556749266944",
+        "location": "Mumei",
+        "name": "𝗦𝗛𝗨🐈‍⬛",
+        "pinned_tweet_id": "1972828794454254058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967504859978248192/jfiNWtTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38956,
+          "following_count": 241,
+          "like_count": 16855,
+          "listed_count": 202,
+          "media_count": 1723,
+          "tweet_count": 12390
+        },
+        "url": "https://t.co/EnuIKZgx52",
+        "username": "shusuchii",
+        "verified": true
+      }
+    ]
+  }
+}

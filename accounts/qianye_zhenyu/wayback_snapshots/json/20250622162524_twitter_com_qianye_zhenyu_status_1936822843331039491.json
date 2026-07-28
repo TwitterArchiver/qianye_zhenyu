@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1936615212557176842",
+    "created_at": "2025-06-22T16:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T17:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936822843331039491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1576791571831422976",
+          "start": 0,
+          "username": "linjiyewei"
+        },
+        {
+          "end": 28,
+          "id": "1635856408519352323",
+          "start": 12,
+          "username": "VickyLi32351196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936822843331039491",
+    "in_reply_to_user_id": "1576791571831422976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936716213683716463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linjiyewei @VickyLi32351196 裕仁跟张大帅叫了声哥们，然后大帅就把整个佛雷尔卓德给裕仁了💀💀💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1936615212557176842",
+        "created_at": "2025-06-22T16:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936822843331039491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1576791571831422976",
+              "start": 0,
+              "username": "linjiyewei"
+            },
+            {
+              "end": 28,
+              "id": "1635856408519352323",
+              "start": 12,
+              "username": "VickyLi32351196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936822843331039491",
+        "in_reply_to_user_id": "1576791571831422976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936716213683716463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linjiyewei @VickyLi32351196 裕仁跟张大帅叫了声哥们，然后大帅就把整个佛雷尔卓德给裕仁了💀💀💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576791571831422976",
+        "conversation_id": "1936615212557176842",
+        "created_at": "2025-06-22T09:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936716213683716463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1635856408519352323",
+              "start": 0,
+              "username": "VickyLi32351196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936716213683716463",
+        "in_reply_to_user_id": "1635856408519352323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936615212557176842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VickyLi32351196 跟东北人打个招呼，直接把黑龙江划给我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 439,
+          "like_count": 17984,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 457
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T04:29:55.000Z",
+        "description": "來自中華人民共和國🇨🇳香港特別行政區🇭🇰今年十五，在上海讀書。熱愛War Thunder、Genshin Impact、Enlisted、Reverse：1999。小號@Lyney1949,@Venti1949，@Faruzan1949，@Vertin1949",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Lyney1949"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "Venti1949"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "Faruzan1949"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Vertin1949"
+              }
+            ]
+          }
+        },
+        "id": "1576791571831422976",
+        "location": "中華人民共和國🇨🇳香港特別行政區🇭🇰",
+        "name": "林績業為🇨🇳🇭🇰🇲🇴🇹🇼",
+        "pinned_tweet_id": "1893146721468981473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735063617471684608/tKwHLjCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 699,
+          "like_count": 19931,
+          "listed_count": 27,
+          "media_count": 2692,
+          "tweet_count": 9768
+        },
+        "username": "linjiyewei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T04:13:46.000Z",
+        "description": "一个希望世界和平的华裔学生🇨🇳 🇺🇸",
+        "id": "1635856408519352323",
+        "location": "New York ",
+        "name": "明天",
+        "pinned_tweet_id": "1821723929309749584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826073242852843520/uVqFeXk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 1010,
+          "like_count": 76719,
+          "listed_count": 15,
+          "media_count": 1448,
+          "tweet_count": 7722
+        },
+        "username": "VickyLi32351196",
+        "verified": false
+      }
+    ]
+  }
+}

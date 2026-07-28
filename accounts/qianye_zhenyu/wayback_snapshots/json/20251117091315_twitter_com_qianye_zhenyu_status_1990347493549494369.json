@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990313217026039809"
+      ],
+      "media_source_tweet_id": [
+        "1990313219756568826"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1990347493549494369",
+    "created_at": "2025-11-17T09:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990347493549494369"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "魔法少女ノ魔女裁判"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1510252940283555842",
+          "start": 3,
+          "username": "_lemonail"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1y8s2GyVM",
+          "end": 49,
+          "expanded_url": "https://x.com/_lemonail/status/1990313219756568826/photo/1",
+          "media_key": "3_1990313217026039809",
+          "start": 26,
+          "url": "https://t.co/G1y8s2GyVM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990347493549494369",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990313219756568826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_lemonail: #魔法少女ノ魔女裁判 https://t.co/G1y8s2GyVM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1828,
+        "media_key": "3_1990313217026039809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58DU2SaIAE2ln8.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990313217026039809"
+          ],
+          "media_source_tweet_id": [
+            "1990313219756568826"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1990347493549494369",
+        "created_at": "2025-11-17T09:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990347493549494369"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "魔法少女ノ魔女裁判"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1510252940283555842",
+              "start": 3,
+              "username": "_lemonail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1y8s2GyVM",
+              "end": 49,
+              "expanded_url": "https://x.com/_lemonail/status/1990313219756568826/photo/1",
+              "media_key": "3_1990313217026039809",
+              "start": 26,
+              "url": "https://t.co/G1y8s2GyVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990347493549494369",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990313219756568826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_lemonail: #魔法少女ノ魔女裁判 https://t.co/G1y8s2GyVM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990313217026039809"
+          ]
+        },
+        "author_id": "1510252940283555842",
+        "conversation_id": "1990313219756568826",
+        "created_at": "2025-11-17T06:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990313219756568826"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "魔法少女ノ魔女裁判"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1y8s2GyVM",
+              "end": 34,
+              "expanded_url": "https://x.com/_lemonail/status/1990313219756568826/photo/1",
+              "media_key": "3_1990313217026039809",
+              "start": 11,
+              "url": "https://t.co/G1y8s2GyVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990313219756568826",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 16926,
+          "like_count": 1919,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女ノ魔女裁判 https://t.co/G1y8s2GyVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜                                             明日方舟玩家，但是最喜欢二阶堂希罗         苦难菜逼画画人，不定时诈尸",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 531,
+          "like_count": 22854,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 581
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:49:06.000Z",
+        "description": "堆图用。交流会用翻译器如果有误请谅解。｜lcb61多｜🚫无授权转载、商业用途、AI学习",
+        "id": "1510252940283555842",
+        "name": "え?",
+        "pinned_tweet_id": "1962192452875608566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969342393377046528/H2rkF95C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11290,
+          "following_count": 76,
+          "like_count": 1406,
+          "listed_count": 39,
+          "media_count": 208,
+          "tweet_count": 782
+        },
+        "username": "_lemonail",
+        "verified": false
+      }
+    ]
+  }
+}

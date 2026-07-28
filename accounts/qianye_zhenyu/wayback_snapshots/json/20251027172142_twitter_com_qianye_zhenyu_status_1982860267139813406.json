@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1982490086194471035",
+    "created_at": "2025-10-27T17:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T18:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982860267139813406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982860267139813406",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982490086194471035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 坏了这个我是真的没吃过（贪了多少自己清楚（被打"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1982490083384078336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M4OibXsAAs434.jpg",
+        "width": 586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1982490086194471035",
+        "created_at": "2025-10-27T17:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982860267139813406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982860267139813406",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982490086194471035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 坏了这个我是真的没吃过（贪了多少自己清楚（被打"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982490083384078336"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1982490086194471035",
+        "created_at": "2025-10-26T16:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982490086194471035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fa54gSjTzE",
+              "end": 41,
+              "expanded_url": "https://x.com/IXXA00/status/1982490086194471035/photo/1",
+              "media_key": "3_1982490083384078336",
+              "start": 18,
+              "url": "https://t.co/Fa54gSjTzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982490086194471035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 92066,
+          "like_count": 454,
+          "quote_count": 2,
+          "reply_count": 92,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们永远不要知道这是什么东西。 https://t.co/Fa54gSjTzE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 480,
+          "like_count": 21326,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 526
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1982293281129308412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 4282,
+          "like_count": 30998,
+          "listed_count": 11,
+          "media_count": 2274,
+          "tweet_count": 30940
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

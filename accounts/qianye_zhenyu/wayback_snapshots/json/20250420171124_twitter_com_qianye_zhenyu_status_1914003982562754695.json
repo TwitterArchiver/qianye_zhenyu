@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1913597194122453348",
+    "created_at": "2025-04-20T17:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T18:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914003982562754695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609925055403950082",
+          "start": 0,
+          "username": "3578870662Cloud"
+        },
+        {
+          "end": 27,
+          "id": "1475153559427563522",
+          "start": 17,
+          "username": "114514dxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914003982562754695",
+    "in_reply_to_user_id": "1609925055403950082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913990111001551282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3578870662Cloud @114514dxp 走资（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1913597194122453348",
+        "created_at": "2025-04-20T17:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T18:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914003982562754695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609925055403950082",
+              "start": 0,
+              "username": "3578870662Cloud"
+            },
+            {
+              "end": 27,
+              "id": "1475153559427563522",
+              "start": 17,
+              "username": "114514dxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914003982562754695",
+        "in_reply_to_user_id": "1609925055403950082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913990111001551282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3578870662Cloud @114514dxp 走资（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609925055403950082",
+        "conversation_id": "1913597194122453348",
+        "created_at": "2025-04-20T16:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T17:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913990111001551282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1475153559427563522",
+              "start": 0,
+              "username": "114514dxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913990111001551282",
+        "in_reply_to_user_id": "1475153559427563522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913597194122453348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514dxp 邓小平除了严打还做了什么吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 408,
+          "like_count": 15258,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 307
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T14:50:40.000Z",
+        "description": "是个鸡",
+        "id": "1609925055403950082",
+        "location": "江西景德镇",
+        "name": "假的cloud米米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669634078243692545/SvMCNW8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 172,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 305
+        },
+        "username": "3578870662Cloud",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T17:16:43.000Z",
+        "description": "航天爱好者",
+        "id": "1475153559427563522",
+        "name": "小平的十个如果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789337449078140928/N5R22yCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11543,
+          "following_count": 972,
+          "like_count": 32140,
+          "listed_count": 22,
+          "media_count": 1526,
+          "tweet_count": 23744
+        },
+        "username": "114514dxp",
+        "verified": false
+      }
+    ]
+  }
+}

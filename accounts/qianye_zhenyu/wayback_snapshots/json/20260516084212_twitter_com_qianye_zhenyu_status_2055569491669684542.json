@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055313718830084096"
+      ],
+      "media_source_tweet_id": [
+        "2055313730024731092"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2055569491669684542",
+    "created_at": "2026-05-16T08:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T09:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055569491669684542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1642164535124688896",
+          "start": 3,
+          "username": "xinxingdia78490"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KQepbOiuXm",
+          "end": 74,
+          "expanded_url": "https://x.com/xinxingdia78490/status/2055313730024731092/photo/1",
+          "media_key": "3_2055313718830084096",
+          "start": 51,
+          "url": "https://t.co/KQepbOiuXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055569491669684542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055313730024731092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xinxingdia78490: 发生了太多事，感觉画画已经是恍若隔世的一件事了，努力复健中 https://t.co/KQepbOiuXm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2055313718830084096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXw8BDasAAdd3Y.jpg",
+        "width": 1585
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055313718830084096"
+          ],
+          "media_source_tweet_id": [
+            "2055313730024731092"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2055569491669684542",
+        "created_at": "2026-05-16T08:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055569491669684542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1642164535124688896",
+              "start": 3,
+              "username": "xinxingdia78490"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQepbOiuXm",
+              "end": 74,
+              "expanded_url": "https://x.com/xinxingdia78490/status/2055313730024731092/photo/1",
+              "media_key": "3_2055313718830084096",
+              "start": 51,
+              "url": "https://t.co/KQepbOiuXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055569491669684542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055313730024731092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @xinxingdia78490: 发生了太多事，感觉画画已经是恍若隔世的一件事了，努力复健中 https://t.co/KQepbOiuXm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055313718830084096"
+          ]
+        },
+        "author_id": "1642164535124688896",
+        "conversation_id": "2055313730024731092",
+        "created_at": "2026-05-15T15:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055313730024731092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQepbOiuXm",
+              "end": 53,
+              "expanded_url": "https://x.com/xinxingdia78490/status/2055313730024731092/photo/1",
+              "media_key": "3_2055313718830084096",
+              "start": 30,
+              "url": "https://t.co/KQepbOiuXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055313730024731092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 13833,
+          "like_count": 997,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "发生了太多事，感觉画画已经是恍若隔世的一件事了，努力复健中 https://t.co/KQepbOiuXm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 1669,
+          "like_count": 35045,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 900
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T13:58:48.000Z",
+        "description": "NG : ai绘图\n严禁ai学习\n不建议因为某个ip关注(，因为本人跳坑非常快而且成分很杂，基本都是三分钟热度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/110378364",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/110378364",
+                "start": 0,
+                "url": "https://t.co/JUADcmTCuy"
+              }
+            ]
+          }
+        },
+        "id": "1642164535124688896",
+        "name": "心型電子幽靈",
+        "pinned_tweet_id": "1955086942275797455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022312254553903104/jV29XNWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 652,
+          "like_count": 1862,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/JUADcmTCuy",
+        "username": "xinxingdia78490",
+        "verified": false
+      }
+    ]
+  }
+}

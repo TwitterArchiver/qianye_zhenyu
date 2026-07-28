@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2047963707062546625",
+    "created_at": "2026-04-26T10:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048353345027682409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "980599371820556289",
+          "start": 0,
+          "username": "kazukiiii462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048353345027682409",
+    "in_reply_to_user_id": "980599371820556289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047963707062546625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazukiiii462 这画的有力气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047963700385165312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvUIopaMAAN29H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2047963707062546625",
+        "created_at": "2026-04-26T10:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048353345027682409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "980599371820556289",
+              "start": 0,
+              "username": "kazukiiii462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048353345027682409",
+        "in_reply_to_user_id": "980599371820556289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047963707062546625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazukiiii462 这画的有力气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047963700385165312"
+          ]
+        },
+        "author_id": "980599371820556289",
+        "conversation_id": "2047963707062546625",
+        "created_at": "2026-04-25T08:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047963707062546625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wASqB4jqS4",
+              "end": 26,
+              "expanded_url": "https://x.com/kazukiiii462/status/2047963707062546625/photo/1",
+              "media_key": "3_2047963700385165312",
+              "start": 3,
+              "url": "https://t.co/wASqB4jqS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047963707062546625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7401,
+          "like_count": 231,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "练习 https://t.co/wASqB4jqS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年耐杀王美术生再次复活！\ninfp，阴暗比远离我\n主玩明日方舟，wt，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2048070220800274630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 672,
+          "like_count": 29640,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 572
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-02T00:14:43.000Z",
+        "description": "你看你手上拿的是什么啊\nhttps://t.co/qK6tAC8I8k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16438138",
+                "end": 35,
+                "expanded_url": "http://pixiv.net/users/16438138",
+                "start": 12,
+                "url": "https://t.co/qK6tAC8I8k"
+              }
+            ]
+          }
+        },
+        "id": "980599371820556289",
+        "location": "Skyrim,Whiterun",
+        "name": "七海一樹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613813859588149250/0aVGi4-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5727,
+          "following_count": 194,
+          "like_count": 29,
+          "listed_count": 29,
+          "media_count": 110,
+          "tweet_count": 127
+        },
+        "username": "kazukiiii462",
+        "verified": false
+      }
+    ]
+  }
+}

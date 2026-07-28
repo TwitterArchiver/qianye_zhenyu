@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1999603237260038258",
+    "created_at": "2025-12-14T06:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000085258256126299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761644231062585344",
+          "start": 0,
+          "username": "dora_lieu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000085258256126299",
+    "in_reply_to_user_id": "1761644231062585344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999603237260038258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dora_lieu 出国学中文的说是（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1999603237260038258",
+        "created_at": "2025-12-14T06:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000085258256126299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761644231062585344",
+              "start": 0,
+              "username": "dora_lieu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000085258256126299",
+        "in_reply_to_user_id": "1761644231062585344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999603237260038258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dora_lieu 出国学中文的说是（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761644231062585344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1999603237260038258",
+        "created_at": "2025-12-12T22:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T23:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999603237260038258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999603237260038258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 196980,
+          "like_count": 1145,
+          "quote_count": 18,
+          "reply_count": 58,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "出国读书会不会让你英文变好。\n\n答案是:不会\n\n除非你主动愿意学习。\n\n现在的留学环境:一半同学中国人，很多中国学生喜欢抱团扎堆，越是上学期间和中国学生抱团，越是进步的慢。\n\n一周三天课基本不听，其他四天再去华超，和华人室友聊天交友，基本上一周7天说英语的机会接近为零0⃣️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 578,
+          "like_count": 24625,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 655
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T06:48:22.000Z",
+        "description": "用行为确定关系，而不是用关系包容行为。\n\n                               不废话，只拉黑！",
+        "id": "1761644231062585344",
+        "name": "朵拉",
+        "pinned_tweet_id": "1988753123570299008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908035787444334593/fvuXfsjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3296,
+          "following_count": 483,
+          "like_count": 5612,
+          "listed_count": 11,
+          "media_count": 559,
+          "tweet_count": 4388
+        },
+        "username": "dora_lieu",
+        "verified": false
+      }
+    ]
+  }
+}

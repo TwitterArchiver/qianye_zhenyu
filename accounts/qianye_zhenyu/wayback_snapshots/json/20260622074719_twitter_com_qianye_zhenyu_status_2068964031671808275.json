@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068963898376798208",
+        "3_2068963898368385024"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2068962687632171319",
+    "created_at": "2026-06-22T07:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068964031671808275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1938537315586244608",
+          "start": 3,
+          "username": "ruoruoruoMing"
+        },
+        {
+          "end": 34,
+          "id": "1688792465292374016",
+          "start": 19,
+          "username": "unitedly_37400"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zhmi7iJkpl",
+          "end": 58,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2068964031671808275/photo/1",
+          "media_key": "3_2068963898376798208",
+          "start": 35,
+          "url": "https://t.co/zhmi7iJkpl"
+        },
+        {
+          "display_url": "pic.x.com/zhmi7iJkpl",
+          "end": 58,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2068964031671808275/photo/1",
+          "media_key": "3_2068963898368385024",
+          "start": 35,
+          "url": "https://t.co/zhmi7iJkpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068964031671808275",
+    "in_reply_to_user_id": "1834507955804536833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068962687632171319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三组\n@ruoruoruoMing \n@unitedly_37400 https://t.co/zhmi7iJkpl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068963898376798208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZvtCfbQAAuPBV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068963898368385024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZvtCda4AAdsqI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068962647488483328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZukOkaUAAe-gp.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068962647492751360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZukOlbcAAiDR6.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068962647589187584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZukO8a8AAM5ng.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068962647450746880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZukObagAAH5nN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068963898376798208",
+            "3_2068963898368385024"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2068962687632171319",
+        "created_at": "2026-06-22T07:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068964031671808275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1938537315586244608",
+              "start": 3,
+              "username": "ruoruoruoMing"
+            },
+            {
+              "end": 34,
+              "id": "1688792465292374016",
+              "start": 19,
+              "username": "unitedly_37400"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhmi7iJkpl",
+              "end": 58,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068964031671808275/photo/1",
+              "media_key": "3_2068963898376798208",
+              "start": 35,
+              "url": "https://t.co/zhmi7iJkpl"
+            },
+            {
+              "display_url": "pic.x.com/zhmi7iJkpl",
+              "end": 58,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068964031671808275/photo/1",
+              "media_key": "3_2068963898368385024",
+              "start": 35,
+              "url": "https://t.co/zhmi7iJkpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068964031671808275",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068962687632171319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三组\n@ruoruoruoMing \n@unitedly_37400 https://t.co/zhmi7iJkpl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068962647488483328",
+            "3_2068962647492751360",
+            "3_2068962647589187584",
+            "3_2068962647450746880"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2068962687632171319",
+        "created_at": "2026-06-22T07:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068962687632171319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1469582798604234752",
+              "start": 13,
+              "username": "yulia_OwO_"
+            },
+            {
+              "end": 39,
+              "id": "1857684678423248896",
+              "start": 26,
+              "username": "approved_cry"
+            },
+            {
+              "end": 54,
+              "id": "1545782617240653825",
+              "start": 41,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 69,
+              "id": "1783136956420849664",
+              "start": 56,
+              "username": "BoredFish_XY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKYfGaN738",
+              "end": 93,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068962687632171319/photo/1",
+              "media_key": "3_2068962647488483328",
+              "start": 70,
+              "url": "https://t.co/tKYfGaN738"
+            },
+            {
+              "display_url": "pic.x.com/tKYfGaN738",
+              "end": 93,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068962687632171319/photo/1",
+              "media_key": "3_2068962647492751360",
+              "start": 70,
+              "url": "https://t.co/tKYfGaN738"
+            },
+            {
+              "display_url": "pic.x.com/tKYfGaN738",
+              "end": 93,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068962687632171319/photo/1",
+              "media_key": "3_2068962647589187584",
+              "start": 70,
+              "url": "https://t.co/tKYfGaN738"
+            },
+            {
+              "display_url": "pic.x.com/tKYfGaN738",
+              "end": 93,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068962687632171319/photo/1",
+              "media_key": "3_2068962647450746880",
+              "start": 70,
+              "url": "https://t.co/tKYfGaN738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068962687632171319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最终拖了一周后还是摸完了\n@yulia_OwO_ \n@approved_cry \n@Orange_Chr1s \n@BoredFish_XY https://t.co/tKYfGaN738"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 2081,
+          "like_count": 38250,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "高考结束等待成年|INFP-T|社恐|交通迷|F1梅奔粉|音游新手|🏳️‍⚧️友跨|26.3.18-26.5.21有时含糖🍥|互fo喵\n❤️@xhFK114514 @happiness_sleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "xhFK114514"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "happiness_sleep"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "location": "TJ",
+        "name": "ruo_Ming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 385,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "ruoruoruoMing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰but大阪メトロ跟我半毛钱关系没有就是🤡｜（以前的）名字看着像假账号但我懒得改（划掉）终于改名了 ｜🇯🇵 🇺🇦 🏳️‍⚧️👍｜微查成分，不要太极端都会回fo😽😽😽｜小号👉@tsurumi_37400 欢迎关注喵｜@arashi5official｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "arashi5official"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県 草津市",
+        "name": "中井鶴見)⌒★",
+        "pinned_tweet_id": "2067519619708157982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 540,
+          "like_count": 79678,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1625
+        },
+        "url": "",
+        "username": "unitedly_37400",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977748306542358528",
+        "3_1977748306542407680"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1977748322279420402",
+    "created_at": "2025-10-13T14:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T15:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977748322279420402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ak05lX1ivZ",
+          "end": 61,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1977748322279420402/photo/1",
+          "media_key": "3_1977748306542358528",
+          "start": 38,
+          "url": "https://t.co/ak05lX1ivZ"
+        },
+        {
+          "display_url": "pic.x.com/ak05lX1ivZ",
+          "end": 61,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1977748322279420402/photo/1",
+          "media_key": "3_1977748306542407680",
+          "start": 38,
+          "url": "https://t.co/ak05lX1ivZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977748322279420402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上色练习（没素材就把朋友oc抓来了）\n感觉上色还是有点杂……（附赠弔图一幅 https://t.co/ak05lX1ivZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_1977748306542358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JfmzKWcAAUe1x.jpg",
+        "width": 1564
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1977748306542407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JfmzKXMAAsFIN.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977748306542358528",
+            "3_1977748306542407680"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1977748322279420402",
+        "created_at": "2025-10-13T14:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977748322279420402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak05lX1ivZ",
+              "end": 61,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1977748322279420402/photo/1",
+              "media_key": "3_1977748306542358528",
+              "start": 38,
+              "url": "https://t.co/ak05lX1ivZ"
+            },
+            {
+              "display_url": "pic.x.com/ak05lX1ivZ",
+              "end": 61,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1977748322279420402/photo/1",
+              "media_key": "3_1977748306542407680",
+              "start": 38,
+              "url": "https://t.co/ak05lX1ivZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977748322279420402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上色练习（没素材就把朋友oc抓来了）\n感觉上色还是有点杂……（附赠弔图一幅 https://t.co/ak05lX1ivZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 475,
+          "like_count": 21165,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 513
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

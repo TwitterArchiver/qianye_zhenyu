@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1911125436228132964",
+    "created_at": "2025-04-12T18:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T19:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911126075800748281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1911126075800748281",
+    "in_reply_to_user_id": "1834507955804536833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911125436228132964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操日本真的太坏了😭等我念完书，我就要回海对岸的中国去了😭（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1911125436228132964",
+        "created_at": "2025-04-12T18:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T19:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911126075800748281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911126075800748281",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911125436228132964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操日本真的太坏了😭等我念完书，我就要回海对岸的中国去了😭（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1911125436228132964",
+        "created_at": "2025-04-12T18:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T19:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911125436228132964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "日本诱骗民众继续买房，帮助富人套现离场！, 视频播放量 81060、弹幕量 421、点赞数 12741、投硬币枚数 1422、收藏人数 3756、转发人数 4771, 视频作者 bili_97676274322, 作者简介 ，相关视频：深圳大量夫妻套现离场！，同居过的女生真的就这么烂？，完了吧，越闹越大！央视犀利评论2.2亿中奖，网友要求中纪介入！，新型爬山卖淫套路曝光！，以前是偷，现在明抢！2.2亿大奖背后有多离谱！把14亿人民当傻子，房贷断供潮爆发！无数房奴哀嚎！买房压力太大了！，从明年开始，很多人跪着都卖不掉房子，现在还移个屁的民，连出国都已经是地狱模式了……，80后不用交社保？！，天量债务全面大爆发 寒意将渗透所有人",
+              "display_url": "b23.tv/iKHhEyL",
+              "end": 67,
+              "expanded_url": "https://b23.tv/iKHhEyL",
+              "start": 44,
+              "status": 200,
+              "title": "日本诱骗民众继续买房，帮助富人套现离场！_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1xRdTYyEZb/?-Arouter=story&buvid=Z34AA631C936A68C475692EB82A0242CF8D4&from_spmid=united.player-video-detail.0.0&is_story_h5=false&mid=bTWpdEWkFgV%2F3b78wFI5XQ%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=13B39070-53E6-4FB2-A106-09D80E696D45&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1744482625&unique_k=iKHhEyL&up_id=508810362",
+              "url": "https://t.co/ptDRogtznR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911125436228132964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊我操日本怎么这么坏.jpg\n\n【日本诱骗民众继续买房，帮助富人套现离场！-哔哩哔哩】 https://t.co/ptDRogtznR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 401,
+          "like_count": 14829,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 280
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

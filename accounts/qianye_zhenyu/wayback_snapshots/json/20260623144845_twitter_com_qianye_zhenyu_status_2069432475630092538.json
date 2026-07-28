@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2069076390763508126",
+    "created_at": "2026-06-23T14:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069432475630092538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1675877118667034624",
+          "start": 0,
+          "username": "nine9ph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069432475630092538",
+    "in_reply_to_user_id": "1675877118667034624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069076390763508126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nine9ph 我发现使用这种叫人民币的物品可以从很多地点兑换食物💀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069076386871226369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbWAuybsAEAifV.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069076387278036992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbWAwTbIAAa0QW.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2069076390763508126",
+        "created_at": "2026-06-23T14:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069432475630092538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1675877118667034624",
+              "start": 0,
+              "username": "nine9ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069432475630092538",
+        "in_reply_to_user_id": "1675877118667034624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069076390763508126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine9ph 我发现使用这种叫人民币的物品可以从很多地点兑换食物💀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069076386871226369",
+            "3_2069076387278036992"
+          ]
+        },
+        "author_id": "1675877118667034624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069076390763508126",
+        "created_at": "2026-06-22T15:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069076390763508126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01j6HAIRzw",
+              "end": 47,
+              "expanded_url": "https://x.com/nine9ph/status/2069076390763508126/photo/1",
+              "media_key": "3_2069076386871226369",
+              "start": 24,
+              "url": "https://t.co/01j6HAIRzw"
+            },
+            {
+              "display_url": "pic.x.com/01j6HAIRzw",
+              "end": 47,
+              "expanded_url": "https://x.com/nine9ph/status/2069076390763508126/photo/1",
+              "media_key": "3_2069076387278036992",
+              "start": 24,
+              "url": "https://t.co/01j6HAIRzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069076390763508126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6778,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现支付一种叫人民币的东西可以从机器里偷茶π https://t.co/01j6HAIRzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2069033829675762151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 2095,
+          "like_count": 38452,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1160
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T14:40:42.000Z",
+        "description": "我是神人吗",
+        "id": "1675877118667034624",
+        "location": "家里",
+        "name": "Narration",
+        "pinned_tweet_id": "2028596063775658361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009488309656195072/yLQ4t5mG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 121,
+          "like_count": 4217,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "nine9ph",
+        "verified": false
+      }
+    ]
+  }
+}

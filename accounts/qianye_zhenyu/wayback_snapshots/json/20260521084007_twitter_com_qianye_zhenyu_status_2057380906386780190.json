@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2057237573089759735",
+    "created_at": "2026-05-21T08:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T09:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057380906386780190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823767079285350406",
+          "start": 0,
+          "username": "Faomocat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057380906386780190",
+    "in_reply_to_user_id": "1823767079285350406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057237573089759735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faomocat 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2057237548272148480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzGpoNbYAAw-kj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1004,
+        "media_key": "16_2057237551094906880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIzGpyubQAAQ3oL.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIzGpyubQAAQ3oL.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2057237573089759735",
+        "created_at": "2026-05-21T08:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057380906386780190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823767079285350406",
+              "start": 0,
+              "username": "Faomocat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057380906386780190",
+        "in_reply_to_user_id": "1823767079285350406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057237573089759735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faomocat 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057237548272148480",
+            "16_2057237551094906880"
+          ]
+        },
+        "author_id": "1823767079285350406",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057237573089759735",
+        "created_at": "2026-05-20T23:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057237573089759735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mYDFpiLZZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Faomocat/status/2057237573089759735/photo/1",
+              "media_key": "3_2057237548272148480",
+              "start": 13,
+              "url": "https://t.co/4mYDFpiLZZ"
+            },
+            {
+              "display_url": "pic.x.com/4mYDFpiLZZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Faomocat/status/2057237573089759735/photo/1",
+              "media_key": "16_2057237551094906880",
+              "start": 13,
+              "url": "https://t.co/4mYDFpiLZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057237573089759735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1153,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百fo纪念，谢谢各位喵！ https://t.co/4mYDFpiLZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1735,
+          "like_count": 35610,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 938
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:02:42.000Z",
+        "description": "MTF 高三牲 物化地 备战高考ing 数学+物理求130 目前无钱买糖 172/62 2008/12/10出厂 半炸柜 求赞 互fo",
+        "id": "1823767079285350406",
+        "name": "寒月喵🍥🏳️‍⚧️~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053542630076866561/9rlS9Jmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 175,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 190
+        },
+        "username": "Faomocat",
+        "verified": false
+      }
+    ]
+  }
+}

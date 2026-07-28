@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1861074899693175117",
+    "created_at": "2024-11-25T15:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T16:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861075091083403298"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1861075091083403298",
+    "in_reply_to_user_id": "1834507955804536833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861074899693175117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥们想回当年的南京比赛杀猪了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1861074899693175117",
+        "created_at": "2024-11-25T15:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T16:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861075091083403298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861075091083403298",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861074899693175117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥们想回当年的南京比赛杀猪了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1861074899693175117",
+        "created_at": "2024-11-25T15:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T16:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861074899693175117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861074899693175117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻蛋，为什么要给我发配到一个充满傻逼小粉红的垃圾班级。只要一说中国不好立刻跟吃史了一样一直喷\n这帮傻逼甚至是看到我社交账号的属地是日本就骂哥们是日本狗，一提到就是这个国家不好，那个国家不好，什么海参崴大屠杀是一点不知道，跟它讲道理是一点听不懂的\n只能说什么傻逼环境生什么傻逼人……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 180,
+          "like_count": 5417,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

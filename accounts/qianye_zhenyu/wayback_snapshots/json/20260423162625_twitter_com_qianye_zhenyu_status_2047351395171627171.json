@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2047351395171627171",
+    "created_at": "2026-04-23T16:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047351395171627171"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047351395171627171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "それでもいいと思えたら，\n如果能觉得 这些都无所谓的话，\n楽だろうな，\n那该有多轻松啊，\n早く，\n快点啊，\n安らぎをくれよ，\n给我一丝安宁吧，\nなんでもいい，\n怎样都好了，\nこの縄を解いてほしいの，\n我只想解开这根束缚我的绳子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2047351395171627171",
+        "created_at": "2026-04-23T16:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047351395171627171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047351395171627171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "それでもいいと思えたら，\n如果能觉得 这些都无所谓的话，\n楽だろうな，\n那该有多轻松啊，\n早く，\n快点啊，\n安らぎをくれよ，\n给我一丝安宁吧，\nなんでもいい，\n怎样都好了，\nこの縄を解いてほしいの，\n我只想解开这根束缚我的绳子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046875902454517760/gjPjobYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 670,
+          "like_count": 29426,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 571
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

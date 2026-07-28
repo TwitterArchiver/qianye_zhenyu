@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1999815846081053143",
+    "created_at": "2025-12-14T07:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T08:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000101676418740632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3244430030",
+          "start": 0,
+          "username": "ILoveMy_Emperor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000101676418740632",
+    "in_reply_to_user_id": "3244430030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999815846081053143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ILoveMy_Emperor 洗日帝连和纳粹法西斯都不配一桌，只配当块肥皂（真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1999815846081053143",
+        "created_at": "2025-12-14T07:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T08:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000101676418740632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3244430030",
+              "start": 0,
+              "username": "ILoveMy_Emperor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000101676418740632",
+        "in_reply_to_user_id": "3244430030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999815846081053143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ILoveMy_Emperor 洗日帝连和纳粹法西斯都不配一桌，只配当块肥皂（真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3244430030",
+        "conversation_id": "1999815846081053143",
+        "created_at": "2025-12-13T12:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999815846081053143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999815846081053143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 783,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有不同政见可以，但是你不应该给日本军国主义洗地。\n南京大屠杀死亡人数你可以怀疑，但是你不应该为日本军人在南京以及整个东亚、东南亚的屠杀罪行叫好。\n在做（伪）日本人之前，请先做个人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 592,
+          "like_count": 24740,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 666
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-13T17:39:09.000Z",
+        "description": "包蜜，加速学发烧友，后清共产党员，湖南省第十三届全国权贵代表大会代表，演员，后清国家级非遗项目花鼓戏国家级代表性传承人。 Mali populi malus princeps a Deo datur in poenam.",
+        "id": "3244430030",
+        "location": "湖南省常德市桃源县",
+        "name": "每日颂圣",
+        "pinned_tweet_id": "1995465995578712527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876532611264417792/uAKUVqqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 411,
+          "like_count": 260,
+          "listed_count": 7,
+          "media_count": 603,
+          "tweet_count": 2333
+        },
+        "username": "ILoveMy_Emperor",
+        "verified": false
+      }
+    ]
+  }
+}

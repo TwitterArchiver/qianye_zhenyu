@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962532689602650112",
+        "3_1962532689548095488"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962532747043643480",
+    "created_at": "2025-09-01T15:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962532747043643480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p2FZL8xebX",
+          "end": 49,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1962532747043643480/photo/1",
+          "media_key": "3_1962532689602650112",
+          "start": 26,
+          "url": "https://t.co/p2FZL8xebX"
+        },
+        {
+          "display_url": "pic.x.com/p2FZL8xebX",
+          "end": 49,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1962532747043643480/photo/1",
+          "media_key": "3_1962532689548095488",
+          "start": 26,
+          "url": "https://t.co/p2FZL8xebX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962532747043643480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日陆5.7太痛苦了，索性直接买90b当阜南去了（喜 https://t.co/p2FZL8xebX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1962532689602650112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxRFU_boAAPRxV.jpg",
+        "width": 1920
+      },
+      {
+        "height": 828,
+        "media_key": "3_1962532689548095488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxRFUybMAA27xS.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962532689602650112",
+            "3_1962532689548095488"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962532747043643480",
+        "created_at": "2025-09-01T15:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962532747043643480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2FZL8xebX",
+              "end": 49,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1962532747043643480/photo/1",
+              "media_key": "3_1962532689602650112",
+              "start": 26,
+              "url": "https://t.co/p2FZL8xebX"
+            },
+            {
+              "display_url": "pic.x.com/p2FZL8xebX",
+              "end": 49,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1962532747043643480/photo/1",
+              "media_key": "3_1962532689548095488",
+              "start": 26,
+              "url": "https://t.co/p2FZL8xebX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962532747043643480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日陆5.7太痛苦了，索性直接买90b当阜南去了（喜 https://t.co/p2FZL8xebX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 447,
+          "like_count": 19222,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 477
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

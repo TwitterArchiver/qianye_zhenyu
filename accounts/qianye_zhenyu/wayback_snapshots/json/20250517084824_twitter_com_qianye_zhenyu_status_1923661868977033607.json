@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1923573232852140304",
+    "created_at": "2025-05-17T08:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T09:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923661868977033607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841736030770364417",
+          "start": 0,
+          "username": "XD_orz_QoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923661868977033607",
+    "in_reply_to_user_id": "1841736030770364417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923573232852140304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XD_orz_QoQ 喜欢牢日又不是不行（但喜欢旧日本帝国和它那套军国主义的就真该挖三填一）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_1923573230398300160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrHnqVlXYAAvd-X.jpg",
+        "width": 755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1923573232852140304",
+        "created_at": "2025-05-17T08:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T09:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923661868977033607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841736030770364417",
+              "start": 0,
+              "username": "XD_orz_QoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923661868977033607",
+        "in_reply_to_user_id": "1841736030770364417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923573232852140304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XD_orz_QoQ 喜欢牢日又不是不行（但喜欢旧日本帝国和它那套军国主义的就真该挖三填一）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923573230398300160"
+          ]
+        },
+        "author_id": "1841736030770364417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1923573232852140304",
+        "created_at": "2025-05-17T02:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T03:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923573232852140304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/grtEe9KJwz",
+              "end": 89,
+              "expanded_url": "https://x.com/XD_orz_QoQ/status/1923573232852140304/photo/1",
+              "media_key": "3_1923573230398300160",
+              "start": 66,
+              "url": "https://t.co/grtEe9KJwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923573232852140304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3627,
+          "like_count": 124,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么总有人觉得看日漫不能反日\n\n早期动画漫画大多是以左翼思想为核心的，就是要反现在这种军国主义右翼日本，可以说二次元的本质就要爱倭 https://t.co/grtEe9KJwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 430,
+          "like_count": 17029,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 420
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:04:32.000Z",
+        "description": "中国人，你要学会烧杀抢掠，因为这之后的一切行为都可被视为宽厚和温良",
+        "id": "1841736030770364417",
+        "location": "你家",
+        "name": "追可怖的天津风⚜️",
+        "pinned_tweet_id": "1841737199865495934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912899744130813952/0OJsRL5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 200,
+          "like_count": 2985,
+          "listed_count": 8,
+          "media_count": 361,
+          "tweet_count": 916
+        },
+        "username": "XD_orz_QoQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1923045808913490367",
+    "created_at": "2025-05-17T08:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T09:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923655529965969413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831338908061454336",
+          "start": 0,
+          "username": "muse0567"
+        },
+        {
+          "end": 18,
+          "id": "1433678976564662273",
+          "start": 10,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923655529965969413",
+    "in_reply_to_user_id": "1831338908061454336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923063973861007422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muse0567 @hsn8086 我宁愿它是A…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1923045808913490367",
+        "created_at": "2025-05-17T08:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T09:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923655529965969413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831338908061454336",
+              "start": 0,
+              "username": "muse0567"
+            },
+            {
+              "end": 18,
+              "id": "1433678976564662273",
+              "start": 10,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923655529965969413",
+        "in_reply_to_user_id": "1831338908061454336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923063973861007422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muse0567 @hsn8086 我宁愿它是A…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831338908061454336",
+        "conversation_id": "1923045808913490367",
+        "created_at": "2025-05-15T17:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T18:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923063973861007422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923063973861007422",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1033,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923045808913490367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 请问图中可能是什么:\nA:吕布\nB:双马尾萝莉\nC:雪国列车特产原材料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 429,
+          "like_count": 16983,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 417
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T14:30:05.000Z",
+        "description": "如果不介意的话请抓紧我的手",
+        "id": "1831338908061454336",
+        "name": "angles cry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923066360382226432/VTiPT7_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 146,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 147
+        },
+        "username": "muse0567",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68698,
+          "following_count": 965,
+          "like_count": 39989,
+          "listed_count": 155,
+          "media_count": 11168,
+          "tweet_count": 17417
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2061822361461198856",
+    "created_at": "2026-06-02T18:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061876876742983711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1469582798604234752",
+          "start": 0,
+          "username": "yulia_OwO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061876876742983711",
+    "in_reply_to_user_id": "1469582798604234752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061822361461198856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yulia_OwO_ 小小一只，rua了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2061822353752100864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0QgblakAAnj8g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2061822361461198856",
+        "created_at": "2026-06-02T18:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061876876742983711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1469582798604234752",
+              "start": 0,
+              "username": "yulia_OwO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061876876742983711",
+        "in_reply_to_user_id": "1469582798604234752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061822361461198856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulia_OwO_ 小小一只，rua了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061822353752100864"
+          ]
+        },
+        "author_id": "1469582798604234752",
+        "conversation_id": "2061822361461198856",
+        "created_at": "2026-06-02T14:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061822361461198856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I56LFT4arD",
+              "end": 30,
+              "expanded_url": "https://x.com/yulia_OwO_/status/2061822361461198856/photo/1",
+              "media_key": "3_2061822353752100864",
+              "start": 7,
+              "url": "https://t.co/I56LFT4arD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061822361461198856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摸魚再次（） https://t.co/I56LFT4arD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2061221078597337217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 1997,
+          "like_count": 36655,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1024
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T08:20:35.000Z",
+        "description": "偶爾畫畫_(:3 」∠ )_",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/yulia_owo",
+                "end": 23,
+                "expanded_url": "https://vgen.co/yulia_owo",
+                "start": 0,
+                "url": "https://t.co/QG9GX6xn2i"
+              }
+            ]
+          }
+        },
+        "id": "1469582798604234752",
+        "name": "璃",
+        "pinned_tweet_id": "2052754231367737360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044330688003092482/HwoNrp4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 50,
+          "like_count": 15477,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/QG9GX6xn2i",
+        "username": "yulia_OwO_",
+        "verified": false
+      }
+    ]
+  }
+}

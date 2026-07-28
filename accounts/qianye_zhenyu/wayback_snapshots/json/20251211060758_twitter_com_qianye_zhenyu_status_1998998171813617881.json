@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1998973864571973993",
+    "created_at": "2025-12-11T06:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998998171813617881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1239436070292320257",
+          "start": 0,
+          "username": "0427SMtieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998998171813617881",
+    "in_reply_to_user_id": "1239436070292320257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998973864571973993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0427SMtieshou 复刻闭关锁国吗？有点意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1998973864571973993",
+        "created_at": "2025-12-11T06:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998998171813617881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1239436070292320257",
+              "start": 0,
+              "username": "0427SMtieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998998171813617881",
+        "in_reply_to_user_id": "1239436070292320257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998973864571973993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0427SMtieshou 复刻闭关锁国吗？有点意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239436070292320257",
+        "conversation_id": "1998973864571973993",
+        "created_at": "2025-12-11T04:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998973864571973993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998973864571973993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 47415,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 81,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "传明年彻底封禁VPN。。。。到时候就不能翻墙和各位朋友聊天啦！！！5555~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 562,
+          "like_count": 23901,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 614
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "日精进，得开悟。",
+        "id": "1239436070292320257",
+        "name": "铁手",
+        "pinned_tweet_id": "1994204703693984111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789838049024839680/vHqASedi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69085,
+          "following_count": 1133,
+          "like_count": 18176,
+          "listed_count": 406,
+          "media_count": 1171,
+          "tweet_count": 6084
+        },
+        "username": "0427SMtieshou",
+        "verified": true
+      }
+    ]
+  }
+}

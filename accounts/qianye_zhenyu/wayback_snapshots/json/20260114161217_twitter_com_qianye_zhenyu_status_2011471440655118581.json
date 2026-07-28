@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2011409239751942171",
+    "created_at": "2026-01-14T16:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T17:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011471440655118581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783136956420849664",
+          "start": 0,
+          "username": "BoredFish_XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011471440655118581",
+    "in_reply_to_user_id": "1783136956420849664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011471079684837841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoredFish_XY 哪天我被气进医院了请不要为我悲伤🫠"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2011471079684837841].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2011471079684837841",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2011471079684837841"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2011409239751942171",
+        "created_at": "2026-01-14T16:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011471440655118581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783136956420849664",
+              "start": 0,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011471440655118581",
+        "in_reply_to_user_id": "1783136956420849664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011471079684837841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoredFish_XY 哪天我被气进医院了请不要为我悲伤🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜ 请关注最好的bro @Boredfish_XY 谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 656,
+          "like_count": 26789,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 765
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "OC 疯子\n\n◽️DONT USE MY ART\n◽️CHN/ES\n◽️Bsky⇒ https://t.co/hDClHOrry4\n◽️好兄弟：@qianye_zhenyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "qianye_zhenyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "boredfish-xy.bsky.social",
+                "end": 65,
+                "expanded_url": "http://boredfish-xy.bsky.social",
+                "start": 42,
+                "url": "https://t.co/hDClHOrry4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/boredf…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/boredfish-xy.bsky.social",
+                "start": 0,
+                "url": "https://t.co/ah9lYnIRCM"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "。",
+        "pinned_tweet_id": "2003967557695688814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007406171385221120/wkpLgr2D_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 426,
+          "like_count": 11919,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/ah9lYnIRCM",
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

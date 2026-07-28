@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2037880760787513574",
+    "created_at": "2026-03-29T02:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038083374745837973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038083374745837973",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037880760787513574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 左边：战争雷霆的普通玩家\n右边：提上t58之后"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2037880756148867072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgBwCTbkAAhdnO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2037880760787513574",
+        "created_at": "2026-03-29T02:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038083374745837973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038083374745837973",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037880760787513574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 左边：战争雷霆的普通玩家\n右边：提上t58之后"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037880756148867072"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2037880760787513574",
+        "created_at": "2026-03-28T13:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037880760787513574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YabtadHuwh",
+              "end": 23,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2037880760787513574/photo/1",
+              "media_key": "3_2037880756148867072",
+              "start": 0,
+              "url": "https://t.co/YabtadHuwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037880760787513574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 24681,
+          "like_count": 512,
+          "quote_count": 20,
+          "reply_count": 83,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YabtadHuwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "处于崩溃期的死人。\n夫君@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "理想者的墓地（月球",
+        "name": "遷",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035010038729940992/4jB0u-Of_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 666,
+          "like_count": 29060,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 567
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "星野真凛（hoshino marin） | 白夜行（びゃくやこう）|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  永遠のlove💍： @Yogiuras  ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "Yogiuras"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "まりん（狂掉fo版）",
+        "pinned_tweet_id": "2035001658329948277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035001529271263232/11cFwK_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 2331,
+          "like_count": 41317,
+          "listed_count": 5,
+          "media_count": 1888,
+          "tweet_count": 19476
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1990107638437167216",
+    "created_at": "2026-06-22T06:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068940073928708220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763541864689319936",
+          "start": 0,
+          "username": "iunco294060"
+        },
+        {
+          "end": 26,
+          "id": "1783136956420849664",
+          "start": 13,
+          "username": "BoredFish_XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068940073928708220",
+    "in_reply_to_user_id": "1763541864689319936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990107638437167216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iunco294060 @BoredFish_XY 好死喵；"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1990107635266551808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55IWajbAAAWyi4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1990107638437167216",
+        "created_at": "2026-06-22T06:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068940073928708220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763541864689319936",
+              "start": 0,
+              "username": "iunco294060"
+            },
+            {
+              "end": 26,
+              "id": "1783136956420849664",
+              "start": 13,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068940073928708220",
+        "in_reply_to_user_id": "1763541864689319936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990107638437167216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iunco294060 @BoredFish_XY 好死喵；"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990107635266551808"
+          ]
+        },
+        "author_id": "1763541864689319936",
+        "conversation_id": "1990107638437167216",
+        "created_at": "2025-11-16T17:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990107638437167216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783136956420849664",
+              "start": 0,
+              "username": "BoredFish_XY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IIaED8HgrW",
+              "end": 46,
+              "expanded_url": "https://x.com/iunco294060/status/1990107638437167216/photo/1",
+              "media_key": "3_1990107635266551808",
+              "start": 23,
+              "url": "https://t.co/IIaED8HgrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990107638437167216",
+        "in_reply_to_user_id": "1783136956420849664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@BoredFish_XY \n死得這麼快嗎？ https://t.co/IIaED8HgrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 2080,
+          "like_count": 38199,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1124
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T12:28:57.000Z",
+        "description": "不斷否認當下的自己，持續挑戰\n請發送匿名訊息\nhttps://t.co/BZOtsoErQK\n\n畫圖標籤 #iunco的畫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "iunco的畫"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/cj4mlvz16alco0…",
+                "end": 46,
+                "expanded_url": "https://marshmallow-qa.com/cj4mlvz16alco0l?t=zyBfTT&utm_medium=twitter&utm_source=promotion",
+                "start": 23,
+                "url": "https://t.co/BZOtsoErQK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105774027",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/105774027",
+                "start": 0,
+                "url": "https://t.co/6fY3QV1sXf"
+              }
+            ]
+          }
+        },
+        "id": "1763541864689319936",
+        "location": "你的身邊",
+        "name": "iunco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060529523112960000/vXKoJ4_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 3361,
+          "like_count": 16682,
+          "listed_count": 5,
+          "media_count": 2269,
+          "tweet_count": 21478
+        },
+        "url": "https://t.co/6fY3QV1sXf",
+        "username": "iunco294060",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "🦌🦌🦌\n\nI ♡ Alastor\n\nbili: https://t.co/XWkl8rMeDF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/37069759824557…",
+                "end": 47,
+                "expanded_url": "https://space.bilibili.com/3706975982455761?spm_id_from=333.788.upinfo.head.click",
+                "start": 24,
+                "url": "https://t.co/XWkl8rMeDF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/boredf…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/boredfish-xy.bsky.social",
+                "start": 0,
+                "url": "https://t.co/FKwHUazRsu"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "HSIF",
+        "pinned_tweet_id": "2012280272046203065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067243818047373312/eaqdz2p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 440,
+          "like_count": 12757,
+          "listed_count": 4,
+          "media_count": 9,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/FKwHUazRsu",
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

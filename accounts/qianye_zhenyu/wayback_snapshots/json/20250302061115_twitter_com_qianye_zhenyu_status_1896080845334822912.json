@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1895890483278463472",
+    "created_at": "2025-03-02T06:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T07:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896080845334822912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1868968937314304002",
+          "start": 0,
+          "username": "tenyakujishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896080845334822912",
+    "in_reply_to_user_id": "1868968937314304002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895890483278463472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tenyakujishi 已经死了捏～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1895890483278463472",
+        "created_at": "2025-03-02T06:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T07:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896080845334822912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868968937314304002",
+              "start": 0,
+              "username": "tenyakujishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896080845334822912",
+        "in_reply_to_user_id": "1868968937314304002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895890483278463472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenyakujishi 已经死了捏～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868968937314304002",
+        "conversation_id": "1895890483278463472",
+        "created_at": "2025-03-01T17:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T18:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895890483278463472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895890483278463472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1998,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特是不是没有活人了 谁来和我互动一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889342921226469376/0dvuP-xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 361,
+          "like_count": 12304,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 161
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T10:38:27.000Z",
+        "description": "日常推 | 顺直女 | 友跨 |⚠️odtwt+shtwt⭕️\n不用过门槛",
+        "id": "1868968937314304002",
+        "location": "看着我",
+        "name": "Yakuji",
+        "pinned_tweet_id": "1869424031843438762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893301247907598336/kMre6c6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 101,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 70
+        },
+        "username": "tenyakujishi",
+        "verified": false
+      }
+    ]
+  }
+}

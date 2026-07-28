@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1861664214957597134",
+    "created_at": "2024-11-27T17:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T18:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861818149391441999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678117449508753408",
+          "start": 0,
+          "username": "Chunliang2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861818149391441999",
+    "in_reply_to_user_id": "1678117449508753408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861664214957597134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunliang2nd 看过《我的奋斗》😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1861664214957597134",
+        "created_at": "2024-11-27T17:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T18:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861818149391441999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861818149391441999",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861664214957597134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd 看过《我的奋斗》😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861664208691306500"
+          ]
+        },
+        "author_id": "1678117449508753408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1861664214957597134",
+        "created_at": "2024-11-27T06:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T07:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861664214957597134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmesEkzNSS",
+              "end": 31,
+              "expanded_url": "https://x.com/Chunliang2nd/status/1861664214957597134/photo/1",
+              "media_key": "3_1861664208691306500",
+              "start": 8,
+              "url": "https://t.co/SmesEkzNSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861664214957597134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 60947,
+          "like_count": 422,
+          "quote_count": 11,
+          "reply_count": 56,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "去四通桥贴横幅 https://t.co/SmesEkzNSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 183,
+          "like_count": 5980,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "ADHD/AS MtX gay 半吊子geek 在港香港人🇭🇰 偶尔深圳 630游戏科学喷漆事件主犯 香港中二在学 甲沟炎 灰指甲 厌食 维生素不足 关注/转发/评论/点赞及一切互动≠认同 联系 : https://t.co/ZTQXQRKQY5 为你推荐： @liminfin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "liminfin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/FreeMaj7bot",
+                "end": 123,
+                "expanded_url": "http://t.me/FreeMaj7bot",
+                "start": 100,
+                "url": "https://t.co/ZTQXQRKQY5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "末路",
+        "name": "-风云迈阿密-",
+        "pinned_tweet_id": "1845803069252260212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804652156097863680/DwObv0VK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 761,
+          "like_count": 6251,
+          "listed_count": 11,
+          "tweet_count": 11896
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057112344980037632"
+      ],
+      "media_source_tweet_id": [
+        "2057252028808573268"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2057423440068644909",
+    "created_at": "2026-05-21T11:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057423440068644909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ccH1qB38mR",
+          "end": 67,
+          "expanded_url": "https://x.com/Rococo90933671/status/2057252028808573268/photo/1",
+          "media_key": "3_2057112344980037632",
+          "start": 44,
+          "url": "https://t.co/ccH1qB38mR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057423440068644909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057252028808573268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: car—汽车\npet—宠物\ncarpet—地毯 https://t.co/ccH1qB38mR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 268,
+        "media_key": "3_2057112344980037632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxUx1mbIAA0wmM.jpg",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057112344980037632"
+          ],
+          "media_source_tweet_id": [
+            "2057252028808573268"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2057423440068644909",
+        "created_at": "2026-05-21T11:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057423440068644909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccH1qB38mR",
+              "end": 67,
+              "expanded_url": "https://x.com/Rococo90933671/status/2057252028808573268/photo/1",
+              "media_key": "3_2057112344980037632",
+              "start": 44,
+              "url": "https://t.co/ccH1qB38mR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057423440068644909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057252028808573268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: car—汽车\npet—宠物\ncarpet—地毯 https://t.co/ccH1qB38mR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057112344980037632"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2057252028808573268",
+        "created_at": "2026-05-21T00:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057252028808573268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccH1qB38mR",
+              "end": 47,
+              "expanded_url": "https://x.com/Rococo90933671/status/2057252028808573268/photo/1",
+              "media_key": "3_2057112344980037632",
+              "start": 24,
+              "url": "https://t.co/ccH1qB38mR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057252028808573268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4878,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "car—汽车\npet—宠物\ncarpet—地毯 https://t.co/ccH1qB38mR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 1734,
+          "like_count": 35618,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 940
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11679,
+          "following_count": 3066,
+          "like_count": 38669,
+          "listed_count": 38,
+          "media_count": 4039,
+          "tweet_count": 21730
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

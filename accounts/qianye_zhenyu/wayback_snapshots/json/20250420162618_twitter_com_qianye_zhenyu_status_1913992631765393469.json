@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1913623529804960097",
+    "created_at": "2025-04-20T16:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T17:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913992631765393469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1743651797087277056",
+          "start": 0,
+          "username": "Aether89642952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913992631765393469",
+    "in_reply_to_user_id": "1743651797087277056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913623529804960097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aether89642952 虽然但是，好像只有这么讲才能迎合国内人的想法，毕竟大部分（九成）国人对日本的态度都不好，所以只有刻意带上“小日本”之类的话才能融合国人的观点（因该罢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913623525933617152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go6OdUEakAAyxZO.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1913623529804960097",
+        "created_at": "2025-04-20T16:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T17:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913992631765393469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether89642952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913992631765393469",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913623529804960097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether89642952 虽然但是，好像只有这么讲才能迎合国内人的想法，毕竟大部分（九成）国人对日本的态度都不好，所以只有刻意带上“小日本”之类的话才能融合国人的观点（因该罢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913623525933617152"
+          ]
+        },
+        "author_id": "1743651797087277056",
+        "conversation_id": "1913623529804960097",
+        "created_at": "2025-04-19T15:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T16:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913623529804960097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4qh6qssur",
+              "end": 44,
+              "expanded_url": "https://x.com/Aether89642952/status/1913623529804960097/photo/1",
+              "media_key": "3_1913623525933617152",
+              "start": 21,
+              "url": "https://t.co/R4qh6qssur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913623529804960097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 57000,
+          "like_count": 642,
+          "quote_count": 5,
+          "reply_count": 86,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢搞歧视的芝麻竹就不要再出国丢人现眼了 https://t.co/R4qh6qssur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 407,
+          "like_count": 15213,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 304
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "坎瑞亞復國主義 / \n日常👉@sora_kunidaime\nTelegram：https://t.co/ngpTT2PiFN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "sora_kunidaime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008/",
+                "end": 62,
+                "expanded_url": "http://t.me/Aether_9008/",
+                "start": 39,
+                "url": "https://t.co/ngpTT2PiFN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aether9008.ghost.io/welcome-to-blo…",
+                "end": 23,
+                "expanded_url": "https://aether9008.ghost.io/welcome-to-blog/",
+                "start": 0,
+                "url": "https://t.co/NNRCMXf6AJ"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "納塔 • 提瓦特",
+        "name": "空ちゃん",
+        "pinned_tweet_id": "1911433447567995386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908916077398265857/mDGGU-Ep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 2026,
+          "like_count": 18847,
+          "listed_count": 6,
+          "media_count": 986,
+          "tweet_count": 3071
+        },
+        "url": "https://t.co/NNRCMXf6AJ",
+        "username": "Aether89642952",
+        "verified": false
+      }
+    ]
+  }
+}

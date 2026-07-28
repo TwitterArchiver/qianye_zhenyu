@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1867576165151781302",
+    "created_at": "2024-12-14T17:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T18:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867986589701271649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669250248265302020",
+          "start": 0,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867986589701271649",
+    "in_reply_to_user_id": "1669250248265302020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867576165151781302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu96175836 虽然一个经常出汗奸的民族好像确实有点什么毛病，但当时的日本人也不是啥好货（😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1867576165151781302",
+        "created_at": "2024-12-14T17:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T18:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867986589701271649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669250248265302020",
+              "start": 0,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867986589701271649",
+        "in_reply_to_user_id": "1669250248265302020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867576165151781302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu96175836 虽然一个经常出汗奸的民族好像确实有点什么毛病，但当时的日本人也不是啥好货（😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867575742894419973",
+            "7_1867575742919569408"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "1867576165151781302",
+        "created_at": "2024-12-13T14:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T15:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867576165151781302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fQ3GInU23",
+              "end": 103,
+              "expanded_url": "https://x.com/xu96175836/status/1867576165151781302/video/1",
+              "media_key": "7_1867575742894419973",
+              "start": 80,
+              "url": "https://t.co/8fQ3GInU23"
+            },
+            {
+              "display_url": "pic.x.com/8fQ3GInU23",
+              "end": 103,
+              "expanded_url": "https://x.com/xu96175836/status/1867576165151781302/video/1",
+              "media_key": "7_1867575742919569408",
+              "start": 80,
+              "url": "https://t.co/8fQ3GInU23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867576165151781302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1229,
+          "impression_count": 4536978,
+          "like_count": 7395,
+          "quote_count": 86,
+          "reply_count": 243,
+          "retweet_count": 2182
+        },
+        "reply_settings": "everyone",
+        "text": "中共汉奸比日本鬼子坏”。 老奶奶回忆当年日本进中国说；\n\n日本兵不打中国老百姓，打人抢东西的都是汉奸，特别是共产党这种汉奸不受欢迎威逼利诱欺骗中国人民加入 。 https://t.co/8fQ3GInU23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 245,
+          "like_count": 7697,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76332,
+          "following_count": 1497,
+          "like_count": 5554,
+          "listed_count": 234,
+          "media_count": 6635,
+          "tweet_count": 7228
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

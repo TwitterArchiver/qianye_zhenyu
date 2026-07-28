@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987810161118089217"
+      ],
+      "media_source_tweet_id": [
+        "1987810167719916008"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988312172007661622",
+    "created_at": "2025-11-11T18:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T19:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988312172007661622"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 13,
+          "tag": "これを見た人も何か無言で二人組をあげる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1609417311068512258",
+          "start": 3,
+          "username": "hasei01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l5MsJxqZQO",
+          "end": 57,
+          "expanded_url": "https://x.com/hasei01/status/1987810167719916008/photo/1",
+          "media_key": "3_1987810161118089217",
+          "start": 34,
+          "url": "https://t.co/l5MsJxqZQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988312172007661622",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3470
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987810167719916008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasei01: #これを見た人も何か無言で二人組をあげる https://t.co/l5MsJxqZQO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2454,
+        "media_key": "3_1987810161118089217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Yez0ZbEAEMdIV.jpg",
+        "width": 1829
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987810161118089217"
+          ],
+          "media_source_tweet_id": [
+            "1987810167719916008"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988312172007661622",
+        "created_at": "2025-11-11T18:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T19:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988312172007661622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 13,
+              "tag": "これを見た人も何か無言で二人組をあげる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1609417311068512258",
+              "start": 3,
+              "username": "hasei01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5MsJxqZQO",
+              "end": 57,
+              "expanded_url": "https://x.com/hasei01/status/1987810167719916008/photo/1",
+              "media_key": "3_1987810161118089217",
+              "start": 34,
+              "url": "https://t.co/l5MsJxqZQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988312172007661622",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3470
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987810167719916008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasei01: #これを見た人も何か無言で二人組をあげる https://t.co/l5MsJxqZQO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987810161118089217"
+          ]
+        },
+        "author_id": "1609417311068512258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987810167719916008",
+        "created_at": "2025-11-10T09:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987810167719916008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "これを見た人も何か無言で二人組をあげる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5MsJxqZQO",
+              "end": 44,
+              "expanded_url": "https://x.com/hasei01/status/1987810167719916008/photo/1",
+              "media_key": "3_1987810161118089217",
+              "start": 21,
+              "url": "https://t.co/l5MsJxqZQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987810167719916008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2578,
+          "impression_count": 388264,
+          "like_count": 43487,
+          "quote_count": 26,
+          "reply_count": 22,
+          "retweet_count": 3470
+        },
+        "reply_settings": "everyone",
+        "text": "#これを見た人も何か無言で二人組をあげる https://t.co/l5MsJxqZQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜                                             明日方舟玩家，但是最喜欢二阶堂希罗         苦难菜逼画画人，不定时诈尸",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 518,
+          "like_count": 22304,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 563
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T05:12:51.000Z",
+        "description": "ボカロとかボイロとか合成音声関係の絵と曲をかきます！https://t.co/qkBgkjXf1V",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hasei.fanbox.cc",
+                "end": 49,
+                "expanded_url": "https://hasei.fanbox.cc",
+                "start": 26,
+                "url": "https://t.co/qkBgkjXf1V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hasei01",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hasei01",
+                "start": 0,
+                "url": "https://t.co/ej4bqODz5k"
+              }
+            ]
+          }
+        },
+        "id": "1609417311068512258",
+        "location": "DO NOT REUPLOAD TO DANBOORU.",
+        "name": "hasei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965865966136655872/CzNW3oHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32002,
+          "following_count": 36,
+          "like_count": 1707,
+          "listed_count": 315,
+          "media_count": 36,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/ej4bqODz5k",
+        "username": "hasei01",
+        "verified": false
+      }
+    ]
+  }
+}

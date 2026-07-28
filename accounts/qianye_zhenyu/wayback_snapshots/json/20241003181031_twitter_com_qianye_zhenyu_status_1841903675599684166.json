@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1841693590868918633",
+    "created_at": "2024-10-03T18:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T19:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841903675599684166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364982252434714626",
+          "start": 0,
+          "username": "iceblack1010"
+        },
+        {
+          "end": 28,
+          "id": "1811088081900163076",
+          "start": 14,
+          "username": "Howie07280728"
+        },
+        {
+          "end": 38,
+          "id": "1554078434275430400",
+          "start": 29,
+          "username": "Rhine__H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841903675599684166",
+    "in_reply_to_user_id": "1364982252434714626",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841883342092095780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iceblack1010 @Howie07280728 @Rhine__H 我超！盒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1841693590868918633",
+        "created_at": "2024-10-03T18:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T19:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841903675599684166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364982252434714626",
+              "start": 0,
+              "username": "iceblack1010"
+            },
+            {
+              "end": 28,
+              "id": "1811088081900163076",
+              "start": 14,
+              "username": "Howie07280728"
+            },
+            {
+              "end": 38,
+              "id": "1554078434275430400",
+              "start": 29,
+              "username": "Rhine__H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841903675599684166",
+        "in_reply_to_user_id": "1364982252434714626",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841883342092095780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iceblack1010 @Howie07280728 @Rhine__H 我超！盒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841883330209579010"
+          ]
+        },
+        "author_id": "1364982252434714626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841693590868918633",
+        "created_at": "2024-10-03T16:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T17:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841883342092095780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811088081900163076",
+              "start": 0,
+              "username": "Howie07280728"
+            },
+            {
+              "end": 24,
+              "id": "1554078434275430400",
+              "start": 15,
+              "username": "Rhine__H"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7tFRNjCjy",
+              "end": 48,
+              "expanded_url": "https://x.com/iceblack1010/status/1841883342092095780/photo/1",
+              "media_key": "3_1841883330209579010",
+              "start": 25,
+              "url": "https://t.co/Q7tFRNjCjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841883342092095780",
+        "in_reply_to_user_id": "1811088081900163076",
+        "lang": "qme",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841762094338998504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Howie07280728 @Rhine__H https://t.co/Q7tFRNjCjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "一个新人画师而已",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 143,
+          "like_count": 1434,
+          "listed_count": 0,
+          "tweet_count": 1
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-25T16:55:15.000Z",
+        "description": "抑鬱VTuber，每天打打遊戲聊聊天看看影片，偶爾幫人做點人物設計，擅長設計面具和小物件 #新人 #日常 #繪師 #3D #白給 #可以色色 #VTuber #屁話一堆 #PKKpoint",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "新人"
+              },
+              {
+                "end": 52,
+                "start": 49,
+                "tag": "日常"
+              },
+              {
+                "end": 56,
+                "start": 53,
+                "tag": "繪師"
+              },
+              {
+                "end": 60,
+                "start": 57,
+                "tag": "3D"
+              },
+              {
+                "end": 64,
+                "start": 61,
+                "tag": "白給"
+              },
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "可以色色"
+              },
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "VTuber"
+              },
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "屁話一堆"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "tag": "PKKpoint"
+              }
+            ]
+          }
+        },
+        "id": "1364982252434714626",
+        "name": "冰黑（冰族）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632064027844280321/5ICMFC7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 255,
+          "like_count": 3263,
+          "listed_count": 0,
+          "tweet_count": 1025
+        },
+        "username": "iceblack1010",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T17:20:36.000Z",
+        "description": "",
+        "id": "1811088081900163076",
+        "name": "yeah I’m fucking tomboy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811088198724112385/DIrWTpar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 130,
+          "like_count": 2215,
+          "listed_count": 0,
+          "tweet_count": 70
+        },
+        "username": "Howie07280728",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T12:16:11.000Z",
+        "description": "这里是莱茵( ˘ω˘ ) 会友善对待所有人 🚪88/166（除极个别nt 摄影 / ACG / COSPLAY /烹饪 什么都懂一点点 初中在读 小莱茵：@Rhine___H 爱你们哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Rhine___H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rhine71231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rhine71231",
+                "start": 0,
+                "url": "https://t.co/UssA2WPIRK"
+              }
+            ]
+          }
+        },
+        "id": "1554078434275430400",
+        "location": "31°25'25\"N 91°11'19\"E",
+        "name": "29°39'05N 101°40'58E",
+        "pinned_tweet_id": "1841733333228912674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834818453729165314/vCqgHQjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21629,
+          "following_count": 1116,
+          "like_count": 41313,
+          "listed_count": 43,
+          "tweet_count": 9282
+        },
+        "url": "https://t.co/UssA2WPIRK",
+        "username": "Rhine__H",
+        "verified": false
+      }
+    ]
+  }
+}

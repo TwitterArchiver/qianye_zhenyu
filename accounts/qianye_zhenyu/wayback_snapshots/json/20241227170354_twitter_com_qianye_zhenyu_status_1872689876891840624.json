@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1872383567449481561",
+    "created_at": "2024-12-27T17:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T18:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872689876891840624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "17595489",
+          "start": 0,
+          "username": "RFA_Chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872689876891840624",
+    "in_reply_to_user_id": "17595489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872383567449481561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RFA_Chinese 额…我还是不太相信牢中的发动机能在十几年内超越美俄（更别说什么突破大气层进入太空什么的，这玩意感觉有点儿扯了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1872383567449481561",
+        "created_at": "2024-12-27T17:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T18:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872689876891840624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "17595489",
+              "start": 0,
+              "username": "RFA_Chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872689876891840624",
+        "in_reply_to_user_id": "17595489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872383567449481561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RFA_Chinese 额…我还是不太相信牢中的发动机能在十几年内超越美俄（更别说什么突破大气层进入太空什么的，这玩意感觉有点儿扯了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1872383530338242560"
+          ]
+        },
+        "author_id": "17595489",
+        "conversation_id": "1872383567449481561",
+        "created_at": "2024-12-26T20:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T21:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872383567449481561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Rrn0urtnh",
+              "end": 170,
+              "expanded_url": "https://x.com/RFA_Chinese/status/1872383567449481561/video/1",
+              "media_key": "7_1872383530338242560",
+              "start": 147,
+              "url": "https://t.co/4Rrn0urtnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872383567449481561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 364038,
+          "like_count": 323,
+          "quote_count": 34,
+          "reply_count": 299,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "【中国第六代战斗机“白帝”首次亮相】\n上个月还在广东珠海航展的模型，今疑似已升空。12月26日网上流传大量民众于四川成都拍摄两架低空飞行战机的视频，其中一架整体呈三角形，网民指出这可能就是中国第六代战机“白帝”。\n\n“白帝”为中国新一代一体化空天战机，具超音速能力且能突破地球大气层飞入太空。 https://t.co/4Rrn0urtnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 256,
+          "like_count": 8618,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 92
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-24T16:59:35.000Z",
+        "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rfa.org/mandarin",
+                "end": 23,
+                "expanded_url": "http://www.rfa.org/mandarin",
+                "start": 0,
+                "url": "https://t.co/A7MLgsDkcc"
+              }
+            ]
+          }
+        },
+        "id": "17595489",
+        "location": "Washington, DC",
+        "name": "自由亚洲电台",
+        "pinned_tweet_id": "1872650232548491381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663026,
+          "following_count": 3634,
+          "like_count": 967,
+          "listed_count": 5775,
+          "media_count": 29731,
+          "tweet_count": 148305
+        },
+        "url": "https://t.co/A7MLgsDkcc",
+        "username": "RFA_Chinese",
+        "verified": true
+      }
+    ]
+  }
+}

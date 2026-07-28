@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2069033829675762151",
+    "created_at": "2026-06-22T14:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069063153061855558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995705096240594948",
+          "start": 0,
+          "username": "Yorui_yoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069063153061855558",
+    "in_reply_to_user_id": "1995705096240594948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069061072317714678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yorui_yoyo 嘻嘻\n嘻嘻啦喵w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069061069222649856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbIFIGbIAAKpcT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2069033829675762151",
+        "created_at": "2026-06-22T14:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069063153061855558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995705096240594948",
+              "start": 0,
+              "username": "Yorui_yoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069063153061855558",
+        "in_reply_to_user_id": "1995705096240594948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069061072317714678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yorui_yoyo 嘻嘻\n嘻嘻啦喵w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069061069222649856"
+          ]
+        },
+        "author_id": "1995705096240594948",
+        "conversation_id": "2069033829675762151",
+        "created_at": "2026-06-22T14:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069061072317714678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lOEixqicb",
+              "end": 61,
+              "expanded_url": "https://x.com/Yorui_yoyo/status/2069061072317714678/photo/1",
+              "media_key": "3_2069061069222649856",
+              "start": 38,
+              "url": "https://t.co/7lOEixqicb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069061072317714678",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069033829675762151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 我超大主播喵！（怎么断句呢喵？）\n恭喜迁迁喵 https://t.co/7lOEixqicb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2069033829675762151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 2088,
+          "like_count": 38311,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T04:02:51.000Z",
+        "description": "欢迎来找祈鸢聊天喵\n虽然不一定谁都喜欢捏 \n但是我会努力只展示自己的正面情绪让大家开心的呢",
+        "id": "1995705096240594948",
+        "location": "AAA卡拉彼丘量产猫娘",
+        "name": "祈鸢",
+        "pinned_tweet_id": "2061341858866016540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054577505076436993/IOx0yCv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 45,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "Yorui_yoyo",
+        "verified": false
+      }
+    ]
+  }
+}

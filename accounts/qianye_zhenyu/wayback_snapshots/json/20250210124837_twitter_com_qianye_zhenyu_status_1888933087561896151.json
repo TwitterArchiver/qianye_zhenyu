@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1888249841546830309",
+    "created_at": "2025-02-10T12:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T13:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888933087561896151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1584399024240590848",
+          "start": 0,
+          "username": "lzdxl19890604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888933087561896151",
+    "in_reply_to_user_id": "1584399024240590848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888249841546830309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzdxl19890604 啊？是国服吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1888249841546830309",
+        "created_at": "2025-02-10T12:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T13:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888933087561896151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1584399024240590848",
+              "start": 0,
+              "username": "lzdxl19890604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888933087561896151",
+        "in_reply_to_user_id": "1584399024240590848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888249841546830309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzdxl19890604 啊？是国服吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888249754297016320"
+          ]
+        },
+        "author_id": "1584399024240590848",
+        "conversation_id": "1888249841546830309",
+        "created_at": "2025-02-08T15:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T16:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888249841546830309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6k7rNQPI2",
+              "end": 35,
+              "expanded_url": "https://x.com/lzdxl19890604/status/1888249841546830309/photo/1",
+              "media_key": "3_1888249754297016320",
+              "start": 12,
+              "url": "https://t.co/j6k7rNQPI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888249841546830309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 28606,
+          "like_count": 472,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "哇牛逼还能换成这个旗的 https://t.co/j6k7rNQPI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画图？我给你画个蛋！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 317,
+          "like_count": 11294,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 137
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T04:19:09.000Z",
+        "description": "||满独先于主义🫡||🥺||☸||🟥🟦⬜️⬛️🟨前方🈵洲🈲止隨地大小漢🚫||乐子人小妹妹一枚吖||🚪60💰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mps.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.mps.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/NSweZDpLiI"
+              }
+            ]
+          }
+        },
+        "id": "1584399024240590848",
+        "location": "Beijing",
+        "name": "恩情東雪蓮🖤💜",
+        "pinned_tweet_id": "1879385422222274661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206588661538816/O9LFXKx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1865,
+          "like_count": 22508,
+          "listed_count": 5,
+          "media_count": 1233,
+          "tweet_count": 5610
+        },
+        "url": "https://t.co/NSweZDpLiI",
+        "username": "lzdxl19890604",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1934221460018786531",
+    "created_at": "2025-06-15T15:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T16:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934276974081667328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1741880208431763456",
+          "start": 0,
+          "username": "hww86434"
+        },
+        {
+          "end": 26,
+          "id": "1573663582994444289",
+          "start": 10,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934276974081667328",
+    "in_reply_to_user_id": "1741880208431763456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934270255565832416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hww86434 @guojiazongshuji 是赛博朋克出的衍生动漫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1934221460018786531",
+        "created_at": "2025-06-15T15:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T16:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934276974081667328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1741880208431763456",
+              "start": 0,
+              "username": "hww86434"
+            },
+            {
+              "end": 26,
+              "id": "1573663582994444289",
+              "start": 10,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934276974081667328",
+        "in_reply_to_user_id": "1741880208431763456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934270255565832416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hww86434 @guojiazongshuji 是赛博朋克出的衍生动漫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741880208431763456",
+        "conversation_id": "1934221460018786531",
+        "created_at": "2025-06-15T15:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T16:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934270255565832416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934270255565832416",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934221460018786531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji 我记得这不是那个英雄联盟那个什么出了动漫还是月球的动漫来着？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 439,
+          "like_count": 17788,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 446
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:53:51.000Z",
+        "description": "小粉红你妈死了，有本事在我评论区骂了别屏蔽啊",
+        "id": "1741880208431763456",
+        "location": "果克星球",
+        "name": "イレイの8964🇺🇸",
+        "pinned_tweet_id": "1928077145776988463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883117323353255936/AWlKKJSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 138,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1612
+        },
+        "username": "hww86434",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "满洲国出身 / 国歌《南蛮大布》/满洲第一厨师老八 / 外交部发言人黑手哥 / 一级上将宇将军 / 传统运动项目海兰泡冬泳大赛 / 信仰李洪志《转法轮》/ 满洲国传统美食桌饺🥟大酱、西安猪臊子/自用🪜👉 https://t.co/6jlWXuGrL5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "susu.hamstercloud.de/register?code=…",
+                "end": 125,
+                "expanded_url": "https://susu.hamstercloud.de/register?code=p3VhqxV5",
+                "start": 102,
+                "url": "https://t.co/6jlWXuGrL5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html?spm=C73544894212.P59511941341.0.0",
+                "start": 0,
+                "url": "https://t.co/Y7VxXFmWIL"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "符拉迪沃斯托克—满俄奥运会现场",
+        "name": "狐萝卜苏苏",
+        "pinned_tweet_id": "1922886950345715712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10601,
+          "following_count": 569,
+          "like_count": 57247,
+          "listed_count": 28,
+          "media_count": 307,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/Y7VxXFmWIL",
+        "username": "guojiazongshuji",
+        "verified": true
+      }
+    ]
+  }
+}

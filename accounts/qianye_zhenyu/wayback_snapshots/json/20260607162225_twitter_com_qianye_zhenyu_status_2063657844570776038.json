@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2063597175016411452",
+    "created_at": "2026-06-07T16:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063657844570776038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063657844570776038",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063597175016411452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 好魔幻…这么一对比我老登才是真开放\n（我甚至都不知道老登在我出生之前就去过漫展💀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2063597166220935168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNesHQaAAAXa4I.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2063597175016411452",
+        "created_at": "2026-06-07T16:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063657844570776038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063657844570776038",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063597175016411452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 好魔幻…这么一对比我老登才是真开放\n（我甚至都不知道老登在我出生之前就去过漫展💀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063597166220935168"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2063597175016411452",
+        "created_at": "2026-06-07T12:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063597175016411452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZzBaqahzo",
+              "end": 165,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2063597175016411452/photo/1",
+              "media_key": "3_2063597166220935168",
+              "start": 142,
+              "url": "https://t.co/VZzBaqahzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063597175016411452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想起高中周末的一个晚上，環状線听日语歌被母亲发现了，然后就被母亲的「爱国主义」教育了半个多小时。从那以后環状線再也没有在家人面前公开听或看过任何日语作品，不过好在有耳机，偷偷听日语歌并不是什么难事。\n\n高考后，有次坐车回乡下，環状線一如既往地用耳机听日语歌。后座的母亲突然问環状線听 的是什么歌，并让環状線给她一只耳机听听。環状線立刻捂住耳朵，但没敢直接开口拒绝，只是保持沉默。好在母亲没有强行夺走環状線的耳机，不然后果实在难以想象。\n\n環状線记得，那个晚上被母亲发现时，听的日语歌名是《きゅうくらりん》，不过并不是很合環状線现在的胃口。\n\n環状線至今还是不敢在父母面前看日漫，環状線认为应该是和这件事有关。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10250,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想起高中周末的一个晚上，環状線听日语歌被母亲发现了，然后就被母亲的「爱国主义」教育了半个多小时。从那以后環状線再也没有在家人面前公开听或看过任何日语作品，不过好在有耳机，偷偷听日语歌并不是什么难事。\n\n高考后，有次坐车回乡下，環状線一如既往地用耳机听日语歌。后座的母亲突然问環状線听 https://t.co/VZzBaqahzo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 1934,
+          "like_count": 37008,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1043
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5207,
+          "following_count": 871,
+          "like_count": 24770,
+          "listed_count": 10,
+          "media_count": 1357,
+          "tweet_count": 7490
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

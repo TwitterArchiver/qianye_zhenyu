@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2052350099980771799",
+    "created_at": "2026-05-07T15:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052403280731353569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567891216620191746",
+          "start": 0,
+          "username": "RhenHae5033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052403280731353569",
+    "in_reply_to_user_id": "1567891216620191746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052395864803729427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RhenHae5033 中（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2052350099980771799",
+        "created_at": "2026-05-07T15:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052403280731353569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567891216620191746",
+              "start": 0,
+              "username": "RhenHae5033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052403280731353569",
+        "in_reply_to_user_id": "1567891216620191746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052395864803729427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RhenHae5033 中（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567891216620191746",
+        "conversation_id": "2052350099980771799",
+        "created_at": "2026-05-07T14:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052395864803729427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052395864803729427",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052350099980771799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 那画300fo贺图）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2051680473718346218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 1093,
+          "like_count": 32371,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 730
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T15:03:02.000Z",
+        "description": "一般路过人民群众，非资深动漫宅/恐怖游戏爱好者/特喜欢重型音乐/绘画苦手。\n正在进行以下活动：学习英语（好难）、学习日语（好难）、吉他入门   Pixiv账号: https://t.co/HN7OfeGwWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/66041175",
+                "end": 104,
+                "expanded_url": "https://www.pixiv.net/users/66041175",
+                "start": 81,
+                "url": "https://t.co/HN7OfeGwWo"
+              }
+            ]
+          }
+        },
+        "id": "1567891216620191746",
+        "location": "亞空間",
+        "name": "仁海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049183821527203840/COxl0C0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 459,
+          "like_count": 2554,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 545
+        },
+        "username": "RhenHae5033",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919712630593486850"
+      ],
+      "media_source_tweet_id": [
+        "1919712633940541795"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1920140271544607166",
+    "created_at": "2025-05-07T15:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T16:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920140271544607166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1485074605144678400",
+          "start": 3,
+          "username": "TemPainting"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQQspPDgnK",
+          "end": 48,
+          "expanded_url": "https://x.com/TemPainting/status/1919712633940541795/photo/1",
+          "media_key": "3_1919712630593486850",
+          "start": 25,
+          "url": "https://t.co/jQQspPDgnK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920140271544607166",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1738
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919712633940541795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TemPainting: 先生、おはよー https://t.co/jQQspPDgnK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919712630593486850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQwd2lbAAIOa8F.jpg",
+        "width": 1519
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919712630593486850"
+          ],
+          "media_source_tweet_id": [
+            "1919712633940541795"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1920140271544607166",
+        "created_at": "2025-05-07T15:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920140271544607166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1485074605144678400",
+              "start": 3,
+              "username": "TemPainting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQQspPDgnK",
+              "end": 48,
+              "expanded_url": "https://x.com/TemPainting/status/1919712633940541795/photo/1",
+              "media_key": "3_1919712630593486850",
+              "start": 25,
+              "url": "https://t.co/jQQspPDgnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920140271544607166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1738
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919712633940541795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TemPainting: 先生、おはよー https://t.co/jQQspPDgnK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919712630593486850"
+          ]
+        },
+        "author_id": "1485074605144678400",
+        "conversation_id": "1919712633940541795",
+        "created_at": "2025-05-06T11:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919712633940541795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQQspPDgnK",
+              "end": 31,
+              "expanded_url": "https://x.com/TemPainting/status/1919712633940541795/photo/1",
+              "media_key": "3_1919712630593486850",
+              "start": 8,
+              "url": "https://t.co/jQQspPDgnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919712633940541795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1262,
+          "impression_count": 193222,
+          "like_count": 15270,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 1738
+        },
+        "reply_settings": "everyone",
+        "text": "先生、おはよー https://t.co/jQQspPDgnK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 425,
+          "like_count": 16448,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 400
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T02:19:18.000Z",
+        "description": "Illustrator/イラストレーター\nお仕事のご依頼はDM 、もしくは下記のアドレスまで【tem.painting1@gmail.com】個人様はこちらhttps://t.co/yHryPJk64N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@TemPainting1",
+                "end": 101,
+                "expanded_url": "https://skeb.jp/@TemPainting1",
+                "start": 78,
+                "url": "https://t.co/yHryPJk64N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61697971",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/61697971",
+                "start": 0,
+                "url": "https://t.co/AJMgCKngPr"
+              }
+            ]
+          }
+        },
+        "id": "1485074605144678400",
+        "name": "Tem/テム",
+        "pinned_tweet_id": "1787785162094456942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671090980815257602/KTJx47di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57996,
+          "following_count": 1104,
+          "like_count": 4740,
+          "listed_count": 557,
+          "media_count": 44,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/AJMgCKngPr",
+        "username": "TemPainting",
+        "verified": true
+      }
+    ]
+  }
+}

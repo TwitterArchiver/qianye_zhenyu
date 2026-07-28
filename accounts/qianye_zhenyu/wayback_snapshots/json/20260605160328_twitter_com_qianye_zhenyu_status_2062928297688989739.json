@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2062928269700407296"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2062928297688989739",
+    "created_at": "2026-06-05T16:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062928297688989739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wli6xZj1VM",
+          "end": 45,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2062928297688989739/photo/1",
+          "media_key": "16_2062928269700407296",
+          "start": 22,
+          "url": "https://t.co/Wli6xZj1VM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062928297688989739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "900了我去，这还说啥了冲一波千fo了喵！ https://t.co/Wli6xZj1VM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2062928269700407296",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKD-VNiaoAAaNHy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKD-VNiaoAAaNHy.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2062928269700407296"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2062928297688989739",
+        "created_at": "2026-06-05T16:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062928297688989739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wli6xZj1VM",
+              "end": 45,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2062928297688989739/photo/1",
+              "media_key": "16_2062928269700407296",
+              "start": 22,
+              "url": "https://t.co/Wli6xZj1VM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062928297688989739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "900了我去，这还说啥了冲一波千fo了喵！ https://t.co/Wli6xZj1VM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 2047,
+          "like_count": 36902,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1038
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

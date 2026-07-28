@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917149552366542848"
+      ],
+      "media_source_tweet_id": [
+        "1917149629080309877"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1917542764230726062",
+    "created_at": "2025-04-30T11:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T12:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917542764230726062"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "761213418082701313",
+          "start": 3,
+          "username": "Kerno_kr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WT3UJaWCNn",
+          "end": 43,
+          "expanded_url": "https://x.com/Kerno_kr/status/1917149629080309877/photo/1",
+          "media_key": "3_1917149552366542848",
+          "start": 20,
+          "url": "https://t.co/WT3UJaWCNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917542764230726062",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917149629080309877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kerno_kr: #ブルアカ https://t.co/WT3UJaWCNn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1917149552366542848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpsVXEIbYAA91nE.jpg",
+        "width": 2350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917149552366542848"
+          ],
+          "media_source_tweet_id": [
+            "1917149629080309877"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1917542764230726062",
+        "created_at": "2025-04-30T11:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917542764230726062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "761213418082701313",
+              "start": 3,
+              "username": "Kerno_kr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WT3UJaWCNn",
+              "end": 43,
+              "expanded_url": "https://x.com/Kerno_kr/status/1917149629080309877/photo/1",
+              "media_key": "3_1917149552366542848",
+              "start": 20,
+              "url": "https://t.co/WT3UJaWCNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917542764230726062",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917149629080309877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kerno_kr: #ブルアカ https://t.co/WT3UJaWCNn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917149552366542848"
+          ]
+        },
+        "author_id": "761213418082701313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1917149629080309877",
+        "created_at": "2025-04-29T09:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T10:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917149629080309877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WT3UJaWCNn",
+              "end": 29,
+              "expanded_url": "https://x.com/Kerno_kr/status/1917149629080309877/photo/1",
+              "media_key": "3_1917149552366542848",
+              "start": 6,
+              "url": "https://t.co/WT3UJaWCNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917149629080309877",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6188,
+          "impression_count": 392080,
+          "like_count": 39097,
+          "quote_count": 10,
+          "reply_count": 21,
+          "retweet_count": 4102
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルアカ https://t.co/WT3UJaWCNn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 420,
+          "like_count": 15948,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 358
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T14:53:16.000Z",
+        "description": "Business ✉ : mgnnew12@gmail.com \nFANBOX : https://t.co/drgUcmFh33 \n과외 : https://t.co/7vCzlsx8RW\n패스트캠퍼스 : https://t.co/oCMNTBeld6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kerno.fanbox.cc",
+                "end": 65,
+                "expanded_url": "http://kerno.fanbox.cc",
+                "start": 42,
+                "url": "https://t.co/drgUcmFh33"
+              },
+              {
+                "display_url": "blog.naver.com/junno1212",
+                "end": 95,
+                "expanded_url": "https://blog.naver.com/junno1212",
+                "start": 72,
+                "url": "https://t.co/7vCzlsx8RW"
+              },
+              {
+                "display_url": "fastcampus.co.kr/dgn_online_ker…",
+                "end": 128,
+                "expanded_url": "https://fastcampus.co.kr/dgn_online_kerno",
+                "start": 105,
+                "url": "https://t.co/oCMNTBeld6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19600013",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19600013",
+                "start": 0,
+                "url": "https://t.co/gfy7zQQr5H"
+              }
+            ]
+          }
+        },
+        "id": "761213418082701313",
+        "location": "대한민국",
+        "name": "Kerno",
+        "pinned_tweet_id": "1917448200392433859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516080541887787011/srgh4wwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190835,
+          "following_count": 1055,
+          "like_count": 5878,
+          "listed_count": 1388,
+          "media_count": 157,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/gfy7zQQr5H",
+        "username": "Kerno_kr",
+        "verified": true
+      }
+    ]
+  }
+}

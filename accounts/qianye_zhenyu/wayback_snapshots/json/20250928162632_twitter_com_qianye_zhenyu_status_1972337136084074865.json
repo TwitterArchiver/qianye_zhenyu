@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1971896365497401588",
+    "created_at": "2025-09-28T16:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T17:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972337136084074865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331221058301542400",
+          "start": 0,
+          "username": "hachineko1208"
+        },
+        {
+          "end": 28,
+          "id": "2362434604",
+          "start": 15,
+          "username": "formosanafro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972337136084074865",
+    "in_reply_to_user_id": "1331221058301542400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971911047004279062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hachineko1208 @formosanafro 我是来这里看两帮子人吵架的，不是来看正常人的💀💀💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1971896365497401588",
+        "created_at": "2025-09-28T16:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972337136084074865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331221058301542400",
+              "start": 0,
+              "username": "hachineko1208"
+            },
+            {
+              "end": 28,
+              "id": "2362434604",
+              "start": 15,
+              "username": "formosanafro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972337136084074865",
+        "in_reply_to_user_id": "1331221058301542400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971911047004279062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hachineko1208 @formosanafro 我是来这里看两帮子人吵架的，不是来看正常人的💀💀💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1331221058301542400",
+        "conversation_id": "1971896365497401588",
+        "created_at": "2025-09-27T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971911047004279062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2362434604",
+              "start": 0,
+              "username": "formosanafro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971911047004279062",
+        "in_reply_to_user_id": "2362434604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3485,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971896365497401588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@formosanafro 都是中國，不須要分那麼仔細"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 462,
+          "like_count": 19729,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 483
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢喵\n#讓我們一同登上新高山\n\n | 福摩薩第一包蜜\n | 喜歡的作品是鬼滅汁刃喵\n | 不同意福摩薩建國的耗子尾汁喵\n | 素人AIイラスト師\n | マシュマロ投稿👉 https://t.co/edC2FttXmV \n | 雜文帳 @patungkuonu1208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "讓我們一同登上新高山"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "patungkuonu1208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/74vEQb",
+                "end": 124,
+                "expanded_url": "https://reurl.cc/74vEQb",
+                "start": 101,
+                "url": "https://t.co/edC2FttXmV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hachineko1208",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hachineko1208",
+                "start": 0,
+                "url": "https://t.co/phr8hTLNkv"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "小八猫 💹北角銀行招財貓 🏔️八通關山友會萌寵",
+        "pinned_tweet_id": "1941784183535485036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956694755938840576/sHPvIxkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 715,
+          "like_count": 255934,
+          "listed_count": 13,
+          "media_count": 2578,
+          "tweet_count": 17004
+        },
+        "url": "https://t.co/phr8hTLNkv",
+        "username": "hachineko1208",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-24T07:34:16.000Z",
+        "description": "台灣≠中華民國 \n\n阿忠仔：建國派，保守派，佛教徒\n\n認同台灣，深愛台灣，心繫台灣\n\n我對台灣的有無限忠誠，永不放棄！\n\n我投身台獨和保守運動 \n\n我們是小國小民，但是我們是好國好人-鄭南榕\n\n我是為台灣人而死-陳智雄\n\n北是北，對是對，即使僅你堅挺不畏-美國最高法院大法官托馬斯\n\n以實力求和平-雷根總統",
+        "id": "2362434604",
+        "location": "513 🇺🇸 🦅↞ ✈️ ↠886 🇳🇫🧋",
+        "name": "a-tiong-á 忠仔 🇳🇫🇺🇸🪷",
+        "pinned_tweet_id": "1625674238156832771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965411341549588480/1tQwX6TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33530,
+          "following_count": 1986,
+          "like_count": 102883,
+          "listed_count": 33,
+          "media_count": 3361,
+          "tweet_count": 137479
+        },
+        "username": "formosanafro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985735031008980992"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1985616058498326571",
+    "created_at": "2025-11-04T15:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985735041662722527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZBcnX8K5wU",
+          "end": 37,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1985735041662722527/photo/1",
+          "media_key": "3_1985735031008980992",
+          "start": 14,
+          "url": "https://t.co/ZBcnX8K5wU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985735041662722527",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985616058498326571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 难道说？ https://t.co/ZBcnX8K5wU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1985735031008980992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46_fWVW8AAU5vh.jpg",
+        "width": 683
+      },
+      {
+        "height": 1216,
+        "media_key": "3_1985616055331667972",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45TSDZbQAQYTZz.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985735031008980992"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1985616058498326571",
+        "created_at": "2025-11-04T15:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985735041662722527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBcnX8K5wU",
+              "end": 37,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1985735041662722527/photo/1",
+              "media_key": "3_1985735031008980992",
+              "start": 14,
+              "url": "https://t.co/ZBcnX8K5wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985735041662722527",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985616058498326571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 难道说？ https://t.co/ZBcnX8K5wU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985616055331667972"
+          ]
+        },
+        "author_id": "1965351173872820224",
+        "conversation_id": "1985616058498326571",
+        "created_at": "2025-11-04T07:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985616058498326571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8elIrgOS3K",
+              "end": 29,
+              "expanded_url": "https://x.com/BT_7324/status/1985616058498326571/photo/1",
+              "media_key": "3_1985616055331667972",
+              "start": 6,
+              "url": "https://t.co/8elIrgOS3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985616058498326571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3040,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "难道说？🧐 https://t.co/8elIrgOS3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 488,
+          "like_count": 21620,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 542
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DeMusic7324/De…",
+                "end": 23,
+                "expanded_url": "https://github.com/DeMusic7324/Demonstrate-Music.git",
+                "start": 0,
+                "url": "https://t.co/yRtaaYOv9I"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "ᵃᵛᵉᵐᵘʲⁱᶜᵃ",
+        "name": "zzz༼⍨·༽༼· ͒ ͓ ͒༽༼∵༽༼·⍤༽༼·⍢༽",
+        "pinned_tweet_id": "1983193690924609876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985252901594505216/5d7RL0mJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1703,
+          "like_count": 5587,
+          "listed_count": 2,
+          "media_count": 1249,
+          "tweet_count": 3527
+        },
+        "url": "https://t.co/yRtaaYOv9I",
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

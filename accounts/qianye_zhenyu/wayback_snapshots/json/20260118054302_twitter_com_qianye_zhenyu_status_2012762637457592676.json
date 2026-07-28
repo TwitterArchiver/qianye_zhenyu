@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2012762637457592676",
+    "created_at": "2026-01-18T05:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T06:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012762637457592676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783136956420849664",
+          "start": 3,
+          "username": "BoredFish_XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012762637457592676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012280272046203065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BoredFish_XY: 该账号将不再发布作品。\n由于X平台当前的功能设置，\n其对创作者权利造成了负面影响。\n所有作品将被删除以避免损害。\n作为原创者，保护作品是我的本能反应。\n感谢各位的陪伴与对创作的支持。\n\n——懒闲鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2012762637457592676",
+        "created_at": "2026-01-18T05:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012762637457592676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783136956420849664",
+              "start": 3,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012762637457592676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012280272046203065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BoredFish_XY: 该账号将不再发布作品。\n由于X平台当前的功能设置，\n其对创作者权利造成了负面影响。\n所有作品将被删除以避免损害。\n作为原创者，保护作品是我的本能反应。\n感谢各位的陪伴与对创作的支持。\n\n——懒闲鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783136956420849664",
+        "conversation_id": "2012280272046203065",
+        "created_at": "2026-01-16T21:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T22:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012280272046203065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012280272046203065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 844,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "该账号将不再发布作品。\n由于X平台当前的功能设置，\n其对创作者权利造成了负面影响。\n所有作品将被删除以避免损害。\n作为原创者，保护作品是我的本能反应。\n感谢各位的陪伴与对创作的支持。\n\n——懒闲鱼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜广告位招租｜好兄弟@BoredFish_xy（不定时复活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "BoredFish_xy"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 661,
+          "like_count": 27230,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 773
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "OC 疯子\n◽️该账号不会再发布任何绘作。\n◽️作品都在 https://t.co/GMBbabSxLv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boredfish-xy.bsky.social",
+                "end": 52,
+                "expanded_url": "http://boredfish-xy.bsky.social",
+                "start": 29,
+                "url": "https://t.co/GMBbabSxLv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/boredf…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/boredfish-xy.bsky.social",
+                "start": 0,
+                "url": "https://t.co/FKwHUazjCW"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "此账号已停用",
+        "pinned_tweet_id": "2003967557695688814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007406171385221120/wkpLgr2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 425,
+          "like_count": 11892,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/FKwHUazjCW",
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

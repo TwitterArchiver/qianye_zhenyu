@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062387374001369088"
+      ],
+      "media_source_tweet_id": [
+        "2062387382637494479"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047792689",
+          "name": "幼女戦記"
+        }
+      }
+    ],
+    "conversation_id": "2062555001403089315",
+    "created_at": "2026-06-04T15:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062555001403089315"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "幼女戦記"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2030989664325398528",
+          "start": 3,
+          "username": "White200406"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LU5gFVLRen",
+          "end": 66,
+          "expanded_url": "https://x.com/White200406/status/2062387382637494479/photo/1",
+          "media_key": "3_2062387374001369088",
+          "start": 43,
+          "url": "https://t.co/LU5gFVLRen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062555001403089315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062387382637494479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @White200406: 四年前旧图，，画了这么多年全部都被否定\n#幼女戦記 https://t.co/LU5gFVLRen"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062387374001369088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8SY8CaMAAP5jH.jpg",
+        "width": 1492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062387374001369088"
+          ],
+          "media_source_tweet_id": [
+            "2062387382637494479"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047792689",
+              "name": "幼女戦記"
+            }
+          }
+        ],
+        "conversation_id": "2062555001403089315",
+        "created_at": "2026-06-04T15:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062555001403089315"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "幼女戦記"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2030989664325398528",
+              "start": 3,
+              "username": "White200406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LU5gFVLRen",
+              "end": 66,
+              "expanded_url": "https://x.com/White200406/status/2062387382637494479/photo/1",
+              "media_key": "3_2062387374001369088",
+              "start": 43,
+              "url": "https://t.co/LU5gFVLRen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062555001403089315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062387382637494479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @White200406: 四年前旧图，，画了这么多年全部都被否定\n#幼女戦記 https://t.co/LU5gFVLRen"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062387374001369088"
+          ]
+        },
+        "author_id": "2030989664325398528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047792689",
+              "name": "幼女戦記"
+            }
+          }
+        ],
+        "conversation_id": "2062387382637494479",
+        "created_at": "2026-06-04T04:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062387382637494479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "幼女戦記"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LU5gFVLRen",
+              "end": 49,
+              "expanded_url": "https://x.com/White200406/status/2062387382637494479/photo/1",
+              "media_key": "3_2062387374001369088",
+              "start": 26,
+              "url": "https://t.co/LU5gFVLRen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062387382637494479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 16609,
+          "like_count": 1964,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "四年前旧图，，画了这么多年全部都被否定\n#幼女戦記 https://t.co/LU5gFVLRen"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 2024,
+          "like_count": 36779,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1028
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T12:52:58.000Z",
+        "description": "=塘/白———中文/English———AI禁止🚫———图片未经允许禁止任何用途———📪13923158748@163.com请跟我用中文沟通，感谢🥹！",
+        "id": "2030989664325398528",
+        "name": "White",
+        "pinned_tweet_id": "2033395001955344625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030990668710244352/Sr4jMmcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3298,
+          "following_count": 137,
+          "like_count": 1679,
+          "listed_count": 11,
+          "media_count": 56,
+          "tweet_count": 159
+        },
+        "username": "White200406",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1985268490320928881",
+    "created_at": "2025-11-03T10:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985297649550176677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783136956420849664",
+          "start": 0,
+          "username": "BoredFish_XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985297649550176677",
+    "in_reply_to_user_id": "1783136956420849664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985297420817736108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoredFish_XY 谢谢老大ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1985268490320928881",
+        "created_at": "2025-11-03T10:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985297649550176677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783136956420849664",
+              "start": 0,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985297649550176677",
+        "in_reply_to_user_id": "1783136956420849664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985297420817736108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoredFish_XY 谢谢老大ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783136956420849664",
+        "conversation_id": "1985268490320928881",
+        "created_at": "2025-11-03T10:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985297420817736108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985297420817736108",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985268490320928881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 也很好啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 488,
+          "like_count": 21578,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 538
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "14↓🇨🇳\n\n◽️DONT USE MY ART\n◽️CHN/ES",
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "。",
+        "pinned_tweet_id": "1969393791703425269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985095192429379584/XAijQepz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 513,
+          "like_count": 10930,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 1540
+        },
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

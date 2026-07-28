@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1864128283488793027",
+    "created_at": "2024-12-04T11:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T12:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864268081821876259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1643892668668452864",
+          "start": 0,
+          "username": "zhangji69081059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864268081821876259",
+    "in_reply_to_user_id": "1643892668668452864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864128283488793027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangji69081059 平壤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1864128283488793027",
+        "created_at": "2024-12-04T11:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T12:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864268081821876259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1643892668668452864",
+              "start": 0,
+              "username": "zhangji69081059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864268081821876259",
+        "in_reply_to_user_id": "1643892668668452864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864128283488793027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangji69081059 平壤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864128272306749440"
+          ]
+        },
+        "author_id": "1643892668668452864",
+        "conversation_id": "1864128283488793027",
+        "created_at": "2024-12-04T02:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T03:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864128283488793027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ar94KVnk0z",
+              "end": 51,
+              "expanded_url": "https://x.com/zhangji69081059/status/1864128283488793027/photo/1",
+              "media_key": "3_1864128272306749440",
+              "start": 28,
+              "url": "https://t.co/ar94KVnk0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864128283488793027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4269,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 94,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "假如现在在北京不是首都了，那么哪个城市最适合当首都呢？ https://t.co/ar94KVnk0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 185,
+          "like_count": 6607,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T08:26:09.000Z",
+        "description": "互粉！互粉！",
+        "id": "1643892668668452864",
+        "name": "长颈鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643902775418552320/hpztB6vA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17297,
+          "following_count": 19013,
+          "like_count": 12207,
+          "listed_count": 12,
+          "media_count": 5415,
+          "tweet_count": 5562
+        },
+        "username": "zhangji69081059",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987781847699599361"
+      ],
+      "media_source_tweet_id": [
+        "1987783547898474807"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1988303756161937566",
+    "created_at": "2025-11-11T17:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988303756161937566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611323855657922561",
+          "start": 3,
+          "username": "match_match03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bE5yEnPPvX",
+          "end": 47,
+          "expanded_url": "https://x.com/match_match03/status/1987783547898474807/photo/1",
+          "media_key": "3_1987781847699599361",
+          "start": 24,
+          "url": "https://t.co/bE5yEnPPvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988303756161937566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 500
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987783547898474807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @match_match03: プリ~💜 https://t.co/bE5yEnPPvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2392,
+        "media_key": "3_1987781847699599361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YFDwsasAE-DoV.jpg",
+        "width": 1838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987781847699599361"
+          ],
+          "media_source_tweet_id": [
+            "1987783547898474807"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1988303756161937566",
+        "created_at": "2025-11-11T17:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988303756161937566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611323855657922561",
+              "start": 3,
+              "username": "match_match03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE5yEnPPvX",
+              "end": 47,
+              "expanded_url": "https://x.com/match_match03/status/1987783547898474807/photo/1",
+              "media_key": "3_1987781847699599361",
+              "start": 24,
+              "url": "https://t.co/bE5yEnPPvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988303756161937566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 500
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987783547898474807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @match_match03: プリ~💜 https://t.co/bE5yEnPPvX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987781847699599361"
+          ]
+        },
+        "author_id": "1611323855657922561",
+        "conversation_id": "1987783547898474807",
+        "created_at": "2025-11-10T07:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987783547898474807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE5yEnPPvX",
+              "end": 28,
+              "expanded_url": "https://x.com/match_match03/status/1987783547898474807/photo/1",
+              "media_key": "3_1987781847699599361",
+              "start": 5,
+              "url": "https://t.co/bE5yEnPPvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987783547898474807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 47989,
+          "like_count": 4370,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 500
+        },
+        "reply_settings": "everyone",
+        "text": "プリ~💜 https://t.co/bE5yEnPPvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 508,
+          "like_count": 22159,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 558
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T11:29:31.000Z",
+        "description": "♜⃤壁打ちド固定関係性カプ厨   ¦  大陸情報あり/20↑🔕博左固定🔄✖️思想強⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/matchmatch03",
+                "end": 23,
+                "expanded_url": "https://lit.link/matchmatch03",
+                "start": 0,
+                "url": "https://t.co/NQAdjoooX8"
+              }
+            ]
+          }
+        },
+        "id": "1611323855657922561",
+        "location": "自衛してます。ツイ消し多め",
+        "name": "マッチ棒",
+        "pinned_tweet_id": "1956303551883272648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934962425260118016/3INh--ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14091,
+          "following_count": 36,
+          "like_count": 4706,
+          "listed_count": 76,
+          "media_count": 234,
+          "tweet_count": 2595
+        },
+        "url": "https://t.co/NQAdjoooX8",
+        "username": "match_match03",
+        "verified": false
+      }
+    ]
+  }
+}

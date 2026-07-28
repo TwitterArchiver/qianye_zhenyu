@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985031814617141248"
+      ],
+      "media_source_tweet_id": [
+        "1985031855398375896"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1990563654773977354",
+    "created_at": "2025-11-17T23:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T00:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990563654773977354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dhu2QO9X0h",
+          "end": 54,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1985031855398375896/photo/1",
+          "media_key": "3_1985031814617141248",
+          "start": 31,
+          "url": "https://t.co/Dhu2QO9X0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990563654773977354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 776
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985031855398375896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 我将会把这张图供起来 https://t.co/Dhu2QO9X0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1985031814617141248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4w_6xIakAAH4-3.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985031814617141248"
+          ],
+          "media_source_tweet_id": [
+            "1985031855398375896"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1990563654773977354",
+        "created_at": "2025-11-17T23:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T00:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990563654773977354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dhu2QO9X0h",
+              "end": 54,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1985031855398375896/photo/1",
+              "media_key": "3_1985031814617141248",
+              "start": 31,
+              "url": "https://t.co/Dhu2QO9X0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990563654773977354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 776
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985031855398375896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 我将会把这张图供起来 https://t.co/Dhu2QO9X0h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985031814617141248"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1985031855398375896",
+        "created_at": "2025-11-02T17:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985031855398375896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dhu2QO9X0h",
+              "end": 34,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1985031855398375896/photo/1",
+              "media_key": "3_1985031814617141248",
+              "start": 11,
+              "url": "https://t.co/Dhu2QO9X0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985031855398375896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 673,
+          "impression_count": 376584,
+          "like_count": 10091,
+          "quote_count": 56,
+          "reply_count": 48,
+          "retweet_count": 776
+        },
+        "reply_settings": "everyone",
+        "text": "我将会把这张图供起来 https://t.co/Dhu2QO9X0h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜                                             明日方舟玩家，但是最喜欢二阶堂希罗         苦难菜逼画画人，不定时诈尸",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 533,
+          "like_count": 22931,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 582
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9128,
+          "following_count": 7671,
+          "like_count": 27048,
+          "listed_count": 18,
+          "media_count": 6322,
+          "tweet_count": 40785
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

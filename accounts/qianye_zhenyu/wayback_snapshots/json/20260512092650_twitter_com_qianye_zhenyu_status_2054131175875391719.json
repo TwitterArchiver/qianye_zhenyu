@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2053840021728506109",
+    "created_at": "2026-05-12T09:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054131175875391719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018588266291990528",
+          "start": 0,
+          "username": "MoShang52mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054131175875391719",
+    "in_reply_to_user_id": "2018588266291990528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054131021436899568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoShang52mm 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2053840021728506109",
+        "created_at": "2026-05-12T09:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054131175875391719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018588266291990528",
+              "start": 0,
+              "username": "MoShang52mm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054131175875391719",
+        "in_reply_to_user_id": "2018588266291990528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054131021436899568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoShang52mm 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018588266291990528",
+        "conversation_id": "2053840021728506109",
+        "created_at": "2026-05-12T09:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054131021436899568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054131021436899568",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053840021728506109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 恭喜你呀！ 好耶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2053840021728506109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 1480,
+          "like_count": 33952,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 839
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T07:32:08.000Z",
+        "description": "07😙♪♪|摩羯座♑|游戏爱好者🎮|喜欢英语📝|性格淡淡的💦|希望一切都好😉",
+        "id": "2018588266291990528",
+        "location": "Dream",
+        "name": "默伤伤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018589014660632577/fUkG4KbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 79,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 189
+        },
+        "username": "MoShang52mm",
+        "verified": false
+      }
+    ]
+  }
+}

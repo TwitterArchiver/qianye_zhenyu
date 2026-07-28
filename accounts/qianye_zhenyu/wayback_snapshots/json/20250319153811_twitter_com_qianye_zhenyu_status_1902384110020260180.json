@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1902384110020260180",
+    "created_at": "2025-03-19T15:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T16:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902384110020260180"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902384110020260180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近不知道怎么的，啥也不想弄，板绘什么的好像都停了快半个月没弄了…总之就是没什么心情去画图（🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1902384110020260180",
+        "created_at": "2025-03-19T15:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T16:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902384110020260180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902384110020260180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近不知道怎么的，啥也不想弄，板绘什么的好像都停了快半个月没弄了…总之就是没什么心情去画图（🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774684260560897/-rVPPNon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 371,
+          "like_count": 13017,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 189
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

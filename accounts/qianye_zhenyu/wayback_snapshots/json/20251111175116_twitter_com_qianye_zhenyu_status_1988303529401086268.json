@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988303507989164037"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988303529401086268",
+    "created_at": "2025-11-11T17:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988303529401086268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTGJRmDqHC",
+          "end": 123,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1988303529401086268/photo/1",
+          "media_key": "3_1988303507989164037",
+          "start": 100,
+          "url": "https://t.co/vTGJRmDqHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988303529401086268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么壁瓶颈期能卡我三年？\n什么叫画的不如三年前？！\n什么叫我退步了？！！\n够了，不要再叫我了\n这个世界太可怕了\n哪怕我天天画图画到死也不会超过曾经的自己\n好了我懒得听懒得想了，我要回去玩旮旯给木了！ https://t.co/vTGJRmDqHC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1988303507989164037",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ffgYtbcAUnWVS.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988303507989164037"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988303529401086268",
+        "created_at": "2025-11-11T17:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988303529401086268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTGJRmDqHC",
+              "end": 123,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1988303529401086268/photo/1",
+              "media_key": "3_1988303507989164037",
+              "start": 100,
+              "url": "https://t.co/vTGJRmDqHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988303529401086268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么壁瓶颈期能卡我三年？\n什么叫画的不如三年前？！\n什么叫我退步了？！！\n够了，不要再叫我了\n这个世界太可怕了\n哪怕我天天画图画到死也不会超过曾经的自己\n好了我懒得听懒得想了，我要回去玩旮旯给木了！ https://t.co/vTGJRmDqHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 507,
+          "like_count": 22155,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 557
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

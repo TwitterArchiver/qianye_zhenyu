@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974407611085930496"
+      ],
+      "media_source_tweet_id": [
+        "1974407616458793146"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1974533429372055679",
+    "created_at": "2025-10-04T17:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T18:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974533429372055679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "66378452",
+          "start": 3,
+          "username": "no100"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3RxktKRIK6",
+          "end": 49,
+          "expanded_url": "https://x.com/no100/status/1974407616458793146/photo/1",
+          "media_key": "3_1974407611085930496",
+          "start": 26,
+          "url": "https://t.co/3RxktKRIK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974533429372055679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974407616458793146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @no100: アメリカンショートの女の子🐱 https://t.co/3RxktKRIK6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974407611085930496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2aBQuyawAAdB-L.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974407611085930496"
+          ],
+          "media_source_tweet_id": [
+            "1974407616458793146"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1974533429372055679",
+        "created_at": "2025-10-04T17:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974533429372055679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "66378452",
+              "start": 3,
+              "username": "no100"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RxktKRIK6",
+              "end": 49,
+              "expanded_url": "https://x.com/no100/status/1974407616458793146/photo/1",
+              "media_key": "3_1974407611085930496",
+              "start": 26,
+              "url": "https://t.co/3RxktKRIK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974533429372055679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974407616458793146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @no100: アメリカンショートの女の子🐱 https://t.co/3RxktKRIK6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974407611085930496"
+          ]
+        },
+        "author_id": "66378452",
+        "conversation_id": "1974407616458793146",
+        "created_at": "2025-10-04T09:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974407616458793146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RxktKRIK6",
+              "end": 38,
+              "expanded_url": "https://x.com/no100/status/1974407616458793146/photo/1",
+              "media_key": "3_1974407611085930496",
+              "start": 15,
+              "url": "https://t.co/3RxktKRIK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974407616458793146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 428,
+          "impression_count": 33802,
+          "like_count": 2123,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "アメリカンショートの女の子🐱 https://t.co/3RxktKRIK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 474,
+          "like_count": 20746,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 500
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-17T15:24:51.000Z",
+        "description": "漫画を描く屋 怪鼠一見帳・花札連載中https://t.co/zqHLwKuACA書籍購入リンク・連絡先等まとめhttps://t.co/51bWM1rIfw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic-medu.com/series/5d96a7d…",
+                "end": 41,
+                "expanded_url": "https://comic-medu.com/series/5d96a7d0976b9",
+                "start": 18,
+                "url": "https://t.co/zqHLwKuACA"
+              },
+              {
+                "display_url": "potofu.me/no100",
+                "end": 79,
+                "expanded_url": "http://potofu.me/no100",
+                "start": 56,
+                "url": "https://t.co/51bWM1rIfw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/no100",
+                "end": 23,
+                "expanded_url": "http://potofu.me/no100",
+                "start": 0,
+                "url": "https://t.co/51bWM1rIfw"
+              }
+            ]
+          }
+        },
+        "id": "66378452",
+        "location": "ｴﾝｼﾞｮｲ＆notﾊﾟﾝﾂ",
+        "name": "1号",
+        "pinned_tweet_id": "1972263972280975624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559199216345370625/Xx5zQjb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50205,
+          "following_count": 1834,
+          "like_count": 111237,
+          "listed_count": 628,
+          "media_count": 269,
+          "tweet_count": 70721
+        },
+        "url": "https://t.co/51bWM1rIfw",
+        "username": "no100",
+        "verified": true
+      }
+    ]
+  }
+}

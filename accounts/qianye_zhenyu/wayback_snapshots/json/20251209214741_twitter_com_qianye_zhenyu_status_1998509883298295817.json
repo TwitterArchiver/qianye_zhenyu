@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1938828740668043302",
+    "created_at": "2025-12-09T21:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T22:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998509883298295817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783136956420849664",
+          "start": 0,
+          "username": "BoredFish_XY"
+        },
+        {
+          "end": 23,
+          "id": "1589809419822329857",
+          "start": 14,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998509883298295817",
+    "in_reply_to_user_id": "1783136956420849664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998509662401077734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoredFish_XY @jianlvup 嗯？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1998509662401077734].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1998509662401077734",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1998509662401077734"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1938828740668043302",
+        "created_at": "2025-12-09T21:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T22:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998509883298295817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783136956420849664",
+              "start": 0,
+              "username": "BoredFish_XY"
+            },
+            {
+              "end": 23,
+              "id": "1589809419822329857",
+              "start": 14,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998509883298295817",
+        "in_reply_to_user_id": "1783136956420849664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998509662401077734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoredFish_XY @jianlvup 嗯？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注好兄弟@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 561,
+          "like_count": 23714,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 607
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "OC 人\n\n◽️DONT USE MY ART\n◽️CHN/ES\n◽️好兄弟：@qianye_zhenyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "qianye_zhenyu"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "。",
+        "pinned_tweet_id": "1969393791703425269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998028365442215937/-FzVIe3f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 508,
+          "like_count": 11286,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1573
+        },
+        "username": "BoredFish_XY",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人  INTJ 欢迎交流 爱评论点赞 \n逃生舱：@jianlvya\n搭档:@KawawaDiana8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "jianlvya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1997805636038570382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992981633105113088/ZtR4hyl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13669,
+          "following_count": 1137,
+          "like_count": 62566,
+          "listed_count": 46,
+          "media_count": 2195,
+          "tweet_count": 4949
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990101002096095233"
+      ],
+      "media_source_tweet_id": [
+        "1990101122732736784"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990111538309394656",
+    "created_at": "2025-11-16T17:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T18:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990111538309394656"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "OC"
+        },
+        {
+          "end": 44,
+          "start": 26,
+          "tag": "originalcharacter"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990092351650553856",
+          "start": 3,
+          "username": "boredfish_12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8V39xLy6bQ",
+          "end": 68,
+          "expanded_url": "https://x.com/boredfish_12/status/1990101122732736784/photo/1",
+          "media_key": "3_1990101002096095233",
+          "start": 45,
+          "url": "https://t.co/8V39xLy6bQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990111538309394656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990101122732736784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boredfish_12: 杀死他\n#OC #originalcharacter https://t.co/8V39xLy6bQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1990101002096095233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55CUUEWMAExliZ.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990101002096095233"
+          ],
+          "media_source_tweet_id": [
+            "1990101122732736784"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990111538309394656",
+        "created_at": "2025-11-16T17:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990111538309394656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "OC"
+            },
+            {
+              "end": 44,
+              "start": 26,
+              "tag": "originalcharacter"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990092351650553856",
+              "start": 3,
+              "username": "boredfish_12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8V39xLy6bQ",
+              "end": 68,
+              "expanded_url": "https://x.com/boredfish_12/status/1990101122732736784/photo/1",
+              "media_key": "3_1990101002096095233",
+              "start": 45,
+              "url": "https://t.co/8V39xLy6bQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990111538309394656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990101122732736784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boredfish_12: 杀死他\n#OC #originalcharacter https://t.co/8V39xLy6bQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990101002096095233"
+          ]
+        },
+        "author_id": "1990092351650553856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990101122732736784",
+        "created_at": "2025-11-16T16:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990101122732736784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "OC"
+            },
+            {
+              "end": 26,
+              "start": 8,
+              "tag": "originalcharacter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8V39xLy6bQ",
+              "end": 50,
+              "expanded_url": "https://x.com/boredfish_12/status/1990101122732736784/photo/1",
+              "media_key": "3_1990101002096095233",
+              "start": 27,
+              "url": "https://t.co/8V39xLy6bQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990101122732736784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "杀死他\n#OC #originalcharacter https://t.co/8V39xLy6bQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜                                             明日方舟玩家，但是最喜欢二阶堂希罗         苦难菜逼画画人，不定时诈尸",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 531,
+          "like_count": 22787,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 580
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T16:19:32.000Z",
+        "description": "◽️DONT USE MY ART\n◽️CHN/ES",
+        "id": "1990092351650553856",
+        "location": "Spanish ",
+        "name": "。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990094060854362112/0ZOQ1Bvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "boredfish_12",
+        "verified": false
+      }
+    ]
+  }
+}

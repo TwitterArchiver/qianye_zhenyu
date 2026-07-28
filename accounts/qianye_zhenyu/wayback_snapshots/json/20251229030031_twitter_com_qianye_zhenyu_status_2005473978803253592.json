@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2005292104772386841",
+    "created_at": "2025-12-29T03:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T04:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005473978803253592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864468641305251844",
+          "start": 0,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005473978803253592",
+    "in_reply_to_user_id": "1864468641305251844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005292104772386841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaNpc 按照以前我一定会有个朋友不舒服，但是我现在不是一个人了😎👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2005292104772386841",
+        "created_at": "2025-12-29T03:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T04:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005473978803253592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864468641305251844",
+              "start": 0,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005473978803253592",
+        "in_reply_to_user_id": "1864468641305251844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005292104772386841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaNpc 按照以前我一定会有个朋友不舒服，但是我现在不是一个人了😎👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "2005292104772386841",
+        "created_at": "2025-12-28T14:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005292104772386841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005292104772386841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19522,
+          "like_count": 192,
+          "quote_count": 6,
+          "reply_count": 51,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "不是 你真一个人跨年啊 还以为你玩梗呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 644,
+          "like_count": 26002,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 743
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該 ｜‼️置顶锁评推广自行分辨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/album/4m5WJ461…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8?si=qFKUWWJ2TSe-tNV_ELwQtQ",
+                "start": 0,
+                "url": "https://t.co/Oy9GMmbvRm"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓｜置顶锁评推广请自辨🤖｜🚪77",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "2005271956061626447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996281484987265024/qwEt6czg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11984,
+          "following_count": 133,
+          "like_count": 10658,
+          "listed_count": 18,
+          "media_count": 159,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/Oy9GMmbvRm",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1972368291265155111",
+    "created_at": "2025-09-30T16:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T17:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973066820224717249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1713528787378245632",
+          "start": 0,
+          "username": "a487671853"
+        },
+        {
+          "end": 23,
+          "id": "1517336247147982848",
+          "start": 12,
+          "username": "jiaxinhai1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973066820224717249",
+    "in_reply_to_user_id": "1713528787378245632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972682503065677981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a487671853 @jiaxinhai1 参考黑人留学生（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1972368291265155111",
+        "created_at": "2025-09-30T16:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T17:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973066820224717249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1713528787378245632",
+              "start": 0,
+              "username": "a487671853"
+            },
+            {
+              "end": 23,
+              "id": "1517336247147982848",
+              "start": 12,
+              "username": "jiaxinhai1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973066820224717249",
+        "in_reply_to_user_id": "1713528787378245632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972682503065677981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a487671853 @jiaxinhai1 参考黑人留学生（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713528787378245632",
+        "conversation_id": "1972368291265155111",
+        "created_at": "2025-09-29T15:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972682503065677981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1517336247147982848",
+              "start": 0,
+              "username": "jiaxinhai1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972682503065677981",
+        "in_reply_to_user_id": "1517336247147982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 29183,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972368291265155111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaxinhai1 不过开放了愿意移民中国的估计也不多，毕竟社会环境太卷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 470,
+          "like_count": 20115,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 492
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T12:14:50.000Z",
+        "description": "一个来自仙女座星系的吟游诗人，已经在宇宙中流浪了上千万年。我愿穿越所有的时间和空间，去聆听希格斯场所演奏的宏伟乐章。小号：https://t.co/R8mHzKjbKy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cai012515354807",
+                "end": 84,
+                "expanded_url": "https://x.com/cai012515354807",
+                "start": 61,
+                "url": "https://t.co/R8mHzKjbKy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "science.nasa.gov/mission/webb/",
+                "end": 23,
+                "expanded_url": "https://science.nasa.gov/mission/webb/",
+                "start": 0,
+                "url": "https://t.co/3YuwgHpdPY"
+              }
+            ]
+          }
+        },
+        "id": "1713528787378245632",
+        "location": "Laniakea Supercluster",
+        "name": "Walk in Stars星海旅人👽",
+        "pinned_tweet_id": "1965682773450187244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969366145070481412/Ww4QeMYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 2359,
+          "like_count": 28455,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 3049
+        },
+        "url": "https://t.co/3YuwgHpdPY",
+        "username": "a487671853",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T02:55:35.000Z",
+        "description": "好耶，是大冒险！🤗🤗🤗🤗🤗",
+        "id": "1517336247147982848",
+        "location": "⚛",
+        "name": "嘉心海🌊珊瑚宫心海无限永恒永远激推🥰🥰🥰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957973929152376832/uh01RNAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8472,
+          "following_count": 512,
+          "like_count": 2427,
+          "listed_count": 30,
+          "media_count": 1222,
+          "tweet_count": 4884
+        },
+        "username": "jiaxinhai1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1999695604604428364",
+    "created_at": "2025-12-14T04:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000053383185768640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852293817627787264",
+          "start": 0,
+          "username": "Orc30678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000053383185768640",
+    "in_reply_to_user_id": "1852293817627787264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999695604604428364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orc30678 🥶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999695604604428364].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999695604604428364",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999695604604428364"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1999695604604428364",
+        "created_at": "2025-12-14T04:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000053383185768640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852293817627787264",
+              "start": 0,
+              "username": "Orc30678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000053383185768640",
+        "in_reply_to_user_id": "1852293817627787264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999695604604428364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orc30678 🥶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 572,
+          "like_count": 24382,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 643
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T10:18:17.000Z",
+        "description": "hoi4等のゲーム内容やPB絵を投稿してます。 無許可会話追加は遠慮で。興味極広い。アクナイドクター 共犯者 锁推号/鍵垢@SubOrc30678",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "SubOrc30678"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "TNO.wiki",
+                "end": 23,
+                "expanded_url": "http://TNO.wiki",
+                "start": 0,
+                "url": "https://t.co/iHdsSVFmP9"
+              }
+            ]
+          }
+        },
+        "id": "1852293817627787264",
+        "location": "ブルグント騎士団国 ブリュッセル本部",
+        "name": "☢️🇩🇪ORC🇨🇵☢️(低浮上)",
+        "pinned_tweet_id": "1953466962777985352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990058575864238080/QbdeVcYs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 3351,
+          "like_count": 69342,
+          "listed_count": 3,
+          "media_count": 1351,
+          "tweet_count": 16178
+        },
+        "url": "https://t.co/iHdsSVFmP9",
+        "username": "Orc30678",
+        "verified": false
+      }
+    ]
+  }
+}

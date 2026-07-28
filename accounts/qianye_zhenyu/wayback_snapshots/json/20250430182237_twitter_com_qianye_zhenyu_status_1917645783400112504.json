@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1917396038639575411",
+    "created_at": "2025-04-30T18:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T19:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917645783400112504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917645783400112504",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917396038639575411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 别动手，我自己来（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1058,
+        "media_key": "3_1917396032209797120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpv1iFGbwAA9mC1.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1917396038639575411",
+        "created_at": "2025-04-30T18:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T19:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917645783400112504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917645783400112504",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917396038639575411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 别动手，我自己来（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917396032209797120"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1917396038639575411",
+        "created_at": "2025-04-30T01:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T02:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917396038639575411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ezfkl90dcw",
+              "end": 39,
+              "expanded_url": "https://x.com/jianlvup/status/1917396038639575411/photo/1",
+              "media_key": "3_1917396032209797120",
+              "start": 16,
+              "url": "https://t.co/Ezfkl90dcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917396038639575411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 296274,
+          "like_count": 864,
+          "quote_count": 8,
+          "reply_count": 163,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "如果他们是你的室友，你怎么办？ https://t.co/Ezfkl90dcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 421,
+          "like_count": 15962,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 360
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 二次元热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5万粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "name": "简律·繁律",
+        "pinned_tweet_id": "1917396038639575411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 446,
+          "like_count": 3665,
+          "listed_count": 5,
+          "media_count": 158,
+          "tweet_count": 442
+        },
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

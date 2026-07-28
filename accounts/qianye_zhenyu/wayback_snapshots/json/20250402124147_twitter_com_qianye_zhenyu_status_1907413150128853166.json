@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1907249741186167209",
+    "created_at": "2025-04-02T12:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T13:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907413150128853166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1092105063739211777",
+          "start": 0,
+          "username": "RjGv85AxEm3O4f6"
+        },
+        {
+          "end": 32,
+          "id": "31083308",
+          "start": 17,
+          "username": "wangwatchworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907413150128853166",
+    "in_reply_to_user_id": "1092105063739211777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907360667180638328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RjGv85AxEm3O4f6 @wangwatchworld 牢蒋都没承认台湾是个国家，而且老中打台湾的正当理由能有一大堆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1907249741186167209",
+        "created_at": "2025-04-02T12:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T13:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907413150128853166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1092105063739211777",
+              "start": 0,
+              "username": "RjGv85AxEm3O4f6"
+            },
+            {
+              "end": 32,
+              "id": "31083308",
+              "start": 17,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907413150128853166",
+        "in_reply_to_user_id": "1092105063739211777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907360667180638328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RjGv85AxEm3O4f6 @wangwatchworld 牢蒋都没承认台湾是个国家，而且老中打台湾的正当理由能有一大堆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1092105063739211777",
+        "conversation_id": "1907249741186167209",
+        "created_at": "2025-04-02T09:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907360667180638328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "31083308",
+              "start": 0,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907360667180638328",
+        "in_reply_to_user_id": "31083308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8888,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907249741186167209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwatchworld 打起来就是侵略战争  中国将与全世界为敌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中…… 最近在学日语ing…. ………(正在努力逃离这片炼狱）",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 391,
+          "like_count": 13735,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 223
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-03T16:58:32.000Z",
+        "description": "",
+        "id": "1092105063739211777",
+        "location": "Singapore",
+        "name": "翮謫鴖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907384744960258048/EGl3qJ13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 108,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 146
+        },
+        "username": "RjGv85AxEm3O4f6",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-14T08:11:59.000Z",
+        "description": "废话多于财经\nhttps://t.co/20gEmbFstl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unclewaanginphuket.blogspot.com",
+                "end": 30,
+                "expanded_url": "http://unclewaanginphuket.blogspot.com",
+                "start": 7,
+                "url": "https://t.co/20gEmbFstl"
+              }
+            ]
+          }
+        },
+        "id": "31083308",
+        "location": "泰国",
+        "name": "王海滨的财经闲谈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887190420452769792/wLInj9Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211680,
+          "following_count": 988,
+          "like_count": 3209,
+          "listed_count": 1420,
+          "media_count": 5151,
+          "tweet_count": 42684
+        },
+        "username": "wangwatchworld",
+        "verified": true
+      }
+    ]
+  }
+}

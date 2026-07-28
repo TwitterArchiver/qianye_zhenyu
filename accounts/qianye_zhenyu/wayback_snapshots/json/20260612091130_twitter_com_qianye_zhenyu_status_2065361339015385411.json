@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2065333954165821723",
+    "created_at": "2026-06-12T09:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065361339015385411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859058867352858625",
+          "start": 0,
+          "username": "lgdlaika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065361339015385411",
+    "in_reply_to_user_id": "1859058867352858625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065333954165821723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lgdlaika 厉害喔喵！🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 831,
+        "media_key": "3_2065333935253692417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmKRYFbIAEAJO5.png",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2065333954165821723",
+        "created_at": "2026-06-12T09:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065361339015385411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859058867352858625",
+              "start": 0,
+              "username": "lgdlaika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065361339015385411",
+        "in_reply_to_user_id": "1859058867352858625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065333954165821723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lgdlaika 厉害喔喵！🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065333935253692417"
+          ]
+        },
+        "author_id": "1859058867352858625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065333954165821723",
+        "created_at": "2026-06-12T07:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065333954165821723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mrhf2jJcCy",
+              "end": 40,
+              "expanded_url": "https://x.com/lgdlaika/status/2065333954165821723/photo/1",
+              "media_key": "3_2065333935253692417",
+              "start": 17,
+              "url": "https://t.co/Mrhf2jJcCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065333954165821723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好欸！100fo庆祝！\nwuwu https://t.co/Mrhf2jJcCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 2005,
+          "like_count": 37390,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1076
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T02:19:44.000Z",
+        "description": "10年的一个普通南孩纸 (認知是非二元喵\n会画画但很烂\n想是成爲一名游戲程序員？\n不长玩游戏打游戏很菜的歇（喜歡mc\n用网抑郁音乐，同时也是术批（最喜欢张丽丽小入机啦！！\n在线时间：早八到晚6随机上线；周末不在线\n欢迎私信骚扰喵\n请理性玩梗！！！！",
+        "id": "1859058867352858625",
+        "name": "諾亞_lgdlaika🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059478017093894144/F7g9Bo3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 115,
+          "like_count": 11279,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 517
+        },
+        "username": "lgdlaika",
+        "verified": false
+      }
+    ]
+  }
+}

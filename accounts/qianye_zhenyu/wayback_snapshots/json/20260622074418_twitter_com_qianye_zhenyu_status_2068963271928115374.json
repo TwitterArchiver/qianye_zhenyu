@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068963181821939712",
+        "3_2068963183973531648",
+        "3_2068963181792579584",
+        "3_2068963183994470400"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2068962687632171319",
+    "created_at": "2026-06-22T07:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068963271928115374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948395176831131648",
+          "start": 3,
+          "username": "zy89644"
+        },
+        {
+          "end": 26,
+          "id": "1729855963547774976",
+          "start": 13,
+          "username": "xngxng118438"
+        },
+        {
+          "end": 39,
+          "id": "1995705096240594948",
+          "start": 28,
+          "username": "Yorui_yoyo"
+        },
+        {
+          "end": 57,
+          "id": "1940808682998259712",
+          "start": 41,
+          "username": "Bomb_Revolution"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e4TpzGNNHF",
+          "end": 81,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2068963271928115374/photo/1",
+          "media_key": "3_2068963181821939712",
+          "start": 58,
+          "url": "https://t.co/e4TpzGNNHF"
+        },
+        {
+          "display_url": "pic.x.com/e4TpzGNNHF",
+          "end": 81,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2068963271928115374/photo/1",
+          "media_key": "3_2068963183973531648",
+          "start": 58,
+          "url": "https://t.co/e4TpzGNNHF"
+        },
+        {
+          "display_url": "pic.x.com/e4TpzGNNHF",
+          "end": 81,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2068963271928115374/photo/1",
+          "media_key": "3_2068963181792579584",
+          "start": 58,
+          "url": "https://t.co/e4TpzGNNHF"
+        },
+        {
+          "display_url": "pic.x.com/e4TpzGNNHF",
+          "end": 81,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2068963271928115374/photo/1",
+          "media_key": "3_2068963183994470400",
+          "start": 58,
+          "url": "https://t.co/e4TpzGNNHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068963271928115374",
+    "in_reply_to_user_id": "1834507955804536833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068962687632171319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "二组\n@zy89644 \n@xngxng118438 \n@Yorui_yoyo \n@Bomb_Revolution https://t.co/e4TpzGNNHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068963181821939712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZvDVHb0AAeeIg.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068963183973531648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZvDdIagAA5Rza.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068963181792579584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZvDVAb0AA-j2g.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068963183994470400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZvDdNaAAAwvvp.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068962647488483328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZukOkaUAAe-gp.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068962647492751360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZukOlbcAAiDR6.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068962647589187584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZukO8a8AAM5ng.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068962647450746880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZukObagAAH5nN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068963181821939712",
+            "3_2068963183973531648",
+            "3_2068963181792579584",
+            "3_2068963183994470400"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2068962687632171319",
+        "created_at": "2026-06-22T07:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068963271928115374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948395176831131648",
+              "start": 3,
+              "username": "zy89644"
+            },
+            {
+              "end": 26,
+              "id": "1729855963547774976",
+              "start": 13,
+              "username": "xngxng118438"
+            },
+            {
+              "end": 39,
+              "id": "1995705096240594948",
+              "start": 28,
+              "username": "Yorui_yoyo"
+            },
+            {
+              "end": 57,
+              "id": "1940808682998259712",
+              "start": 41,
+              "username": "Bomb_Revolution"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4TpzGNNHF",
+              "end": 81,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068963271928115374/photo/1",
+              "media_key": "3_2068963181821939712",
+              "start": 58,
+              "url": "https://t.co/e4TpzGNNHF"
+            },
+            {
+              "display_url": "pic.x.com/e4TpzGNNHF",
+              "end": 81,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068963271928115374/photo/1",
+              "media_key": "3_2068963183973531648",
+              "start": 58,
+              "url": "https://t.co/e4TpzGNNHF"
+            },
+            {
+              "display_url": "pic.x.com/e4TpzGNNHF",
+              "end": 81,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068963271928115374/photo/1",
+              "media_key": "3_2068963181792579584",
+              "start": 58,
+              "url": "https://t.co/e4TpzGNNHF"
+            },
+            {
+              "display_url": "pic.x.com/e4TpzGNNHF",
+              "end": 81,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068963271928115374/photo/1",
+              "media_key": "3_2068963183994470400",
+              "start": 58,
+              "url": "https://t.co/e4TpzGNNHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068963271928115374",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068962687632171319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "二组\n@zy89644 \n@xngxng118438 \n@Yorui_yoyo \n@Bomb_Revolution https://t.co/e4TpzGNNHF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068962647488483328",
+            "3_2068962647492751360",
+            "3_2068962647589187584",
+            "3_2068962647450746880"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2068962687632171319",
+        "created_at": "2026-06-22T07:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068962687632171319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1469582798604234752",
+              "start": 13,
+              "username": "yulia_OwO_"
+            },
+            {
+              "end": 39,
+              "id": "1857684678423248896",
+              "start": 26,
+              "username": "approved_cry"
+            },
+            {
+              "end": 54,
+              "id": "1545782617240653825",
+              "start": 41,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 69,
+              "id": "1783136956420849664",
+              "start": 56,
+              "username": "BoredFish_XY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKYfGaN738",
+              "end": 93,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068962687632171319/photo/1",
+              "media_key": "3_2068962647488483328",
+              "start": 70,
+              "url": "https://t.co/tKYfGaN738"
+            },
+            {
+              "display_url": "pic.x.com/tKYfGaN738",
+              "end": 93,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068962687632171319/photo/1",
+              "media_key": "3_2068962647492751360",
+              "start": 70,
+              "url": "https://t.co/tKYfGaN738"
+            },
+            {
+              "display_url": "pic.x.com/tKYfGaN738",
+              "end": 93,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068962687632171319/photo/1",
+              "media_key": "3_2068962647589187584",
+              "start": 70,
+              "url": "https://t.co/tKYfGaN738"
+            },
+            {
+              "display_url": "pic.x.com/tKYfGaN738",
+              "end": 93,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068962687632171319/photo/1",
+              "media_key": "3_2068962647450746880",
+              "start": 70,
+              "url": "https://t.co/tKYfGaN738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068962687632171319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最终拖了一周后还是摸完了\n@yulia_OwO_ \n@approved_cry \n@Orange_Chr1s \n@BoredFish_XY https://t.co/tKYfGaN738"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 2081,
+          "like_count": 38249,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1127
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "🚾↑\n381,618,168+55,952,266",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "上下左右之处",
+        "name": "이×3≈犬犬前",
+        "pinned_tweet_id": "2067969211973218734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062182453452914688/IDBPUHCl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 294,
+          "like_count": 55592,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 7251
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-29T13:33:16.000Z",
+        "description": "谢谢你注意到我哦",
+        "id": "1729855963547774976",
+        "location": "浙江",
+        "name": "星星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729859128565366784/3ix1pVzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 41,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "xngxng118438",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T04:02:51.000Z",
+        "description": "欢迎来找祈鸢聊天喵\n虽然不一定谁都喜欢捏 \n但是我会努力只展示自己的正面情绪让大家开心的呢",
+        "id": "1995705096240594948",
+        "location": "AAA卡拉彼丘量产猫娘",
+        "name": "祈鸢",
+        "pinned_tweet_id": "2061341858866016540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054577505076436993/IOx0yCv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 45,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "Yorui_yoyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T16:23:55.000Z",
+        "description": "FPS超级爱好者（valorant，cs，apex），爱好音乐（rap或者是摇滚乐），平时喜欢自己写歌词或者编写吉他solo，或者是diy一些抽象的数码设备然后吃灰XD，最喜欢的动漫是EVA！（绫波丽是最好的:3）总之，随时欢迎交朋友：3",
+        "id": "1940808682998259712",
+        "location": "中国",
+        "name": "BombRevolution",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063627387527716864/JjLZtClE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 73,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "Bomb_Revolution",
+        "verified": false
+      }
+    ]
+  }
+}

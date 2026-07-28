@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2048070220800274630",
+    "created_at": "2026-04-25T16:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048070220800274630"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048070220800274630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "缺爱逼就滚回去别打扰别人了行吗😂\n真不知道自己很他妈烦人啊，为什么被所有人讨厌自己没点逼数是吗，想不明白就他妈去死啊一帮烂蛆\n没人想知道你那逼经历过往，给他妈一点逼脸就不知道自己是谁了是吧😂\n活不下去就去死，别他妈出来碍眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2048070220800274630",
+        "created_at": "2026-04-25T16:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048070220800274630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048070220800274630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缺爱逼就滚回去别打扰别人了行吗😂\n真不知道自己很他妈烦人啊，为什么被所有人讨厌自己没点逼数是吗，想不明白就他妈去死啊一帮烂蛆\n没人想知道你那逼经历过往，给他妈一点逼脸就不知道自己是谁了是吧😂\n活不下去就去死，别他妈出来碍眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一帮乐子",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 670,
+          "like_count": 29433,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 571
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

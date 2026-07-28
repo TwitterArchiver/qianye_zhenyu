@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915707710785384450"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1915707722684571785",
+    "created_at": "2025-04-25T10:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T11:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915707722684571785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CybK3jiDWT",
+          "end": 130,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1915707722684571785/photo/1",
+          "media_key": "3_1915707710785384450",
+          "start": 107,
+          "url": "https://t.co/CybK3jiDWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915707722684571785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在才发现原来简中圈是这么豪啊………明明线上遇到的牢中都挺正常的，为什么我先下遇到的都是最极端的大傻逼…………连画画人都要搞的是真出生不如啊md\n遇到这种没素质的傻逼，我除了支那猪以外是真找不到其他词语来形容了艹 https://t.co/CybK3jiDWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_1915707710785384450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpX2A1rW8AIZyI1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915707710785384450"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1915707722684571785",
+        "created_at": "2025-04-25T10:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T11:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915707722684571785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CybK3jiDWT",
+              "end": 130,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1915707722684571785/photo/1",
+              "media_key": "3_1915707710785384450",
+              "start": 107,
+              "url": "https://t.co/CybK3jiDWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915707722684571785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在才发现原来简中圈是这么豪啊………明明线上遇到的牢中都挺正常的，为什么我先下遇到的都是最极端的大傻逼…………连画画人都要搞的是真出生不如啊md\n遇到这种没素质的傻逼，我除了支那猪以外是真找不到其他词语来形容了艹 https://t.co/CybK3jiDWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 418,
+          "like_count": 15733,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 338
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

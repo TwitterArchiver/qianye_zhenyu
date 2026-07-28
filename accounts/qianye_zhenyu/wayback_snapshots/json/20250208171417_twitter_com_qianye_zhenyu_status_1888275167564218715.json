@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1888008541388366315",
+    "created_at": "2025-02-08T17:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T18:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888275167564218715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1872447617193443328",
+          "start": 0,
+          "username": "gideonkimberly2"
+        },
+        {
+          "end": 31,
+          "id": "1825908586297368576",
+          "start": 17,
+          "username": "Novocaine8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888275167564218715",
+    "in_reply_to_user_id": "1872447617193443328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888010131578966518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gideonkimberly2 @Novocaine8964 真的是什么吊图都有啊哈哈哈🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1888008541388366315",
+        "created_at": "2025-02-08T17:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T18:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888275167564218715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1872447617193443328",
+              "start": 0,
+              "username": "gideonkimberly2"
+            },
+            {
+              "end": 31,
+              "id": "1825908586297368576",
+              "start": 17,
+              "username": "Novocaine8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888275167564218715",
+        "in_reply_to_user_id": "1872447617193443328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888010131578966518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gideonkimberly2 @Novocaine8964 真的是什么吊图都有啊哈哈哈🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888010123093934080"
+          ]
+        },
+        "author_id": "1872447617193443328",
+        "conversation_id": "1888008541388366315",
+        "created_at": "2025-02-07T23:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T00:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888010131578966518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825908586297368576",
+              "start": 0,
+              "username": "Novocaine8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPUtoZXHEK",
+              "end": 38,
+              "expanded_url": "https://x.com/gideonkimberly2/status/1888010131578966518/photo/1",
+              "media_key": "3_1888010123093934080",
+              "start": 15,
+              "url": "https://t.co/BPUtoZXHEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888010131578966518",
+        "in_reply_to_user_id": "1825908586297368576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19644,
+          "like_count": 451,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888008541388366315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Novocaine8964 https://t.co/BPUtoZXHEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画图？我给你画个蛋！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 313,
+          "like_count": 11137,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 125
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T01:01:48.000Z",
+        "description": "",
+        "id": "1872447617193443328",
+        "location": "Leonida",
+        "name": "GideonDua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877729245847302144/xv3fYI7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 156,
+          "like_count": 4210,
+          "listed_count": 0,
+          "media_count": 584,
+          "tweet_count": 699
+        },
+        "username": "gideonkimberly2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T14:51:55.000Z",
+        "description": "小号@AEEER8964｜上海の虎｜8964驱魔｜窝爱党爱国",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "AEEER8964"
+              }
+            ]
+          }
+        },
+        "id": "1825908586297368576",
+        "location": "🚪8964",
+        "name": "江え",
+        "pinned_tweet_id": "1887148671759958235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883129017269882880/vd_LJ3Oy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 498,
+          "like_count": 18992,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 3496
+        },
+        "username": "Novocaine8964",
+        "verified": false
+      }
+    ]
+  }
+}

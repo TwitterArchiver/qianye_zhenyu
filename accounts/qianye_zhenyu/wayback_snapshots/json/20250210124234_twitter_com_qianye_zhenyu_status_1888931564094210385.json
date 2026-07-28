@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1888898667991765015",
+    "created_at": "2025-02-10T12:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T13:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888931564094210385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729889498505601024",
+          "start": 0,
+          "username": "Pe_84ACh_30B"
+        },
+        {
+          "end": 27,
+          "id": "1840696853324795905",
+          "start": 14,
+          "username": "smartest8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888931564094210385",
+    "in_reply_to_user_id": "1729889498505601024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888906420399349898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pe_84ACh_30B @smartest8964 捕捉野生雷批"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1888898667991765015",
+        "created_at": "2025-02-10T12:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T13:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888931564094210385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729889498505601024",
+              "start": 0,
+              "username": "Pe_84ACh_30B"
+            },
+            {
+              "end": 27,
+              "id": "1840696853324795905",
+              "start": 14,
+              "username": "smartest8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888931564094210385",
+        "in_reply_to_user_id": "1729889498505601024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888906420399349898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pe_84ACh_30B @smartest8964 捕捉野生雷批"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729889498505601024",
+        "conversation_id": "1888898667991765015",
+        "created_at": "2025-02-10T11:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T12:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888906420399349898"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "War Thunder",
+              "probability": 0.9367,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1840696853324795905",
+              "start": 0,
+              "username": "smartest8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888906420399349898",
+        "in_reply_to_user_id": "1840696853324795905",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888898667991765015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smartest8964 War Thunder"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画图？我给你画个蛋！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 314,
+          "like_count": 11280,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 136
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T15:46:21.000Z",
+        "description": "安东星赛博棉花地里的黑奴，爬线开坑太多坐牢中",
+        "id": "1729889498505601024",
+        "location": "安东星·维亚切斯拉夫—巴兰尼科夫州",
+        "name": "Пе-8 4АЧ-30Б（新年快乐*^O^*）",
+        "pinned_tweet_id": "1868925155172667624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868769167723364352/mkyXbaWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 825,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 535,
+          "tweet_count": 5539
+        },
+        "username": "Pe_84ACh_30B",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:15:12.000Z",
+        "description": "是一只因为上辈子鉴证过多而被打入万丈深渊的可怜猫猫😿\n上帝说这一世我要好好做🐱为大家带来欢乐和愉悦喵\n大家的fo和私信都会回哒😘😘😘\n提问箱https://t.co/0pl5RlWtgl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/smartest8964",
+                "end": 93,
+                "expanded_url": "https://ngl.link/smartest8964",
+                "start": 70,
+                "url": "https://t.co/0pl5RlWtgl"
+              }
+            ]
+          }
+        },
+        "id": "1840696853324795905",
+        "location": "打飞机",
+        "name": "✝️🎮电子游戏重度依赖🎮✝️",
+        "pinned_tweet_id": "1840704449330786644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840697876139450368/VDogEhXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 207,
+          "like_count": 1098,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 609
+        },
+        "username": "smartest8964",
+        "verified": true
+      }
+    ]
+  }
+}

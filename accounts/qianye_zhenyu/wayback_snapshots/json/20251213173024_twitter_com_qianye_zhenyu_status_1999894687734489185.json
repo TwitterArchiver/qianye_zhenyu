@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1999744339820576786",
+    "created_at": "2025-12-13T17:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T18:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999894687734489185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1623251599488581632",
+          "start": 0,
+          "username": "helsing_fun"
+        },
+        {
+          "end": 20,
+          "id": "3019926270",
+          "start": 13,
+          "username": "ywwuyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999894687734489185",
+    "in_reply_to_user_id": "1623251599488581632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999755779751248079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@helsing_fun @ywwuyi 其他的舰艇：你们三个一起去了我们干啥？（不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1999744339820576786",
+        "created_at": "2025-12-13T17:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999894687734489185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1623251599488581632",
+              "start": 0,
+              "username": "helsing_fun"
+            },
+            {
+              "end": 20,
+              "id": "3019926270",
+              "start": 13,
+              "username": "ywwuyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999894687734489185",
+        "in_reply_to_user_id": "1623251599488581632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999755779751248079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@helsing_fun @ywwuyi 其他的舰艇：你们三个一起去了我们干啥？（不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623251599488581632",
+        "conversation_id": "1999744339820576786",
+        "created_at": "2025-12-13T08:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999755779751248079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3019926270",
+              "start": 0,
+              "username": "ywwuyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999755779751248079",
+        "in_reply_to_user_id": "3019926270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2870,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999744339820576786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywwuyi 快进到三航母也是三三制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 571,
+          "like_count": 24297,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 630
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T09:25:36.000Z",
+        "description": "",
+        "id": "1623251599488581632",
+        "name": "15HM4EL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654348573973299201/-iqoM4Cu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 110,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 645
+        },
+        "username": "helsing_fun",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-14T17:01:05.000Z",
+        "description": "中華艦これ提督，RTA勢，揭示板“艦娘國際”管理人，追尋鋼之魂與黃金意志的男人。\nB站https://t.co/9YSUfBAYFs\n图奇https://t.co/gSS34LtVSl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "live.bilibili.com/6655",
+                "end": 66,
+                "expanded_url": "http://live.bilibili.com/6655",
+                "start": 43,
+                "url": "https://t.co/9YSUfBAYFs"
+              },
+              {
+                "display_url": "twitch.tv/wuyikoei",
+                "end": 92,
+                "expanded_url": "http://twitch.tv/wuyikoei",
+                "start": 69,
+                "url": "https://t.co/gSS34LtVSl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbs.nga.cn/poi",
+                "end": 23,
+                "expanded_url": "http://bbs.nga.cn/poi",
+                "start": 0,
+                "url": "https://t.co/N6H8fxoToO"
+              }
+            ]
+          }
+        },
+        "id": "3019926270",
+        "location": "义乌",
+        "name": "ywwuyi",
+        "pinned_tweet_id": "1117710263933784064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966969696137363463/Odri67RK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87470,
+          "following_count": 63,
+          "like_count": 168,
+          "listed_count": 245,
+          "media_count": 1351,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/N6H8fxoToO",
+        "username": "ywwuyi",
+        "verified": false
+      }
+    ]
+  }
+}

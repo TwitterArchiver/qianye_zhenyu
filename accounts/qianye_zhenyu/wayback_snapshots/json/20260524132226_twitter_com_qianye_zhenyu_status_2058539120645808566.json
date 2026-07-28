@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058539108192899072"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2058538145382023536",
+    "created_at": "2026-05-24T13:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058539120645808566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VbP1FCnX5m",
+          "end": 29,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2058539120645808566/photo/1",
+          "media_key": "3_2058539108192899072",
+          "start": 6,
+          "url": "https://t.co/VbP1FCnX5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058539120645808566",
+    "in_reply_to_user_id": "1834507955804536833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058538145382023536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考文献： https://t.co/VbP1FCnX5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2058539108192899072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFmaYwWUAAAoid.jpg",
+        "width": 577
+      },
+      {
+        "height": 273,
+        "media_key": "3_2058538132937539585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFlhnpWgAEG7QG.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058539108192899072"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2058538145382023536",
+        "created_at": "2026-05-24T13:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058539120645808566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbP1FCnX5m",
+              "end": 29,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2058539120645808566/photo/1",
+              "media_key": "3_2058539108192899072",
+              "start": 6,
+              "url": "https://t.co/VbP1FCnX5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058539120645808566",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058538145382023536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考文献： https://t.co/VbP1FCnX5m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058538132937539585"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058538145382023536",
+        "created_at": "2026-05-24T13:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058538145382023536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSSIaR4I3T",
+              "end": 43,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2058538145382023536/photo/1",
+              "media_key": "3_2058538132937539585",
+              "start": 20,
+              "url": "https://t.co/CSSIaR4I3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058538145382023536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么防弹少年团？？是朝鲜的那个吗（不是 https://t.co/CSSIaR4I3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 1802,
+          "like_count": 35942,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 960
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

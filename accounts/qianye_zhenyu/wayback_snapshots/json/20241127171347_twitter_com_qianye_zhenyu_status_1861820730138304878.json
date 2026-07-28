@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1861714022523121872",
+    "created_at": "2024-11-27T17:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T18:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861820730138304878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786014329457778688",
+          "start": 0,
+          "username": "IzarbellaKujou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861820730138304878",
+    "in_reply_to_user_id": "1786014329457778688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861714022523121872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzarbellaKujou_ 感觉政治立场更多一点吧，也不能全因为社会阶级（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1861714022523121872",
+        "created_at": "2024-11-27T17:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T18:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861820730138304878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786014329457778688",
+              "start": 0,
+              "username": "IzarbellaKujou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861820730138304878",
+        "in_reply_to_user_id": "1786014329457778688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861714022523121872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzarbellaKujou_ 感觉政治立场更多一点吧，也不能全因为社会阶级（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786014329457778688",
+        "conversation_id": "1861714022523121872",
+        "created_at": "2024-11-27T10:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861714022523121872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861714022523121872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2329,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社会阶层决定一个中国人的政治立场\n越是社会底层，粉红的比例越高\n反而越是顶尖学府的社会精英，汉奸和支黑恨国贼的比例越高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 184,
+          "like_count": 6002,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T12:46:17.000Z",
+        "description": "尊習討支\n爱党爱国不爱人民\n感谢P我头像的脑婆@Flandre_OvO_\n圣剑形态@kujou_Queen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "Flandre_OvO_"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "kujou_Queen"
+              }
+            ]
+          }
+        },
+        "id": "1786014329457778688",
+        "location": "养猪重地，闲人免进",
+        "name": "🧸愛莎ベらら🍻九条",
+        "pinned_tweet_id": "1847949285477756948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860640454574018560/0uIVdMCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 853,
+          "like_count": 7833,
+          "listed_count": 11,
+          "tweet_count": 3343
+        },
+        "username": "IzarbellaKujou_",
+        "verified": false
+      }
+    ]
+  }
+}

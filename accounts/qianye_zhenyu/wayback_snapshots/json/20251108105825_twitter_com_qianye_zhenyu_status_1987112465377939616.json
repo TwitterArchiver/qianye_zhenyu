@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986365026853421056"
+      ],
+      "media_source_tweet_id": [
+        "1986365033958547775"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1987112465377939616",
+    "created_at": "2025-11-08T10:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987112465377939616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "935775260082765824",
+          "start": 3,
+          "username": "Hitoimim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UK1tRCMcP2",
+          "end": 37,
+          "expanded_url": "https://x.com/Hitoimim/status/1986365033958547775/photo/1",
+          "media_key": "3_1986365026853421056",
+          "start": 14,
+          "url": "https://t.co/UK1tRCMcP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987112465377939616",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2650
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986365033958547775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hitoimim: https://t.co/UK1tRCMcP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986365026853421056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D8d7vbgAAyCxv.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986365026853421056"
+          ],
+          "media_source_tweet_id": [
+            "1986365033958547775"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1987112465377939616",
+        "created_at": "2025-11-08T10:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987112465377939616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "935775260082765824",
+              "start": 3,
+              "username": "Hitoimim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UK1tRCMcP2",
+              "end": 37,
+              "expanded_url": "https://x.com/Hitoimim/status/1986365033958547775/photo/1",
+              "media_key": "3_1986365026853421056",
+              "start": 14,
+              "url": "https://t.co/UK1tRCMcP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987112465377939616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2650
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986365033958547775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hitoimim: https://t.co/UK1tRCMcP2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986365026853421056"
+          ]
+        },
+        "author_id": "935775260082765824",
+        "conversation_id": "1986365033958547775",
+        "created_at": "2025-11-06T09:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986365033958547775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UK1tRCMcP2",
+              "end": 23,
+              "expanded_url": "https://x.com/Hitoimim/status/1986365033958547775/photo/1",
+              "media_key": "3_1986365026853421056",
+              "start": 0,
+              "url": "https://t.co/UK1tRCMcP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986365033958547775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3021,
+          "impression_count": 445219,
+          "like_count": 33648,
+          "quote_count": 17,
+          "reply_count": 33,
+          "retweet_count": 2650
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UK1tRCMcP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 489,
+          "like_count": 21782,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 544
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T07:39:42.000Z",
+        "description": "絵描きます。 FANBOX: https://t.co/dTV4ythHx8 グッズ:https://t.co/gmvz3biAwG skeb(停止中): https://t.co/JmNEqakvlp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hitokomo.fanbox.cc",
+                "end": 38,
+                "expanded_url": "https://hitokomo.fanbox.cc/",
+                "start": 15,
+                "url": "https://t.co/dTV4ythHx8"
+              },
+              {
+                "display_url": "hitokomoru.booth.pm",
+                "end": 66,
+                "expanded_url": "https://hitokomoru.booth.pm/",
+                "start": 43,
+                "url": "https://t.co/gmvz3biAwG"
+              },
+              {
+                "display_url": "skeb.jp/@Hitoimim",
+                "end": 101,
+                "expanded_url": "https://skeb.jp/@Hitoimim",
+                "start": 78,
+                "url": "https://t.co/JmNEqakvlp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=30837811",
+                "start": 0,
+                "url": "https://t.co/bAw2oGgx70"
+              }
+            ]
+          }
+        },
+        "id": "935775260082765824",
+        "name": "ヒトこもる",
+        "pinned_tweet_id": "1388423863315304452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760950169435328512/_6dHoc18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440317,
+          "following_count": 378,
+          "like_count": 13414,
+          "listed_count": 3538,
+          "media_count": 273,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/bAw2oGgx70",
+        "username": "Hitoimim",
+        "verified": false
+      }
+    ]
+  }
+}

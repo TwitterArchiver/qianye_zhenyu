@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1938084808959397949",
+    "created_at": "2025-06-27T10:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T11:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938543954187698530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578410350537736192",
+          "start": 0,
+          "username": "KawaiOchaken"
+        },
+        {
+          "end": 30,
+          "id": "1702925354132992000",
+          "start": 14,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938543954187698530",
+    "in_reply_to_user_id": "1578410350537736192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938094640546066632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiOchaken @remilia_servant 三国杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1938084808959397949",
+        "created_at": "2025-06-27T10:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938543954187698530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578410350537736192",
+              "start": 0,
+              "username": "KawaiOchaken"
+            },
+            {
+              "end": 30,
+              "id": "1702925354132992000",
+              "start": 14,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938543954187698530",
+        "in_reply_to_user_id": "1578410350537736192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938094640546066632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiOchaken @remilia_servant 三国杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578410350537736192",
+        "conversation_id": "1938084808959397949",
+        "created_at": "2025-06-26T04:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938094640546066632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702925354132992000",
+              "start": 0,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938094640546066632",
+        "in_reply_to_user_id": "1702925354132992000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9455,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938084808959397949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remilia_servant 啥游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 439,
+          "like_count": 18005,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 460
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T15:42:21.000Z",
+        "description": "我来到这里只作两件事：晒茶犬和嚼泡泡糖。我现在已经没有泡泡糖了。",
+        "id": "1578410350537736192",
+        "location": "正在行驶的塔奇克马驾驶室",
+        "name": "𝕆𝕔𝕙𝕒𝕜𝕖𝕟 𝕊𝕡𝕣𝕖𝕒𝕕𝕖𝕣",
+        "pinned_tweet_id": "1847204843565302256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578410865174646785/wIkBoGdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 588,
+          "like_count": 9064,
+          "listed_count": 1,
+          "media_count": 1380,
+          "tweet_count": 10102
+        },
+        "username": "KawaiOchaken",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "母語英語/香港語 | 2025DSE • 過期男子高中生 | 現在暑期工做侍應非常折磨😭 | 左翼香港本土主義⬜🟦 | 會譯些廢梗片爛梗圖 | 東方廚 | 頭貼是好朋友幫忙畫的 | 裏帳號 @tnavres_ailimer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "tnavres_ailimer"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "New Hong Kong Republic ",
+        "name": "⬜蕾米米🟦",
+        "pinned_tweet_id": "1916556956816249106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913497390289743872/qTHbrTMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15004,
+          "following_count": 1531,
+          "like_count": 96519,
+          "listed_count": 60,
+          "media_count": 331,
+          "tweet_count": 2077
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

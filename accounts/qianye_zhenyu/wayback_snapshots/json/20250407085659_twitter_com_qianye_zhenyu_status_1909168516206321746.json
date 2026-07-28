@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1909074296758214816",
+    "created_at": "2025-04-07T08:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T09:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909168516206321746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "953195651587653632",
+          "start": 0,
+          "username": "rd3S55qQjtjMPE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909168516206321746",
+    "in_reply_to_user_id": "953195651587653632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909074296758214816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rd3S55qQjtjMPE6 你牢中真的是…有时候对付自己人是一点不输给别人啊（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1909074231482322944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn5k5hlbEAAtIZY.jpg",
+        "width": 750
+      },
+      {
+        "duration_ms": 17739,
+        "height": 1280,
+        "media_key": "13_1909074231478165504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909074231478165504/img/MAPNCJNdHa3TEcyR.jpg",
+        "public_metrics": {
+          "view_count": 11285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909074231478165504/vid/avc1/320x710/TEy23OSHkmLX3g8d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909074231478165504/vid/avc1/480x1066/rd20lR24bgW50i9i.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909074231478165504/vid/avc1/576x1280/QrJoEgQZy2ks7Ado.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909074231478165504/pl/y1Bc4j0uBPi5ZqFR.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1909074296758214816",
+        "created_at": "2025-04-07T08:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T09:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909168516206321746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "953195651587653632",
+              "start": 0,
+              "username": "rd3S55qQjtjMPE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909168516206321746",
+        "in_reply_to_user_id": "953195651587653632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909074296758214816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rd3S55qQjtjMPE6 你牢中真的是…有时候对付自己人是一点不输给别人啊（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909074231482322944",
+            "13_1909074231478165504"
+          ]
+        },
+        "author_id": "953195651587653632",
+        "conversation_id": "1909074296758214816",
+        "created_at": "2025-04-07T02:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T03:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909074296758214816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfMtggKbOm",
+              "end": 40,
+              "expanded_url": "https://x.com/rd3S55qQjtjMPE6/status/1909074296758214816/video/1",
+              "media_key": "3_1909074231482322944",
+              "start": 17,
+              "url": "https://t.co/PfMtggKbOm"
+            },
+            {
+              "display_url": "pic.x.com/PfMtggKbOm",
+              "end": 40,
+              "expanded_url": "https://x.com/rd3S55qQjtjMPE6/status/1909074296758214816/video/1",
+              "media_key": "13_1909074231478165504",
+              "start": 17,
+              "url": "https://t.co/PfMtggKbOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909074296758214816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 31024,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "缅甸园区在上班，业绩不达标就…. https://t.co/PfMtggKbOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 400,
+          "like_count": 14350,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 270
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-16T09:22:07.000Z",
+        "description": "そのまま",
+        "id": "953195651587653632",
+        "name": "🤔非常快",
+        "pinned_tweet_id": "1648904967229698050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592013415413067778/JaPW_9_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11359,
+          "following_count": 878,
+          "like_count": 71243,
+          "listed_count": 72,
+          "media_count": 11305,
+          "tweet_count": 30060
+        },
+        "username": "rd3S55qQjtjMPE6",
+        "verified": false
+      }
+    ]
+  }
+}

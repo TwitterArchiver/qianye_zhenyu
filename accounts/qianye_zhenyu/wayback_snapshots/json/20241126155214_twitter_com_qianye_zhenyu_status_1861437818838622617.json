@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1861183880721817757",
+    "created_at": "2024-11-26T15:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T16:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861437818838622617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636244273245966343",
+          "start": 0,
+          "username": "iilovejapan1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861437818838622617",
+    "in_reply_to_user_id": "1636244273245966343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861183880721817757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iilovejapan1314 这种在中国人里面算好的了，至少没直接说中文去骂人家（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1861183880721817757",
+        "created_at": "2024-11-26T15:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T16:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861437818838622617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636244273245966343",
+              "start": 0,
+              "username": "iilovejapan1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861437818838622617",
+        "in_reply_to_user_id": "1636244273245966343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861183880721817757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iilovejapan1314 这种在中国人里面算好的了，至少没直接说中文去骂人家（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1861183555533185027"
+          ]
+        },
+        "author_id": "1636244273245966343",
+        "conversation_id": "1861183880721817757",
+        "created_at": "2024-11-25T23:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T00:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861183880721817757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyJnE4xD0z",
+              "end": 92,
+              "expanded_url": "https://x.com/iilovejapan1314/status/1861183880721817757/video/1",
+              "media_key": "13_1861183555533185027",
+              "start": 69,
+              "url": "https://t.co/PyJnE4xD0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861183880721817757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 325285,
+          "like_count": 853,
+          "quote_count": 36,
+          "reply_count": 282,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "一个中国人去便利店买水，全程只用中文和店员交流，对店员造成了极大的困扰！\n\n离开时，这个中国人对于给别人造成的困扰还非常满意！\n\n🤡🤡🤡 https://t.co/PyJnE4xD0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 180,
+          "like_count": 5748,
+          "listed_count": 0,
+          "tweet_count": 25
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:53:47.000Z",
+        "description": "日本をずっと愛してる人｜元満州人エホナラ氏",
+        "id": "1636244273245966343",
+        "location": "Japan",
+        "name": "のらいぬ",
+        "pinned_tweet_id": "1842743185002639735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844274598487195648/t5tpey8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26205,
+          "following_count": 954,
+          "like_count": 17860,
+          "listed_count": 35,
+          "tweet_count": 5541
+        },
+        "username": "iilovejapan1314",
+        "verified": true
+      }
+    ]
+  }
+}

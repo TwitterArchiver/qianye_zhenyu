@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1902128622439428116",
+    "created_at": "2025-03-19T16:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T17:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902394828442497447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1347103201003098113",
+          "start": 0,
+          "username": "Bread_Dogdawang"
+        },
+        {
+          "end": 27,
+          "id": "1589203507852152832",
+          "start": 17,
+          "username": "JianLv117"
+        },
+        {
+          "end": 40,
+          "id": "1522976249173450759",
+          "start": 28,
+          "username": "bocchi1chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902394828442497447",
+    "in_reply_to_user_id": "1347103201003098113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902325655154626681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bread_Dogdawang @JianLv117 @bocchi1chan 可以润去南极洲（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1902128622439428116",
+        "created_at": "2025-03-19T16:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T17:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902394828442497447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1347103201003098113",
+              "start": 0,
+              "username": "Bread_Dogdawang"
+            },
+            {
+              "end": 27,
+              "id": "1589203507852152832",
+              "start": 17,
+              "username": "JianLv117"
+            },
+            {
+              "end": 40,
+              "id": "1522976249173450759",
+              "start": 28,
+              "username": "bocchi1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902394828442497447",
+        "in_reply_to_user_id": "1347103201003098113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902325655154626681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bread_Dogdawang @JianLv117 @bocchi1chan 可以润去南极洲（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347103201003098113",
+        "conversation_id": "1902128622439428116",
+        "created_at": "2025-03-19T11:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T12:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902325655154626681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            },
+            {
+              "end": 23,
+              "id": "1522976249173450759",
+              "start": 11,
+              "username": "bocchi1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902325655154626681",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902309313701658833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 @bocchi1chan 没有绝对完美的国家，更多时候是大家一块烂，真要建议润的话，我只建议去别的星球"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774684260560897/-rVPPNon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 372,
+          "like_count": 13074,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 192
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T08:50:14.000Z",
+        "description": "最喜欢的花是西兰花",
+        "id": "1347103201003098113",
+        "name": "晚风柔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853764898175770624/J40YG77j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 218,
+          "like_count": 1122,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1007
+        },
+        "username": "Bread_Dogdawang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱与大家讨论交流\n华北人\n可互关(需私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n朋友: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（回复1和转推多为广告❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1902128622439428116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14427,
+          "following_count": 902,
+          "like_count": 54108,
+          "listed_count": 59,
+          "media_count": 2598,
+          "tweet_count": 6529
+        },
+        "username": "JianLv117",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "music producer&photographer\nprivate message me on instagram ✉️\nhttps://t.co/jYpgMIVDT2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 86,
+                "expanded_url": "https://www.instagram.com/bocchi1chan/",
+                "start": 63,
+                "url": "https://t.co/jYpgMIVDT2"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "location": "369m",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14432,
+          "following_count": 3161,
+          "like_count": 22246,
+          "listed_count": 19,
+          "media_count": 1501,
+          "tweet_count": 3063
+        },
+        "username": "bocchi1chan",
+        "verified": true
+      }
+    ]
+  }
+}

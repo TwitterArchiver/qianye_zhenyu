@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070102916246171648"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2070102949280518435",
+    "created_at": "2026-06-25T11:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070102949280518435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wM9bL4Ztkk",
+          "end": 71,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2070102949280518435/photo/1",
+          "media_key": "3_2070102916246171648",
+          "start": 48,
+          "url": "https://t.co/wM9bL4Ztkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070102949280518435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在印象里这个游戏好像就一直在炸服\n（哽咽）没想到老中的游戏，也能深得斯拉夫游戏的精髓（泪流满面 https://t.co/wM9bL4Ztkk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1711,
+        "media_key": "3_2070102916246171648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp7omtacAATA-X.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070102916246171648"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2070102949280518435",
+        "created_at": "2026-06-25T11:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070102949280518435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wM9bL4Ztkk",
+              "end": 71,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2070102949280518435/photo/1",
+              "media_key": "3_2070102916246171648",
+              "start": 48,
+              "url": "https://t.co/wM9bL4Ztkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070102949280518435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在印象里这个游戏好像就一直在炸服\n（哽咽）没想到老中的游戏，也能深得斯拉夫游戏的精髓（泪流满面 https://t.co/wM9bL4Ztkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2069033829675762151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 2102,
+          "like_count": 38561,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1170
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2052021726804906174",
+    "created_at": "2026-05-06T15:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052050407728251303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        },
+        {
+          "end": 27,
+          "id": "1942218528100134912",
+          "start": 15,
+          "username": "youling_qaq"
+        },
+        {
+          "end": 40,
+          "id": "1972363680198361088",
+          "start": 28,
+          "username": "dnshu135734"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052050407728251303",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052021726804906174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ @youling_qaq @dnshu135734 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2052021726804906174",
+        "created_at": "2026-05-06T15:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052050407728251303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            },
+            {
+              "end": 27,
+              "id": "1942218528100134912",
+              "start": 15,
+              "username": "youling_qaq"
+            },
+            {
+              "end": 40,
+              "id": "1972363680198361088",
+              "start": 28,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052050407728251303",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052021726804906174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ @youling_qaq @dnshu135734 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2052021726804906174",
+        "created_at": "2026-05-06T13:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052021726804906174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972363680198361088",
+              "start": 3,
+              "username": "dnshu135734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052021726804906174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 42677,
+          "like_count": 204,
+          "quote_count": 10,
+          "reply_count": 129,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：@dnshu135734 淡水\n我的爱人，mtx，于2025年5月5日服用亚硝酸钠抢救无效死亡。\n\n晚安🕯️淡水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2051680473718346218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 979,
+          "like_count": 31735,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 694
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2052021726804906174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2582,
+          "following_count": 677,
+          "like_count": 6586,
+          "listed_count": 4,
+          "media_count": 324,
+          "tweet_count": 2007
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "没错，这个人就是线上比线下还社恐的一个神人（羡慕一切休学的）// 年龄党 mtf // 22.2.12 // oder // 本质神人（我再也不玩抽象梗了，别提了，真的在玩梗啊喂😭） // 瓦，cs，mc，apex，二游重度依赖 // od是错的:) // 半出柜状态 // 当你发现我在线且没回复时只能证明我 o 傻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basibatuoooooo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basibatuoooooo",
+                "start": 0,
+                "url": "https://t.co/4lMrqR4lwO"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "location": "关注塔菲喵，关注塔菲谢谢喵",
+        "name": "basibatuo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 871,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/4lMrqR4lwO",
+        "username": "youling_qaq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T18:12:15.000Z",
+        "description": "嗯………不喜欢给自己加标签但是看起来肯定很极端的废物吧｜烂人｜只依靠一个人能否活下去呢，想把自己献给最喜欢的人\n超级可爱的恋人喵@Aureliax17QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1972363680198361088",
+        "name": "淡水",
+        "pinned_tweet_id": "1975496238289354976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384690410356736/1F0gknLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 2,
+          "like_count": 5860,
+          "listed_count": 5,
+          "media_count": 90,
+          "tweet_count": 1947
+        },
+        "username": "dnshu135734",
+        "verified": false
+      }
+    ]
+  }
+}

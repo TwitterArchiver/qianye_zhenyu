@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1972039881800257715",
+    "created_at": "2025-09-28T17:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972350353502097733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "742522546600480768",
+          "start": 0,
+          "username": "Faj11er"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972350353502097733",
+    "in_reply_to_user_id": "742522546600480768",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972039881800257715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faj11er power！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972039824505778177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G14XxaaXMAE7cax.jpg",
+        "width": 1671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1972039881800257715",
+        "created_at": "2025-09-28T17:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972350353502097733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "742522546600480768",
+              "start": 0,
+              "username": "Faj11er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972350353502097733",
+        "in_reply_to_user_id": "742522546600480768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972039881800257715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faj11er power！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972039824505778177"
+          ]
+        },
+        "author_id": "742522546600480768",
+        "conversation_id": "1972039881800257715",
+        "created_at": "2025-09-27T20:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T21:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972039881800257715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xA90QrSYM",
+              "end": 23,
+              "expanded_url": "https://x.com/Faj11er/status/1972039881800257715/photo/1",
+              "media_key": "3_1972039824505778177",
+              "start": 0,
+              "url": "https://t.co/2xA90QrSYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972039881800257715",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1118,
+          "impression_count": 277708,
+          "like_count": 20448,
+          "quote_count": 201,
+          "reply_count": 36,
+          "retweet_count": 1926
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2xA90QrSYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 464,
+          "like_count": 19860,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 485
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-14T01:02:25.000Z",
+        "description": "🤳🏻🎨📜🌳☁️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fstorer.com",
+                "end": 23,
+                "expanded_url": "http://fstorer.com",
+                "start": 0,
+                "url": "https://t.co/Ku242CqKL9"
+              }
+            ]
+          }
+        },
+        "id": "742522546600480768",
+        "name": "ڡڃر",
+        "pinned_tweet_id": "1795154174314729484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939782582893203456/keHqr4sF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65771,
+          "following_count": 320,
+          "like_count": 18699,
+          "listed_count": 55,
+          "media_count": 4389,
+          "tweet_count": 9662
+        },
+        "url": "https://t.co/Ku242CqKL9",
+        "username": "Faj11er",
+        "verified": false
+      }
+    ]
+  }
+}

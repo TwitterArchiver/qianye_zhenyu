@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1914661929475563973",
+    "created_at": "2025-04-22T17:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T18:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914730685409239169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914730685409239169",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914661929475563973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 暴力事件哪个国家都有，但是看到中日双方开始靠这玩意扯皮，我就只觉得精彩（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_1914661157090287620",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpI-LZWa4AQKvga.jpg",
+        "width": 1122
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1914661238375899136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpI-QIKa4AALFpI.jpg",
+        "width": 1555
+      },
+      {
+        "duration_ms": 45487,
+        "height": 1920,
+        "media_key": "13_1914661248983318528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914661248983318528/img/JYlsgl9jdJWmh-hZ.jpg",
+        "public_metrics": {
+          "view_count": 52680
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914661248983318528/vid/avc1/1080x1920/fM2GcP93C9HsL82u.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914661248983318528/vid/avc1/720x1280/-vlEV5OyRVO4HJ3w.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914661248983318528/vid/avc1/320x568/6QEhwP8uej7aTXk1.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914661248983318528/vid/avc1/480x852/_X4b5jcGqpH9ANmQ.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914661248983318528/pl/9kBZB7zAxKwo4Uvs.m3u8?tag=16&v=645"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1914661929475563973",
+        "created_at": "2025-04-22T17:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914730685409239169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914730685409239169",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914661929475563973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 暴力事件哪个国家都有，但是看到中日双方开始靠这玩意扯皮，我就只觉得精彩（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914661157090287620",
+            "3_1914661238375899136",
+            "13_1914661248983318528"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1914661929475563973",
+        "created_at": "2025-04-22T12:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T13:45:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914661763322425474",
+          "1914661929475563973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UU2tSsX4pn",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1914661929475563973/video/1",
+              "media_key": "3_1914661157090287620",
+              "start": 99,
+              "url": "https://t.co/UU2tSsX4pn"
+            },
+            {
+              "display_url": "pic.x.com/UU2tSsX4pn",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1914661929475563973/video/1",
+              "media_key": "3_1914661238375899136",
+              "start": 99,
+              "url": "https://t.co/UU2tSsX4pn"
+            },
+            {
+              "display_url": "pic.x.com/UU2tSsX4pn",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1914661929475563973/video/1",
+              "media_key": "13_1914661248983318528",
+              "start": 99,
+              "url": "https://t.co/UU2tSsX4pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914661929475563973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日前，日本外务省在官网发布安全提醒：近期中国各地人群密集场所及街头，陆续发生了普通民众遭持刀袭击的严重事件，还发生了日本公民被杀害的事件。要求日本学校充分确认安全信息后在决定是否组织赴华修学旅行。\n 随后，中国驻日大使馆也紧急发布提醒，称近期日本社会恶性治安案件呈增加趋势，多地发生无差别杀人事件，提醒在日中国公民注意安全。\n 今天，中国外交部回应：日方所谓的“安全提醒”恶意渲染所谓中国“安全风险”，政治操弄意图明显。中方对此强烈不满、坚决反对，已向日方提出严正交涉。并指中国是一个开放包容安全的国家。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 134661,
+          "like_count": 559,
+          "quote_count": 5,
+          "reply_count": 102,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "日前，日本外务省在官网发布安全提醒：近期中国各地人群密集场所及街头，陆续发生了普通民众遭持刀袭击的严重事件，还发生了日本公民被杀害的事件。要求日本学校充分确认安全信息后在决定是否组织赴华修学旅行。 https://t.co/UU2tSsX4pn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 416,
+          "like_count": 15610,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 326
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979283,
+          "following_count": 950,
+          "like_count": 6229,
+          "listed_count": 8111,
+          "media_count": 26898,
+          "tweet_count": 33329
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

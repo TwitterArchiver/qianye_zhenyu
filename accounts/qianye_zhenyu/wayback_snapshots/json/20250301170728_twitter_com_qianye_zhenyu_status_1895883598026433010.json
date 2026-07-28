@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1895687560984478072",
+    "created_at": "2025-03-01T17:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T18:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895883598026433010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562659001707294720",
+          "start": 0,
+          "username": "luge26803075"
+        },
+        {
+          "end": 21,
+          "id": "1613079089879076864",
+          "start": 14,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895883598026433010",
+    "in_reply_to_user_id": "1562659001707294720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895776713277391103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luge26803075 @Cldeop 西海！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 185,
+        "media_key": "3_1895776690682703872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8m2x2bsAAusLY.png",
+        "width": 187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1895687560984478072",
+        "created_at": "2025-03-01T17:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T18:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895883598026433010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562659001707294720",
+              "start": 0,
+              "username": "luge26803075"
+            },
+            {
+              "end": 21,
+              "id": "1613079089879076864",
+              "start": 14,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895883598026433010",
+        "in_reply_to_user_id": "1562659001707294720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895776713277391103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luge26803075 @Cldeop 西海！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895776690682703872"
+          ]
+        },
+        "author_id": "1562659001707294720",
+        "conversation_id": "1895687560984478072",
+        "created_at": "2025-03-01T10:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T11:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895776713277391103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XVdOl5MaN",
+              "end": 31,
+              "expanded_url": "https://x.com/luge26803075/status/1895776713277391103/photo/1",
+              "media_key": "3_1895776690682703872",
+              "start": 8,
+              "url": "https://t.co/7XVdOl5MaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895776713277391103",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1214,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895687560984478072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop https://t.co/7XVdOl5MaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889342921226469376/0dvuP-xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 336,
+          "like_count": 11968,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 157
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T04:32:02.000Z",
+        "description": "物种时人时鬼，派别如左像右，性别类男似女\n兴趣列表：羽毛球，手办，战地系列，火影忍者，三国杀，cs2，电吉他，各种日常轻百番",
+        "id": "1562659001707294720",
+        "name": "ouye",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886696891876024320/J8-MZOHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 158,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 452
+        },
+        "username": "luge26803075",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 22,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1886008337625682049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56971,
+          "following_count": 557,
+          "like_count": 25988,
+          "listed_count": 196,
+          "media_count": 7967,
+          "tweet_count": 11373
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

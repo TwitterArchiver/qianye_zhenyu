@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986773027573620736"
+      ],
+      "media_source_tweet_id": [
+        "1988026131690500205"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1988305617229115610",
+    "created_at": "2025-11-11T17:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988305617229115610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634578050653507585",
+          "start": 3,
+          "username": "__Nailis__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Llx6BHtJVL",
+          "end": 47,
+          "expanded_url": "https://x.com/__Nailis__/status/1988026131690500205/photo/1",
+          "media_key": "3_1986773027573620736",
+          "start": 24,
+          "url": "https://t.co/Llx6BHtJVL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988305617229115610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988026131690500205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Nailis__: シャンティの奏 https://t.co/Llx6BHtJVL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2280,
+        "media_key": "3_1986773027573620736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Jvis3aYAAby3V.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986773027573620736"
+          ],
+          "media_source_tweet_id": [
+            "1988026131690500205"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1988305617229115610",
+        "created_at": "2025-11-11T17:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988305617229115610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634578050653507585",
+              "start": 3,
+              "username": "__Nailis__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Llx6BHtJVL",
+              "end": 47,
+              "expanded_url": "https://x.com/__Nailis__/status/1988026131690500205/photo/1",
+              "media_key": "3_1986773027573620736",
+              "start": 24,
+              "url": "https://t.co/Llx6BHtJVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988305617229115610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988026131690500205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Nailis__: シャンティの奏 https://t.co/Llx6BHtJVL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986773027573620736"
+          ]
+        },
+        "author_id": "1634578050653507585",
+        "conversation_id": "1988026131690500205",
+        "created_at": "2025-11-10T23:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988026131690500205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Llx6BHtJVL",
+              "end": 31,
+              "expanded_url": "https://x.com/__Nailis__/status/1988026131690500205/photo/1",
+              "media_key": "3_1986773027573620736",
+              "start": 8,
+              "url": "https://t.co/Llx6BHtJVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988026131690500205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 15998,
+          "like_count": 2094,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "シャンティの奏 https://t.co/Llx6BHtJVL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 510,
+          "like_count": 22201,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 561
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T15:32:36.000Z",
+        "description": "プロセカイラスト投稿してます。\nニーゴ推し\nイラストは全てAI生成です。\npixiv:https://t.co/LzFbbFlKDx\nお題箱:https://t.co/1aF1L7zkdE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/87610448",
+                "end": 66,
+                "expanded_url": "http://pixiv.net/users/87610448",
+                "start": 43,
+                "url": "https://t.co/LzFbbFlKDx"
+              },
+              {
+                "display_url": "odaibako.net/u/__Nailis__",
+                "end": 94,
+                "expanded_url": "http://odaibako.net/u/__Nailis__",
+                "start": 71,
+                "url": "https://t.co/1aF1L7zkdE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nailis3206/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nailis3206/",
+                "start": 0,
+                "url": "https://t.co/uCN1a6BewU"
+              }
+            ]
+          }
+        },
+        "id": "1634578050653507585",
+        "location": "ComfyUI,Krita",
+        "name": "Nailis",
+        "pinned_tweet_id": "1800404761268904005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762479072628903936/nlYbqZS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54134,
+          "following_count": 26,
+          "like_count": 3593,
+          "listed_count": 203,
+          "media_count": 3682,
+          "tweet_count": 5020
+        },
+        "url": "https://t.co/uCN1a6BewU",
+        "username": "__Nailis__",
+        "verified": true
+      }
+    ]
+  }
+}

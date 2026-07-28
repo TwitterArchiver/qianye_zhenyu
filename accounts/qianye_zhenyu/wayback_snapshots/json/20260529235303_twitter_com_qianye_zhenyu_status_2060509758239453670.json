@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060273006488977408"
+      ],
+      "media_source_tweet_id": [
+        "2060273014831538518"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2060509758239453670",
+    "created_at": "2026-05-29T23:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T00:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060509758239453670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tdX3Epsctl",
+          "end": 69,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2060273014831538518/photo/1",
+          "media_key": "3_2060273006488977408",
+          "start": 46,
+          "url": "https://t.co/tdX3Epsctl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060509758239453670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060273014831538518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 玩了一个月张老师的梗，还是赶不上老一辈一句话的功力 https://t.co/tdX3Epsctl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2060273006488977408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJePYjQaAAAMBqg.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060273006488977408"
+          ],
+          "media_source_tweet_id": [
+            "2060273014831538518"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2060509758239453670",
+        "created_at": "2026-05-29T23:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060509758239453670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdX3Epsctl",
+              "end": 69,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060273014831538518/photo/1",
+              "media_key": "3_2060273006488977408",
+              "start": 46,
+              "url": "https://t.co/tdX3Epsctl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060509758239453670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060273014831538518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 玩了一个月张老师的梗，还是赶不上老一辈一句话的功力 https://t.co/tdX3Epsctl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060273006488977408"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060273014831538518",
+        "created_at": "2026-05-29T08:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060273014831538518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdX3Epsctl",
+              "end": 49,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060273014831538518/photo/1",
+              "media_key": "3_2060273006488977408",
+              "start": 26,
+              "url": "https://t.co/tdX3Epsctl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060273014831538518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 189371,
+          "like_count": 1543,
+          "quote_count": 8,
+          "reply_count": 206,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "玩了一个月张老师的梗，还是赶不上老一辈一句话的功力 https://t.co/tdX3Epsctl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1840,
+          "like_count": 36049,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 974
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4406,
+          "following_count": 866,
+          "like_count": 23160,
+          "listed_count": 11,
+          "media_count": 1229,
+          "tweet_count": 6901
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

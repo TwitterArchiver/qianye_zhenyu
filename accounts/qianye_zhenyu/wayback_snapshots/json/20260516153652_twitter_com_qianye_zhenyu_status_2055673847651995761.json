@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055439842734231552"
+      ],
+      "media_source_tweet_id": [
+        "2055439849860333872"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2055673847651995761",
+    "created_at": "2026-05-16T15:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055673847651995761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C5ukfsTs0k",
+          "end": 50,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2055439849860333872/photo/1",
+          "media_key": "3_2055439842734231552",
+          "start": 27,
+          "url": "https://t.co/C5ukfsTs0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055673847651995761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055439849860333872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 翻译者是日语生 https://t.co/C5ukfsTs0k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_2055439842734231552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZjpZNb0AAa_Kq.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055439842734231552"
+          ],
+          "media_source_tweet_id": [
+            "2055439849860333872"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2055673847651995761",
+        "created_at": "2026-05-16T15:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055673847651995761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5ukfsTs0k",
+              "end": 50,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2055439849860333872/photo/1",
+              "media_key": "3_2055439842734231552",
+              "start": 27,
+              "url": "https://t.co/C5ukfsTs0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055673847651995761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055439849860333872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 翻译者是日语生 https://t.co/C5ukfsTs0k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055439842734231552"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2055439849860333872",
+        "created_at": "2026-05-16T00:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055439849860333872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5ukfsTs0k",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2055439849860333872/photo/1",
+              "media_key": "3_2055439842734231552",
+              "start": 8,
+              "url": "https://t.co/C5ukfsTs0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055439849860333872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 150446,
+          "like_count": 1323,
+          "quote_count": 20,
+          "reply_count": 59,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "翻译者是日语生 https://t.co/C5ukfsTs0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 1677,
+          "like_count": 35154,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 910
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10883,
+          "following_count": 4303,
+          "like_count": 46089,
+          "listed_count": 35,
+          "media_count": 2270,
+          "tweet_count": 13944
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1861183880721817757",
+    "created_at": "2024-11-26T16:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T17:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861440418984140953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1596795876642414592",
+          "start": 0,
+          "username": "GZLiling"
+        },
+        {
+          "end": 21,
+          "id": "1474960618826637316",
+          "start": 10,
+          "username": "afater1981"
+        },
+        {
+          "end": 38,
+          "id": "1636244273245966343",
+          "start": 22,
+          "username": "iilovejapan1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861440418984140953",
+    "in_reply_to_user_id": "1596795876642414592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861269392836960268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GZLiling @afater1981 @iilovejapan1314 有没有一种可能，1972年中美蜜月期，中国和苏联关系破裂，因为国际局势的需要，中国当时与日本的关系开始好转，您自己也可以去搜一下七八十年代中日友好往来的信息。冷战结束后国际形势变了，中国也就换了个态度对日。\n哥们只是想说国家之间历史问题啥的都没有国家利益重要，现在中俄关系也是这个原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1861183880721817757",
+        "created_at": "2024-11-26T16:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T17:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861440418984140953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1596795876642414592",
+              "start": 0,
+              "username": "GZLiling"
+            },
+            {
+              "end": 21,
+              "id": "1474960618826637316",
+              "start": 10,
+              "username": "afater1981"
+            },
+            {
+              "end": 38,
+              "id": "1636244273245966343",
+              "start": 22,
+              "username": "iilovejapan1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861440418984140953",
+        "in_reply_to_user_id": "1596795876642414592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861269392836960268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GZLiling @afater1981 @iilovejapan1314 有没有一种可能，1972年中美蜜月期，中国和苏联关系破裂，因为国际局势的需要，中国当时与日本的关系开始好转，您自己也可以去搜一下七八十年代中日友好往来的信息。冷战结束后国际形势变了，中国也就换了个态度对日。\n哥们只是想说国家之间历史问题啥的都没有国家利益重要，现在中俄关系也是这个原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596795876642414592",
+        "conversation_id": "1861183880721817757",
+        "created_at": "2024-11-26T04:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T05:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861269392836960268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1474960618826637316",
+              "start": 0,
+              "username": "afater1981"
+            },
+            {
+              "end": 28,
+              "id": "1636244273245966343",
+              "start": 12,
+              "username": "iilovejapan1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861269392836960268",
+        "in_reply_to_user_id": "1474960618826637316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861239391534141724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afater1981 @iilovejapan1314 小日本鬼子  你们当年侵略中国给中国造成伤害还小么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 180,
+          "like_count": 5750,
+          "listed_count": 0,
+          "tweet_count": 26
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:20:07.000Z",
+        "description": "逃亡国外的丧家犬请绕道！",
+        "id": "1596795876642414592",
+        "location": "中国",
+        "name": "台巴子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634447655173771265/KQIiHalM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 71,
+          "like_count": 200,
+          "listed_count": 1,
+          "tweet_count": 639
+        },
+        "username": "GZLiling",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T04:30:15.000Z",
+        "description": "少再說我綠營的，我從沒投過民進黨！我以前只投過國民黨，看到（螞這個）粿冥黨跪到我想吐就改支持民進黨！（誰跪共就拒投）🇹🇼🇺🇲🇯🇵🇺🇦🇨🇦🇭🇲🇬🇧🇨🇿🇱🇹🇮🇱🇮🇳🇰🇷",
+        "id": "1474960618826637316",
+        "name": "林北歹丸狼啦 Ken",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735220662925725697/6tdhXXIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 114,
+          "like_count": 80128,
+          "listed_count": 0,
+          "tweet_count": 21756
+        },
+        "username": "afater1981",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:53:47.000Z",
+        "description": "日本をずっと愛してる人｜元満州人エホナラ氏",
+        "id": "1636244273245966343",
+        "location": "Japan",
+        "name": "のらいぬ",
+        "pinned_tweet_id": "1842743185002639735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844274598487195648/t5tpey8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26207,
+          "following_count": 954,
+          "like_count": 17860,
+          "listed_count": 35,
+          "tweet_count": 5541
+        },
+        "username": "iilovejapan1314",
+        "verified": true
+      }
+    ]
+  }
+}

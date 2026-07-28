@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1860052932148031559",
+    "created_at": "2024-11-24T16:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T17:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860719787388674062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "136015437",
+          "start": 0,
+          "username": "big_ear_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860719787388674062",
+    "in_reply_to_user_id": "136015437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860052932148031559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@big_ear_cat 为什么不能给我塞钱让我去吹呢（乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1860052932148031559",
+        "created_at": "2024-11-24T16:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T17:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860719787388674062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "136015437",
+              "start": 0,
+              "username": "big_ear_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860719787388674062",
+        "in_reply_to_user_id": "136015437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860052932148031559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@big_ear_cat 为什么不能给我塞钱让我去吹呢（乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860052926493859840",
+            "3_1860052926405754880"
+          ]
+        },
+        "author_id": "136015437",
+        "conversation_id": "1860052932148031559",
+        "created_at": "2024-11-22T20:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T21:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860052932148031559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQsOHuGLtI",
+              "end": 39,
+              "expanded_url": "https://x.com/big_ear_cat/status/1860052932148031559/photo/1",
+              "media_key": "3_1860052926493859840",
+              "start": 16,
+              "url": "https://t.co/EQsOHuGLtI"
+            },
+            {
+              "display_url": "pic.x.com/EQsOHuGLtI",
+              "end": 39,
+              "expanded_url": "https://x.com/big_ear_cat/status/1860052932148031559/photo/1",
+              "media_key": "3_1860052926405754880",
+              "start": 16,
+              "url": "https://t.co/EQsOHuGLtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860052932148031559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 118767,
+          "like_count": 578,
+          "quote_count": 12,
+          "reply_count": 124,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "外国人来中国旅游属于睁眼看世界 https://t.co/EQsOHuGLtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 180,
+          "like_count": 5394,
+          "listed_count": 0,
+          "tweet_count": 16
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-22T20:19:24.000Z",
+        "description": "资深赵学研究家",
+        "id": "136015437",
+        "location": "America",
+        "name": "梁家河大耳朵亲自指挥猫妹掀锅盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1216845888326336512/86Mos_AC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330881,
+          "following_count": 423,
+          "like_count": 14856,
+          "listed_count": 956,
+          "tweet_count": 25283
+        },
+        "username": "big_ear_cat",
+        "verified": false
+      }
+    ]
+  }
+}

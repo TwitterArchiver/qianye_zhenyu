@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080486817267081216"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080351196586574282",
+    "created_at": "2026-07-24T02:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080486824284148157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976206716212854784",
+          "start": 0,
+          "username": "rating1pro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SA1XLciQv9",
+          "end": 42,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2080486824284148157/photo/1",
+          "media_key": "3_2080486817267081216",
+          "start": 19,
+          "url": "https://t.co/SA1XLciQv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080486824284148157",
+    "in_reply_to_user_id": "1976206716212854784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080351196586574282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rating1pro 千万不要玩😭 https://t.co/SA1XLciQv9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 293,
+        "media_key": "3_2080486817267081216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9fvMcWYAAursC.jpg",
+        "width": 532
+      },
+      {
+        "height": 261,
+        "media_key": "3_2080351186872651776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7kYd2bUAAhOtQ.jpg",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080486817267081216"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080351196586574282",
+        "created_at": "2026-07-24T02:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080486824284148157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976206716212854784",
+              "start": 0,
+              "username": "rating1pro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SA1XLciQv9",
+              "end": 42,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2080486824284148157/photo/1",
+              "media_key": "3_2080486817267081216",
+              "start": 19,
+              "url": "https://t.co/SA1XLciQv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080486824284148157",
+        "in_reply_to_user_id": "1976206716212854784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080351196586574282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rating1pro 千万不要玩😭 https://t.co/SA1XLciQv9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080351186872651776"
+          ]
+        },
+        "author_id": "1976206716212854784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080351196586574282",
+        "created_at": "2026-07-23T17:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080351196586574282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LN6diVMnz",
+              "end": 37,
+              "expanded_url": "https://x.com/rating1pro/status/2080351196586574282/photo/1",
+              "media_key": "3_2080351186872651776",
+              "start": 14,
+              "url": "https://t.co/9LN6diVMnz"
+            },
+            {
+              "display_url": "x.com/qianye_zhenyu/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/qianye_zhenyu/status/2080145009429373378",
+              "start": 38,
+              "url": "https://t.co/0Zisbi2oRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080351196586574282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080145009429373378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家不要玩傻逼游戏战争雷霆 https://t.co/9LN6diVMnz https://t.co/0Zisbi2oRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 2114,
+          "like_count": 39340,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T08:43:04.000Z",
+        "description": "孤独症 () 北京 150岁？喜欢玩游戏，想要交友可以添加我的discord(因为不怎么看推 XD 极度抽象 ;)",
+        "id": "1976206716212854784",
+        "location": "Home",
+        "name": "Ropeyhh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079625015155470336/hmkqYJ1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 42,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "rating1pro",
+        "verified": false
+      }
+    ]
+  }
+}

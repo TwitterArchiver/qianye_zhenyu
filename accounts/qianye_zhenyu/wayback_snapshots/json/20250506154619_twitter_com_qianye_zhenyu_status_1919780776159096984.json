@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919190931733127168"
+      ],
+      "media_source_tweet_id": [
+        "1919190937491664948"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1919780776159096984",
+    "created_at": "2025-05-06T15:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919780776159096984"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 13,
+          "tag": "ゴールデンウィークSNS展覧会2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1505184561319522307",
+          "start": 3,
+          "username": "_karyln"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UCo34FXHg9",
+          "end": 57,
+          "expanded_url": "https://x.com/_karyln/status/1919190937491664948/photo/1",
+          "media_key": "3_1919190931733127168",
+          "start": 34,
+          "url": "https://t.co/UCo34FXHg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919780776159096984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1354
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919190937491664948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_karyln: #ゴールデンウィークSNS展覧会2025 https://t.co/UCo34FXHg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1919190931733127168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqJV--4aoAA925G.jpg",
+        "width": 1341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919190931733127168"
+          ],
+          "media_source_tweet_id": [
+            "1919190937491664948"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1919780776159096984",
+        "created_at": "2025-05-06T15:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919780776159096984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 13,
+              "tag": "ゴールデンウィークSNS展覧会2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1505184561319522307",
+              "start": 3,
+              "username": "_karyln"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UCo34FXHg9",
+              "end": 57,
+              "expanded_url": "https://x.com/_karyln/status/1919190937491664948/photo/1",
+              "media_key": "3_1919190931733127168",
+              "start": 34,
+              "url": "https://t.co/UCo34FXHg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919780776159096984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1354
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919190937491664948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_karyln: #ゴールデンウィークSNS展覧会2025 https://t.co/UCo34FXHg9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919190931733127168"
+          ]
+        },
+        "author_id": "1505184561319522307",
+        "conversation_id": "1919190937491664948",
+        "created_at": "2025-05-05T00:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T01:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919190937491664948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "ゴールデンウィークSNS展覧会2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UCo34FXHg9",
+              "end": 44,
+              "expanded_url": "https://x.com/_karyln/status/1919190937491664948/photo/1",
+              "media_key": "3_1919190931733127168",
+              "start": 21,
+              "url": "https://t.co/UCo34FXHg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919190937491664948",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1723,
+          "impression_count": 242230,
+          "like_count": 16845,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1354
+        },
+        "reply_settings": "everyone",
+        "text": "#ゴールデンウィークSNS展覧会2025 https://t.co/UCo34FXHg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 423,
+          "like_count": 16244,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 382
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T14:09:04.000Z",
+        "description": "絵を描く人です。| Commission is open | Contact :karyln000@gmail.com or DM________________キャリンサブ :@_karyln_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "_karyln_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79857409",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/79857409",
+                "start": 0,
+                "url": "https://t.co/L2BCLObY5L"
+              }
+            ]
+          }
+        },
+        "id": "1505184561319522307",
+        "name": "キャリン / 캬린",
+        "pinned_tweet_id": "1856176161765896411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527351080031440901/eEMqklXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131973,
+          "following_count": 1458,
+          "like_count": 23600,
+          "listed_count": 862,
+          "media_count": 344,
+          "tweet_count": 8596
+        },
+        "url": "https://t.co/L2BCLObY5L",
+        "username": "_karyln",
+        "verified": true
+      }
+    ]
+  }
+}

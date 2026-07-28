@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2048294755138941259",
+    "created_at": "2026-04-26T11:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048357107238613092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1625881536057982977",
+          "start": 0,
+          "username": "hiru_nyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048357107238613092",
+    "in_reply_to_user_id": "1625881536057982977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048294755138941259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiru_nyan 豪坎喔w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4023,
+        "media_key": "3_2048294702919929856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0BLhLbUAAZOA-.jpg",
+        "width": 3037
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2048294734419103744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0BNWhakAA3NoD.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2048294755138941259",
+        "created_at": "2026-04-26T11:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048357107238613092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1625881536057982977",
+              "start": 0,
+              "username": "hiru_nyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048357107238613092",
+        "in_reply_to_user_id": "1625881536057982977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048294755138941259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiru_nyan 豪坎喔w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048294702919929856",
+            "3_2048294734419103744"
+          ]
+        },
+        "author_id": "1625881536057982977",
+        "conversation_id": "2048294755138941259",
+        "created_at": "2026-04-26T06:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048294755138941259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ObyngS4CQO",
+              "end": 23,
+              "expanded_url": "https://x.com/hiru_nyan/status/2048294755138941259/photo/1",
+              "media_key": "3_2048294702919929856",
+              "start": 0,
+              "url": "https://t.co/ObyngS4CQO"
+            },
+            {
+              "display_url": "pic.x.com/ObyngS4CQO",
+              "end": 23,
+              "expanded_url": "https://x.com/hiru_nyan/status/2048294755138941259/photo/1",
+              "media_key": "3_2048294734419103744",
+              "start": 0,
+              "url": "https://t.co/ObyngS4CQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048294755138941259",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3486,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ObyngS4CQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年耐杀王美术生再次复活！\ninfp，阴暗比远离我\n主玩明日方舟，wt，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2048070220800274630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 675,
+          "like_count": 29682,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 576
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T15:35:46.000Z",
+        "description": "bili:https://t.co/btctjKBUVy\n纯清水，谢谢喜欢\n如需购图\n①：https://t.co/9mu1G5PzIw \n②（适用于中国大陆用户）：https://t.co/ZbHBaqYdUW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/3367958",
+                "end": 28,
+                "expanded_url": "https://space.bilibili.com/3367958",
+                "start": 5,
+                "url": "https://t.co/btctjKBUVy"
+              },
+              {
+                "display_url": "hirunya.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://hirunya.fanbox.cc/",
+                "start": 45,
+                "url": "https://t.co/9mu1G5PzIw"
+              },
+              {
+                "display_url": "hedaoapp.com/56174F",
+                "end": 106,
+                "expanded_url": "http://www.hedaoapp.com/56174F",
+                "start": 83,
+                "url": "https://t.co/ZbHBaqYdUW"
+              }
+            ]
+          }
+        },
+        "id": "1625881536057982977",
+        "location": "月球",
+        "name": "昼貓hiru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996999601233317892/uz9wP-Dn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54188,
+          "following_count": 60,
+          "like_count": 44,
+          "listed_count": 216,
+          "media_count": 234,
+          "tweet_count": 257
+        },
+        "username": "hiru_nyan",
+        "verified": false
+      }
+    ]
+  }
+}

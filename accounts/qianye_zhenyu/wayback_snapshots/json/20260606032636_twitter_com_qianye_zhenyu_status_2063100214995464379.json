@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062939806347538435"
+      ],
+      "media_source_tweet_id": [
+        "2062939827415515234"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651948",
+          "name": "Re:ゼロから始める異世界体験"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1229696070654889984",
+          "name": "Re:ゼロから始める異世界生活"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      }
+    ],
+    "conversation_id": "2063100214995464379",
+    "created_at": "2026-06-06T03:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063100214995464379"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "リゼロ"
+        },
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "rezeros4"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4307700441",
+          "start": 3,
+          "username": "tgm_615486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5c38kEape",
+          "end": 65,
+          "expanded_url": "https://x.com/tgm_615486/status/2062939827415515234/photo/1",
+          "media_key": "3_2062939806347538435",
+          "start": 42,
+          "url": "https://t.co/E5c38kEape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063100214995464379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 461
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062939827415515234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tgm_615486: #リゼロ #rezeros4 \n如果奧托有來賢者塔 https://t.co/E5c38kEape"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2062939806347538435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEI0u5bsAM3-Lb.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062939806347538435"
+          ],
+          "media_source_tweet_id": [
+            "2062939827415515234"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2063100214995464379",
+        "created_at": "2026-06-06T03:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063100214995464379"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "リゼロ"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "rezeros4"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4307700441",
+              "start": 3,
+              "username": "tgm_615486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5c38kEape",
+              "end": 65,
+              "expanded_url": "https://x.com/tgm_615486/status/2062939827415515234/photo/1",
+              "media_key": "3_2062939806347538435",
+              "start": 42,
+              "url": "https://t.co/E5c38kEape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063100214995464379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 461
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062939827415515234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tgm_615486: #リゼロ #rezeros4 \n如果奧托有來賢者塔 https://t.co/E5c38kEape"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062939806347538435"
+          ]
+        },
+        "author_id": "4307700441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2062939827415515234",
+        "created_at": "2026-06-05T16:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062939827415515234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "リゼロ"
+            },
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "rezeros4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5c38kEape",
+              "end": 49,
+              "expanded_url": "https://x.com/tgm_615486/status/2062939827415515234/photo/1",
+              "media_key": "3_2062939806347538435",
+              "start": 26,
+              "url": "https://t.co/E5c38kEape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062939827415515234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 389,
+          "impression_count": 75390,
+          "like_count": 5821,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 461
+        },
+        "reply_settings": "everyone",
+        "text": "#リゼロ #rezeros4 \n如果奧托有來賢者塔 https://t.co/E5c38kEape"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 2052,
+          "like_count": 36929,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1038
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-28T14:03:28.000Z",
+        "description": "20y↑/成人済み台湾人\n中文/日文\n雜多\n物語シリーズと忍野扇好き\nCP扇右固定(男女不論) 主暦扇\n最近喜歡ナイマダ（灰Φ倶楽部）\n無言フォロー失礼します🙏 \n🔞:@gumichuu615486\n💬Φ:@yumi_03152022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "gumichuu615486"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "yumi_03152022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/imas0722",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/imas0722",
+                "start": 0,
+                "url": "https://t.co/XpwjPZeyzO"
+              }
+            ]
+          }
+        },
+        "id": "4307700441",
+        "name": "🍒🖤つぐみ🦇🪭",
+        "pinned_tweet_id": "2019446105616884005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984686218400186371/oLU_l2qu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12399,
+          "following_count": 572,
+          "like_count": 85510,
+          "listed_count": 66,
+          "media_count": 2774,
+          "tweet_count": 50969
+        },
+        "url": "https://t.co/XpwjPZeyzO",
+        "username": "tgm_615486",
+        "verified": true
+      }
+    ]
+  }
+}

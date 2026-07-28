@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2051278625664798990",
+    "created_at": "2026-05-05T04:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051513278702973343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862841230469578752",
+          "start": 0,
+          "username": "michell26795768"
+        },
+        {
+          "end": 30,
+          "id": "1769078117052854272",
+          "start": 17,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051513278702973343",
+    "in_reply_to_user_id": "1862841230469578752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051278625664798990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@michell26795768 @huahuojiang_ 在一个更缺少限制的平台，你遇到的仍是那些人，但是在这里，人性才会真正显现出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2051278625664798990",
+        "created_at": "2026-05-05T04:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051513278702973343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862841230469578752",
+              "start": 0,
+              "username": "michell26795768"
+            },
+            {
+              "end": 30,
+              "id": "1769078117052854272",
+              "start": 17,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051513278702973343",
+        "in_reply_to_user_id": "1862841230469578752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051278625664798990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@michell26795768 @huahuojiang_ 在一个更缺少限制的平台，你遇到的仍是那些人，但是在这里，人性才会真正显现出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862841230469578752",
+        "conversation_id": "2051278625664798990",
+        "created_at": "2026-05-04T12:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051278625664798990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051278625664798990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "坦白说，我对这个推特的中文区非常失望，也可能是我在搞表的缘故吧，我陷入了鉴证推的信息茧房，我曾经认为选择翻墙、能够翻墙出来的国人，是相对而言愿意开眼看世界的，是更加包容开放的，是愿意在尊重理解的基础上进行观点的交流的，但我非常诧异地发现，极端情绪化表达、缺乏基本逻辑理据支撑、互相人参攻击一言不合就上升对方父母几代，居然比墙内任何一个平台都可能还要严重? 这是和我预期完全相反的，这固然有我可能信息流不对的原因，也可能如部分朋友所说，你爱看什么推什么，但我发现不是这样子的，更加让我惊讶的是，这样的表达似乎很受欢迎，我一直在思考这个问题，或者不能将其简单粗暴地定性为问题，我们姑且把它说成一种现象吧，我想一定有它背后存在的原因，我总觉得这里格外像打开的潘多拉魔盒，人人肆无忌惮地释放自己不仅在现实甚至在内网都压抑着的情绪，所以会是这样的结果? 但如果是为了讨论而来，是想说说谈谈内网聊不了放不开的话题而来，那么理性思考可能是必须的，如果在这样的环境中迷失了自己，岂不是和初衷背道而驰了?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5460,
+          "like_count": 93,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "坦白说，我对这个推特的中文区非常失望，也可能是我在搞表的缘故吧，我陷入了鉴证推的信息茧房，我曾经认为选择翻墙、能够翻墙出来的国人，是相对而言愿意开眼看世界的，是更加包容开放的，是愿意在尊重理解的基础上进行观点的交流的，但我非常诧异地发现，极端情绪化表达、缺乏基本逻辑理据支撑、互相"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2051340257627451564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 877,
+          "like_count": 31176,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 647
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T12:49:18.000Z",
+        "description": "",
+        "id": "1862841230469578752",
+        "name": "是cc不是熙熙",
+        "pinned_tweet_id": "2040236460062941609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023298008872636417/S6eWoYVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 33,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 352
+        },
+        "username": "michell26795768",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2039014033718993306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7039,
+          "following_count": 3583,
+          "like_count": 100582,
+          "listed_count": 17,
+          "media_count": 7563,
+          "tweet_count": 93541
+        },
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

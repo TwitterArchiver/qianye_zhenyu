@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984623223217229824"
+      ],
+      "media_source_tweet_id": [
+        "1984623236601323949"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985128578976202887",
+    "created_at": "2025-11-02T23:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T00:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985128578976202887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721409036938326016",
+          "start": 3,
+          "username": "horayo328518"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tja0zcBC9Z",
+          "end": 41,
+          "expanded_url": "https://x.com/horayo328518/status/1984623236601323949/photo/1",
+          "media_key": "3_1984623223217229824",
+          "start": 18,
+          "url": "https://t.co/Tja0zcBC9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985128578976202887",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1165
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984623236601323949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horayo328518: https://t.co/Tja0zcBC9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1984623223217229824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rMTnjakAARxPc.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984623223217229824"
+          ],
+          "media_source_tweet_id": [
+            "1984623236601323949"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985128578976202887",
+        "created_at": "2025-11-02T23:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T00:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985128578976202887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721409036938326016",
+              "start": 3,
+              "username": "horayo328518"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tja0zcBC9Z",
+              "end": 41,
+              "expanded_url": "https://x.com/horayo328518/status/1984623236601323949/photo/1",
+              "media_key": "3_1984623223217229824",
+              "start": 18,
+              "url": "https://t.co/Tja0zcBC9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985128578976202887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1165
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984623236601323949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horayo328518: https://t.co/Tja0zcBC9Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984623223217229824"
+          ]
+        },
+        "author_id": "1721409036938326016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984623236601323949",
+        "created_at": "2025-11-01T14:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984623236601323949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tja0zcBC9Z",
+              "end": 23,
+              "expanded_url": "https://x.com/horayo328518/status/1984623236601323949/photo/1",
+              "media_key": "3_1984623223217229824",
+              "start": 0,
+              "url": "https://t.co/Tja0zcBC9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984623236601323949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 819,
+          "impression_count": 105375,
+          "like_count": 9893,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 1165
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tja0zcBC9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 483,
+          "like_count": 21507,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 536
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T06:08:05.000Z",
+        "description": "draw stuff ｜AI 🚫\nwb：老师我好饿w",
+        "id": "1721409036938326016",
+        "name": "老师我好饿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774035275607605248/3iqgkEfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22511,
+          "following_count": 1990,
+          "like_count": 847,
+          "listed_count": 136,
+          "media_count": 74,
+          "tweet_count": 200
+        },
+        "username": "horayo328518",
+        "verified": false
+      }
+    ]
+  }
+}

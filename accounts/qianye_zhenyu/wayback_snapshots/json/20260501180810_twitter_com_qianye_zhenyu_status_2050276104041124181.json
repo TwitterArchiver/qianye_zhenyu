@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2040130388853744088",
+    "created_at": "2026-05-01T18:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050276104041124181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818503849541578752",
+          "start": 0,
+          "username": "warma_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050276104041124181",
+    "in_reply_to_user_id": "1818503849541578752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040130388853744088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma_official 野生雷批？（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2040130374978904064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE__xFgaIAAmXhE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2040130388853744088",
+        "created_at": "2026-05-01T18:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050276104041124181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818503849541578752",
+              "start": 0,
+              "username": "warma_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050276104041124181",
+        "in_reply_to_user_id": "1818503849541578752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040130388853744088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma_official 野生雷批？（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040130374978904064"
+          ]
+        },
+        "author_id": "1818503849541578752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040130388853744088",
+        "created_at": "2026-04-03T18:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040130388853744088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HCc8NeUsb",
+              "end": 139,
+              "expanded_url": "https://x.com/warma_official/status/2040130388853744088/photo/1",
+              "media_key": "3_2040130374978904064",
+              "start": 116,
+              "url": "https://t.co/7HCc8NeUsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040130388853744088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈子：MOKA早点睡啊！明天要去扫墓！\n我：好～\n（十二点）我：什么啦怎么给我转这么多视频...看看看看...\n(一点)我：我要把你们全部打飞！MOKA的虎H是最强的！\n（两点）我：啊！推上又有很多人发牢骚呢 回一下回一下... https://t.co/7HCc8NeUsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！\ninfp//无敌烦人王//\n主玩明日方舟，wt，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 786,
+          "like_count": 30196,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 592
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T04:28:07.000Z",
+        "description": "宇宙第一的大元帅MOKA！/习惯是一次性刷所有贴！/\n“元帅最近似乎有中二病！”我的副官最近这么说我！气死了！/\n我最近在推特大街游荡 为了认识很多有趣的人！/一旦关注我则会被我天天不定时打扰（分享生活 讲笑话）！一定要慎重关注啊！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "imoka.com",
+                "end": 23,
+                "expanded_url": "http://imoka.com",
+                "start": 0,
+                "url": "https://t.co/M38SvexDHD"
+              }
+            ]
+          }
+        },
+        "id": "1818503849541578752",
+        "location": "那个有外星人的星球",
+        "name": "MOKA",
+        "pinned_tweet_id": "2045196337701163266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026815407924146176/vkUaIZbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 42,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/M38SvexDHD",
+        "username": "warma_official",
+        "verified": false
+      }
+    ]
+  }
+}

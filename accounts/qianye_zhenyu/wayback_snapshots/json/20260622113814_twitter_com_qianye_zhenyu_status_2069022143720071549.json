@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2068962687632171319",
+    "created_at": "2026-06-22T11:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069022143720071549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545782617240653825",
+          "start": 0,
+          "username": "Orange_Chr1s"
+        },
+        {
+          "end": 25,
+          "id": "1469582798604234752",
+          "start": 14,
+          "username": "yulia_OwO_"
+        },
+        {
+          "end": 39,
+          "id": "1857684678423248896",
+          "start": 26,
+          "username": "approved_cry"
+        },
+        {
+          "end": 53,
+          "id": "1783136956420849664",
+          "start": 40,
+          "username": "BoredFish_XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069022143720071549",
+    "in_reply_to_user_id": "1545782617240653825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068996374302282130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange_Chr1s @yulia_OwO_ @approved_cry @BoredFish_XY 喵ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2068962687632171319",
+        "created_at": "2026-06-22T11:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069022143720071549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 25,
+              "id": "1469582798604234752",
+              "start": 14,
+              "username": "yulia_OwO_"
+            },
+            {
+              "end": 39,
+              "id": "1857684678423248896",
+              "start": 26,
+              "username": "approved_cry"
+            },
+            {
+              "end": 53,
+              "id": "1783136956420849664",
+              "start": 40,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069022143720071549",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068996374302282130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s @yulia_OwO_ @approved_cry @BoredFish_XY 喵ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2068962687632171319",
+        "created_at": "2026-06-22T09:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068996374302282130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            },
+            {
+              "end": 26,
+              "id": "1469582798604234752",
+              "start": 15,
+              "username": "yulia_OwO_"
+            },
+            {
+              "end": 40,
+              "id": "1857684678423248896",
+              "start": 27,
+              "username": "approved_cry"
+            },
+            {
+              "end": 54,
+              "id": "1783136956420849664",
+              "start": 41,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068996374302282130",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068962687632171319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu @yulia_OwO_ @approved_cry @BoredFish_XY OMG,好好看 好厉害！🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 2081,
+          "like_count": 38273,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1131
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 132,
+          "like_count": 4252,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1731
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T08:20:35.000Z",
+        "description": "偶爾畫畫_(:3 」∠ )_",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/yulia_owo",
+                "end": 23,
+                "expanded_url": "https://vgen.co/yulia_owo",
+                "start": 0,
+                "url": "https://t.co/QG9GX6xn2i"
+              }
+            ]
+          }
+        },
+        "id": "1469582798604234752",
+        "location": "✧Comms open✧",
+        "name": "璃",
+        "pinned_tweet_id": "2052754231367737360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044330688003092482/HwoNrp4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 50,
+          "like_count": 16398,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1505
+        },
+        "url": "https://t.co/QG9GX6xn2i",
+        "username": "yulia_OwO_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T07:19:03.000Z",
+        "description": "好想回到那个盛夏\n\n愿你不再孤独",
+        "id": "1857684678423248896",
+        "location": "劣品酒吧城市",
+        "name": "特许哭泣",
+        "pinned_tweet_id": "1986722152981450880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975071451607900160/W2j2xHWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 896,
+          "like_count": 37016,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 3753
+        },
+        "url": "",
+        "username": "approved_cry",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "🦌🦌🦌\n\nI ♡ Alastor\n\nbili: https://t.co/XWkl8rMeDF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/37069759824557…",
+                "end": 47,
+                "expanded_url": "https://space.bilibili.com/3706975982455761?spm_id_from=333.788.upinfo.head.click",
+                "start": 24,
+                "url": "https://t.co/XWkl8rMeDF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/boredf…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/boredfish-xy.bsky.social",
+                "start": 0,
+                "url": "https://t.co/FKwHUazRsu"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "HSIF",
+        "pinned_tweet_id": "2012280272046203065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067243818047373312/eaqdz2p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 439,
+          "like_count": 12760,
+          "listed_count": 4,
+          "media_count": 9,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/FKwHUazRsu",
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2048055851974615085",
+    "created_at": "2026-04-26T08:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048314476689264790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885733810501029888",
+          "start": 0,
+          "username": "otono_rinne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048314476689264790",
+    "in_reply_to_user_id": "1885733810501029888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048055851974615085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@otono_rinne 白丝发我，我拿去泡茶喝😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2048055823390453761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwn65lbsAEkutk.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2048055823361003520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwn65eaUAAwN5J.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2048055851974615085",
+        "created_at": "2026-04-26T08:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048314476689264790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885733810501029888",
+              "start": 0,
+              "username": "otono_rinne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048314476689264790",
+        "in_reply_to_user_id": "1885733810501029888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048055851974615085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@otono_rinne 白丝发我，我拿去泡茶喝😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048055823390453761",
+            "3_2048055823361003520"
+          ]
+        },
+        "author_id": "1885733810501029888",
+        "conversation_id": "2048055851974615085",
+        "created_at": "2026-04-25T15:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048055851974615085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxM9h32HAR",
+              "end": 39,
+              "expanded_url": "https://x.com/otono_rinne/status/2048055851974615085/photo/1",
+              "media_key": "3_2048055823390453761",
+              "start": 16,
+              "url": "https://t.co/IxM9h32HAR"
+            },
+            {
+              "display_url": "pic.x.com/IxM9h32HAR",
+              "end": 39,
+              "expanded_url": "https://x.com/otono_rinne/status/2048055851974615085/photo/1",
+              "media_key": "3_2048055823361003520",
+              "start": 16,
+              "url": "https://t.co/IxM9h32HAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048055851974615085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 11920,
+          "like_count": 824,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "来点干净的脚\n吃雪糕喵\n#白丝 https://t.co/IxM9h32HAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年耐杀王美术生再次复活！\ninfp，阴暗比远离我\n主玩明日方舟，wt，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2048070220800274630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 671,
+          "like_count": 29559,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 571
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T16:56:05.000Z",
+        "description": "男娘、白丝裤袜足气味控。只是自己喜欢，不卖！！喜欢且自己穿的可爱的人想扩列贴贴可私信",
+        "id": "1885733810501029888",
+        "location": "上海",
+        "name": "音乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947741546457300992/nmjaLaBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 375,
+          "like_count": 4321,
+          "listed_count": 6,
+          "media_count": 35,
+          "tweet_count": 68
+        },
+        "username": "otono_rinne",
+        "verified": false
+      }
+    ]
+  }
+}

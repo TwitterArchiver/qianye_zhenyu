@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971898142858924034"
+      ],
+      "media_source_tweet_id": [
+        "1971898182180524446"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1972349340833419270",
+    "created_at": "2025-09-28T17:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972349340833419270"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1370657511301259266",
+          "start": 3,
+          "username": "hakua_aa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TC2BCQoTNg",
+          "end": 59,
+          "expanded_url": "https://x.com/hakua_aa/status/1971898182180524446/photo/1",
+          "media_key": "3_1971898142858924034",
+          "start": 36,
+          "url": "https://t.co/TC2BCQoTNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972349340833419270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 508
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971898182180524446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakua_aa: OC : シャルオ︎︎☾*。\n\n#イラスト https://t.co/TC2BCQoTNg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971898142858924034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12W6dJb0AI5uzt.jpg",
+        "width": 1249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971898142858924034"
+          ],
+          "media_source_tweet_id": [
+            "1971898182180524446"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1972349340833419270",
+        "created_at": "2025-09-28T17:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972349340833419270"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1370657511301259266",
+              "start": 3,
+              "username": "hakua_aa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TC2BCQoTNg",
+              "end": 59,
+              "expanded_url": "https://x.com/hakua_aa/status/1971898182180524446/photo/1",
+              "media_key": "3_1971898142858924034",
+              "start": 36,
+              "url": "https://t.co/TC2BCQoTNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972349340833419270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 508
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971898182180524446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakua_aa: OC : シャルオ︎︎☾*。\n\n#イラスト https://t.co/TC2BCQoTNg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971898142858924034"
+          ]
+        },
+        "author_id": "1370657511301259266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "1971898182180524446",
+        "created_at": "2025-09-27T11:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971898182180524446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TC2BCQoTNg",
+              "end": 45,
+              "expanded_url": "https://x.com/hakua_aa/status/1971898182180524446/photo/1",
+              "media_key": "3_1971898142858924034",
+              "start": 22,
+              "url": "https://t.co/TC2BCQoTNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971898182180524446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1087,
+          "impression_count": 95739,
+          "like_count": 6744,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 508
+        },
+        "reply_settings": "everyone",
+        "text": "OC : シャルオ︎︎☾*。\n\n#イラスト https://t.co/TC2BCQoTNg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 463,
+          "like_count": 19849,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 484
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T08:47:03.000Z",
+        "description": "ff外通知off/ ✧ https://t.co/0L4ZCvdw8R ✧ hakua.aa0000@gmail.com/ v✧@Shirokumahakua  ｜ https://t.co/PdND9dgLhs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Shirokumahakua"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Shirokumahaku…",
+                "end": 35,
+                "expanded_url": "https://skeb.jp/@Shirokumahakua/",
+                "start": 12,
+                "url": "https://t.co/0L4ZCvdw8R"
+              },
+              {
+                "display_url": "youtube.com/@shirokumahakua",
+                "end": 106,
+                "expanded_url": "http://www.youtube.com/@shirokumahakua",
+                "start": 83,
+                "url": "https://t.co/PdND9dgLhs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakua-aa.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://hakua-aa.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/p8ck5aGGX3"
+              }
+            ]
+          }
+        },
+        "id": "1370657511301259266",
+        "location": "提携✧@yurancoco",
+        "name": "はくあ : しゃどばんにつきfanbox",
+        "pinned_tweet_id": "1971898182180524446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1401556093696839680/nK6kHWhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66217,
+          "following_count": 30,
+          "like_count": 948,
+          "listed_count": 588,
+          "media_count": 45,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/p8ck5aGGX3",
+        "username": "hakua_aa",
+        "verified": true
+      }
+    ]
+  }
+}

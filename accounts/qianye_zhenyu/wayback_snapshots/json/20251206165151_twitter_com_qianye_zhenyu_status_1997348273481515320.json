@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1997275789369503971",
+    "created_at": "2025-12-06T16:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T17:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997348273481515320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997348273481515320",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997275789369503971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 没事，我滴，大大滴良民滴干活！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1123,
+        "media_key": "3_1997275782247505920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7e_ve9aYAAE-ZQ.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1997275789369503971",
+        "created_at": "2025-12-06T16:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997348273481515320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997348273481515320",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997275789369503971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 没事，我滴，大大滴良民滴干活！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997275782247505920"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1997275789369503971",
+        "created_at": "2025-12-06T12:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997275789369503971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1WaecUaFnN",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1997275789369503971/photo/1",
+              "media_key": "3_1997275782247505920",
+              "start": 0,
+              "url": "https://t.co/1WaecUaFnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997275789369503971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 26996,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1WaecUaFnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜                                             明日方舟玩家，但是最喜欢二阶堂希罗         苦难菜逼画画人，不定时诈尸",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 539,
+          "like_count": 23176,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 598
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95118,
+          "following_count": 2733,
+          "like_count": 43669,
+          "listed_count": 134,
+          "media_count": 3278,
+          "tweet_count": 7605
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

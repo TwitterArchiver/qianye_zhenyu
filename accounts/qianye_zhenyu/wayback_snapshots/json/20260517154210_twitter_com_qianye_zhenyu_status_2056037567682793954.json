@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2055930442248044817",
+    "created_at": "2026-05-17T15:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056037567682793954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818503849541578752",
+          "start": 0,
+          "username": "warma_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056037567682793954",
+    "in_reply_to_user_id": "1818503849541578752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056030568157003949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma_official 冲！冲刺！冲！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2056030565183139840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh8590WMAAjdgj.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2055930442248044817",
+        "created_at": "2026-05-17T15:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056037567682793954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818503849541578752",
+              "start": 0,
+              "username": "warma_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056037567682793954",
+        "in_reply_to_user_id": "1818503849541578752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056030568157003949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma_official 冲！冲刺！冲！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056030565183139840"
+          ]
+        },
+        "author_id": "1818503849541578752",
+        "conversation_id": "2055930442248044817",
+        "created_at": "2026-05-17T15:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056030568157003949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3f7QkgOBA",
+              "end": 54,
+              "expanded_url": "https://x.com/warma_official/status/2056030568157003949/photo/1",
+              "media_key": "3_2056030565183139840",
+              "start": 31,
+              "url": "https://t.co/t3f7QkgOBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056030568157003949",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055930442248044817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 我的中学有两个楼\n士兵！冲啊！ https://t.co/t3f7QkgOBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1685,
+          "like_count": 35250,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 916
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T04:28:07.000Z",
+        "description": "宇宙第一的大元帅MOKA！/习惯是一次性刷所有贴！/\n“元帅最近似乎有中二病！”我的副官最近这么说我！气死了！/\n我最近在推特大街游荡 为了认识很多有趣的人！/一旦关注我则会被我天天不定时打扰（分享生活 讲笑话）！一定要慎重关注啊！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "imoka.com",
+                "end": 23,
+                "expanded_url": "http://imoka.com",
+                "start": 0,
+                "url": "https://t.co/M38SvexDHD"
+              }
+            ]
+          }
+        },
+        "id": "1818503849541578752",
+        "location": "那个有外星人的星球",
+        "name": "MOKA",
+        "pinned_tweet_id": "2045196846025556054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026815407924146176/vkUaIZbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 41,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/M38SvexDHD",
+        "username": "warma_official",
+        "verified": false
+      }
+    ]
+  }
+}

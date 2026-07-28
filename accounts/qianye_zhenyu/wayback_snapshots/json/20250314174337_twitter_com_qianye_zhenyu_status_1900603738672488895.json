@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1900335054574018813",
+    "created_at": "2025-03-14T17:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T18:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900603738672488895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900603738672488895",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900335054574018813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 等到共产主义实现那天就会和平了（苏联笑话）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1900335054574018813",
+        "created_at": "2025-03-14T17:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T18:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900603738672488895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900603738672488895",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900335054574018813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 等到共产主义实现那天就会和平了（苏联笑话）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1900335054574018813",
+        "created_at": "2025-03-13T23:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T00:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900335054574018813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900335054574018813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19996,
+          "like_count": 213,
+          "quote_count": 9,
+          "reply_count": 136,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "所以说\n究竟要杀多少人\n世界才能和平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774684260560897/-rVPPNon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 367,
+          "like_count": 12634,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 174
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 2019,
+          "like_count": 9781,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2843
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

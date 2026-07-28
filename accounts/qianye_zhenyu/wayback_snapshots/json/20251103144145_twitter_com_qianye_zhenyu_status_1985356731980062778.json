@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985266417579831296"
+      ],
+      "media_source_tweet_id": [
+        "1985266426090070521"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1985356731980062778",
+    "created_at": "2025-11-03T14:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985356731980062778"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "まのさば二次創作"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "まのさば"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1420680230235041796",
+          "start": 3,
+          "username": "pomeo_dayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBBuoakNQL",
+          "end": 55,
+          "expanded_url": "https://x.com/pomeo_dayo/status/1985266426090070521/photo/1",
+          "media_key": "3_1985266417579831296",
+          "start": 32,
+          "url": "https://t.co/rBBuoakNQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985356731980062778",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985266426090070521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pomeo_dayo: #まのさば二次創作 #まのさば https://t.co/rBBuoakNQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1985266417579831296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40VSdRbsAA1yB3.jpg",
+        "width": 2350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985266417579831296"
+          ],
+          "media_source_tweet_id": [
+            "1985266426090070521"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1985356731980062778",
+        "created_at": "2025-11-03T14:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985356731980062778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "まのさば二次創作"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1420680230235041796",
+              "start": 3,
+              "username": "pomeo_dayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBBuoakNQL",
+              "end": 55,
+              "expanded_url": "https://x.com/pomeo_dayo/status/1985266426090070521/photo/1",
+              "media_key": "3_1985266417579831296",
+              "start": 32,
+              "url": "https://t.co/rBBuoakNQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985356731980062778",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985266426090070521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pomeo_dayo: #まのさば二次創作 #まのさば https://t.co/rBBuoakNQL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985266417579831296"
+          ]
+        },
+        "author_id": "1420680230235041796",
+        "conversation_id": "1985266426090070521",
+        "created_at": "2025-11-03T08:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985266426090070521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさば二次創作"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBBuoakNQL",
+              "end": 39,
+              "expanded_url": "https://x.com/pomeo_dayo/status/1985266426090070521/photo/1",
+              "media_key": "3_1985266417579831296",
+              "start": 16,
+              "url": "https://t.co/rBBuoakNQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985266426090070521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 11428,
+          "like_count": 1177,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば二次創作 #まのさば https://t.co/rBBuoakNQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 488,
+          "like_count": 21608,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 540
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T09:39:05.000Z",
+        "description": "ぽめお 포메오 ✳︎ 20↑ ✳︎ 장르팔비추 ✳︎ 비팔🔕 ✳︎ I 짜하님 ✳︎ H 은찾님 ✳︎ @pomeo_dayon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "pomeo_dayon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/62463129",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/62463129",
+                "start": 0,
+                "url": "https://t.co/bV0IO3gLau"
+              }
+            ]
+          }
+        },
+        "id": "1420680230235041796",
+        "location": "⛔️Do not use my artworks⛔️",
+        "name": "𝒑𝒐𝒎𝒆𝒐*",
+        "pinned_tweet_id": "1985266426090070521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883367869158969344/FUxgUv7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10876,
+          "following_count": 347,
+          "like_count": 13925,
+          "listed_count": 95,
+          "media_count": 51,
+          "tweet_count": 4917
+        },
+        "url": "https://t.co/bV0IO3gLau",
+        "username": "pomeo_dayo",
+        "verified": false
+      }
+    ]
+  }
+}

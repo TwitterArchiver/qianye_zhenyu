@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1874709884819955993",
+    "created_at": "2025-01-02T16:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T17:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874848421758267560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636244273245966343",
+          "start": 0,
+          "username": "iilovejapan1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874848421758267560",
+    "in_reply_to_user_id": "1636244273245966343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874709884819955993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iilovejapan1314 他真的…甚至用中文给别人提示好了，我哭死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1874709884819955993",
+        "created_at": "2025-01-02T16:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T17:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874848421758267560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636244273245966343",
+              "start": 0,
+              "username": "iilovejapan1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874848421758267560",
+        "in_reply_to_user_id": "1636244273245966343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874709884819955993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iilovejapan1314 他真的…甚至用中文给别人提示好了，我哭死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874709880797528065"
+          ]
+        },
+        "author_id": "1636244273245966343",
+        "conversation_id": "1874709884819955993",
+        "created_at": "2025-01-02T06:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T07:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874709884819955993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQjoGACKYP",
+              "end": 40,
+              "expanded_url": "https://x.com/iilovejapan1314/status/1874709884819955993/photo/1",
+              "media_key": "3_1874709880797528065",
+              "start": 17,
+              "url": "https://t.co/CQjoGACKYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874709884819955993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 347332,
+          "like_count": 3094,
+          "quote_count": 14,
+          "reply_count": 89,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "大阪海游馆的温馨提示！\n\n🤡🤡🤡 https://t.co/CQjoGACKYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 293,
+          "like_count": 10081,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:53:47.000Z",
+        "description": "日本をずっと愛してる人｜元満州人エホナラ氏｜魔除に8964天安門",
+        "id": "1636244273245966343",
+        "location": "Japan",
+        "name": "のらいぬ",
+        "pinned_tweet_id": "1868539928956768679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844274598487195648/t5tpey8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28745,
+          "following_count": 1031,
+          "like_count": 20700,
+          "listed_count": 47,
+          "media_count": 1616,
+          "tweet_count": 6056
+        },
+        "username": "iilovejapan1314",
+        "verified": true
+      }
+    ]
+  }
+}

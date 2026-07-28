@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1858519624767185229",
+    "created_at": "2024-11-18T18:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T19:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858575149466824884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1346830626683580416",
+          "start": 0,
+          "username": "LUOXIANGZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858575149466824884",
+    "in_reply_to_user_id": "1346830626683580416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858519624767185229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LUOXIANGZY 妈蛋我tm在常州我靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1858519624767185229",
+        "created_at": "2024-11-18T18:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T19:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858575149466824884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1346830626683580416",
+              "start": 0,
+              "username": "LUOXIANGZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858575149466824884",
+        "in_reply_to_user_id": "1346830626683580416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858519624767185229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LUOXIANGZY 妈蛋我tm在常州我靠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1858519543427022848",
+            "3_1858519543380905984",
+            "3_1858519543397617664",
+            "3_1858519543393533952"
+          ]
+        },
+        "author_id": "1346830626683580416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1858519624767185229",
+        "created_at": "2024-11-18T14:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858519624767185229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glMjhMWtq5",
+              "end": 158,
+              "expanded_url": "https://x.com/LUOXIANGZY/status/1858519624767185229/video/1",
+              "media_key": "13_1858519543427022848",
+              "start": 135,
+              "url": "https://t.co/glMjhMWtq5"
+            },
+            {
+              "display_url": "pic.x.com/glMjhMWtq5",
+              "end": 158,
+              "expanded_url": "https://x.com/LUOXIANGZY/status/1858519624767185229/video/1",
+              "media_key": "3_1858519543380905984",
+              "start": 135,
+              "url": "https://t.co/glMjhMWtq5"
+            },
+            {
+              "display_url": "pic.x.com/glMjhMWtq5",
+              "end": 158,
+              "expanded_url": "https://x.com/LUOXIANGZY/status/1858519624767185229/video/1",
+              "media_key": "3_1858519543397617664",
+              "start": 135,
+              "url": "https://t.co/glMjhMWtq5"
+            },
+            {
+              "display_url": "pic.x.com/glMjhMWtq5",
+              "end": 158,
+              "expanded_url": "https://x.com/LUOXIANGZY/status/1858519624767185229/video/1",
+              "media_key": "3_1858519543393533952",
+              "start": 135,
+              "url": "https://t.co/glMjhMWtq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858519624767185229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 162597,
+          "like_count": 508,
+          "quote_count": 10,
+          "reply_count": 64,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "2024年11月18日报道：2024年11月16日，江苏无锡工艺学院大杀戮事件后续：\n除徐加金被捕外，另外三人一个被击毙，一个跑苏州去了，一个跑常州去了！\n跑常州去的凶手又杀了一个女生！\n跑苏州去的凶手在苏州职业大学那边又杀了一个女生！\n目前两人仍然在逃！\n评论区续！ https://t.co/glMjhMWtq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 175,
+          "like_count": 4541,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T14:47:08.000Z",
+        "description": "爆料邮箱：hshen606@gmail.com， WhatsApp：+1 9298239824。专门爆料各种不平之事！此账号为唯一账号！蓝天同名！（免费向国内民运人士提供西班牙非盈利居留办理教程，仅限Whatsapp联系提供帮助资料）！",
+        "id": "1346830626683580416",
+        "location": "法拉盛",
+        "name": "罗翔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633516700682395652/gQ_OmRVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281767,
+          "following_count": 7947,
+          "like_count": 82935,
+          "listed_count": 691,
+          "tweet_count": 23139
+        },
+        "username": "LUOXIANGZY",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075429853684547584"
+      ],
+      "media_source_tweet_id": [
+        "2075429860328304742"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2075457841746587856",
+    "created_at": "2026-07-10T05:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075457841746587856"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 26,
+          "tag": "evanescia"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1469582798604234752",
+          "start": 3,
+          "username": "yulia_OwO_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0D2mF7JHcK",
+          "end": 60,
+          "expanded_url": "https://x.com/yulia_OwO_/status/2075429860328304742/photo/1",
+          "media_key": "3_2075429853684547584",
+          "start": 37,
+          "url": "https://t.co/0D2mF7JHcK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075457841746587856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075429860328304742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yulia_OwO_: 想玩這個ฅ ˘ฅ  #evanescia https://t.co/0D2mF7JHcK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075429853684547584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1odLEbwAAI94p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075429853684547584"
+          ],
+          "media_source_tweet_id": [
+            "2075429860328304742"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2075457841746587856",
+        "created_at": "2026-07-10T05:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075457841746587856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "evanescia"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1469582798604234752",
+              "start": 3,
+              "username": "yulia_OwO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0D2mF7JHcK",
+              "end": 60,
+              "expanded_url": "https://x.com/yulia_OwO_/status/2075429860328304742/photo/1",
+              "media_key": "3_2075429853684547584",
+              "start": 37,
+              "url": "https://t.co/0D2mF7JHcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075457841746587856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075429860328304742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yulia_OwO_: 想玩這個ฅ ˘ฅ  #evanescia https://t.co/0D2mF7JHcK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075429853684547584"
+          ]
+        },
+        "author_id": "1469582798604234752",
+        "conversation_id": "2075429860328304742",
+        "created_at": "2026-07-10T04:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075429860328304742"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "evanescia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0D2mF7JHcK",
+              "end": 44,
+              "expanded_url": "https://x.com/yulia_OwO_/status/2075429860328304742/photo/1",
+              "media_key": "3_2075429853684547584",
+              "start": 21,
+              "url": "https://t.co/0D2mF7JHcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075429860328304742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1805,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "想玩這個ฅ ˘ฅ  #evanescia https://t.co/0D2mF7JHcK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 2097,
+          "like_count": 38769,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1198
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T08:20:35.000Z",
+        "description": "偶爾畫畫_(:3 」∠ )_",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/yulia_owo",
+                "end": 23,
+                "expanded_url": "https://vgen.co/yulia_owo",
+                "start": 0,
+                "url": "https://t.co/QG9GX6xn2i"
+              }
+            ]
+          }
+        },
+        "id": "1469582798604234752",
+        "location": "✧Comms open✧",
+        "name": "璃",
+        "pinned_tweet_id": "2073742238262374547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044330688003092482/HwoNrp4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 49,
+          "like_count": 17269,
+          "listed_count": 4,
+          "media_count": 119,
+          "tweet_count": 1646
+        },
+        "url": "https://t.co/QG9GX6xn2i",
+        "username": "yulia_OwO_",
+        "verified": false
+      }
+    ]
+  }
+}

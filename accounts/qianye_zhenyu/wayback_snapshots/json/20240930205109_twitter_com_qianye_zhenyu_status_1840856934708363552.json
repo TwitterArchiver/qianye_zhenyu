@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1840180279622647838",
+    "created_at": "2024-09-30T20:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T21:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840856934708363552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1249525383797456898",
+          "start": 0,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840856934708363552",
+    "in_reply_to_user_id": "1249525383797456898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840180279622647838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakobsonradical 脑海里面已经有了一群小孩拿着炸药包冲上去大喊“主席陛下！半载！”的那种场面了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1840180279622647838",
+        "created_at": "2024-09-30T20:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T21:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840856934708363552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840856934708363552",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840180279622647838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 脑海里面已经有了一群小孩拿着炸药包冲上去大喊“主席陛下！半载！”的那种场面了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840180275851976704"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1840180279622647838",
+        "created_at": "2024-09-29T00:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T01:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840180279622647838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2zDkveEv9",
+              "end": 40,
+              "expanded_url": "https://x.com/jakobsonradical/status/1840180279622647838/photo/1",
+              "media_key": "3_1840180275851976704",
+              "start": 17,
+              "url": "https://t.co/e2zDkveEv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840180279622647838",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 699421,
+          "like_count": 2912,
+          "quote_count": 68,
+          "reply_count": 528,
+          "retweet_count": 401
+        },
+        "reply_settings": "everyone",
+        "text": "这是在学习中东的爱国主义教育吗？ https://t.co/e2zDkveEv9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "一个新人画师而已",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 129,
+          "like_count": 1162,
+          "listed_count": 0,
+          "tweet_count": 13
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214048,
+          "following_count": 1515,
+          "like_count": 43842,
+          "listed_count": 887,
+          "tweet_count": 23215
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

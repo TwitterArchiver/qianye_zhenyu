@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983741299888140288"
+      ],
+      "media_source_tweet_id": [
+        "1983741308650058197"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984062701824590183",
+    "created_at": "2025-10-31T00:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T01:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984062701824590183"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "二階堂ヒロ",
+          "probability": 0.9054,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 19,
+          "tag": "配信少女ノ裏垢迷宮"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1559374834144276480",
+          "start": 3,
+          "username": "yuzuno_wagiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jZ7v550pmm",
+          "end": 59,
+          "expanded_url": "https://x.com/yuzuno_wagiri/status/1983741308650058197/photo/1",
+          "media_key": "3_1983741299888140288",
+          "start": 36,
+          "url": "https://t.co/jZ7v550pmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984062701824590183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 605
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983741308650058197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzuno_wagiri: #配信少女ノ裏垢迷宮\n二階堂ヒロ https://t.co/jZ7v550pmm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983741299888140288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4eqM7IasAAYBgV.jpg",
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983741299888140288"
+          ],
+          "media_source_tweet_id": [
+            "1983741308650058197"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984062701824590183",
+        "created_at": "2025-10-31T00:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984062701824590183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "二階堂ヒロ",
+              "probability": 0.9054,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "配信少女ノ裏垢迷宮"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1559374834144276480",
+              "start": 3,
+              "username": "yuzuno_wagiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZ7v550pmm",
+              "end": 59,
+              "expanded_url": "https://x.com/yuzuno_wagiri/status/1983741308650058197/photo/1",
+              "media_key": "3_1983741299888140288",
+              "start": 36,
+              "url": "https://t.co/jZ7v550pmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984062701824590183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 605
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983741308650058197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzuno_wagiri: #配信少女ノ裏垢迷宮\n二階堂ヒロ https://t.co/jZ7v550pmm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983741299888140288"
+          ]
+        },
+        "author_id": "1559374834144276480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983741308650058197",
+        "created_at": "2025-10-30T03:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983741308650058197"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "二階堂ヒロ",
+              "probability": 0.8997,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "配信少女ノ裏垢迷宮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZ7v550pmm",
+              "end": 40,
+              "expanded_url": "https://x.com/yuzuno_wagiri/status/1983741308650058197/photo/1",
+              "media_key": "3_1983741299888140288",
+              "start": 17,
+              "url": "https://t.co/jZ7v550pmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983741308650058197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 374,
+          "impression_count": 62672,
+          "like_count": 4533,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 605
+        },
+        "reply_settings": "everyone",
+        "text": "#配信少女ノ裏垢迷宮\n二階堂ヒロ https://t.co/jZ7v550pmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 482,
+          "like_count": 21484,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 533
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T03:02:02.000Z",
+        "description": "illustration🎨/ボカロ/\nskeb→https://t.co/QZiQ6k0CKW\nyoutube→https://t.co/DNFhseYrmI\nFA→#ゆずのわぎゃらりー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 83,
+                "tag": "ゆずのわぎゃらりー"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yuzuno_wagiri",
+                "end": 47,
+                "expanded_url": "https://skeb.jp/@yuzuno_wagiri",
+                "start": 24,
+                "url": "https://t.co/QZiQ6k0CKW"
+              },
+              {
+                "display_url": "youtube.com/@yuzuno_wagiri/",
+                "end": 79,
+                "expanded_url": "https://www.youtube.com/@yuzuno_wagiri/",
+                "start": 56,
+                "url": "https://t.co/DNFhseYrmI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/104248577",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/104248577",
+                "start": 0,
+                "url": "https://t.co/2oECmyZ7uB"
+              }
+            ]
+          }
+        },
+        "id": "1559374834144276480",
+        "location": "柚風呂♨",
+        "name": "柚ノ輪霧　//skeb受付中",
+        "pinned_tweet_id": "1885993292321763466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976747188652064771/uU5THefo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 31,
+          "like_count": 1779,
+          "listed_count": 9,
+          "media_count": 98,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/2oECmyZ7uB",
+        "username": "yuzuno_wagiri",
+        "verified": false
+      }
+    ]
+  }
+}

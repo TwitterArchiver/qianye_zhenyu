@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2035991437494616178",
+    "created_at": "2026-03-24T02:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T03:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036269678239367475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "89421672",
+          "start": 0,
+          "username": "USA_China_Talk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036269678239367475",
+    "in_reply_to_user_id": "89421672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035991437494616178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USA_China_Talk 加油机：你好（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2035991437494616178",
+        "created_at": "2026-03-24T02:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036269678239367475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "89421672",
+              "start": 0,
+              "username": "USA_China_Talk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036269678239367475",
+        "in_reply_to_user_id": "89421672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035991437494616178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USA_China_Talk 加油机：你好（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "conversation_id": "2035991437494616178",
+        "created_at": "2026-03-23T08:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035991437494616178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CENTCOM/status…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/CENTCOM/status/2035748910656852168",
+              "start": 87,
+              "url": "https://t.co/qFthDx3PTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035991437494616178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 140613,
+          "like_count": 1094,
+          "quote_count": 14,
+          "reply_count": 164,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035748910656852168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚫 谎言：谣言声称伊朗政权最近在伊朗上空击落了一架美国F-15战斗机。\n\n✅ 真相：在“史诗狂怒行动”中，美军共出动8000多架次战机。没有任何一架美国战斗飞机被伊朗击落。 https://t.co/qFthDx3PTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "处于崩溃期的死人。\n夫君@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "理想者的墓地（月球",
+        "name": "遷",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035010038729940992/4jB0u-Of_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 667,
+          "like_count": 28909,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 566
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625731,
+          "following_count": 171,
+          "like_count": 11,
+          "listed_count": 4352,
+          "media_count": 408,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

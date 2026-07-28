@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1875951653624623293",
+    "created_at": "2025-01-06T13:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T14:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876257902505373748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "989323560",
+          "start": 0,
+          "username": "direkchannel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876257902505373748",
+    "in_reply_to_user_id": "989323560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875951653624623293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@direkchannel 什么海豚，这明明是海豹🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1875951653624623293",
+        "created_at": "2025-01-06T13:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T14:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876257902505373748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "989323560",
+              "start": 0,
+              "username": "direkchannel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876257902505373748",
+        "in_reply_to_user_id": "989323560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875951653624623293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@direkchannel 什么海豚，这明明是海豹🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1875913004874706944"
+          ],
+          "media_source_tweet_id": [
+            "1875913903395549452"
+          ]
+        },
+        "author_id": "989323560",
+        "conversation_id": "1875951653624623293",
+        "created_at": "2025-01-05T17:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T18:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875951653624623293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6vn7RKHbLX",
+              "end": 42,
+              "expanded_url": "https://x.com/TheFigen_/status/1875913903395549452/video/1",
+              "media_key": "7_1875913004874706944",
+              "start": 19,
+              "url": "https://t.co/6vn7RKHbLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875951653624623293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 189807,
+          "like_count": 308,
+          "quote_count": 6,
+          "reply_count": 82,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "海豚聪明\n立刻识破小把戏\n🐬🐬🐬🐬\n https://t.co/6vn7RKHbLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 294,
+          "like_count": 10705,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 113
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-04T18:38:58.000Z",
+        "description": "Beat the bushes and help spill the tea 🎯 || 天作孽，猶可違。自作孽，不可活。🐿 || 🤣🤣娛樂養人🤣🤣 || 每天拋磚引玉，偶爾拋玉引磚🥵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "direkcare.com",
+                "end": 23,
+                "expanded_url": "http://www.direkcare.com",
+                "start": 0,
+                "url": "https://t.co/tYU8LR2Q9F"
+              }
+            ]
+          }
+        },
+        "id": "989323560",
+        "location": "Toronto",
+        "name": "Joeq橋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1406338351456735237/lIALuen1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61926,
+          "following_count": 8819,
+          "like_count": 341830,
+          "listed_count": 153,
+          "media_count": 19987,
+          "tweet_count": 111214
+        },
+        "url": "https://t.co/tYU8LR2Q9F",
+        "username": "direkchannel",
+        "verified": false
+      }
+    ]
+  }
+}

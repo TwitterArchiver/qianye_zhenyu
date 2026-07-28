@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1999649470922064211",
+    "created_at": "2025-12-13T10:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T11:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999784521521389737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1757870920084164608",
+          "start": 0,
+          "username": "BGlayds30098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999784521521389737",
+    "in_reply_to_user_id": "1757870920084164608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999649470922064211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BGlayds30098 老中这里是有石油还是有纳粹，为什么会值得老美亲自下场（难蚌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65335,
+        "height": 1020,
+        "media_key": "13_1999485759242502144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999485759242502144/img/2hcZcIQIx4iRzzWs.jpg",
+        "public_metrics": {
+          "view_count": 58474
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999485759242502144/vid/avc1/320x566/XbgZadBXW9gafFP3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999485759242502144/vid/avc1/480x850/IDc7I4N_jm_ksvWn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999485759242502144/vid/avc1/576x1020/IWftRk4NfuoCarJm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999485759242502144/pl/wK3yxpny73WdQS5_.m3u8?tag=14&v=31b"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1999649470922064211",
+        "created_at": "2025-12-13T10:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999784521521389737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1757870920084164608",
+              "start": 0,
+              "username": "BGlayds30098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999784521521389737",
+        "in_reply_to_user_id": "1757870920084164608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999649470922064211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BGlayds30098 老中这里是有石油还是有纳粹，为什么会值得老美亲自下场（难蚌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999485759242502144"
+          ]
+        },
+        "author_id": "1757870920084164608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1999649470922064211",
+        "created_at": "2025-12-13T01:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999649470922064211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWucEU9TL9",
+              "end": 50,
+              "expanded_url": "https://x.com/BGlayds30098/status/1999649470922064211/video/1",
+              "media_key": "13_1999485759242502144",
+              "start": 27,
+              "url": "https://t.co/FWucEU9TL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999649470922064211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 84164,
+          "like_count": 316,
+          "quote_count": 9,
+          "reply_count": 242,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "2027年，习近平攻击台湾，美军反攻大陆！视频疯传. https://t.co/FWucEU9TL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 570,
+          "like_count": 24272,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 628
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T20:54:33.000Z",
+        "description": "读好书，使人心明眼亮。",
+        "id": "1757870920084164608",
+        "name": "静曼",
+        "pinned_tweet_id": "1995318684236259539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986440725605818368/xhzlaAjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 27,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 134
+        },
+        "username": "BGlayds30098",
+        "verified": false
+      }
+    ]
+  }
+}

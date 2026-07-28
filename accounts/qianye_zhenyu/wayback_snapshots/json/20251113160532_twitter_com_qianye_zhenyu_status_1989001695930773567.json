@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989001680952913922",
+        "3_1989001680952913923"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989001695930773567",
+    "created_at": "2025-11-13T16:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T17:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989001695930773567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aS9fBoYCHH",
+          "end": 39,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1989001695930773567/photo/1",
+          "media_key": "3_1989001680952913922",
+          "start": 16,
+          "url": "https://t.co/aS9fBoYCHH"
+        },
+        {
+          "display_url": "pic.x.com/aS9fBoYCHH",
+          "end": 39,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1989001695930773567/photo/1",
+          "media_key": "3_1989001680952913923",
+          "start": 16,
+          "url": "https://t.co/aS9fBoYCHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989001695930773567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "落了片白茫茫大地真干净………… https://t.co/aS9fBoYCHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1989001680952913922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pafZracAItQjX.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1989001680952913923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pafZracAMJVTH.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989001680952913922",
+            "3_1989001680952913923"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989001695930773567",
+        "created_at": "2025-11-13T16:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989001695930773567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aS9fBoYCHH",
+              "end": 39,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1989001695930773567/photo/1",
+              "media_key": "3_1989001680952913922",
+              "start": 16,
+              "url": "https://t.co/aS9fBoYCHH"
+            },
+            {
+              "display_url": "pic.x.com/aS9fBoYCHH",
+              "end": 39,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1989001695930773567/photo/1",
+              "media_key": "3_1989001680952913923",
+              "start": 16,
+              "url": "https://t.co/aS9fBoYCHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989001695930773567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "落了片白茫茫大地真干净………… https://t.co/aS9fBoYCHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜                                             明日方舟玩家，但是最喜欢二阶堂希罗         苦难菜逼画画人，不定时诈尸",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 527,
+          "like_count": 22503,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 568
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

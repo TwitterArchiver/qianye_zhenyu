@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2051139596231078361",
+    "created_at": "2026-05-04T10:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051248252515651648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992629763027136512",
+          "start": 0,
+          "username": "LanxianyuXy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051248252515651648",
+    "in_reply_to_user_id": "1992629763027136512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051243336694968738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanxianyuXy 如果你认定我就是那样罪大恶极，就不应该回来，甚至是对我还抱有回来的幻想"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051243336694968738].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051243336694968738",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051243336694968738"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2051139596231078361",
+        "created_at": "2026-05-04T10:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051248252515651648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992629763027136512",
+              "start": 0,
+              "username": "LanxianyuXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051248252515651648",
+        "in_reply_to_user_id": "1992629763027136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051243336694968738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanxianyuXy 如果你认定我就是那样罪大恶极，就不应该回来，甚至是对我还抱有回来的幻想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\ninfp｜istp//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2050985824091541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 865,
+          "like_count": 30899,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 628
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T16:22:19.000Z",
+        "description": "《天道的光之子》\n终究神明动了情，败给了人心。",
+        "id": "1992629763027136512",
+        "name": "某",
+        "pinned_tweet_id": "2004612818671452430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048002602726518784/OTZZxL0q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 104
+        },
+        "username": "LanxianyuXy",
+        "verified": false
+      }
+    ]
+  }
+}

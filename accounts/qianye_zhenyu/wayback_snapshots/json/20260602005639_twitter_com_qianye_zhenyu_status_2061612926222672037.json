@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2061230173627027553",
+    "created_at": "2026-06-02T00:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061612926222672037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299312684991569920",
+          "start": 0,
+          "username": "DanJack67524194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061612926222672037",
+    "in_reply_to_user_id": "1299312684991569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061230173627027553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanJack67524194 按J弃机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2061230162033909760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJr16VhaIAASXo1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2061230173627027553",
+        "created_at": "2026-06-02T00:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061612926222672037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299312684991569920",
+              "start": 0,
+              "username": "DanJack67524194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061612926222672037",
+        "in_reply_to_user_id": "1299312684991569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061230173627027553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanJack67524194 按J弃机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061230162033909760"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061230173627027553",
+        "created_at": "2026-05-31T23:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061230173627027553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KDlonbjYN9",
+              "end": 31,
+              "expanded_url": "https://x.com/DanJack67524194/status/2061230173627027553/photo/1",
+              "media_key": "3_2061230162033909760",
+              "start": 8,
+              "url": "https://t.co/KDlonbjYN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061230173627027553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 141191,
+          "like_count": 4382,
+          "quote_count": 8,
+          "reply_count": 147,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "脫出是怎樣ww https://t.co/KDlonbjYN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2061221078597337217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1971,
+          "like_count": 36571,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1016
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\nthreads ：https://t.co/uiN3asDWEM\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@fox_sun_moon",
+                "end": 72,
+                "expanded_url": "https://www.threads.com/@fox_sun_moon",
+                "start": 49,
+                "url": "https://t.co/uiN3asDWEM"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 105,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 82,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊發我詐騙廣告的都是台獨",
+        "pinned_tweet_id": "1758852769707147607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7976,
+          "following_count": 2090,
+          "like_count": 32406,
+          "listed_count": 20,
+          "media_count": 7567,
+          "tweet_count": 34070
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

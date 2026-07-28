@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1863891771542904837",
+    "created_at": "2024-12-04T15:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T16:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864327552078156182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576465602",
+          "start": 0,
+          "username": "wanpeng1977"
+        },
+        {
+          "end": 24,
+          "id": "1055368356193230848",
+          "start": 13,
+          "username": "CC05778068"
+        },
+        {
+          "end": 40,
+          "id": "1668535321753944065",
+          "start": 25,
+          "username": "AllEvansichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864327552078156182",
+    "in_reply_to_user_id": "1576465602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864121414040580516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanpeng1977 @CC05778068 @AllEvansichuan 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1863891771542904837",
+        "created_at": "2024-12-04T15:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T16:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864327552078156182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576465602",
+              "start": 0,
+              "username": "wanpeng1977"
+            },
+            {
+              "end": 24,
+              "id": "1055368356193230848",
+              "start": 13,
+              "username": "CC05778068"
+            },
+            {
+              "end": 40,
+              "id": "1668535321753944065",
+              "start": 25,
+              "username": "AllEvansichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864327552078156182",
+        "in_reply_to_user_id": "1576465602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864121414040580516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanpeng1977 @CC05778068 @AllEvansichuan 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576465602",
+        "conversation_id": "1863891771542904837",
+        "created_at": "2024-12-04T01:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T02:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864121414040580516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1055368356193230848",
+              "start": 0,
+              "username": "CC05778068"
+            },
+            {
+              "end": 27,
+              "id": "1668535321753944065",
+              "start": 12,
+              "username": "AllEvansichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864121414040580516",
+        "in_reply_to_user_id": "1055368356193230848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2769,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864101443541848216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CC05778068 @AllEvansichuan 这不是现在全世界的样子吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 187,
+          "like_count": 6739,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T02:01:40.000Z",
+        "description": "",
+        "id": "1576465602",
+        "location": "Beijing",
+        "name": "周",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1393707430077403143/Ydh39DUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 1044,
+          "like_count": 28575,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 8934
+        },
+        "username": "wanpeng1977",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-25T07:59:58.000Z",
+        "description": "五毛小粉红请绕道，没有法拉利少来推下BB",
+        "id": "1055368356193230848",
+        "location": "Wong Tai Sin District",
+        "name": "CC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683515269539569666/i28tT8CC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 101,
+          "like_count": 2305,
+          "listed_count": 7,
+          "media_count": 264,
+          "tweet_count": 23046
+        },
+        "username": "CC05778068",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T08:26:45.000Z",
+        "description": "Happiness lies not in how much you have gained, but in how much you have satisfied.",
+        "id": "1668535321753944065",
+        "name": "all over again",
+        "pinned_tweet_id": "1679043164743581696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816917743037296640/7wjRUAx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3992,
+          "following_count": 5097,
+          "like_count": 5995,
+          "listed_count": 22,
+          "media_count": 503,
+          "tweet_count": 6175
+        },
+        "username": "AllEvansichuan",
+        "verified": false
+      }
+    ]
+  }
+}

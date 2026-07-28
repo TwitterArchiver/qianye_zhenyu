@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1908302722807554466",
+    "created_at": "2025-04-05T18:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T19:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908588584342610022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1408728834799673351",
+          "start": 0,
+          "username": "KELMAND1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908588584342610022",
+    "in_reply_to_user_id": "1408728834799673351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908302722807554466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KELMAND1 美国原产的原味乐事薯片😭（以后要涨价了啊艹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1908302722807554466",
+        "created_at": "2025-04-05T18:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T19:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908588584342610022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1408728834799673351",
+              "start": 0,
+              "username": "KELMAND1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908588584342610022",
+        "in_reply_to_user_id": "1408728834799673351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908302722807554466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KELMAND1 美国原产的原味乐事薯片😭（以后要涨价了啊艹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408728834799673351",
+        "conversation_id": "1908302722807554466",
+        "created_at": "2025-04-04T23:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T00:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908302722807554466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908302722807554466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 228122,
+          "like_count": 326,
+          "quote_count": 16,
+          "reply_count": 398,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "中美贸易战2.0拉开序幕\n\n那么问题来了：过去的一年中，你买过什么原厂美国的东西？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 394,
+          "like_count": 14074,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 253
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:08:30.000Z",
+        "description": "古今多少事\n都付笑谈中",
+        "id": "1408728834799673351",
+        "location": "Abgrund",
+        "name": "Eason Mao☢",
+        "pinned_tweet_id": "1439835269469859844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878091031721492480/YBnYt6xY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87275,
+          "following_count": 4170,
+          "like_count": 181649,
+          "listed_count": 463,
+          "media_count": 23121,
+          "tweet_count": 137229
+        },
+        "username": "KELMAND1",
+        "verified": true
+      }
+    ]
+  }
+}

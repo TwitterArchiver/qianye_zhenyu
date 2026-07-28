@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1909279826470637813",
+    "created_at": "2025-04-08T15:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T16:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909622393598804277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681287639306227712",
+          "start": 0,
+          "username": "kaspa003210"
+        },
+        {
+          "end": 28,
+          "id": "31083308",
+          "start": 13,
+          "username": "wangwatchworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909622393598804277",
+    "in_reply_to_user_id": "1681287639306227712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909280386615788008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaspa003210 @wangwatchworld 我只知道牢中一定会all in！（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1909279826470637813",
+        "created_at": "2025-04-08T15:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909622393598804277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681287639306227712",
+              "start": 0,
+              "username": "kaspa003210"
+            },
+            {
+              "end": 28,
+              "id": "31083308",
+              "start": 13,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909622393598804277",
+        "in_reply_to_user_id": "1681287639306227712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909280386615788008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaspa003210 @wangwatchworld 我只知道牢中一定会all in！（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681287639306227712",
+        "conversation_id": "1909279826470637813",
+        "created_at": "2025-04-07T16:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T17:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909280386615788008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "31083308",
+              "start": 0,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909280386615788008",
+        "in_reply_to_user_id": "31083308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 22000,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 109,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909279826470637813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwatchworld 我就想问，东大硬刚的话会有啥后果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 400,
+          "like_count": 14451,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 273
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T12:59:54.000Z",
+        "description": "",
+        "id": "1681287639306227712",
+        "location": "西朝鲜",
+        "name": "阿狸的手指 | 420 Empire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684005796244512768/gTMqJLaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 279,
+          "like_count": 5684,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2305
+        },
+        "username": "kaspa003210",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-14T08:11:59.000Z",
+        "description": "废话多于财经\nhttps://t.co/20gEmbFstl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unclewaanginphuket.blogspot.com",
+                "end": 30,
+                "expanded_url": "http://unclewaanginphuket.blogspot.com",
+                "start": 7,
+                "url": "https://t.co/20gEmbFstl"
+              }
+            ]
+          }
+        },
+        "id": "31083308",
+        "location": "泰国",
+        "name": "王海滨的财经闲谈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887190420452769792/wLInj9Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213709,
+          "following_count": 990,
+          "like_count": 3213,
+          "listed_count": 1439,
+          "media_count": 5179,
+          "tweet_count": 42861
+        },
+        "username": "wangwatchworld",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915156125277970440"
+      ],
+      "media_source_tweet_id": [
+        "1915158741164462337"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1915708787043783055",
+    "created_at": "2025-04-25T10:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T11:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915708787043783055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1770995564295114752",
+          "start": 3,
+          "username": "eclair_xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FdtVEhg4Oy",
+          "end": 46,
+          "expanded_url": "https://x.com/eclair_xx/status/1915158741164462337/photo/1",
+          "media_key": "3_1915156125277970440",
+          "start": 23,
+          "url": "https://t.co/FdtVEhg4Oy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915708787043783055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1721
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915158741164462337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eclair_xx: 乙女の朝は早い https://t.co/FdtVEhg4Oy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_1915156125277970440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpQAWVibYAglZsI.jpg",
+        "width": 1486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915156125277970440"
+          ],
+          "media_source_tweet_id": [
+            "1915158741164462337"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1915708787043783055",
+        "created_at": "2025-04-25T10:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T11:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915708787043783055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1770995564295114752",
+              "start": 3,
+              "username": "eclair_xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdtVEhg4Oy",
+              "end": 46,
+              "expanded_url": "https://x.com/eclair_xx/status/1915158741164462337/photo/1",
+              "media_key": "3_1915156125277970440",
+              "start": 23,
+              "url": "https://t.co/FdtVEhg4Oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915708787043783055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1721
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915158741164462337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eclair_xx: 乙女の朝は早い https://t.co/FdtVEhg4Oy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915156125277970440"
+          ]
+        },
+        "author_id": "1770995564295114752",
+        "conversation_id": "1915158741164462337",
+        "created_at": "2025-04-23T21:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T22:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915158741164462337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdtVEhg4Oy",
+              "end": 31,
+              "expanded_url": "https://x.com/eclair_xx/status/1915158741164462337/photo/1",
+              "media_key": "3_1915156125277970440",
+              "start": 8,
+              "url": "https://t.co/FdtVEhg4Oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915158741164462337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6939,
+          "impression_count": 791601,
+          "like_count": 43059,
+          "quote_count": 32,
+          "reply_count": 23,
+          "retweet_count": 1721
+        },
+        "reply_settings": "everyone",
+        "text": "乙女の朝は早い https://t.co/FdtVEhg4Oy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 418,
+          "like_count": 15756,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 339
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T02:07:19.000Z",
+        "description": "イラストを投稿しています。かわいい女の子がすき！  SDXL+Photoshop.\n支援サイト（patreon）無料サンプルあります🔞 https://t.co/H3N0CakmMv\n\nご依頼などあればDMまでお気軽にどうぞ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/eclair_xx",
+                "end": 91,
+                "expanded_url": "https://www.patreon.com/c/eclair_xx",
+                "start": 68,
+                "url": "https://t.co/H3N0CakmMv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/eclairxx",
+                "end": 23,
+                "expanded_url": "https://lit.link/eclairxx",
+                "start": 0,
+                "url": "https://t.co/PzuRKdHWYk"
+              }
+            ]
+          }
+        },
+        "id": "1770995564295114752",
+        "name": "えくれあ",
+        "pinned_tweet_id": "1904489854932865424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887958625534222336/D7jYGWms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27556,
+          "following_count": 417,
+          "like_count": 25365,
+          "listed_count": 186,
+          "media_count": 806,
+          "tweet_count": 8468
+        },
+        "url": "https://t.co/PzuRKdHWYk",
+        "username": "eclair_xx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066223606548361217"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2066223640371200198",
+    "created_at": "2026-06-14T18:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066223640371200198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L2BblLKJ0l",
+          "end": 36,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2066223640371200198/photo/1",
+          "media_key": "3_2066223606548361217",
+          "start": 13,
+          "url": "https://t.co/L2BblLKJ0l"
+        },
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2066142107929026877",
+          "start": 37,
+          "url": "https://t.co/VqF1BUpeIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066223640371200198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066142107929026877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神秘铁桶魔女头子（🪣❄️ https://t.co/L2BblLKJ0l https://t.co/VqF1BUpeIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1451,
+        "media_key": "3_2066223606548361217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyzbD7XcAEToDz.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1492,
+        "media_key": "3_2066116770260504576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxSQXva0AAGRKn.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066223606548361217"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2066223640371200198",
+        "created_at": "2026-06-14T18:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066223640371200198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2BblLKJ0l",
+              "end": 36,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2066223640371200198/photo/1",
+              "media_key": "3_2066223606548361217",
+              "start": 13,
+              "url": "https://t.co/L2BblLKJ0l"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2066142107929026877",
+              "start": 37,
+              "url": "https://t.co/VqF1BUpeIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066223640371200198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066142107929026877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神秘铁桶魔女头子（🪣❄️ https://t.co/L2BblLKJ0l https://t.co/VqF1BUpeIs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066116770260504576"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2066142107929026877",
+        "created_at": "2026-06-14T12:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066142107929026877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kbr4EnpT4x",
+              "end": 157,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2066142107929026877/photo/1",
+              "media_key": "3_2066116770260504576",
+              "start": 134,
+              "url": "https://t.co/Kbr4EnpT4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066142107929026877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 7429,
+          "like_count": 142,
+          "quote_count": 19,
+          "reply_count": 56,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "参考这张二次元少女图，将其转换为手机摄影风格，画面略微模糊失焦，低饱和度，拍摄一个漂亮少女的低角度仰视特写自拍，她眉眼清晰，带着些许慵懒犯困的眼神，头发有些凌乱，背景露出部分天花板和一些灯光，她自然地用一只手撑着下巴，少女的发丝更显凌乱，灯光氛围更柔和朦胧。原比例。 https://t.co/Kbr4EnpT4x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 2024,
+          "like_count": 37567,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1084
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6490,
+          "following_count": 871,
+          "like_count": 26125,
+          "listed_count": 11,
+          "media_count": 1490,
+          "tweet_count": 8063
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

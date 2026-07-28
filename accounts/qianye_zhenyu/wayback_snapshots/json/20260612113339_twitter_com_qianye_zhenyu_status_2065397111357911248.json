@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065060366305087488"
+      ],
+      "media_source_tweet_id": [
+        "2065060371464069540"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2065397111357911248",
+    "created_at": "2026-06-12T11:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065397111357911248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979564868786434048",
+          "start": 3,
+          "username": "HarumakiKun2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RKC0U4RzhS",
+          "end": 59,
+          "expanded_url": "https://x.com/HarumakiKun2/status/2065060371464069540/photo/1",
+          "media_key": "3_2065060366305087488",
+          "start": 36,
+          "url": "https://t.co/RKC0U4RzhS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065397111357911248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 715
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065060371464069540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HarumakiKun2: 授業暇すぎたから机にフブさん描いた https://t.co/RKC0U4RzhS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065060366305087488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiRdkVaUAAGVm2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065060366305087488"
+          ],
+          "media_source_tweet_id": [
+            "2065060371464069540"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2065397111357911248",
+        "created_at": "2026-06-12T11:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065397111357911248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979564868786434048",
+              "start": 3,
+              "username": "HarumakiKun2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKC0U4RzhS",
+              "end": 59,
+              "expanded_url": "https://x.com/HarumakiKun2/status/2065060371464069540/photo/1",
+              "media_key": "3_2065060366305087488",
+              "start": 36,
+              "url": "https://t.co/RKC0U4RzhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065397111357911248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 715
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065060371464069540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HarumakiKun2: 授業暇すぎたから机にフブさん描いた https://t.co/RKC0U4RzhS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065060366305087488"
+          ]
+        },
+        "author_id": "1979564868786434048",
+        "conversation_id": "2065060371464069540",
+        "created_at": "2026-06-11T13:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065060371464069540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKC0U4RzhS",
+              "end": 41,
+              "expanded_url": "https://x.com/HarumakiKun2/status/2065060371464069540/photo/1",
+              "media_key": "3_2065060366305087488",
+              "start": 18,
+              "url": "https://t.co/RKC0U4RzhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065060371464069540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1076,
+          "impression_count": 734817,
+          "like_count": 18079,
+          "quote_count": 93,
+          "reply_count": 159,
+          "retweet_count": 715
+        },
+        "reply_settings": "everyone",
+        "text": "授業暇すぎたから机にフブさん描いた https://t.co/RKC0U4RzhS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 2005,
+          "like_count": 37397,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1077
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T15:07:49.000Z",
+        "description": "Hな絵描いて凍結されたんでもう健全な絵しか描きません\nスマホ指描き\nイラスト上手くなりたい高2です\nマシュマロ→ https://t.co/uZNcoQsOTd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/me",
+                "end": 80,
+                "expanded_url": "https://marshmallow-qa.com/me",
+                "start": 57,
+                "url": "https://t.co/uZNcoQsOTd"
+              }
+            ]
+          }
+        },
+        "id": "1979564868786434048",
+        "name": "はるまきくん2",
+        "pinned_tweet_id": "2045817246321393752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044332031702966272/0Zc5ZczH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 497,
+          "like_count": 6830,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1186
+        },
+        "username": "HarumakiKun2",
+        "verified": false
+      }
+    ]
+  }
+}

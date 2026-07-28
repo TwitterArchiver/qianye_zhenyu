@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064373968958828545"
+      ],
+      "media_source_tweet_id": [
+        "2064373974000447655"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2064666856544149505",
+    "created_at": "2026-06-10T11:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064666856544149505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1636049500685967361",
+          "start": 3,
+          "username": "hakoniwashinshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UkM1mJuKam",
+          "end": 58,
+          "expanded_url": "https://x.com/hakoniwashinshi/status/2064373974000447655/photo/1",
+          "media_key": "3_2064373968958828545",
+          "start": 35,
+          "url": "https://t.co/UkM1mJuKam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064666856544149505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064373974000447655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakoniwashinshi: シーボーン鮮魚店ですわ〜🐟 https://t.co/UkM1mJuKam"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2540,
+        "media_key": "3_2064373968958828545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYhL-9asAEcMtc.jpg",
+        "width": 2019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064373968958828545"
+          ],
+          "media_source_tweet_id": [
+            "2064373974000447655"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2064666856544149505",
+        "created_at": "2026-06-10T11:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064666856544149505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1636049500685967361",
+              "start": 3,
+              "username": "hakoniwashinshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UkM1mJuKam",
+              "end": 58,
+              "expanded_url": "https://x.com/hakoniwashinshi/status/2064373974000447655/photo/1",
+              "media_key": "3_2064373968958828545",
+              "start": 35,
+              "url": "https://t.co/UkM1mJuKam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064666856544149505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064373974000447655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakoniwashinshi: シーボーン鮮魚店ですわ〜🐟 https://t.co/UkM1mJuKam"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064373968958828545"
+          ]
+        },
+        "author_id": "1636049500685967361",
+        "conversation_id": "2064373974000447655",
+        "created_at": "2026-06-09T15:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064373974000447655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UkM1mJuKam",
+              "end": 37,
+              "expanded_url": "https://x.com/hakoniwashinshi/status/2064373974000447655/photo/1",
+              "media_key": "3_2064373968958828545",
+              "start": 14,
+              "url": "https://t.co/UkM1mJuKam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064373974000447655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2116,
+          "impression_count": 193082,
+          "like_count": 20899,
+          "quote_count": 12,
+          "reply_count": 44,
+          "retweet_count": 2224
+        },
+        "reply_settings": "everyone",
+        "text": "シーボーン鮮魚店ですわ〜🐟 https://t.co/UkM1mJuKam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 1953,
+          "like_count": 37205,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1067
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T17:00:40.000Z",
+        "description": "どなたでも歓迎ですわ！pixiv→ https://t.co/VivUeAitCC マシュマロ→ https://t.co/ZBqu0D96Wo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96584967",
+                "end": 41,
+                "expanded_url": "https://www.pixiv.net/users/96584967",
+                "start": 18,
+                "url": "https://t.co/VivUeAitCC"
+              },
+              {
+                "display_url": "marshmallow-qa.com/gn4kfssxrzkvv2…",
+                "end": 72,
+                "expanded_url": "https://marshmallow-qa.com/gn4kfssxrzkvv2a?t=uQmYF9&utm_medium=url_text&utm_source=promotion",
+                "start": 49,
+                "url": "https://t.co/ZBqu0D96Wo"
+              }
+            ]
+          }
+        },
+        "id": "1636049500685967361",
+        "name": "はこにわ@C108土曜日（む-22b西1）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039357117988298752/-RoUCH3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24360,
+          "following_count": 538,
+          "like_count": 11943,
+          "listed_count": 115,
+          "media_count": 970,
+          "tweet_count": 10705
+        },
+        "username": "hakoniwashinshi",
+        "verified": false
+      }
+    ]
+  }
+}

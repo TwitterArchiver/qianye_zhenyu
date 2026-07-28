@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917229431535673344"
+      ],
+      "media_source_tweet_id": [
+        "1917229438590484765"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1917650798080651729",
+    "created_at": "2025-04-30T18:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T19:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917650798080651729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1290771605920944133",
+          "start": 3,
+          "username": "akemitan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pAQMmTELmV",
+          "end": 43,
+          "expanded_url": "https://x.com/akemitan_/status/1917229438590484765/photo/1",
+          "media_key": "3_1917229431535673344",
+          "start": 20,
+          "url": "https://t.co/pAQMmTELmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917650798080651729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2020
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917229438590484765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akemitan_: かわゆ！ https://t.co/pAQMmTELmV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1905,
+        "media_key": "3_1917229431535673344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpteApOboAAfIDh.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917229431535673344"
+          ],
+          "media_source_tweet_id": [
+            "1917229438590484765"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1917650798080651729",
+        "created_at": "2025-04-30T18:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T19:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917650798080651729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1290771605920944133",
+              "start": 3,
+              "username": "akemitan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pAQMmTELmV",
+              "end": 43,
+              "expanded_url": "https://x.com/akemitan_/status/1917229438590484765/photo/1",
+              "media_key": "3_1917229431535673344",
+              "start": 20,
+              "url": "https://t.co/pAQMmTELmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917650798080651729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2020
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917229438590484765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akemitan_: かわゆ！ https://t.co/pAQMmTELmV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917229431535673344"
+          ]
+        },
+        "author_id": "1290771605920944133",
+        "conversation_id": "1917229438590484765",
+        "created_at": "2025-04-29T14:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917229438590484765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pAQMmTELmV",
+              "end": 28,
+              "expanded_url": "https://x.com/akemitan_/status/1917229438590484765/photo/1",
+              "media_key": "3_1917229431535673344",
+              "start": 5,
+              "url": "https://t.co/pAQMmTELmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917229438590484765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2575,
+          "impression_count": 350680,
+          "like_count": 28114,
+          "quote_count": 30,
+          "reply_count": 10,
+          "retweet_count": 2020
+        },
+        "reply_settings": "everyone",
+        "text": "かわゆ！ https://t.co/pAQMmTELmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 422,
+          "like_count": 16012,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 367
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-04T22:08:36.000Z",
+        "description": "【お仕事】https://t.co/4SEBpcwLIu(2025年10月以降)【FANBOX】https://t.co/VWhxQa274N 【🍣】 #mitene_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 76,
+                "tag": "mitene_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/akemitan",
+                "end": 28,
+                "expanded_url": "https://lit.link/akemitan",
+                "start": 5,
+                "url": "https://t.co/4SEBpcwLIu"
+              },
+              {
+                "display_url": "mi398.fanbox.cc",
+                "end": 71,
+                "expanded_url": "https://mi398.fanbox.cc",
+                "start": 48,
+                "url": "https://t.co/VWhxQa274N"
+              }
+            ]
+          }
+        },
+        "id": "1290771605920944133",
+        "location": "mimimimimi.398@gmail.com",
+        "name": "み",
+        "pinned_tweet_id": "1803000699258560559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290797767959261186/5zbAU_qz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196472,
+          "following_count": 430,
+          "like_count": 4843,
+          "listed_count": 1477,
+          "media_count": 197,
+          "tweet_count": 4693
+        },
+        "username": "akemitan_",
+        "verified": false
+      }
+    ]
+  }
+}

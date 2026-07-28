@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1876990611091292162",
+    "created_at": "2025-01-09T15:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T16:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877375657778225206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877375657778225206",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876990611091292162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 为什么只有一天？（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1876990611091292162",
+        "created_at": "2025-01-09T15:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T16:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877375657778225206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877375657778225206",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876990611091292162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 为什么只有一天？（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876990608474284032"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1876990611091292162",
+        "created_at": "2025-01-08T13:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T14:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876990611091292162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYqr0je0ZJ",
+              "end": 34,
+              "expanded_url": "https://x.com/hsn8086/status/1876990611091292162/photo/1",
+              "media_key": "3_1876990608474284032",
+              "start": 11,
+              "url": "https://t.co/YYqr0je0ZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876990611091292162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 118634,
+          "like_count": 1473,
+          "quote_count": 87,
+          "reply_count": 498,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "好处说完了,坏处呢? https://t.co/YYqr0je0ZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 307,
+          "like_count": 10925,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 117
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1875403771435700438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28678,
+          "following_count": 901,
+          "like_count": 36304,
+          "listed_count": 79,
+          "media_count": 4832,
+          "tweet_count": 9615
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

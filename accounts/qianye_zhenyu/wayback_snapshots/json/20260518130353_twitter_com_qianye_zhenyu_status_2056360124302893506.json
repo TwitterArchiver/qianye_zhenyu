@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2056316071616069871",
+    "created_at": "2026-05-18T13:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056360124302893506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        },
+        {
+          "end": 18,
+          "id": "1247054463329656832",
+          "start": 9,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056360124302893506",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056316071616069871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya @quasarne emm，古典自由主义（其实更像是中立主义吧emm。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2056316006122037249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImAg0LaoAEbhty.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2056316071616069871",
+        "created_at": "2026-05-18T13:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056360124302893506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 18,
+              "id": "1247054463329656832",
+              "start": 9,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056360124302893506",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056316071616069871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @quasarne emm，古典自由主义（其实更像是中立主义吧emm。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056316006122037249"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2056316071616069871",
+        "created_at": "2026-05-18T10:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056316071616069871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1wMIE3Ay6",
+              "end": 33,
+              "expanded_url": "https://x.com/bghtnya/status/2056316071616069871/photo/1",
+              "media_key": "3_2056316006122037249",
+              "start": 10,
+              "url": "https://t.co/e1wMIE3Ay6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056316071616069871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1865,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的政治立场 https://t.co/e1wMIE3Ay6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1706,
+          "like_count": 35358,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 925
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9703,
+          "following_count": 2339,
+          "like_count": 178545,
+          "listed_count": 21,
+          "media_count": 3925,
+          "tweet_count": 48006
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "數碼/科幻/政治/策略.音游萌新 Wikier ｜🟥⬛️自由·平等 Тавлов, Эа🌹｜🌐漢語 吴、普/English OK/好语言学/想学Deutsch 在学CTF 🚩｜🏳️‍🌈pan/gay🏳️‍⚧️éla｜猫！@kyrinxo ｜Knowledge is key to the universe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 110,
+                "username": "kyrinxo"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052712897109966848/fQwEFRtb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1075,
+          "like_count": 79306,
+          "listed_count": 7,
+          "media_count": 1192,
+          "tweet_count": 15476
+        },
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

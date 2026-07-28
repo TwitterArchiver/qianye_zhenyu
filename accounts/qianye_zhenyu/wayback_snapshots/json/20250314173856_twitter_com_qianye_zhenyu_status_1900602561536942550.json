@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900602549306306560"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1900464574031405150",
+    "created_at": "2025-03-14T17:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T18:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900602561536942550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XwGpL0nd6K",
+          "end": 35,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1900602561536942550/photo/1",
+          "media_key": "3_1900602549306306560",
+          "start": 12,
+          "url": "https://t.co/XwGpL0nd6K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900602561536942550",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900464574031405150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 解： https://t.co/XwGpL0nd6K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1900602549306306560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmBL8uKasAAYGZL.jpg",
+        "width": 964
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1900464560982614016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_OcvmWYAAv3Fr.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900602549306306560"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1900464574031405150",
+        "created_at": "2025-03-14T17:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T18:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900602561536942550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwGpL0nd6K",
+              "end": 35,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1900602561536942550/photo/1",
+              "media_key": "3_1900602549306306560",
+              "start": 12,
+              "url": "https://t.co/XwGpL0nd6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900602561536942550",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900464574031405150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 解： https://t.co/XwGpL0nd6K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900464560982614016"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1900464574031405150",
+        "created_at": "2025-03-14T08:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T09:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900464574031405150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqHuCeFthJ",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1900464574031405150/photo/1",
+              "media_key": "3_1900464560982614016",
+              "start": 0,
+              "url": "https://t.co/jqHuCeFthJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900464574031405150",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12005,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jqHuCeFthJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774684260560897/-rVPPNon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 367,
+          "like_count": 12621,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 173
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1898763769171542384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47343,
+          "following_count": 933,
+          "like_count": 37173,
+          "listed_count": 114,
+          "media_count": 7544,
+          "tweet_count": 13032
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

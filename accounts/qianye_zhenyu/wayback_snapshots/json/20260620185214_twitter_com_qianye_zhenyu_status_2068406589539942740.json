@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2068381200667029737",
+    "created_at": "2026-06-20T18:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068406589539942740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025951595020845056",
+          "start": 0,
+          "username": "fhv932189957574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068406589539942740",
+    "in_reply_to_user_id": "2025951595020845056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068381200667029737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@fhv932189957574 我活到头了。。。\n大压抑时代实至名归"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2068381200667029737",
+        "created_at": "2026-06-20T18:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068406589539942740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068406589539942740",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068381200667029737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@fhv932189957574 我活到头了。。。\n大压抑时代实至名归"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025951595020845056",
+        "conversation_id": "2068381200667029737",
+        "created_at": "2026-06-20T17:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068381200667029737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/am5tkxujrv4351…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/am5tkxujrv43513/status/2068115819247398969",
+              "start": 44,
+              "url": "https://t.co/M3SXrnsxq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068381200667029737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068115819247398969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "互联网为什么要让我的眼睛看到这个，我他妈还以为只有大陆压抑，其实全球都是大压抑时代是吧 https://t.co/M3SXrnsxq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 2067,
+          "like_count": 38031,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1111
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜我草了病娇真恐怖丨希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机｜我草不要视奸我｜爱好纯随机｜爱搬屎｜个人自由主义｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 131,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 108,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2067726949980762459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 218,
+          "like_count": 7378,
+          "listed_count": 0,
+          "media_count": 683,
+          "tweet_count": 1814
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

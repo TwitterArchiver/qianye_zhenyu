@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2012283997116588296",
+    "created_at": "2026-01-16T22:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T23:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012283997116588296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 57,
+          "id": "1783136956420849664",
+          "start": 44,
+          "username": "BoredFish_XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012283997116588296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你赢了，在你眼中所谓真爱都是能被两句话戳破的😅 \n不过我得谢谢你，倒是让我看清了不少现实@BoredFish_XY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2012283997116588296",
+        "created_at": "2026-01-16T22:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T23:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012283997116588296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1783136956420849664",
+              "start": 44,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012283997116588296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你赢了，在你眼中所谓真爱都是能被两句话戳破的😅 \n不过我得谢谢你，倒是让我看清了不少现实@BoredFish_XY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 661,
+          "like_count": 27179,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 773
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "OC 疯子\n◽️此号不会再发布任何绘作。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/boredf…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/boredfish-xy.bsky.social",
+                "start": 0,
+                "url": "https://t.co/ah9lYnIRCM"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "此账号已停用",
+        "pinned_tweet_id": "2003967557695688814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007406171385221120/wkpLgr2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 426,
+          "like_count": 11919,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/ah9lYnIRCM",
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

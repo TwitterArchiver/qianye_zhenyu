@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1924615276303417411",
+    "created_at": "2025-05-21T11:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T12:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925151771300913185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1902413566302617601",
+          "start": 0,
+          "username": "6dxjp530615"
+        },
+        {
+          "end": 29,
+          "id": "1249525383797456898",
+          "start": 13,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925151771300913185",
+    "in_reply_to_user_id": "1902413566302617601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924641839723753762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6dxjp530615 @jakobsonradical 太地狱了💀，奖励你回去陪老英雄一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1924615276303417411",
+        "created_at": "2025-05-21T11:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T12:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925151771300913185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1902413566302617601",
+              "start": 0,
+              "username": "6dxjp530615"
+            },
+            {
+              "end": 29,
+              "id": "1249525383797456898",
+              "start": 13,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925151771300913185",
+        "in_reply_to_user_id": "1902413566302617601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924641839723753762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6dxjp530615 @jakobsonradical 太地狱了💀，奖励你回去陪老英雄一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902413566302617601",
+        "conversation_id": "1924615276303417411",
+        "created_at": "2025-05-20T01:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T02:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924641839723753762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924641839723753762",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13728,
+          "like_count": 444,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924615276303417411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 怪不得南京旅游这么火爆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 437,
+          "like_count": 17260,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 434
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T17:35:33.000Z",
+        "description": "亲，你违法翻墙是来舔中华民国吗？人家台湾人不理你哟！\n亲，你在推上骂习主席改变不了你在中国的幸福生活哟！\n亲，举报我也改变不了你在中国的幸福生活哟！\n中国共产党好！\n习主席好！\n祝你和你的后代永世中国人！",
+        "id": "1902413566302617601",
+        "location": "习主席的细胞",
+        "name": "🦥我是习粉(爱国互fo🇨🇳)",
+        "pinned_tweet_id": "1902417229045485714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902414508783755264/IhyCJiR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 124,
+          "like_count": 4416,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 2856
+        },
+        "username": "6dxjp530615",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239226,
+          "following_count": 1475,
+          "like_count": 41490,
+          "listed_count": 971,
+          "media_count": 18283,
+          "tweet_count": 25475
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

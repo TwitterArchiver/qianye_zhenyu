@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1906754806729040284",
+    "created_at": "2025-04-02T16:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907465624173097162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834773562592575488",
+          "start": 0,
+          "username": "baoshi114"
+        },
+        {
+          "end": 26,
+          "id": "1865419581206208512",
+          "start": 11,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907465624173097162",
+    "in_reply_to_user_id": "1834773562592575488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907058170893086776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baoshi114 @DDzhanshou5150 为什么你的头像是空白的😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1906754806729040284",
+        "created_at": "2025-04-02T16:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907465624173097162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834773562592575488",
+              "start": 0,
+              "username": "baoshi114"
+            },
+            {
+              "end": 26,
+              "id": "1865419581206208512",
+              "start": 11,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907465624173097162",
+        "in_reply_to_user_id": "1834773562592575488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907058170893086776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baoshi114 @DDzhanshou5150 为什么你的头像是空白的😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834773562592575488",
+        "conversation_id": "1906754806729040284",
+        "created_at": "2025-04-01T13:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T14:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907058170893086776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907058170893086776",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906754806729040284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 你发棍母了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中…… 最近在学日语ing…. ………(正在努力逃离这片炼狱）",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 392,
+          "like_count": 13807,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 227
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T01:58:59.000Z",
+        "description": "cmg看你母呢，我是女的",
+        "id": "1834773562592575488",
+        "location": "熊耳岛",
+        "name": "↑地雷♡赛高↑-溶解棍母酱♿（暴论卿）",
+        "pinned_tweet_id": "1896016636769174000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900483370527649792/dQfTaitL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 19,
+          "like_count": 1304,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1372
+        },
+        "username": "baoshi114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894685893140881409/EAkfTOuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 2451,
+          "like_count": 4352,
+          "listed_count": 2,
+          "media_count": 679,
+          "tweet_count": 6147
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

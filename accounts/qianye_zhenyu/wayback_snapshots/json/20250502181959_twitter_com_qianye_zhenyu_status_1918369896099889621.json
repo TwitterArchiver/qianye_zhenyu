@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917837402816835584"
+      ],
+      "media_source_tweet_id": [
+        "1917837408231645252"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1918369896099889621",
+    "created_at": "2025-05-02T18:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T19:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918369896099889621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675305974507397120",
+          "start": 3,
+          "username": "kyomu_305"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/icO7Bn5LvD",
+          "end": 41,
+          "expanded_url": "https://x.com/kyomu_305/status/1917837408231645252/photo/1",
+          "media_key": "3_1917837402816835584",
+          "start": 18,
+          "url": "https://t.co/icO7Bn5LvD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918369896099889621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917837408231645252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyomu_305: 名画 https://t.co/icO7Bn5LvD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1917837402816835584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp2G9Ova8AAi0nL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917837402816835584"
+          ],
+          "media_source_tweet_id": [
+            "1917837408231645252"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918369896099889621",
+        "created_at": "2025-05-02T18:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T19:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918369896099889621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675305974507397120",
+              "start": 3,
+              "username": "kyomu_305"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/icO7Bn5LvD",
+              "end": 41,
+              "expanded_url": "https://x.com/kyomu_305/status/1917837408231645252/photo/1",
+              "media_key": "3_1917837402816835584",
+              "start": 18,
+              "url": "https://t.co/icO7Bn5LvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918369896099889621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917837408231645252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyomu_305: 名画 https://t.co/icO7Bn5LvD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917837402816835584"
+          ]
+        },
+        "author_id": "1675305974507397120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917837408231645252",
+        "created_at": "2025-05-01T07:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T08:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917837408231645252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/icO7Bn5LvD",
+              "end": 26,
+              "expanded_url": "https://x.com/kyomu_305/status/1917837408231645252/photo/1",
+              "media_key": "3_1917837402816835584",
+              "start": 3,
+              "url": "https://t.co/icO7Bn5LvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917837408231645252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6226,
+          "impression_count": 977658,
+          "like_count": 109060,
+          "quote_count": 41,
+          "reply_count": 36,
+          "retweet_count": 14216
+        },
+        "reply_settings": "everyone",
+        "text": "名画 https://t.co/icO7Bn5LvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 422,
+          "like_count": 16198,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 375
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T00:51:13.000Z",
+        "description": "ミクちゃん達とドールが好きです*ˊᵕˋ* 絵を描きます🍀 無言フォロー失礼します*_ _)｜絵の転載・AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/wzoqenfg11qa8w1",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/wzoqenfg11qa8w1",
+                "start": 0,
+                "url": "https://t.co/TWaKLUquVz"
+              }
+            ]
+          }
+        },
+        "id": "1675305974507397120",
+        "location": "ﾏｼｭﾏﾛ→",
+        "name": "虚無",
+        "pinned_tweet_id": "1828341795979436183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676871113673175041/zr45vzNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23299,
+          "following_count": 528,
+          "like_count": 37308,
+          "listed_count": 102,
+          "media_count": 1765,
+          "tweet_count": 9867
+        },
+        "url": "https://t.co/TWaKLUquVz",
+        "username": "kyomu_305",
+        "verified": false
+      }
+    ]
+  }
+}

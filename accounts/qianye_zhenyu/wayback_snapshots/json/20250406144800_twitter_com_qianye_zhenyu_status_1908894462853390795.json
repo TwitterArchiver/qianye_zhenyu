@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1908855460419055730",
+    "created_at": "2025-04-06T14:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T15:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908894462853390795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1540640706674315264",
+          "start": 0,
+          "username": "Michelle_Z2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908894462853390795",
+    "in_reply_to_user_id": "1540640706674315264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908855460419055730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michelle_Z2023 英文（繁體）\n英文（简体）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_1908855458367983616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2d7QOW0AA0FIj.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1908855460419055730",
+        "created_at": "2025-04-06T14:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908894462853390795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1540640706674315264",
+              "start": 0,
+              "username": "Michelle_Z2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908894462853390795",
+        "in_reply_to_user_id": "1540640706674315264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908855460419055730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michelle_Z2023 英文（繁體）\n英文（简体）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908855458367983616"
+          ]
+        },
+        "author_id": "1540640706674315264",
+        "conversation_id": "1908855460419055730",
+        "created_at": "2025-04-06T12:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T13:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908855460419055730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/udH5OLkXGd",
+              "end": 29,
+              "expanded_url": "https://x.com/Michelle_Z2023/status/1908855460419055730/photo/1",
+              "media_key": "3_1908855458367983616",
+              "start": 6,
+              "url": "https://t.co/udH5OLkXGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908855460419055730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3213,
+          "like_count": 99,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "啊？？？？ https://t.co/udH5OLkXGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 398,
+          "like_count": 14225,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 260
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T10:19:19.000Z",
+        "description": "Forever Michelle💐~ 请叫我 米夏🍹~\nMichelle as Mich(我) & Elle(她) @hoshinoyumemi11 | Asian stand with Palestine🇵🇸/Taiwan🤍💚💙/Ukraine🇺🇦/Canada/Greenland🟩讓帝國復歸塵埃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "hoshinoyumemi11"
+              }
+            ]
+          }
+        },
+        "id": "1540640706674315264",
+        "location": "北德意志酷儿同盟-易北河畔酷青城",
+        "name": "Michelle 🎀🌹🌈 vor der Elbe",
+        "pinned_tweet_id": "1814464267422228906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814439074016473090/HhXxAeBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 716,
+          "like_count": 32182,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 8382
+        },
+        "username": "Michelle_Z2023",
+        "verified": true
+      }
+    ]
+  }
+}

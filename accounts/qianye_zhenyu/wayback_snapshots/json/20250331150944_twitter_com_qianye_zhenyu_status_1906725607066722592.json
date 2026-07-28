@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1906639015828214076",
+    "created_at": "2025-03-31T15:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T16:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906725607066722592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1061692057507381249",
+          "start": 0,
+          "username": "FYI4URCALVERT"
+        },
+        {
+          "end": 27,
+          "id": "763419367740575744",
+          "start": 15,
+          "username": "bryan3kafka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906725607066722592",
+    "in_reply_to_user_id": "1061692057507381249",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906684528648987075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FYI4URCALVERT @bryan3kafka I’m chinese and I can make sure that girl is not a Japanese"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_1906684520797257728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXneDjbQAAveXh.jpg",
+        "width": 321
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1906639015828214076",
+        "created_at": "2025-03-31T15:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T16:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906725607066722592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1061692057507381249",
+              "start": 0,
+              "username": "FYI4URCALVERT"
+            },
+            {
+              "end": 27,
+              "id": "763419367740575744",
+              "start": 15,
+              "username": "bryan3kafka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906725607066722592",
+        "in_reply_to_user_id": "1061692057507381249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906684528648987075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FYI4URCALVERT @bryan3kafka I’m chinese and I can make sure that girl is not a Japanese"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906684520797257728"
+          ]
+        },
+        "author_id": "1061692057507381249",
+        "conversation_id": "1906639015828214076",
+        "created_at": "2025-03-31T12:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906684528648987075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "763419367740575744",
+              "start": 0,
+              "username": "bryan3kafka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbmWGZ6MbN",
+              "end": 112,
+              "expanded_url": "https://x.com/FYI4URCALVERT/status/1906684528648987075/photo/1",
+              "media_key": "3_1906684520797257728",
+              "start": 89,
+              "url": "https://t.co/JbmWGZ6MbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906684528648987075",
+        "in_reply_to_user_id": "763419367740575744",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3429,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906639015828214076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bryan3kafka It has been verified by the Chinese government that the racist is Japanese. https://t.co/JbmWGZ6MbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中…… 最近在学日语ing…",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 385,
+          "like_count": 13521,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 204
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-11T18:48:06.000Z",
+        "description": "‘TADA’-DONT TALK CRAP-WE WERE JUS TALKIN ABT THIS👉🏿DONT WORRY ABOUT ME/EMBRACE GRIEF/🤦🏽‍♂️INS：melancholiccalvert🤬 _IM CALVERT&IM A LIBERAL🤷🏽‍♂️CU-",
+        "id": "1061692057507381249",
+        "location": "Kowloon City District",
+        "name": "CALVERT SHUM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1061920718210818049/eGNyPzkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 30
+        },
+        "username": "FYI4URCALVERT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-10T16:58:55.000Z",
+        "description": "Nqa d sbak s",
+        "id": "763419367740575744",
+        "name": "Bryan jjjjjj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/949323340241489920/b5GMUut1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 34,
+          "like_count": 2981,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 163
+        },
+        "username": "bryan3kafka",
+        "verified": false
+      }
+    ]
+  }
+}

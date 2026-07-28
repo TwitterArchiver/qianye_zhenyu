@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1978479818451865851",
+    "created_at": "2025-10-15T15:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T16:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978479818451865851"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978479818451865851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "fw画手一坨，最近在练上色……因为最近实在闲的无聊，所以后续会保持更新\n\n混沌中立派牢中，不鉴证。战雷受害者，专玩德系/日系，一打红温就下线\n呃………还有什么来着…算了，就当是个简短的介绍罢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1978479818451865851",
+        "created_at": "2025-10-15T15:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978479818451865851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978479818451865851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "fw画手一坨，最近在练上色……因为最近实在闲的无聊，所以后续会保持更新\n\n混沌中立派牢中，不鉴证。战雷受害者，专玩德系/日系，一打红温就下线\n呃………还有什么来着…算了，就当是个简短的介绍罢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 475,
+          "like_count": 21197,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 515
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

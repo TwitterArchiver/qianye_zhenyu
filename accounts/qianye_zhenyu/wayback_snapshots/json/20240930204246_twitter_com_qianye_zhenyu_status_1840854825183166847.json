@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1840402920703230201",
+    "created_at": "2024-09-30T20:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T21:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840854825183166847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1612327333423362049",
+          "start": 0,
+          "username": "ShawnShaw0086"
+        },
+        {
+          "end": 24,
+          "id": "1194797560717660160",
+          "start": 15,
+          "username": "DXDWX999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840854825183166847",
+    "in_reply_to_user_id": "1612327333423362049",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840404620553887971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShawnShaw0086 @DXDWX999 和着你说这话的时候人在以色列是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1840402920703230201",
+        "created_at": "2024-09-30T20:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T21:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840854825183166847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1612327333423362049",
+              "start": 0,
+              "username": "ShawnShaw0086"
+            },
+            {
+              "end": 24,
+              "id": "1194797560717660160",
+              "start": 15,
+              "username": "DXDWX999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840854825183166847",
+        "in_reply_to_user_id": "1612327333423362049",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840404620553887971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShawnShaw0086 @DXDWX999 和着你说这话的时候人在以色列是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612327333423362049",
+        "conversation_id": "1840402920703230201",
+        "created_at": "2024-09-29T14:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T15:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840404620553887971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1194797560717660160",
+              "start": 0,
+              "username": "DXDWX999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840404620553887971",
+        "in_reply_to_user_id": "1194797560717660160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5063,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840402920703230201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXDWX999 全宇宙最坏的生命都转生到了中国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "一个新人画师而已",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 129,
+          "like_count": 1142,
+          "listed_count": 0,
+          "tweet_count": 12
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T05:56:33.000Z",
+        "description": "致力于推进中国民主变革，进而实现天下大同。",
+        "id": "1612327333423362049",
+        "location": "中国山西大同",
+        "name": "中国大同党",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612332189626269697/OeASFHTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 311,
+          "like_count": 1087,
+          "listed_count": 0,
+          "tweet_count": 983
+        },
+        "username": "ShawnShaw0086",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-14T02:01:59.000Z",
+        "description": "大雄的微笑：傳播真相 揭露邪惡 弘揚民族正氣 回歸傳統文化 自由是爭取來的 讓自由之光 洗淨這黑暗濁世 懇請各位同仁私信爆料 期待各位關注點贊與轉推 大家一起努力💪。所有資料取自網絡，如有侵權問題請聯繫刪帖",
+        "id": "1194797560717660160",
+        "name": "德潤傳媒",
+        "pinned_tweet_id": "1840762935850983682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800698589418811392/uX8H2EZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90015,
+          "following_count": 99,
+          "like_count": 17512,
+          "listed_count": 316,
+          "tweet_count": 45752
+        },
+        "username": "DXDWX999",
+        "verified": true
+      }
+    ]
+  }
+}

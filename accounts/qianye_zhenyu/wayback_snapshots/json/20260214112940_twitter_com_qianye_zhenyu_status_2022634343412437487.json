@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2022484656118206650",
+    "created_at": "2026-02-14T11:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022634343412437487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783136956420849664",
+          "start": 0,
+          "username": "BoredFish_XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022634343412437487",
+    "in_reply_to_user_id": "1783136956420849664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022633694754742775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoredFish_XY 别人过情人节咱们过咱们的兄弟节（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2022484656118206650",
+        "created_at": "2026-02-14T11:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022634343412437487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783136956420849664",
+              "start": 0,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022634343412437487",
+        "in_reply_to_user_id": "1783136956420849664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022633694754742775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoredFish_XY 别人过情人节咱们过咱们的兄弟节（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783136956420849664",
+        "conversation_id": "2022484656118206650",
+        "created_at": "2026-02-14T11:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022633694754742775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022633694754742775",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022484656118206650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 这叫庆祝友情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "爆炸后再次被拼装重组起来的劳迁而已 ｜目前已停止绘画活动｜超级好兄弟劳鱼 @BoredFish_xy （不定时复活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "BoredFish_xy"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "理想者的墓地（月球",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017276155078815744/PdFvlPsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 663,
+          "like_count": 27982,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 568
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "OC 疯子\n◽️该账号不会再发布任何绘作。\n◽️作品都在 https://t.co/GMBbabSxLv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boredfish-xy.bsky.social",
+                "end": 52,
+                "expanded_url": "http://boredfish-xy.bsky.social",
+                "start": 29,
+                "url": "https://t.co/GMBbabSxLv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/boredf…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/boredfish-xy.bsky.social",
+                "start": 0,
+                "url": "https://t.co/FKwHUazjCW"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "该账号已停用",
+        "pinned_tweet_id": "2012280272046203065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007406171385221120/wkpLgr2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 426,
+          "like_count": 11924,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 1592
+        },
+        "url": "https://t.co/FKwHUazjCW",
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

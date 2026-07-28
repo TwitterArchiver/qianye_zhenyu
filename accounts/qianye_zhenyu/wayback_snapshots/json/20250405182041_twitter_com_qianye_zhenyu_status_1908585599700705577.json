@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1908295444117283257",
+    "created_at": "2025-04-05T18:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T19:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908585599700705577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "215939847",
+          "start": 0,
+          "username": "bboczeng"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908585599700705577",
+    "in_reply_to_user_id": "215939847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908295444117283257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bboczeng @grok  翻译一下内容"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_1908295440858234880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnugl8baQAAJYBU.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1908295444117283257",
+        "created_at": "2025-04-05T18:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T19:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908585599700705577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908585599700705577",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908295444117283257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng @grok  翻译一下内容"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908295440858234880"
+          ]
+        },
+        "author_id": "215939847",
+        "conversation_id": "1908295444117283257",
+        "created_at": "2025-04-04T23:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T00:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908295444117283257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MJhohd2Js",
+              "end": 43,
+              "expanded_url": "https://x.com/bboczeng/status/1908295444117283257/photo/1",
+              "media_key": "3_1908295440858234880",
+              "start": 20,
+              "url": "https://t.co/1MJhohd2Js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908295444117283257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 87990,
+          "like_count": 475,
+          "quote_count": 3,
+          "reply_count": 45,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "当你看到白宫长这样的时候，你就应该逃了 https://t.co/1MJhohd2Js"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 394,
+          "like_count": 14056,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 251
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1907761030840594501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173398,
+          "following_count": 663,
+          "like_count": 86655,
+          "listed_count": 931,
+          "media_count": 14081,
+          "tweet_count": 79843
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "iOS: https://t.co/taNZVy3vpq \nAndroid: https://t.co/sDFB1bIhSw \n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 64,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "apps.apple.com/us/app/grok/id…",
+                "end": 28,
+                "expanded_url": "https://apps.apple.com/us/app/grok/id6670324846",
+                "start": 5,
+                "url": "https://t.co/taNZVy3vpq"
+              },
+              {
+                "display_url": "play.google.com/store/apps/det…",
+                "end": 62,
+                "expanded_url": "https://play.google.com/store/apps/details?id=ai.x.grok",
+                "start": 39,
+                "url": "https://t.co/sDFB1bIhSw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2943760,
+          "following_count": 2,
+          "like_count": 51,
+          "listed_count": 3107,
+          "media_count": 791365,
+          "tweet_count": 4329328
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

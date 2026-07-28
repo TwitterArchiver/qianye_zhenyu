@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1999070375892890070",
+    "created_at": "2025-12-11T16:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999150197453303926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1586332050528915457",
+          "start": 0,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999150197453303926",
+    "in_reply_to_user_id": "1586332050528915457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999070375892890070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilaoshizuikeai 更抽象的是就我学校一个班上都有十几个同学换上圣诞帽头像了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_1999070073663668224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74fo_XWQAAq2-j.png",
+        "width": 532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1999070375892890070",
+        "created_at": "2025-12-11T16:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999150197453303926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586332050528915457",
+              "start": 0,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999150197453303926",
+        "in_reply_to_user_id": "1586332050528915457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999070375892890070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilaoshizuikeai 更抽象的是就我学校一个班上都有十几个同学换上圣诞帽头像了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999070073663668224"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "conversation_id": "1999070375892890070",
+        "created_at": "2025-12-11T10:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999070375892890070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mq74Mdzjpq",
+              "end": 57,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/1999070375892890070/photo/1",
+              "media_key": "3_1999070073663668224",
+              "start": 34,
+              "url": "https://t.co/mq74Mdzjpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999070375892890070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 274310,
+          "like_count": 1235,
+          "quote_count": 14,
+          "reply_count": 155,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "所以什么是反抗？\n当禁止人们戴圣诞帽的时候\n戴圣诞帽就是一种反抗。 https://t.co/mq74Mdzjpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 566,
+          "like_count": 24117,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 620
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998467328095227904/jh_w4Thc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250113,
+          "following_count": 664,
+          "like_count": 5628,
+          "listed_count": 1325,
+          "media_count": 1391,
+          "tweet_count": 7132
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982111522986852352"
+      ],
+      "media_source_tweet_id": [
+        "1982111533695197444"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1982472193499127999",
+    "created_at": "2025-10-26T15:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982472193499127999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472257901964447744",
+          "start": 3,
+          "username": "htq_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M0DcUTMFrt",
+          "end": 34,
+          "expanded_url": "https://x.com/htq_7/status/1982111533695197444/photo/1",
+          "media_key": "3_1982111522986852352",
+          "start": 11,
+          "url": "https://t.co/M0DcUTMFrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982472193499127999",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1850
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982111533695197444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @htq_7: https://t.co/M0DcUTMFrt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982111522986852352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Hf7bDXAAAM6oP.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982111522986852352"
+          ],
+          "media_source_tweet_id": [
+            "1982111533695197444"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1982472193499127999",
+        "created_at": "2025-10-26T15:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982472193499127999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472257901964447744",
+              "start": 3,
+              "username": "htq_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0DcUTMFrt",
+              "end": 34,
+              "expanded_url": "https://x.com/htq_7/status/1982111533695197444/photo/1",
+              "media_key": "3_1982111522986852352",
+              "start": 11,
+              "url": "https://t.co/M0DcUTMFrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982472193499127999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1850
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982111533695197444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @htq_7: https://t.co/M0DcUTMFrt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982111522986852352"
+          ]
+        },
+        "author_id": "1472257901964447744",
+        "conversation_id": "1982111533695197444",
+        "created_at": "2025-10-25T15:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982111533695197444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0DcUTMFrt",
+              "end": 23,
+              "expanded_url": "https://x.com/htq_7/status/1982111533695197444/photo/1",
+              "media_key": "3_1982111522986852352",
+              "start": 0,
+              "url": "https://t.co/M0DcUTMFrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982111533695197444",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1696,
+          "impression_count": 217377,
+          "like_count": 17426,
+          "quote_count": 17,
+          "reply_count": 6,
+          "retweet_count": 1850
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/M0DcUTMFrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 478,
+          "like_count": 21278,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 524
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T17:30:52.000Z",
+        "description": "絵垢、cms closed",
+        "id": "1472257901964447744",
+        "name": "花畑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485978479921610752/k8t6nMOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55810,
+          "following_count": 315,
+          "like_count": 1457,
+          "listed_count": 337,
+          "media_count": 95,
+          "tweet_count": 160
+        },
+        "username": "htq_7",
+        "verified": false
+      }
+    ]
+  }
+}

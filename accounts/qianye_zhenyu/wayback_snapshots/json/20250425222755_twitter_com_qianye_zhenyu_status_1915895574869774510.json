@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915392400538976256"
+      ],
+      "media_source_tweet_id": [
+        "1915392463717773553"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1915895574869774510",
+    "created_at": "2025-04-25T22:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T23:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915895574869774510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "857173942586441729",
+          "start": 3,
+          "username": "kieed23232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qUN2ViAH59",
+          "end": 39,
+          "expanded_url": "https://x.com/kieed23232/status/1915392463717773553/photo/1",
+          "media_key": "3_1915392400538976256",
+          "start": 16,
+          "url": "https://t.co/qUN2ViAH59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915895574869774510",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2335
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915392463717773553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kieed23232: https://t.co/qUN2ViAH59"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1915392400538976256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTXPXebwAABX59.jpg",
+        "width": 1651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915392400538976256"
+          ],
+          "media_source_tweet_id": [
+            "1915392463717773553"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1915895574869774510",
+        "created_at": "2025-04-25T22:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T23:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915895574869774510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "857173942586441729",
+              "start": 3,
+              "username": "kieed23232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qUN2ViAH59",
+              "end": 39,
+              "expanded_url": "https://x.com/kieed23232/status/1915392463717773553/photo/1",
+              "media_key": "3_1915392400538976256",
+              "start": 16,
+              "url": "https://t.co/qUN2ViAH59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915895574869774510",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2335
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915392463717773553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kieed23232: https://t.co/qUN2ViAH59"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915392400538976256"
+          ]
+        },
+        "author_id": "857173942586441729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1915392463717773553",
+        "created_at": "2025-04-24T13:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T14:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915392463717773553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qUN2ViAH59",
+              "end": 23,
+              "expanded_url": "https://x.com/kieed23232/status/1915392463717773553/photo/1",
+              "media_key": "3_1915392400538976256",
+              "start": 0,
+              "url": "https://t.co/qUN2ViAH59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915392463717773553",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1914,
+          "impression_count": 307459,
+          "like_count": 20856,
+          "quote_count": 9,
+          "reply_count": 16,
+          "retweet_count": 2335
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qUN2ViAH59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 417,
+          "like_count": 15817,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 343
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T10:06:08.000Z",
+        "description": "Illustrator\nNO AI🚫 didn`t use AI ,在画百日绘中\nPainting Live Streaming &screen recording 作画直播/作画录屏→https://t.co/wLGByCsiwn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/25589919",
+                "end": 116,
+                "expanded_url": "https://space.bilibili.com/25589919",
+                "start": 93,
+                "url": "https://t.co/wLGByCsiwn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11525066",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11525066",
+                "start": 0,
+                "url": "https://t.co/iHBM2GdjPo"
+              }
+            ]
+          }
+        },
+        "id": "857173942586441729",
+        "name": "kieed",
+        "pinned_tweet_id": "1829852267304140916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908705750075060224/ciddanZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240898,
+          "following_count": 423,
+          "like_count": 73,
+          "listed_count": 1695,
+          "media_count": 149,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/iHBM2GdjPo",
+        "username": "kieed23232",
+        "verified": false
+      }
+    ]
+  }
+}

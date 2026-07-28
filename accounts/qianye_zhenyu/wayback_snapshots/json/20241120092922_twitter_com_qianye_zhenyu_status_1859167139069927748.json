@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1858876553469337890",
+    "created_at": "2024-11-20T09:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T10:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859167139069927748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1007079383901720576",
+          "start": 0,
+          "username": "yang40526448"
+        },
+        {
+          "end": 22,
+          "id": "1507539767067496448",
+          "start": 14,
+          "username": "kbt6528"
+        },
+        {
+          "end": 38,
+          "id": "722848046321508352",
+          "start": 23,
+          "username": "woyongdehuawei"
+        },
+        {
+          "end": 54,
+          "id": "1260553941714186241",
+          "start": 39,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859167139069927748",
+    "in_reply_to_user_id": "1007079383901720576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859074916307415138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yang40526448 @kbt6528 @woyongdehuawei @whyyoutouzhele 同感（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1858876553469337890",
+        "created_at": "2024-11-20T09:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T10:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859167139069927748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1007079383901720576",
+              "start": 0,
+              "username": "yang40526448"
+            },
+            {
+              "end": 22,
+              "id": "1507539767067496448",
+              "start": 14,
+              "username": "kbt6528"
+            },
+            {
+              "end": 38,
+              "id": "722848046321508352",
+              "start": 23,
+              "username": "woyongdehuawei"
+            },
+            {
+              "end": 54,
+              "id": "1260553941714186241",
+              "start": 39,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859167139069927748",
+        "in_reply_to_user_id": "1007079383901720576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859074916307415138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yang40526448 @kbt6528 @woyongdehuawei @whyyoutouzhele 同感（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1007079383901720576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "1858876553469337890",
+        "created_at": "2024-11-20T03:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T04:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859074916307415138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507539767067496448",
+              "start": 0,
+              "username": "kbt6528"
+            },
+            {
+              "end": 24,
+              "id": "722848046321508352",
+              "start": 9,
+              "username": "woyongdehuawei"
+            },
+            {
+              "end": 40,
+              "id": "1260553941714186241",
+              "start": 25,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859074916307415138",
+        "in_reply_to_user_id": "1507539767067496448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859036700275867655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kbt6528 @woyongdehuawei @whyyoutouzhele 不想跟这些傻X为伍所以移民去日本啊😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 175,
+          "like_count": 4784,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-14T01:56:50.000Z",
+        "description": "아무것도 아니다",
+        "id": "1007079383901720576",
+        "location": "日本",
+        "name": "니 가 꺼 져",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1007100023505481728/CC1H79Cq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 271,
+          "listed_count": 0,
+          "tweet_count": 254
+        },
+        "username": "yang40526448",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T02:08:24.000Z",
+        "description": "",
+        "id": "1507539767067496448",
+        "name": "高明德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507539940355108865/AuSbDKnf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 102,
+          "listed_count": 0,
+          "tweet_count": 117
+        },
+        "username": "kbt6528",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T18:02:58.000Z",
+        "description": "Christian/British Patriot/Conservatives/中国叛逃公职人员/YT：https://t.co/GrFL00gP7a Discord：https://t.co/f0Zs060Gmm 投稿邮箱：lundunbagong@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@woyongdehuawei",
+                "end": 75,
+                "expanded_url": "http://www.youtube.com/@woyongdehuawei",
+                "start": 52,
+                "url": "https://t.co/GrFL00gP7a"
+              },
+              {
+                "display_url": "discord.gg/GKP2WG7ABx",
+                "end": 107,
+                "expanded_url": "https://discord.gg/GKP2WG7ABx",
+                "start": 84,
+                "url": "https://t.co/f0Zs060Gmm"
+              }
+            ]
+          }
+        },
+        "id": "722848046321508352",
+        "location": "乌鲁木齐中路，伦敦",
+        "name": "清丝老师谈治国理政",
+        "pinned_tweet_id": "1744308099131871366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829410849577938944/lduE7qLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71456,
+          "following_count": 828,
+          "like_count": 22419,
+          "listed_count": 297,
+          "tweet_count": 20743
+        },
+        "username": "woyongdehuawei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827715,
+          "following_count": 925,
+          "like_count": 5488,
+          "listed_count": 7952,
+          "tweet_count": 25305
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

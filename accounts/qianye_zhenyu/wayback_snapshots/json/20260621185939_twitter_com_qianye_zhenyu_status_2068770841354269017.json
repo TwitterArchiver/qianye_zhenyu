@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068770808336650240"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2068527827755168168",
+    "created_at": "2026-06-21T18:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068770841354269017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2063266311254552576",
+          "start": 0,
+          "username": "17nuun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vPlkTiXDaK",
+          "end": 40,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2068770841354269017/photo/1",
+          "media_key": "3_2068770808336650240",
+          "start": 17,
+          "url": "https://t.co/vPlkTiXDaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068770841354269017",
+    "in_reply_to_user_id": "2063266311254552576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068527827755168168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17nuun 于此同时…另一边 https://t.co/vPlkTiXDaK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2068770808336650240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXAFuCakAAKt-R.jpg",
+        "width": 850
+      },
+      {
+        "height": 846,
+        "media_key": "3_2068381907180826624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLReYsVbsAAslSn.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068770808336650240"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2068527827755168168",
+        "created_at": "2026-06-21T18:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068770841354269017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPlkTiXDaK",
+              "end": 40,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2068770841354269017/photo/1",
+              "media_key": "3_2068770808336650240",
+              "start": 17,
+              "url": "https://t.co/vPlkTiXDaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068770841354269017",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068527827755168168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 于此同时…另一边 https://t.co/vPlkTiXDaK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068381907180826624"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2068527827755168168",
+        "created_at": "2026-06-21T02:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068527827755168168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISmC7ZHt9K",
+              "end": 33,
+              "expanded_url": "https://x.com/17nuun/status/2068527827755168168/photo/1",
+              "media_key": "3_2068381907180826624",
+              "start": 10,
+              "url": "https://t.co/ISmC7ZHt9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068527827755168168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 40928,
+          "like_count": 865,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这他妈是哪个泰拉? https://t.co/ISmC7ZHt9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2068758131090624804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 2068,
+          "like_count": 38115,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1122
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 881,
+          "like_count": 390,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066738796016582656"
+      ],
+      "media_source_tweet_id": [
+        "2066738800257024373"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2067311729776693567",
+    "created_at": "2026-06-17T18:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067311729776693567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "932356211017637888",
+          "start": 3,
+          "username": "Yellow_GOP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P1U6bYc4rE",
+          "end": 70,
+          "expanded_url": "https://x.com/Yellow_GOP/status/2066738800257024373/photo/1",
+          "media_key": "3_2066738796016582656",
+          "start": 47,
+          "url": "https://t.co/P1U6bYc4rE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067311729776693567",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1499
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066738800257024373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yellow_GOP: Who am I supposed to wait for? https://t.co/P1U6bYc4rE"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Art: @iwa_to_mushi\n\nEres grande bro",
+        "height": 1112,
+        "media_key": "3_2066738796016582656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6H_CQWQAA3c3R.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066738796016582656"
+          ],
+          "media_source_tweet_id": [
+            "2066738800257024373"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2067311729776693567",
+        "created_at": "2026-06-17T18:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067311729776693567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "932356211017637888",
+              "start": 3,
+              "username": "Yellow_GOP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1U6bYc4rE",
+              "end": 70,
+              "expanded_url": "https://x.com/Yellow_GOP/status/2066738800257024373/photo/1",
+              "media_key": "3_2066738796016582656",
+              "start": 47,
+              "url": "https://t.co/P1U6bYc4rE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067311729776693567",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1499
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066738800257024373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yellow_GOP: Who am I supposed to wait for? https://t.co/P1U6bYc4rE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066738796016582656"
+          ]
+        },
+        "author_id": "932356211017637888",
+        "conversation_id": "2066738800257024373",
+        "created_at": "2026-06-16T04:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066738800257024373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1U6bYc4rE",
+              "end": 54,
+              "expanded_url": "https://x.com/Yellow_GOP/status/2066738800257024373/photo/1",
+              "media_key": "3_2066738796016582656",
+              "start": 31,
+              "url": "https://t.co/P1U6bYc4rE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066738800257024373",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1398,
+          "impression_count": 168109,
+          "like_count": 23165,
+          "quote_count": 47,
+          "reply_count": 15,
+          "retweet_count": 1499
+        },
+        "reply_settings": "everyone",
+        "text": "Who am I supposed to wait for? https://t.co/P1U6bYc4rE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 2059,
+          "like_count": 37695,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1091
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-19T21:13:37.000Z",
+        "description": "'No hay nada de malo en ser un héroe falso'\n\n⭐Re:Zero Fan/Anime only🗿\n⭐Frieren Fan\n⭐F1 Fan/MV3 🏎️\n⭐Sobreviviendo a la Universidad\n⭐Pa hacer amigos",
+        "id": "932356211017637888",
+        "location": "De camino a Ende",
+        "name": "■■■■■■-(Kashiraaaa)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041333296416579584/ecOwbZtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 107,
+          "like_count": 2337,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 1815
+        },
+        "username": "Yellow_GOP",
+        "verified": false
+      }
+    ]
+  }
+}

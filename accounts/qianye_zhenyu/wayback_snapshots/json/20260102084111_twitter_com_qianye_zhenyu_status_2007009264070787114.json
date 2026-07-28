@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006759226568314880"
+      ],
+      "media_source_tweet_id": [
+        "2006759238375452940"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2007009264070787114",
+    "created_at": "2026-01-02T08:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007009264070787114"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "r6x"
+        },
+        {
+          "end": 38,
+          "start": 26,
+          "tag": "R6Community"
+        },
+        {
+          "end": 48,
+          "start": 39,
+          "tag": "tachanka"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1555527924471808000",
+          "start": 3,
+          "username": "liizi_lc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l2VmRaoVnq",
+          "end": 72,
+          "expanded_url": "https://x.com/liizi_lc/status/2006759238375452940/photo/1",
+          "media_key": "3_2006759226568314880",
+          "start": 49,
+          "url": "https://t.co/l2VmRaoVnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007009264070787114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006759238375452940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liizi_lc: 稿件展示 \n\n#r6x #R6Community #tachanka https://t.co/l2VmRaoVnq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2006759226568314880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lw4mFXkAAPL1a.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006759226568314880"
+          ],
+          "media_source_tweet_id": [
+            "2006759238375452940"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2007009264070787114",
+        "created_at": "2026-01-02T08:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007009264070787114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "r6x"
+            },
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "R6Community"
+            },
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "tachanka"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1555527924471808000",
+              "start": 3,
+              "username": "liizi_lc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2VmRaoVnq",
+              "end": 72,
+              "expanded_url": "https://x.com/liizi_lc/status/2006759238375452940/photo/1",
+              "media_key": "3_2006759226568314880",
+              "start": 49,
+              "url": "https://t.co/l2VmRaoVnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007009264070787114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006759238375452940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liizi_lc: 稿件展示 \n\n#r6x #R6Community #tachanka https://t.co/l2VmRaoVnq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006759226568314880"
+          ]
+        },
+        "author_id": "1555527924471808000",
+        "conversation_id": "2006759238375452940",
+        "created_at": "2026-01-01T16:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006759238375452940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "r6x"
+            },
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "R6Community"
+            },
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "tachanka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2VmRaoVnq",
+              "end": 58,
+              "expanded_url": "https://x.com/liizi_lc/status/2006759238375452940/photo/1",
+              "media_key": "3_2006759226568314880",
+              "start": 35,
+              "url": "https://t.co/l2VmRaoVnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006759238375452940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 28843,
+          "like_count": 3255,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "稿件展示 \n\n#r6x #R6Community #tachanka https://t.co/l2VmRaoVnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "迁鵺_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 646,
+          "like_count": 26139,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 748
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T12:16:00.000Z",
+        "description": "怪人画怪图",
+        "id": "1555527924471808000",
+        "name": "LIIZI_lc",
+        "pinned_tweet_id": "1890065691996504234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729507828811919361/dSzqM0Zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 269,
+          "like_count": 3929,
+          "listed_count": 11,
+          "media_count": 352,
+          "tweet_count": 1215
+        },
+        "username": "liizi_lc",
+        "verified": false
+      }
+    ]
+  }
+}

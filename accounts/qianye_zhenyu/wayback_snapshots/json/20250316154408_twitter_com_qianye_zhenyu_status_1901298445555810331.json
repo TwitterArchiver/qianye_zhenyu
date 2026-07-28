@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1901298445555810331",
+    "created_at": "2025-03-16T15:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T16:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901298445555810331"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901298445555810331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近几天真的不知道怎么地，感觉我的手是真废了，一点手感都没有……\n感觉自己真的要报废了，画画什么的还是让那些天赋怪搞去吧，我自己挖三填一就行了………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1901298445555810331",
+        "created_at": "2025-03-16T15:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901298445555810331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901298445555810331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近几天真的不知道怎么地，感觉我的手是真废了，一点手感都没有……\n感觉自己真的要报废了，画画什么的还是让那些天赋怪搞去吧，我自己挖三填一就行了………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774684260560897/-rVPPNon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 369,
+          "like_count": 12895,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 184
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

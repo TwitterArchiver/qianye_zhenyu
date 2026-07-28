@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1862899413863305548",
+    "created_at": "2024-12-01T16:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T17:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863261018220069074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429829081684537345",
+          "start": 0,
+          "username": "Rabbubble550W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863261018220069074",
+    "in_reply_to_user_id": "1429829081684537345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862899413863305548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rabbubble550W 你好，我是丁真（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1862899413863305548",
+        "created_at": "2024-12-01T16:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T17:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863261018220069074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429829081684537345",
+              "start": 0,
+              "username": "Rabbubble550W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863261018220069074",
+        "in_reply_to_user_id": "1429829081684537345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862899413863305548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbubble550W 你好，我是丁真（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862899378278506497"
+          ]
+        },
+        "author_id": "1429829081684537345",
+        "conversation_id": "1862899413863305548",
+        "created_at": "2024-11-30T16:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T17:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862899413863305548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oD7iJowpTL",
+              "end": 31,
+              "expanded_url": "https://x.com/Rabbubble550W/status/1862899413863305548/photo/1",
+              "media_key": "3_1862899378278506497",
+              "start": 8,
+              "url": "https://t.co/oD7iJowpTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862899413863305548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 161482,
+          "like_count": 1323,
+          "quote_count": 78,
+          "reply_count": 721,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "快走 我走地窖 https://t.co/oD7iJowpTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 185,
+          "like_count": 6228,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:33:28.000Z",
+        "description": "常驻深圳，喜欢面基，欢迎私信互fo。喜欢分享日常，段子梗图大多来源于QQ空间与微信群聊，点赞转推梗图梗文不代表本人的意见 ，如有侵权请私信删除。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/xUAoJzmKgp"
+              }
+            ]
+          }
+        },
+        "id": "1429829081684537345",
+        "location": "Hong Kong",
+        "name": "笨笨兔早露",
+        "pinned_tweet_id": "1849349107871330725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860973917902659584/TP6U9fsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15789,
+          "following_count": 11058,
+          "like_count": 90387,
+          "listed_count": 45,
+          "media_count": 13333,
+          "tweet_count": 87560
+        },
+        "url": "https://t.co/xUAoJzmKgp",
+        "username": "Rabbubble550W",
+        "verified": true
+      }
+    ]
+  }
+}

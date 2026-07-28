@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2048208761324806502",
+    "created_at": "2026-04-26T13:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048398783487307922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048398783487307922",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048208761324806502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 不是烂完了，只是向来如此但你才刚刚看见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2048208761324806502",
+        "created_at": "2026-04-26T13:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048398783487307922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048398783487307922",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048208761324806502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 不是烂完了，只是向来如此但你才刚刚看见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194283796314509312",
+        "conversation_id": "2048208761324806502",
+        "created_at": "2026-04-26T01:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048208761324806502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048208761324806502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2483,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上会网发现这个社会真的是烂完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年耐杀王美术生再次复活！\ninfp，阴暗比远离我\n主玩明日方舟，wt，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2048070220800274630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 676,
+          "like_count": 29742,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 581
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "自用🪜 https://t.co/ySp7utCzxL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=axvMQjmh",
+                "start": 4,
+                "url": "https://t.co/ySp7utCzxL"
+              }
+            ]
+          }
+        },
+        "id": "1194283796314509312",
+        "name": "gana",
+        "pinned_tweet_id": "2033913269044580808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042639893378273280/vPmJfapa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66931,
+          "following_count": 63,
+          "like_count": 9716,
+          "listed_count": 200,
+          "media_count": 1557,
+          "tweet_count": 6687
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

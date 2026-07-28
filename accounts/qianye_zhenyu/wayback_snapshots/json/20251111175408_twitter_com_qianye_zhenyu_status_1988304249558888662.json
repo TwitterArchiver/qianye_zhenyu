@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987819114069643264"
+      ],
+      "media_source_tweet_id": [
+        "1987819117760643436"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1988304249558888662",
+    "created_at": "2025-11-11T17:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988304249558888662"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "prsk_FA"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "宵崎奏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1155245932121743360",
+          "start": 3,
+          "username": "kuma_yuka___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TYkx9ETSGC",
+          "end": 56,
+          "expanded_url": "https://x.com/kuma_yuka___/status/1987819117760643436/photo/1",
+          "media_key": "3_1987819114069643264",
+          "start": 33,
+          "url": "https://t.co/TYkx9ETSGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988304249558888662",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2131
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987819117760643436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuma_yuka___: #prsk_FA  #宵崎奏 https://t.co/TYkx9ETSGC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987819114069643264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ym88vaUAAW08K.jpg",
+        "width": 1299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987819114069643264"
+          ],
+          "media_source_tweet_id": [
+            "1987819117760643436"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1988304249558888662",
+        "created_at": "2025-11-11T17:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988304249558888662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "宵崎奏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1155245932121743360",
+              "start": 3,
+              "username": "kuma_yuka___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYkx9ETSGC",
+              "end": 56,
+              "expanded_url": "https://x.com/kuma_yuka___/status/1987819117760643436/photo/1",
+              "media_key": "3_1987819114069643264",
+              "start": 33,
+              "url": "https://t.co/TYkx9ETSGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988304249558888662",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2131
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987819117760643436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuma_yuka___: #prsk_FA  #宵崎奏 https://t.co/TYkx9ETSGC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987819114069643264"
+          ]
+        },
+        "author_id": "1155245932121743360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1987819117760643436",
+        "created_at": "2025-11-10T09:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987819117760643436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "宵崎奏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYkx9ETSGC",
+              "end": 38,
+              "expanded_url": "https://x.com/kuma_yuka___/status/1987819117760643436/photo/1",
+              "media_key": "3_1987819114069643264",
+              "start": 15,
+              "url": "https://t.co/TYkx9ETSGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987819117760643436",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1447,
+          "impression_count": 213575,
+          "like_count": 21128,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 2131
+        },
+        "reply_settings": "everyone",
+        "text": "#prsk_FA  #宵崎奏 https://t.co/TYkx9ETSGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 509,
+          "like_count": 22168,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 559
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-27T22:37:48.000Z",
+        "description": "𝑖𝑙𝑙𝑢𝑠𝑡𝑟𝑎𝑡𝑜𝑟｜\n創作 #月白のウォーリア /FA #月白便",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 16,
+                "tag": "月白のウォーリア"
+              },
+              {
+                "end": 34,
+                "start": 30,
+                "tag": "月白便"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukakumagai",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukakumagai",
+                "start": 0,
+                "url": "https://t.co/Y1DCRu1KfL"
+              }
+            ]
+          }
+        },
+        "id": "1155245932121743360",
+        "location": "連絡先｜他SNSなど▽",
+        "name": "熊谷ユカ",
+        "pinned_tweet_id": "1980844260716081274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795066273912786945/zfN9gbTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66216,
+          "following_count": 915,
+          "like_count": 60258,
+          "listed_count": 492,
+          "media_count": 257,
+          "tweet_count": 7732
+        },
+        "url": "https://t.co/Y1DCRu1KfL",
+        "username": "kuma_yuka___",
+        "verified": false
+      }
+    ]
+  }
+}

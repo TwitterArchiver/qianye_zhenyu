@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1917119456423383158",
+    "created_at": "2025-04-30T19:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T20:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917658565092720812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1578828965468598272",
+          "start": 0,
+          "username": "asakataramana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917658565092720812",
+    "in_reply_to_user_id": "1578828965468598272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917119456423383158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asakataramana 选我选我！我主玩PzH2000的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1917119456423383158",
+        "created_at": "2025-04-30T19:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T20:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917658565092720812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1578828965468598272",
+              "start": 0,
+              "username": "asakataramana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917658565092720812",
+        "in_reply_to_user_id": "1578828965468598272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917119456423383158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asakataramana 选我选我！我主玩PzH2000的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578828965468598272",
+        "conversation_id": "1917119456423383158",
+        "created_at": "2025-04-29T07:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917119456423383158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917119456423383158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 131539,
+          "like_count": 757,
+          "quote_count": 10,
+          "reply_count": 79,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "约个炮友，要求年龄在18至25岁之间，身高160cm以上，体型符合北约标准（BMI不超过25，且不低于18.5），视力不低于0.8（或通过军事标准矫正），熟练掌握北约炮兵作战理论与实践，包括但不限于以下内容："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 422,
+          "like_count": 16100,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 369
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T19:25:55.000Z",
+        "description": "已为人妻 破布娃娃综合征  👫🏻:@SAWA_823 4猫1豚鼠1仓鼠1猫娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "SAWA_823"
+              }
+            ]
+          }
+        },
+        "id": "1578828965468598272",
+        "location": "淡路島",
+        "name": "Күгәрсен·Tokugawa Schrödinger",
+        "pinned_tweet_id": "1671417616320335873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676086932684812288/3u2VcExw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 932,
+          "like_count": 48724,
+          "listed_count": 6,
+          "media_count": 458,
+          "tweet_count": 8672
+        },
+        "username": "asakataramana",
+        "verified": false
+      }
+    ]
+  }
+}

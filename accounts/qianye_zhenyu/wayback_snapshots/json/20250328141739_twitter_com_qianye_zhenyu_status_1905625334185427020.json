@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1905625334185427020",
+    "created_at": "2025-03-28T14:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T15:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905625334185427020"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "レーシングミク2025 セパンVer.",
+          "probability": 0.4254,
+          "start": 14,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 109,
+          "tag": "レーシングミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "162625616",
+          "start": 3,
+          "username": "key_999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/ZPnGkIy9",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/ZPnGkIy9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905625334185427020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 627
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905600092138295672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @key_999: 「レーシングミク2025 セパンVer.」「レーシングミク15周年イラスト”Rhapsody”」を描き下ろしさせていただきました！\n今年のレーミクと合わせてチェックしてもらえたら嬉しいです👾\n#レーシングミク https://t.co/ZPnGkIy9…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 385,
+        "media_key": "3_1905600087893643264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnINLwLakAAJXoV.jpg",
+        "width": 382
+      },
+      {
+        "height": 631,
+        "media_key": "3_1905600087918870531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnINLwRbgAMiIPy.jpg",
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1905625334185427020",
+        "created_at": "2025-03-28T14:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T15:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905625334185427020"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "レーシングミク2025 セパンVer.",
+              "probability": 0.4254,
+              "start": 14,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 109,
+              "tag": "レーシングミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "162625616",
+              "start": 3,
+              "username": "key_999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/ZPnGkIy9",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/ZPnGkIy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905625334185427020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 627
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905600092138295672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @key_999: 「レーシングミク2025 セパンVer.」「レーシングミク15周年イラスト”Rhapsody”」を描き下ろしさせていただきました！\n今年のレーミクと合わせてチェックしてもらえたら嬉しいです👾\n#レーシングミク https://t.co/ZPnGkIy9…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905600087893643264",
+            "3_1905600087918870531"
+          ]
+        },
+        "author_id": "162625616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "1905600092138295672",
+        "created_at": "2025-03-28T12:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905600092138295672"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "レーシングミク2025 セパンVer.",
+              "probability": 0.4344,
+              "start": 1,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 96,
+              "tag": "レーシングミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPnGkIy9iy",
+              "end": 128,
+              "expanded_url": "https://x.com/key_999/status/1905600092138295672/photo/1",
+              "media_key": "3_1905600087893643264",
+              "start": 105,
+              "url": "https://t.co/ZPnGkIy9iy"
+            },
+            {
+              "display_url": "pic.x.com/ZPnGkIy9iy",
+              "end": 128,
+              "expanded_url": "https://x.com/key_999/status/1905600092138295672/photo/1",
+              "media_key": "3_1905600087918870531",
+              "start": 105,
+              "url": "https://t.co/ZPnGkIy9iy"
+            },
+            {
+              "display_url": "x.com/goodsmileracin…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/goodsmileracing/status/1905570380955394058",
+              "start": 129,
+              "url": "https://t.co/MDK9wZWqM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905600092138295672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 135359,
+          "like_count": 3937,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 627
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905570380955394058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「レーシングミク2025 セパンVer.」「レーシングミク15周年イラスト”Rhapsody”」を描き下ろしさせていただきました！\n今年のレーミクと合わせてチェックしてもらえたら嬉しいです👾\n#レーシングミク https://t.co/ZPnGkIy9iy https://t.co/MDK9wZWqM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中……",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 381,
+          "like_count": 13222,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 183
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-04T06:27:57.000Z",
+        "description": "kei Mochizuki / Illustrator アニメと絵が好きです ▶︎ LOOPERS / Project:;COLDシリーズ / 第四境界 / レーミク2025 / FGO「バーヴァンシー」/ 刀剣乱舞「京極正宗」/ サンリオ「シエロモート」キャラデザ ▶︎https://t.co/qeDmYyDhAf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/key_999",
+                "end": 159,
+                "expanded_url": "http://pixiv.me/key_999",
+                "start": 136,
+                "url": "https://t.co/qeDmYyDhAf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keymmm.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://keymmm.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/snDLfyuuKS"
+              }
+            ]
+          }
+        },
+        "id": "162625616",
+        "location": "お仕事のご連絡▶︎mochikei999@gmail.com",
+        "name": "望月けい",
+        "pinned_tweet_id": "1878025665968017413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835643237593436160/dH20w4Dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002877,
+          "following_count": 709,
+          "like_count": 14209,
+          "listed_count": 7653,
+          "media_count": 2161,
+          "tweet_count": 67714
+        },
+        "url": "https://t.co/snDLfyuuKS",
+        "username": "key_999",
+        "verified": true
+      }
+    ]
+  }
+}

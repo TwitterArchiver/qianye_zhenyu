@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987501323391213568"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1987501333596037192",
+    "created_at": "2025-11-09T12:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T13:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987501333596037192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tN4ut27BRu",
+          "end": 41,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1987501333596037192/photo/1",
+          "media_key": "3_1987501323391213568",
+          "start": 18,
+          "url": "https://t.co/tN4ut27BRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987501333596037192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "摸\n（画风多变都是基础不扎实的借口 https://t.co/tN4ut27BRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_1987501323391213568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UF7GNaIAAVmG-.jpg",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987501323391213568"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1987501333596037192",
+        "created_at": "2025-11-09T12:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987501333596037192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tN4ut27BRu",
+              "end": 41,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1987501333596037192/photo/1",
+              "media_key": "3_1987501323391213568",
+              "start": 18,
+              "url": "https://t.co/tN4ut27BRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987501333596037192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摸\n（画风多变都是基础不扎实的借口 https://t.co/tN4ut27BRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 495,
+          "like_count": 21901,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 547
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

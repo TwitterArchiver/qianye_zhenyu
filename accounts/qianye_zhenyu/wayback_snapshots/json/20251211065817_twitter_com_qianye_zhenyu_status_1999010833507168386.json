@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1998650338203901987",
+    "created_at": "2025-12-11T06:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999010833507168386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3193166400",
+          "start": 0,
+          "username": "liaohaijie"
+        },
+        {
+          "end": 27,
+          "id": "1859482780318695426",
+          "start": 12,
+          "username": "RickLee1360494"
+        },
+        {
+          "end": 43,
+          "id": "912623216899715072",
+          "start": 28,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999010833507168386",
+    "in_reply_to_user_id": "3193166400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998991369176805654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liaohaijie @RickLee1360494 @Xianzhong_1953 搞美术的是容易疯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1998650338203901987",
+        "created_at": "2025-12-11T06:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999010833507168386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3193166400",
+              "start": 0,
+              "username": "liaohaijie"
+            },
+            {
+              "end": 27,
+              "id": "1859482780318695426",
+              "start": 12,
+              "username": "RickLee1360494"
+            },
+            {
+              "end": 43,
+              "id": "912623216899715072",
+              "start": 28,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999010833507168386",
+        "in_reply_to_user_id": "3193166400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998991369176805654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liaohaijie @RickLee1360494 @Xianzhong_1953 搞美术的是容易疯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3193166400",
+        "conversation_id": "1998650338203901987",
+        "created_at": "2025-12-11T05:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T06:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998991369176805654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1859482780318695426",
+              "start": 0,
+              "username": "RickLee1360494"
+            },
+            {
+              "end": 31,
+              "id": "912623216899715072",
+              "start": 16,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998991369176805654",
+        "in_reply_to_user_id": "1859482780318695426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998916580290474377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RickLee1360494 @Xianzhong_1953 搞美术的才是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 565,
+          "like_count": 24032,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 620
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-12T13:21:59.000Z",
+        "description": "简中推智障儿童欢乐多",
+        "id": "3193166400",
+        "location": "People's Republic of China",
+        "name": "liaohaijie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/598418153341886465/USOhS2On_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 73,
+          "like_count": 111,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1263
+        },
+        "username": "liaohaijie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:23:59.000Z",
+        "description": "",
+        "id": "1859482780318695426",
+        "name": "Rick Lee",
+        "pinned_tweet_id": "1958011664109887764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859482876091449344/dB1NnvU8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 120,
+          "like_count": 26378,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1844
+        },
+        "username": "RickLee1360494",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "唯一账号，年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105515,
+          "following_count": 802,
+          "like_count": 242423,
+          "listed_count": 345,
+          "media_count": 22798,
+          "tweet_count": 44248
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

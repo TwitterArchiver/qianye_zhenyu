@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1921100793513734501",
+    "created_at": "2025-05-11T16:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T17:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921600814142922824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395565481361219584",
+          "start": 0,
+          "username": "liuguangchui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921600814142922824",
+    "in_reply_to_user_id": "1395565481361219584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921100793513734501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuguangchui 你是说我能动员出全世界军队总和几倍甚至更多的人力？！🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_1921100586084147200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqkezftXIAAbic5.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1921100793513734501",
+        "created_at": "2025-05-11T16:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T17:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921600814142922824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921600814142922824",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921100793513734501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui 你是说我能动员出全世界军队总和几倍甚至更多的人力？！🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921100586084147200"
+          ]
+        },
+        "author_id": "1395565481361219584",
+        "conversation_id": "1921100793513734501",
+        "created_at": "2025-05-10T07:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T08:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921100793513734501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfNrW555Gw",
+              "end": 61,
+              "expanded_url": "https://x.com/liuguangchui/status/1921100793513734501/photo/1",
+              "media_key": "3_1921100586084147200",
+              "start": 38,
+              "url": "https://t.co/EfNrW555Gw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921100793513734501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那么问题现在给到评论区的大聪明们了\n你们怎么选啊？\n3，2，1，开始！👇👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 152616,
+          "like_count": 1814,
+          "quote_count": 8,
+          "reply_count": 217,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "那么问题现在给到评论区的大聪明们了\n你们怎么选啊？\n3，2，1，开始！👇👇 https://t.co/EfNrW555Gw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 426,
+          "like_count": 16524,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 406
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T02:22:16.000Z",
+        "description": "你知道：零敲牛皮糖、597.9，什麼意思吗？\n我拥护：中国式现代化：Chinese path to modernization\n人民有信仰，民族有希望，國家有力量。實現中華民族偉大復興。\n防走失fo：@LQniupitang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "LQniupitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JFVpOCK9Pk"
+              }
+            ]
+          }
+        },
+        "id": "1395565481361219584",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖597.9",
+        "pinned_tweet_id": "1921541282436096178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920150688262483968/ffHFWlil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23731,
+          "following_count": 1313,
+          "like_count": 38826,
+          "listed_count": 118,
+          "media_count": 6662,
+          "tweet_count": 28253
+        },
+        "url": "https://t.co/JFVpOCK9Pk",
+        "username": "liuguangchui",
+        "verified": false
+      }
+    ]
+  }
+}

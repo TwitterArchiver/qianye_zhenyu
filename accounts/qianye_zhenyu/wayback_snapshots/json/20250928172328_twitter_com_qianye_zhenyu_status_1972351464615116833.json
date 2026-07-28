@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1972326155371045169",
+    "created_at": "2025-09-28T17:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972351464615116833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1648540039419412481",
+          "start": 0,
+          "username": "FreakyDuckkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972351464615116833",
+    "in_reply_to_user_id": "1648540039419412481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972326155371045169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreakyDuckkkk 送给非洲的每一笔钱都会变成敲打在⏰身上的铁棒（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_1972326151810088961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18cL2vagAEdQUa.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1972326155371045169",
+        "created_at": "2025-09-28T17:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972351464615116833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1648540039419412481",
+              "start": 0,
+              "username": "FreakyDuckkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972351464615116833",
+        "in_reply_to_user_id": "1648540039419412481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972326155371045169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreakyDuckkkk 送给非洲的每一笔钱都会变成敲打在⏰身上的铁棒（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972326151810088961"
+          ]
+        },
+        "author_id": "1648540039419412481",
+        "conversation_id": "1972326155371045169",
+        "created_at": "2025-09-28T15:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972326155371045169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LL47K3nm8F",
+              "end": 33,
+              "expanded_url": "https://x.com/FreakyDuckkkk/status/1972326155371045169/photo/1",
+              "media_key": "3_1972326151810088961",
+              "start": 10,
+              "url": "https://t.co/LL47K3nm8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972326155371045169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2506,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这下想不买都不行啦 https://t.co/LL47K3nm8F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 465,
+          "like_count": 19877,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 486
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T04:12:36.000Z",
+        "description": "To Mars a rendezvous!  These dull days sayin' goodbye gravity \n\ncutie owl🐧 @BirbMotorWerks \n\ncutie pigeon🕊️ @Fight_forALL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "BirbMotorWerks"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Fight_forALL"
+              }
+            ]
+          }
+        },
+        "id": "1648540039419412481",
+        "location": "东突厥斯坦再教育营",
+        "name": "IMBABYDUCKLING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653615188774629377/rti_Bbae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6296,
+          "following_count": 908,
+          "like_count": 353383,
+          "listed_count": 27,
+          "media_count": 5266,
+          "tweet_count": 48192
+        },
+        "username": "FreakyDuckkkk",
+        "verified": true
+      }
+    ]
+  }
+}

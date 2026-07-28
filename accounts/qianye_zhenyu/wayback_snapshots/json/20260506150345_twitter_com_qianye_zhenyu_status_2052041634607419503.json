@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2051819427633725858",
+    "created_at": "2026-05-06T15:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052041634607419503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559071293957255168",
+          "start": 0,
+          "username": "nnxjing1"
+        },
+        {
+          "end": 19,
+          "id": "1605245047590780928",
+          "start": 10,
+          "username": "djx00919"
+        },
+        {
+          "end": 32,
+          "id": "1822200301345980416",
+          "start": 20,
+          "username": "shiyaoshiwo"
+        },
+        {
+          "end": 49,
+          "id": "1843201902550634496",
+          "start": 33,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052041634607419503",
+    "in_reply_to_user_id": "1559071293957255168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051819427633725858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnxjing1 @djx00919 @shiyaoshiwo @LwrDHYyuxR22499 淦。老中现在的戒网瘾学校真整的和合法集中营一个壁样，还是有一堆人把教育的失败归咎于其他（网络）的责任，悲矣🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2051819427633725858",
+        "created_at": "2026-05-06T15:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052041634607419503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559071293957255168",
+              "start": 0,
+              "username": "nnxjing1"
+            },
+            {
+              "end": 19,
+              "id": "1605245047590780928",
+              "start": 10,
+              "username": "djx00919"
+            },
+            {
+              "end": 32,
+              "id": "1822200301345980416",
+              "start": 20,
+              "username": "shiyaoshiwo"
+            },
+            {
+              "end": 49,
+              "id": "1843201902550634496",
+              "start": 33,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052041634607419503",
+        "in_reply_to_user_id": "1559071293957255168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051819427633725858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnxjing1 @djx00919 @shiyaoshiwo @LwrDHYyuxR22499 淦。老中现在的戒网瘾学校真整的和合法集中营一个壁样，还是有一堆人把教育的失败归咎于其他（网络）的责任，悲矣🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559071293957255168",
+        "conversation_id": "2051819427633725858",
+        "created_at": "2026-05-06T00:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051819427633725858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1822200301345980416",
+              "start": 12,
+              "username": "shiyaoshiwo"
+            },
+            {
+              "end": 57,
+              "id": "1843201902550634496",
+              "start": 41,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051819427633725858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10080,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "紧急求助：17岁未成年（@shiyaoshiwo ）被戒网瘾学校强行带走拘禁\n \n@LwrDHYyuxR22499 请您帮忙救助\n \n一位17岁未成年人（因抑郁症焦虑症暂时休学在家），于4月7日在于我们视频通话时，被戒网瘾学校人员上门强行带走（视频里向我们求助但是被夺取手机并关机），目前已经失联"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2051680473718346218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 959,
+          "like_count": 31627,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 686
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T06:55:45.000Z",
+        "description": "出厂日期（已过保）：2007.9.25 mt（？）169/110 发疯和分享日常，🚪30000美金，过门可以聊天，可以打游戏",
+        "id": "1559071293957255168",
+        "location": "桥洞下",
+        "name": "板猫🍥",
+        "pinned_tweet_id": "1942035344318468569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993288174580498432/GvAMVLEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 201,
+          "like_count": 226,
+          "listed_count": 6,
+          "media_count": 110,
+          "tweet_count": 533
+        },
+        "username": "nnxjing1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男  记性很差很差什么都记不住喵。\n想聊天的话可以私信喵 多和我互fo~\n||||||烟鬼 od 卖淫 有主的请远离我",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "pinned_tweet_id": "2033533610515644537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027707712088510464/W5dXjr5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 2895,
+          "like_count": 165171,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 11685
+        },
+        "username": "djx00919",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:16:52.000Z",
+        "description": "emmm，只会宅家打游戏的傻小孩吗，等等好像是我……可以随便被拿捏的屑……大大一只小女孩但是很无力…信息:180/130 /已出柜/爱哭鬼/生日是五月五号！/我爱吃甜品/好想吃汉堡呜呜/不喜欢播音的播音生/我想吃蛋挞X﹏X为什么不放假/我想要安安全全的（持续堆积中的简介）",
+        "id": "1822200301345980416",
+        "location": "桥洞下",
+        "name": "詩瑤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004450408807485440/Ev5UOKh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 263,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1431
+        },
+        "username": "shiyaoshiwo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4918,
+          "following_count": 2706,
+          "like_count": 2659,
+          "listed_count": 18,
+          "media_count": 402,
+          "tweet_count": 2678
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

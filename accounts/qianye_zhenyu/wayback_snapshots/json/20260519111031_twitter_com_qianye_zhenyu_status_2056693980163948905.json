@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056693969791442944"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2056693980163948905",
+    "created_at": "2026-05-19T11:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056693980163948905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EpJv6ndp0g",
+          "end": 44,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2056693980163948905/photo/1",
+          "media_key": "3_2056693969791442944",
+          "start": 21,
+          "url": "https://t.co/EpJv6ndp0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056693980163948905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经开始向我推荐蓝标了吗哈基叉你这家伙； https://t.co/EpJv6ndp0g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 345,
+        "media_key": "3_2056693969791442944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrYRMkbYAA_L9N.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056693969791442944"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2056693980163948905",
+        "created_at": "2026-05-19T11:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056693980163948905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EpJv6ndp0g",
+              "end": 44,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2056693980163948905/photo/1",
+              "media_key": "3_2056693969791442944",
+              "start": 21,
+              "url": "https://t.co/EpJv6ndp0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056693980163948905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经开始向我推荐蓝标了吗哈基叉你这家伙； https://t.co/EpJv6ndp0g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1708,
+          "like_count": 35420,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 929
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

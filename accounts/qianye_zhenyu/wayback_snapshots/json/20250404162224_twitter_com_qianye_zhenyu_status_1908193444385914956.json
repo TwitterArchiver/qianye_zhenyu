@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1908193444385914956",
+    "created_at": "2025-04-04T16:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T17:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908193444385914956"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908193444385914956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宇宙安全声明：\n这是个一个没什么人看的可怜家伙，痛苦画画人（不会上色，艹！）；政治立场是纯中立亲日派，反fxs；牢中的政治我懒得看，其他什么也懒得想；喜欢看各种梗图，但是黄推远离我；有在学日语，以后打算润出去（我不是罕见😭）\n如果我说错了什么，请当我是个二逼谢谢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1908193444385914956",
+        "created_at": "2025-04-04T16:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T17:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908193444385914956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908193444385914956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宇宙安全声明：\n这是个一个没什么人看的可怜家伙，痛苦画画人（不会上色，艹！）；政治立场是纯中立亲日派，反fxs；牢中的政治我懒得看，其他什么也懒得想；喜欢看各种梗图，但是黄推远离我；有在学日语，以后打算润出去（我不是罕见😭）\n如果我说错了什么，请当我是个二逼谢谢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 394,
+          "like_count": 13883,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 233
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

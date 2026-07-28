@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1840778279814352904",
+    "created_at": "2024-09-30T20:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T21:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840849174088335730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840849174088335730",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840778279814352904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 但凡学过点历史都知道俄国是近代对我们伤害最深的国家，现在也是动不动就歧视的。\n俄国人就是宁愿对日本人好也不会对华人好的，他们看待我们就和元朝时蒙古人看咋们一个样。\n说真的，我宁愿去非洲也不会想去俄国那个鸟地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1840778279814352904",
+        "created_at": "2024-09-30T20:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T21:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840849174088335730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840849174088335730",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840778279814352904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 但凡学过点历史都知道俄国是近代对我们伤害最深的国家，现在也是动不动就歧视的。\n俄国人就是宁愿对日本人好也不会对华人好的，他们看待我们就和元朝时蒙古人看咋们一个样。\n说真的，我宁愿去非洲也不会想去俄国那个鸟地方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1840778051312926720"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1840778279814352904",
+        "created_at": "2024-09-30T15:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T16:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840778279814352904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9p3ys8zit",
+              "end": 48,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1840778279814352904/video/1",
+              "media_key": "7_1840778051312926720",
+              "start": 25,
+              "url": "https://t.co/n9P3Ys8zIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840778279814352904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 152340,
+          "like_count": 815,
+          "quote_count": 28,
+          "reply_count": 260,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "在俄罗斯的中国留学生们讲述自己在俄罗斯遭遇的歧视 https://t.co/n9P3Ys8zIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "一个新人画师而已",
+        "id": "1834507955804536833",
+        "name": "鸩迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 129,
+          "like_count": 1119,
+          "listed_count": 0,
+          "tweet_count": 9
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732081,
+          "following_count": 920,
+          "like_count": 5331,
+          "listed_count": 7772,
+          "tweet_count": 23318
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

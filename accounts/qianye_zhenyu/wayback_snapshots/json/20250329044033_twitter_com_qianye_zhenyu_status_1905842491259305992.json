@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1905675015452066194",
+    "created_at": "2025-03-29T04:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T05:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905842491259305992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836420929611796486",
+          "start": 0,
+          "username": "jishixingle0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905842491259305992",
+    "in_reply_to_user_id": "1836420929611796486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905842187964674217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jishixingle0721 可我也不是大佬😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1905675015452066194",
+        "created_at": "2025-03-29T04:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T05:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905842491259305992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836420929611796486",
+              "start": 0,
+              "username": "jishixingle0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905842491259305992",
+        "in_reply_to_user_id": "1836420929611796486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905842187964674217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jishixingle0721 可我也不是大佬😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836420929611796486",
+        "conversation_id": "1905675015452066194",
+        "created_at": "2025-03-29T04:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T05:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905842187964674217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905842187964674217",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905834748636966958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 好的大佬😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中…… 最近在学日语ing…",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 382,
+          "like_count": 13382,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 192
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T15:04:34.000Z",
+        "description": "最喜欢鹿乃和泠鸢yousa了！https://t.co/g6qTrnMU3a匿名邮箱，都没人来问啥的气煞我也🤯🤯🤯致力于交国际友人😉😉",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jishixingle0721",
+                "end": 38,
+                "expanded_url": "https://ngl.link/jishixingle0721",
+                "start": 15,
+                "url": "https://t.co/g6qTrnMU3a"
+              }
+            ]
+          }
+        },
+        "id": "1836420929611796486",
+        "location": "中国福建",
+        "name": "要及时行乐",
+        "pinned_tweet_id": "1898295498894684667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898422105638924288/jfic4hn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 1654,
+          "like_count": 32029,
+          "listed_count": 2,
+          "media_count": 942,
+          "tweet_count": 12142
+        },
+        "username": "jishixingle0721",
+        "verified": false
+      }
+    ]
+  }
+}

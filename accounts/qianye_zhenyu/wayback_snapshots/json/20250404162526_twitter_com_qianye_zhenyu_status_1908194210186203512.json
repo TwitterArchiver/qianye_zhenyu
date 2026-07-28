@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908194195912921088"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1908194210186203512",
+    "created_at": "2025-04-04T16:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T17:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908194210186203512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eNJK0dj44b",
+          "end": 30,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1908194210186203512/photo/1",
+          "media_key": "3_1908194195912921088",
+          "start": 7,
+          "url": "https://t.co/eNJK0dj44b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908194210186203512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "整个抽象的（ https://t.co/eNJK0dj44b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_1908194195912921088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GntEgtnaEAAXw4o.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908194195912921088"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1908194210186203512",
+        "created_at": "2025-04-04T16:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T17:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908194210186203512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNJK0dj44b",
+              "end": 30,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1908194210186203512/photo/1",
+              "media_key": "3_1908194195912921088",
+              "start": 7,
+              "url": "https://t.co/eNJK0dj44b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908194210186203512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整个抽象的（ https://t.co/eNJK0dj44b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 394,
+          "like_count": 13884,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 234
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

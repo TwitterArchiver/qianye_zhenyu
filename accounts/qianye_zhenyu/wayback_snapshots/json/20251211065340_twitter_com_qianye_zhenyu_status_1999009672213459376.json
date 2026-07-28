@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1998664249690960193",
+    "created_at": "2025-12-11T06:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999009672213459376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3404296939",
+          "start": 0,
+          "username": "buly__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999009672213459376",
+    "in_reply_to_user_id": "3404296939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998664249690960193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buly__ 在ai图横行的时代我觉得除了画抽象猎奇外就真没什么办法了（悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1998664249690960193",
+        "created_at": "2025-12-11T06:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999009672213459376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3404296939",
+              "start": 0,
+              "username": "buly__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999009672213459376",
+        "in_reply_to_user_id": "3404296939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998664249690960193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buly__ 在ai图横行的时代我觉得除了画抽象猎奇外就真没什么办法了（悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3404296939",
+        "conversation_id": "1998664249690960193",
+        "created_at": "2025-12-10T08:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998664249690960193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998664249690960193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 21684,
+          "like_count": 404,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "可怕的不是大家沒有辨識AI圖的能力\n是大家已經開始覺得AI繪圖沒什麼大不了了\n哀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 565,
+          "like_count": 24014,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 619
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-31T13:48:47.000Z",
+        "description": "只會畫畫的平凡人 (´・ω・｀) Gmail：s87870093wsad@gmail.com\nfanbox：https://t.co/gsnXU9BaUO\n\n請不要把我的任何作品拿去餵低能AI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "s87870093wsad.fanbox.cc",
+                "end": 77,
+                "expanded_url": "https://s87870093wsad.fanbox.cc/",
+                "start": 54,
+                "url": "https://t.co/gsnXU9BaUO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/7058wsad",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/7058wsad",
+                "start": 0,
+                "url": "https://t.co/gRkOUfhqWO"
+              }
+            ]
+          }
+        },
+        "id": "3404296939",
+        "name": "布里 🔞#繪圖仕事委託接受中",
+        "pinned_tweet_id": "1891022560193626419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995187894164889600/ILXG5OLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5650,
+          "following_count": 291,
+          "like_count": 17927,
+          "listed_count": 30,
+          "media_count": 481,
+          "tweet_count": 4406
+        },
+        "url": "https://t.co/gRkOUfhqWO",
+        "username": "buly__",
+        "verified": true
+      }
+    ]
+  }
+}

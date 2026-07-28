@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1998655944226648425",
+    "created_at": "2025-12-11T06:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998997177306329216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1724643661286432768",
+          "start": 0,
+          "username": "Rick5767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998997177306329216",
+    "in_reply_to_user_id": "1724643661286432768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998655944226648425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rick5767 老登见识的多，所以我很早就明白这些个破道理………果然阶级决定眼界这还是有点说法的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1998655944226648425",
+        "created_at": "2025-12-11T06:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998997177306329216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724643661286432768",
+              "start": 0,
+              "username": "Rick5767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998997177306329216",
+        "in_reply_to_user_id": "1724643661286432768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998655944226648425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rick5767 老登见识的多，所以我很早就明白这些个破道理………果然阶级决定眼界这还是有点说法的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724643661286432768",
+        "conversation_id": "1998655944226648425",
+        "created_at": "2025-12-10T07:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998655944226648425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998655944226648425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 204504,
+          "like_count": 1747,
+          "quote_count": 12,
+          "reply_count": 145,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "等你活到一定年龄。\n你会发现，什么法律，什么国家，什么民族。\n\n无非是一小撮人的工具罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 562,
+          "like_count": 23890,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 613
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T04:21:16.000Z",
+        "description": "某人工智能硬件创始人，前微软特聘技术讲师。\n全栈，\n机械制造，计算机科学与技术，智慧农业\n，科技与艺术，\n感谢关注，来吧。想说点什么就说呀。直男。\n\nwx：im3490",
+        "id": "1724643661286432768",
+        "location": "Beijing",
+        "name": "Rick 🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867374453275209729/aMpkQfpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5131,
+          "following_count": 247,
+          "like_count": 15087,
+          "listed_count": 29,
+          "media_count": 716,
+          "tweet_count": 14784
+        },
+        "username": "Rick5767",
+        "verified": false
+      }
+    ]
+  }
+}

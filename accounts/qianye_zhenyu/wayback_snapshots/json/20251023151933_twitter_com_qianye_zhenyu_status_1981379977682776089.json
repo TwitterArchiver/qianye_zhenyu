@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981379881851088896"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1981379977682776089",
+    "created_at": "2025-10-23T15:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T16:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981379977682776089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CkCPKAYdlL",
+          "end": 56,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1981379977682776089/video/1",
+          "media_key": "13_1981379881851088896",
+          "start": 33,
+          "url": "https://t.co/CkCPKAYdlL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981379977682776089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为什么会在画这种玩意的时候超常发挥……（原图是那个350234 https://t.co/CkCPKAYdlL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23700,
+        "height": 960,
+        "media_key": "13_1981379881851088896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981379881851088896/img/MTHJ2nNekoOc3BSC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981379881851088896/vid/avc1/320x426/vEPh0da-llSdrBwg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981379881851088896/vid/avc1/480x640/l53VAZvaUgs6ObUA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981379881851088896/vid/avc1/720x960/buq6uKOp7Ugsbo9U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981379881851088896/pl/tMYygK_khw90bche.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981379881851088896"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1981379977682776089",
+        "created_at": "2025-10-23T15:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981379977682776089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkCPKAYdlL",
+              "end": 56,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1981379977682776089/video/1",
+              "media_key": "13_1981379881851088896",
+              "start": 33,
+              "url": "https://t.co/CkCPKAYdlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981379977682776089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么会在画这种玩意的时候超常发挥……（原图是那个350234 https://t.co/CkCPKAYdlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 476,
+          "like_count": 21221,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 519
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

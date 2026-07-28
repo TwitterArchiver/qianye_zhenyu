@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1863955996596719833",
+    "created_at": "2024-12-03T15:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T16:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863969079364903397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1028170521572073472",
+          "start": 0,
+          "username": "mingleili2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863969079364903397",
+    "in_reply_to_user_id": "1028170521572073472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863955996596719833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingleili2 为什么不说是将军搞的鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1863955996596719833",
+        "created_at": "2024-12-03T15:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T16:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863969079364903397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1028170521572073472",
+              "start": 0,
+              "username": "mingleili2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863969079364903397",
+        "in_reply_to_user_id": "1028170521572073472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863955996596719833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingleili2 为什么不说是将军搞的鬼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1863954046018580480"
+          ],
+          "media_source_tweet_id": [
+            "1863954951589781705"
+          ]
+        },
+        "author_id": "1028170521572073472",
+        "conversation_id": "1863955996596719833",
+        "created_at": "2024-12-03T14:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863955996596719833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJj0RvsfwS",
+              "end": 155,
+              "expanded_url": "https://x.com/nexta_tv/status/1863954951589781705/video/1",
+              "media_key": "7_1863954046018580480",
+              "start": 132,
+              "url": "https://t.co/LJj0RvsfwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863955996596719833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 23628,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "人们与试图闯入韩国议会大厦的警察发生冲突。\n戒严司令官、陆军上将朴安洙表示，目前所有媒体都受到军事审查。禁止一切政治活动。禁止政治结社、集会和示威等政治活动。禁止国会、地方议会和政党活动。所有医务人员必须在 48 小时内返回工作岗位\n怎么看都是中共在背后搞鬼！\n https://t.co/LJj0RvsfwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 185,
+          "like_count": 6530,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-11T06:45:29.000Z",
+        "description": "我就是一个自由自在的厨子，愿意聊点自己喜欢的东西，喜欢路德社，必须支持闫博士，如果咱们兴趣相投，就互相聊天！如果聊不到一块儿，请你远离！（尤其是挂着闫博士头像，嘴上喊着支持路德社，暗地里干坏事的，不要加我昂）！",
+        "id": "1028170521572073472",
+        "name": "俺是快乐的厨子！🇦🇺🇺🇦🇺🇸🇯🇵",
+        "pinned_tweet_id": "1594838843563585538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836194332766015488/yys6iQAY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15245,
+          "following_count": 754,
+          "like_count": 50726,
+          "listed_count": 70,
+          "media_count": 7247,
+          "tweet_count": 49148
+        },
+        "username": "mingleili2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2051701831529865235",
+    "created_at": "2026-05-06T14:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052033233789899253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045191764349468672",
+          "start": 0,
+          "username": "HuYaevgp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052033233789899253",
+    "in_reply_to_user_id": "2045191764349468672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051701831529865235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuYaevgp 那我在推特这跳青海摇是不是就能成下一个大网红（不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2051701831529865235",
+        "created_at": "2026-05-06T14:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052033233789899253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045191764349468672",
+              "start": 0,
+              "username": "HuYaevgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052033233789899253",
+        "in_reply_to_user_id": "2045191764349468672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051701831529865235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuYaevgp 那我在推特这跳青海摇是不是就能成下一个大网红（不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045191764349468672",
+        "conversation_id": "2051701831529865235",
+        "created_at": "2026-05-05T16:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051701831529865235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051701831529865235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18835,
+          "like_count": 327,
+          "quote_count": 3,
+          "reply_count": 119,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "其实我刷推特就是换个地方刷抖音…^ ^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2051680473718346218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 955,
+          "like_count": 31563,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 675
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T17:25:35.000Z",
+        "description": "我只是一个呆萌的小女孩",
+        "id": "2045191764349468672",
+        "location": "ovo",
+        "name": "牙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045533088587866112/zvU0lfZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 8,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 164
+        },
+        "username": "HuYaevgp",
+        "verified": false
+      }
+    ]
+  }
+}

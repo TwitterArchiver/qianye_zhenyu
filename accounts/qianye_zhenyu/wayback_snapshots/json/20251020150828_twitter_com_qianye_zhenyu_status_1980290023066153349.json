@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1980249896398794794",
+    "created_at": "2025-10-20T15:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980290023066153349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836420929611796486",
+          "start": 0,
+          "username": "All12240519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980290023066153349",
+    "in_reply_to_user_id": "1836420929611796486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980249896398794794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@All12240519 敢于尝试是好的，而且这个载具的线稿什么的画的已经可以了，接下来因该要试着上个色了\n（总体来说进步还是挺大的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1502,
+        "media_key": "3_1980249892221026305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tCyQBXAAEPGZ2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1980249896398794794",
+        "created_at": "2025-10-20T15:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980290023066153349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836420929611796486",
+              "start": 0,
+              "username": "All12240519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980290023066153349",
+        "in_reply_to_user_id": "1836420929611796486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980249896398794794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@All12240519 敢于尝试是好的，而且这个载具的线稿什么的画的已经可以了，接下来因该要试着上个色了\n（总体来说进步还是挺大的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980249892221026305"
+          ]
+        },
+        "author_id": "1836420929611796486",
+        "conversation_id": "1980249896398794794",
+        "created_at": "2025-10-20T12:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980249896398794794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIK5ZGEHFn",
+              "end": 58,
+              "expanded_url": "https://x.com/All12240519/status/1980249896398794794/photo/1",
+              "media_key": "3_1980249892221026305",
+              "start": 35,
+              "url": "https://t.co/YIK5ZGEHFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980249896398794794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一次的勇敢换来一辈子的停笔😭😭😭我再也不画了😭😭😭我还是不适合试这种 https://t.co/YIK5ZGEHFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 476,
+          "like_count": 21214,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 518
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T15:04:34.000Z",
+        "description": "",
+        "id": "1836420929611796486",
+        "name": "要及时行乐",
+        "pinned_tweet_id": "1945105959409607163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979644031345770496/l8Yigjgq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 1811,
+          "like_count": 49184,
+          "listed_count": 3,
+          "media_count": 1533,
+          "tweet_count": 33528
+        },
+        "username": "All12240519",
+        "verified": false
+      }
+    ]
+  }
+}

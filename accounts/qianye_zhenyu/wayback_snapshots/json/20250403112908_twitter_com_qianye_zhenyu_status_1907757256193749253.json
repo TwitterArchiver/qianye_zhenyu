@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1907429522913595897",
+    "created_at": "2025-04-03T11:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T12:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907757256193749253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1627140243412639744",
+          "start": 0,
+          "username": "Smartest2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907757256193749253",
+    "in_reply_to_user_id": "1627140243412639744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907429522913595897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smartest2077 要不明天请个假罢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1907429522913595897",
+        "created_at": "2025-04-03T11:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T12:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907757256193749253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627140243412639744",
+              "start": 0,
+              "username": "Smartest2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907757256193749253",
+        "in_reply_to_user_id": "1627140243412639744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907429522913595897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smartest2077 要不明天请个假罢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627140243412639744",
+        "conversation_id": "1907429522913595897",
+        "created_at": "2025-04-02T13:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T14:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907429522913595897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907429522913595897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 961,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一句话证明你是学生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中…… 最近在学日语ing…. ………(正在努力逃离这片炼狱）",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 393,
+          "like_count": 13830,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 230
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T02:57:28.000Z",
+        "description": "千粉大号 @Smartest8964 被人才🐜🐲封禁，寻回推油中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Smartest8964"
+              }
+            ]
+          }
+        },
+        "id": "1627140243412639744",
+        "name": "𝕿𝕽𝖀𝕿𝕳",
+        "pinned_tweet_id": "1906920003993256368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905821132827303936/P20zdPqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 181,
+          "like_count": 1229,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 563
+        },
+        "username": "Smartest2077",
+        "verified": false
+      }
+    ]
+  }
+}

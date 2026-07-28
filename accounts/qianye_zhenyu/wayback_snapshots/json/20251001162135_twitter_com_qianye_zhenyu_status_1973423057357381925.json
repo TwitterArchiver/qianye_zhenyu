@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1973275737525539293",
+    "created_at": "2025-10-01T16:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T17:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973423057357381925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "124187456",
+          "start": 0,
+          "username": "RigorGirl"
+        },
+        {
+          "end": 21,
+          "id": "1586955045450416129",
+          "start": 11,
+          "username": "WesterAOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973423057357381925",
+    "in_reply_to_user_id": "124187456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973339450609700909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RigorGirl @WesterAOC 泛亚，你联合罢（💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1973275737525539293",
+        "created_at": "2025-10-01T16:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T17:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973423057357381925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "124187456",
+              "start": 0,
+              "username": "RigorGirl"
+            },
+            {
+              "end": 21,
+              "id": "1586955045450416129",
+              "start": 11,
+              "username": "WesterAOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973423057357381925",
+        "in_reply_to_user_id": "124187456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973339450609700909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RigorGirl @WesterAOC 泛亚，你联合罢（💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124187456",
+        "conversation_id": "1973275737525539293",
+        "created_at": "2025-10-01T10:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T11:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973339450609700909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1586955045450416129",
+              "start": 0,
+              "username": "WesterAOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973339450609700909",
+        "in_reply_to_user_id": "1586955045450416129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1511,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973275737525539293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WesterAOC 我看这个很赞，中日刚好互补，日本美女可以找老中蝻人结婚，老中IT蝻可以去日本滴干活，日本制造业可以来中国滴干活🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 470,
+          "like_count": 20212,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 493
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-18T15:00:13.000Z",
+        "description": "cyber cow girl | 科技狂热 | 只泡技术大牛 | 似是而非的八卦 | 头像是盗图经常换",
+        "id": "124187456",
+        "location": "HK",
+        "name": "RigorGirl",
+        "pinned_tweet_id": "1963574346712322092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963862970217418752/ce_uJr5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29525,
+          "following_count": 3063,
+          "like_count": 3741,
+          "listed_count": 266,
+          "media_count": 8927,
+          "tweet_count": 4285
+        },
+        "username": "RigorGirl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T05:36:01.000Z",
+        "description": "Justitia Omnibus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "assemblyofcitizens.org",
+                "end": 23,
+                "expanded_url": "https://assemblyofcitizens.org",
+                "start": 0,
+                "url": "https://t.co/AwR3SakgFb"
+              }
+            ]
+          }
+        },
+        "id": "1586955045450416129",
+        "location": "转型正义纪念馆, 北京",
+        "name": "杨若晖 Ruohui Yang",
+        "pinned_tweet_id": "1798123206311625007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899515483021336576/AeUgc84G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22843,
+          "following_count": 531,
+          "like_count": 505,
+          "listed_count": 86,
+          "media_count": 587,
+          "tweet_count": 917
+        },
+        "url": "https://t.co/AwR3SakgFb",
+        "username": "WesterAOC",
+        "verified": false
+      }
+    ]
+  }
+}

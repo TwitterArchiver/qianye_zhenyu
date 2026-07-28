@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1987946467148038550",
+    "created_at": "2025-11-11T17:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988297772739805536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836420929611796486",
+          "start": 0,
+          "username": "All12240519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988297772739805536",
+    "in_reply_to_user_id": "1836420929611796486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988297388705059298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@All12240519 我的评价是多练就好了（我最开始画是比你还烂的那种（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1987946467148038550",
+        "created_at": "2025-11-11T17:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988297772739805536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836420929611796486",
+              "start": 0,
+              "username": "All12240519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988297772739805536",
+        "in_reply_to_user_id": "1836420929611796486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988297388705059298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@All12240519 我的评价是多练就好了（我最开始画是比你还烂的那种（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836420929611796486",
+        "conversation_id": "1987946467148038550",
+        "created_at": "2025-11-11T17:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988297388705059298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988297388705059298",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988297265229050149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 对啊😇😇但一到其他就烂了😰😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 503,
+          "like_count": 22074,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 554
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T15:04:34.000Z",
+        "description": "",
+        "id": "1836420929611796486",
+        "name": "要及时行乐",
+        "pinned_tweet_id": "1945105959409607163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979644031345770496/l8Yigjgq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 1831,
+          "like_count": 51579,
+          "listed_count": 3,
+          "media_count": 1537,
+          "tweet_count": 35803
+        },
+        "username": "All12240519",
+        "verified": false
+      }
+    ]
+  }
+}

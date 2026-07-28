@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987359589759963136"
+      ],
+      "media_source_tweet_id": [
+        "1987360271334346882"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987931139861021041",
+    "created_at": "2025-11-10T17:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987931139861021041"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 45,
+          "tag": "まのばちゃ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1926332406107099136",
+          "start": 3,
+          "username": "Kujo_Natsuki_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQ2qz3BZn7",
+          "end": 75,
+          "expanded_url": "https://x.com/Kujo_Natsuki_7/status/1987360271334346882/video/1",
+          "media_key": "13_1987359589759963136",
+          "start": 52,
+          "url": "https://t.co/vQ2qz3BZn7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987931139861021041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 302
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987360271334346882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kujo_Natsuki_7: 悪は死ね！死ね死ね死ね死ね削除ーーーーッ！！！！\n#まのばちゃ https://t.co/vQ2qz3BZn7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29166,
+        "height": 1920,
+        "media_key": "13_1987359589759963136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987359589759963136/img/aOEFnJAjgroA3Wrx.jpg",
+        "public_metrics": {
+          "view_count": 23923
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987359589759963136/vid/avc1/320x568/ztF7hXVHB-AG6nrX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987359589759963136/vid/avc1/480x852/8uAZuXZONF7qHF31.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987359589759963136/vid/avc1/720x1280/_9cqT_-Uyz4AiY8x.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987359589759963136/pl/u6BcVfNp--e6BA0I.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987359589759963136"
+          ],
+          "media_source_tweet_id": [
+            "1987360271334346882"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987931139861021041",
+        "created_at": "2025-11-10T17:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987931139861021041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "まのばちゃ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1926332406107099136",
+              "start": 3,
+              "username": "Kujo_Natsuki_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQ2qz3BZn7",
+              "end": 75,
+              "expanded_url": "https://x.com/Kujo_Natsuki_7/status/1987360271334346882/video/1",
+              "media_key": "13_1987359589759963136",
+              "start": 52,
+              "url": "https://t.co/vQ2qz3BZn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987931139861021041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 302
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987360271334346882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kujo_Natsuki_7: 悪は死ね！死ね死ね死ね死ね削除ーーーーッ！！！！\n#まのばちゃ https://t.co/vQ2qz3BZn7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987359589759963136"
+          ]
+        },
+        "author_id": "1926332406107099136",
+        "conversation_id": "1987360271334346882",
+        "created_at": "2025-11-09T03:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T04:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987360271334346882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "まのばちゃ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQ2qz3BZn7",
+              "end": 55,
+              "expanded_url": "https://x.com/Kujo_Natsuki_7/status/1987360271334346882/video/1",
+              "media_key": "13_1987359589759963136",
+              "start": 32,
+              "url": "https://t.co/vQ2qz3BZn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987360271334346882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 49037,
+          "like_count": 2647,
+          "quote_count": 10,
+          "reply_count": 19,
+          "retweet_count": 302
+        },
+        "reply_settings": "everyone",
+        "text": "悪は死ね！死ね死ね死ね死ね削除ーーーーッ！！！！\n#まのばちゃ https://t.co/vQ2qz3BZn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 503,
+          "like_count": 22060,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 551
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T17:40:22.000Z",
+        "description": "20↑♂/VRChatでまのさばの二階堂ヒロのコス改変をしてます。写真撮るのとかボードゲームとか好きです。↓VRC https://t.co/F4u4IEoP3V 欲し🍠 https://t.co/iIjgJihpKe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/MFmVL",
+                "end": 81,
+                "expanded_url": "https://x.gd/MFmVL",
+                "start": 58,
+                "url": "https://t.co/F4u4IEoP3V"
+              },
+              {
+                "display_url": "booth.pm/wish_list_name…",
+                "end": 109,
+                "expanded_url": "https://booth.pm/wish_list_names/p6kT69o7",
+                "start": 86,
+                "url": "https://t.co/iIjgJihpKe"
+              }
+            ]
+          }
+        },
+        "id": "1926332406107099136",
+        "name": "ナツキ@VRC",
+        "pinned_tweet_id": "1967928106213314614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980864079313977345/_uW1sIDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 976,
+          "like_count": 13167,
+          "listed_count": 9,
+          "media_count": 732,
+          "tweet_count": 2088
+        },
+        "username": "Kujo_Natsuki_7",
+        "verified": false
+      }
+    ]
+  }
+}

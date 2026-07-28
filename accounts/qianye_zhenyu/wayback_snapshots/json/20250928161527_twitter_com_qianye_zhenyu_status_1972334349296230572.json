@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1971801959247262076",
+    "created_at": "2025-09-28T16:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T17:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972334349296230572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1631340697860337664",
+          "start": 0,
+          "username": "worldhe82397853"
+        },
+        {
+          "end": 30,
+          "id": "1451408516699201552",
+          "start": 17,
+          "username": "TargaryenLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972334349296230572",
+    "in_reply_to_user_id": "1631340697860337664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971894171087917363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@worldhe82397853 @TargaryenLiu 蚌，合着bro这么多年去的是假的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1971801959247262076",
+        "created_at": "2025-09-28T16:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972334349296230572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1631340697860337664",
+              "start": 0,
+              "username": "worldhe82397853"
+            },
+            {
+              "end": 30,
+              "id": "1451408516699201552",
+              "start": 17,
+              "username": "TargaryenLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972334349296230572",
+        "in_reply_to_user_id": "1631340697860337664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971894171087917363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worldhe82397853 @TargaryenLiu 蚌，合着bro这么多年去的是假的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631340697860337664",
+        "conversation_id": "1971801959247262076",
+        "created_at": "2025-09-27T11:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971894171087917363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451408516699201552",
+              "start": 0,
+              "username": "TargaryenLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971894171087917363",
+        "in_reply_to_user_id": "1451408516699201552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27597,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971801959247262076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TargaryenLiu 你们怕是都没去过山姆吧，谁告诉你们没会员卡不能进去？会员卡只是结账的时候才有用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 462,
+          "like_count": 19708,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 481
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T17:08:47.000Z",
+        "description": "",
+        "id": "1631340697860337664",
+        "name": "world hello",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631340788759298048/tMoT0G6h_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "worldhe82397853",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T04:42:22.000Z",
+        "description": "直男                                                                                梦想是活成上海都市男女的模样",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "targaryenliu.com",
+                "end": 23,
+                "expanded_url": "http://targaryenliu.com",
+                "start": 0,
+                "url": "https://t.co/TBdcJnQW8s"
+              }
+            ]
+          }
+        },
+        "id": "1451408516699201552",
+        "location": "Guangzhou",
+        "name": "Gary",
+        "pinned_tweet_id": "1967160467413176574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911744169954959360/3Z9VpPaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10398,
+          "following_count": 3342,
+          "like_count": 25011,
+          "listed_count": 13,
+          "media_count": 1315,
+          "tweet_count": 10857
+        },
+        "url": "https://t.co/TBdcJnQW8s",
+        "username": "TargaryenLiu",
+        "verified": true
+      }
+    ]
+  }
+}

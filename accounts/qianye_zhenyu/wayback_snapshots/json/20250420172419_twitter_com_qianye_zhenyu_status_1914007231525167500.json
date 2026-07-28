@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1913555908866748516",
+    "created_at": "2025-04-20T17:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T18:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914007231525167500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1228725814826430464",
+          "start": 0,
+          "username": "johnhowl20"
+        },
+        {
+          "end": 28,
+          "id": "1342814506234257409",
+          "start": 12,
+          "username": "MgLGfsfs0UaNQeO"
+        },
+        {
+          "end": 45,
+          "id": "1452879171252670466",
+          "start": 29,
+          "username": "D9bf0NRDYrL21Ba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914007231525167500",
+    "in_reply_to_user_id": "1228725814826430464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913828221759664492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnhowl20 @MgLGfsfs0UaNQeO @D9bf0NRDYrL21Ba 不可能联合，三个国家内部矛盾都挺大，联合不是那么简单的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1913555908866748516",
+        "created_at": "2025-04-20T17:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T18:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914007231525167500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228725814826430464",
+              "start": 0,
+              "username": "johnhowl20"
+            },
+            {
+              "end": 28,
+              "id": "1342814506234257409",
+              "start": 12,
+              "username": "MgLGfsfs0UaNQeO"
+            },
+            {
+              "end": 45,
+              "id": "1452879171252670466",
+              "start": 29,
+              "username": "D9bf0NRDYrL21Ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914007231525167500",
+        "in_reply_to_user_id": "1228725814826430464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913828221759664492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnhowl20 @MgLGfsfs0UaNQeO @D9bf0NRDYrL21Ba 不可能联合，三个国家内部矛盾都挺大，联合不是那么简单的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228725814826430464",
+        "conversation_id": "1913555908866748516",
+        "created_at": "2025-04-20T05:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T06:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913828221759664492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1342814506234257409",
+              "start": 0,
+              "username": "MgLGfsfs0UaNQeO"
+            },
+            {
+              "end": 33,
+              "id": "1452879171252670466",
+              "start": 17,
+              "username": "D9bf0NRDYrL21Ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913828221759664492",
+        "in_reply_to_user_id": "1342814506234257409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 686,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913555908866748516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MgLGfsfs0UaNQeO @D9bf0NRDYrL21Ba 中日韩联合，和平解决朝鲜、台湾问题，东亚一定可以成为世界的中心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 408,
+          "like_count": 15286,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 308
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T17:00:55.000Z",
+        "description": "没啥特别的",
+        "id": "1228725814826430464",
+        "name": "Best",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761769947947290625/rrk612BM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 213,
+          "like_count": 154,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 509
+        },
+        "username": "johnhowl20",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T12:49:01.000Z",
+        "description": "神戸の普通の会社員。中国歴史好き。祖父は原爆投下直後に現場救護へいった元衛生兵。子供の頃からその悲惨な現場の話を聞かされた。",
+        "id": "1342814506234257409",
+        "name": "とよ",
+        "pinned_tweet_id": "1913555908866748516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364195348957159424/bPU_1rk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 1835,
+          "like_count": 39452,
+          "listed_count": 27,
+          "media_count": 92,
+          "tweet_count": 6879
+        },
+        "username": "MgLGfsfs0UaNQeO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T06:10:49.000Z",
+        "description": "「敬隣　永安」\n日本は侵略戦争を深く反省し、近隣諸国を敬い、友好関係をもつことが大事だと思っています。\n戦争反対、米軍基地反対、反原発。\n好酸球性多発血管炎性肉芽腫症という難病とリウマチを患い、ちょっとだけ養生しています。",
+        "id": "1452879171252670466",
+        "location": "兵庫県",
+        "name": "祐佳",
+        "pinned_tweet_id": "1568387102878081025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849918086864158720/KVzNLN7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8747,
+          "following_count": 1924,
+          "like_count": 182282,
+          "listed_count": 163,
+          "media_count": 2827,
+          "tweet_count": 86167
+        },
+        "username": "D9bf0NRDYrL21Ba",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976317563219988480"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1976317572539875414",
+    "created_at": "2025-10-09T16:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T17:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976317572539875414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qBkvUyscaI",
+          "end": 75,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/1976317572539875414/photo/1",
+          "media_key": "3_1976317563219988480",
+          "start": 52,
+          "url": "https://t.co/qBkvUyscaI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976317572539875414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十分钟随便画的宣传画被选上了喵～\n虽然老师让带回家上色喵～\n但是家里没颜料了喵～所以干脆就不画了喵～～ https://t.co/qBkvUyscaI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_1976317563219988480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21KWk8X0AAuiU5.jpg",
+        "width": 324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976317563219988480"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976317572539875414",
+        "created_at": "2025-10-09T16:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976317572539875414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBkvUyscaI",
+              "end": 75,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/1976317572539875414/photo/1",
+              "media_key": "3_1976317563219988480",
+              "start": 52,
+              "url": "https://t.co/qBkvUyscaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976317572539875414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十分钟随便画的宣传画被选上了喵～\n虽然老师让带回家上色喵～\n但是家里没颜料了喵～所以干脆就不画了喵～～ https://t.co/qBkvUyscaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 476,
+          "like_count": 21167,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 508
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

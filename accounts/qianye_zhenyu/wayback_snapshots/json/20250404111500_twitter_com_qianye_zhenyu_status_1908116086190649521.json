@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1907737895907299582",
+    "created_at": "2025-04-04T11:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T12:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908116086190649521"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "恭喜",
+          "probability": 0.618,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1122722202623758336",
+          "start": 0,
+          "username": "mashiro_kqnon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908116086190649521",
+    "in_reply_to_user_id": "1122722202623758336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907737895907299582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mashiro_kqnon おめでとう🎉恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_1907737890622451713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnmlgP8asAExKDX.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1907737895907299582",
+        "created_at": "2025-04-04T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908116086190649521"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "恭喜",
+              "probability": 0.618,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1122722202623758336",
+              "start": 0,
+              "username": "mashiro_kqnon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908116086190649521",
+        "in_reply_to_user_id": "1122722202623758336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907737895907299582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mashiro_kqnon おめでとう🎉恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907737890622451713"
+          ]
+        },
+        "author_id": "1122722202623758336",
+        "conversation_id": "1907737895907299582",
+        "created_at": "2025-04-03T10:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T11:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907737895907299582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9VOP50Fwf",
+              "end": 101,
+              "expanded_url": "https://x.com/mashiro_kqnon/status/1907737895907299582/photo/1",
+              "media_key": "3_1907737890622451713",
+              "start": 78,
+              "url": "https://t.co/S9VOP50Fwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907737895907299582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10784,
+          "like_count": 481,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "✨🎉 bilibili190万達成✨🎉 \nいつも沢山の応援ありがとう！！\nこれからも頑張るぞ〜✨😎👊🏻\n\n感谢190万粉丝！感谢大家！\n以后也要努力✌🏻🌟 https://t.co/S9VOP50Fwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 393,
+          "like_count": 13867,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 231
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-29T04:40:07.000Z",
+        "description": "天才アイドルvtuber眞白かのん(MashiroKanon)🗝🤍 新ビジュアルママ ꒰ @ana_ame0 ꒱ tag ꒰ #眞白かのん ꒱ タグの付いた作品は活動で使わせて頂く事があります！ お仕事･規約はこちら ▸ https://t.co/J9Isms4pAc .*·",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "眞白かのん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "ana_ame0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/mashirokanon",
+                "end": 134,
+                "expanded_url": "http://lit.link/mashirokanon",
+                "start": 111,
+                "url": "https://t.co/J9Isms4pAc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/401480763",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/401480763",
+                "start": 0,
+                "url": "https://t.co/K7oPdGeXM1"
+              }
+            ]
+          }
+        },
+        "id": "1122722202623758336",
+        "location": "bilibiliで活動してます！登録者190万人⚡️",
+        "name": "眞白かのん🗝",
+        "pinned_tweet_id": "1531240247807184896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729191398371688448/pyBa1YEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49003,
+          "following_count": 92,
+          "like_count": 8975,
+          "listed_count": 297,
+          "media_count": 120,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/K7oPdGeXM1",
+        "username": "mashiro_kqnon",
+        "verified": false
+      }
+    ]
+  }
+}

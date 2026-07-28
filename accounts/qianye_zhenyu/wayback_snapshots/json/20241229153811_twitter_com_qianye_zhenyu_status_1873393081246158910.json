@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1873107589447438606",
+    "created_at": "2024-12-29T15:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T16:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873393081246158910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596918985609601024",
+          "start": 0,
+          "username": "Lawrenc09874431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873393081246158910",
+    "in_reply_to_user_id": "1596918985609601024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873107589447438606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lawrenc09874431 我还是相信f22可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1873107589447438606",
+        "created_at": "2024-12-29T15:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T16:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873393081246158910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596918985609601024",
+              "start": 0,
+              "username": "Lawrenc09874431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873393081246158910",
+        "in_reply_to_user_id": "1596918985609601024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873107589447438606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lawrenc09874431 我还是相信f22可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873107587551350784"
+          ]
+        },
+        "author_id": "1596918985609601024",
+        "conversation_id": "1873107589447438606",
+        "created_at": "2024-12-28T20:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T21:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873107589447438606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ckLzUBobV4",
+              "end": 84,
+              "expanded_url": "https://x.com/Lawrenc09874431/status/1873107589447438606/photo/1",
+              "media_key": "3_1873107587551350784",
+              "start": 61,
+              "url": "https://t.co/ckLzUBobV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873107589447438606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 92530,
+          "like_count": 536,
+          "quote_count": 9,
+          "reply_count": 213,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "有人说美国 F-35 闪电 II 击落中共的所谓 6 代战机大概需要一秒钟。有些人不同意这个观点，认为至少需要 5 秒。 https://t.co/ckLzUBobV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 275,
+          "like_count": 9628,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 101
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T17:29:12.000Z",
+        "description": "今日幡然醒悟，原来中共国旗的红色是要拿人民的鲜血不断去染的。从茫茫戈壁到浩浩东海，亿万人的苦难无边无际。中共不亡，万民难安!  欢迎给我发私信或投稿，但我不能回复私信。As long as the CCP is still in existence, the world won't have peace.",
+        "id": "1596918985609601024",
+        "name": "Lawrence of Gobi 愚蠢的精卫",
+        "pinned_tweet_id": "1841114159544406281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673899612019539971/4JAFu3q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27814,
+          "following_count": 2999,
+          "like_count": 50682,
+          "listed_count": 129,
+          "media_count": 4711,
+          "tweet_count": 20197
+        },
+        "username": "Lawrenc09874431",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988092539464044544",
+        "3_1988092701020200962"
+      ],
+      "media_source_tweet_id": [
+        "1988093157469548692",
+        "1988093157469548692"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988304451753701785",
+    "created_at": "2025-11-11T17:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988304451753701785"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "中国",
+          "probability": 0.857,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "933517439236685824",
+          "start": 3,
+          "username": "vinegar_vinegar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYwzvlb3jx",
+          "end": 78,
+          "expanded_url": "https://x.com/vinegar_vinegar/status/1988093157469548692/photo/1",
+          "media_key": "3_1988092539464044544",
+          "start": 55,
+          "url": "https://t.co/MYwzvlb3jx"
+        },
+        {
+          "display_url": "pic.x.com/MYwzvlb3jx",
+          "end": 78,
+          "expanded_url": "https://x.com/vinegar_vinegar/status/1988093157469548692/photo/1",
+          "media_key": "3_1988092701020200962",
+          "start": 55,
+          "url": "https://t.co/MYwzvlb3jx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988304451753701785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3968
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988093157469548692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @vinegar_vinegar: 中国のファンが作ってくれた差し入れの中にあったんだけど何これ過ぎる https://t.co/MYwzvlb3jx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_1988092539464044544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cfoZtb0AACt41.jpg",
+        "width": 650
+      },
+      {
+        "height": 1683,
+        "media_key": "3_1988092701020200962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cfxzjbIAIgf89.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988092539464044544",
+            "3_1988092701020200962"
+          ],
+          "media_source_tweet_id": [
+            "1988093157469548692",
+            "1988093157469548692"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988304451753701785",
+        "created_at": "2025-11-11T17:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988304451753701785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "中国",
+              "probability": 0.857,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "933517439236685824",
+              "start": 3,
+              "username": "vinegar_vinegar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYwzvlb3jx",
+              "end": 78,
+              "expanded_url": "https://x.com/vinegar_vinegar/status/1988093157469548692/photo/1",
+              "media_key": "3_1988092539464044544",
+              "start": 55,
+              "url": "https://t.co/MYwzvlb3jx"
+            },
+            {
+              "display_url": "pic.x.com/MYwzvlb3jx",
+              "end": 78,
+              "expanded_url": "https://x.com/vinegar_vinegar/status/1988093157469548692/photo/1",
+              "media_key": "3_1988092701020200962",
+              "start": 55,
+              "url": "https://t.co/MYwzvlb3jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988304451753701785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3968
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988093157469548692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @vinegar_vinegar: 中国のファンが作ってくれた差し入れの中にあったんだけど何これ過ぎる https://t.co/MYwzvlb3jx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988092539464044544",
+            "3_1988092701020200962"
+          ]
+        },
+        "author_id": "933517439236685824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988093157469548692",
+        "created_at": "2025-11-11T03:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988093157469548692"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8712,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYwzvlb3jx",
+              "end": 57,
+              "expanded_url": "https://x.com/vinegar_vinegar/status/1988093157469548692/photo/1",
+              "media_key": "3_1988092539464044544",
+              "start": 34,
+              "url": "https://t.co/MYwzvlb3jx"
+            },
+            {
+              "display_url": "pic.x.com/MYwzvlb3jx",
+              "end": 57,
+              "expanded_url": "https://x.com/vinegar_vinegar/status/1988093157469548692/photo/1",
+              "media_key": "3_1988092701020200962",
+              "start": 34,
+              "url": "https://t.co/MYwzvlb3jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988093157469548692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4328,
+          "impression_count": 3347036,
+          "like_count": 58705,
+          "quote_count": 437,
+          "reply_count": 215,
+          "retweet_count": 3968
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "中国のファンが作ってくれた差し入れの中にあったんだけど何これ過ぎる https://t.co/MYwzvlb3jx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 509,
+          "like_count": 22176,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 560
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T02:07:56.000Z",
+        "description": "音楽家 @NILFRUITS1 【niconico】https://t.co/FUowhc8Prs【YouTube】https://t.co/57xvSV5PNE 【Goods】https://t.co/QsLpdRUQrh【Mail】nil5656fruits @ https://t.co/NQdqZ0zfFO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "NILFRUITS1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/rPjHzw",
+                "end": 49,
+                "expanded_url": "http://goo.gl/rPjHzw",
+                "start": 26,
+                "url": "https://t.co/FUowhc8Prs"
+              },
+              {
+                "display_url": "goo.gl/KaTiWD",
+                "end": 81,
+                "expanded_url": "http://goo.gl/KaTiWD",
+                "start": 58,
+                "url": "https://t.co/57xvSV5PNE"
+              },
+              {
+                "display_url": "x.gd/7KmN8",
+                "end": 112,
+                "expanded_url": "http://x.gd/7KmN8",
+                "start": 89,
+                "url": "https://t.co/QsLpdRUQrh"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 157,
+                "expanded_url": "http://gmail.com",
+                "start": 134,
+                "url": "https://t.co/NQdqZ0zfFO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nilfruits.com",
+                "end": 23,
+                "expanded_url": "https://nilfruits.com/",
+                "start": 0,
+                "url": "https://t.co/Y0X4Fo7ClD"
+              }
+            ]
+          }
+        },
+        "id": "933517439236685824",
+        "location": "Orchard",
+        "name": "煮ル果実",
+        "pinned_tweet_id": "1968636243714920785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/962372805240152064/ubAEXTgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234839,
+          "following_count": 960,
+          "like_count": 7581,
+          "listed_count": 1104,
+          "media_count": 806,
+          "tweet_count": 7005
+        },
+        "url": "https://t.co/Y0X4Fo7ClD",
+        "username": "vinegar_vinegar",
+        "verified": true
+      }
+    ]
+  }
+}

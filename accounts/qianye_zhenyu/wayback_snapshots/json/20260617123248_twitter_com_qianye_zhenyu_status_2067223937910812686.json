@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2067191249669620084",
+    "created_at": "2026-06-17T12:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067223937910812686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        },
+        {
+          "end": 15,
+          "id": "2055900754968465408",
+          "start": 7,
+          "username": "conv1x1"
+        },
+        {
+          "end": 31,
+          "id": "1813261726391148546",
+          "start": 16,
+          "username": "James483582762"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067223937910812686",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067218403811828214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq @conv1x1 @James483582762 喵呜ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2067191249669620084",
+        "created_at": "2026-06-17T12:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067223937910812686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            },
+            {
+              "end": 15,
+              "id": "2055900754968465408",
+              "start": 7,
+              "username": "conv1x1"
+            },
+            {
+              "end": 31,
+              "id": "1813261726391148546",
+              "start": 16,
+              "username": "James483582762"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067223937910812686",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067218403811828214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq @conv1x1 @James483582762 喵呜ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2067191249669620084",
+        "created_at": "2026-06-17T12:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067218403811828214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055900754968465408",
+              "start": 0,
+              "username": "conv1x1"
+            },
+            {
+              "end": 24,
+              "id": "1813261726391148546",
+              "start": 9,
+              "username": "James483582762"
+            },
+            {
+              "end": 39,
+              "id": "1834507955804536833",
+              "start": 25,
+              "username": "qianye_zhenyu"
+            },
+            {
+              "end": 59,
+              "id": "1834507955804536833",
+              "start": 45,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067218403811828214",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067216851755762100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conv1x1 @James483582762 @qianye_zhenyu 貓貓可以讓@qianye_zhenyu 來教貓貓呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！！！\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2062928297688989739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 2045,
+          "like_count": 37609,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1088
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "請叫我いいちゃん喵～\n臺、日推\n繁體中國語、日本語\n請多多關照喵🐱～\n2007～永遠\n職業樂手\n電子產品維修與銷售\n插畫（探索ung）\n寫程式 （探索ing）\n暗戀：@Ziverk2（不是）\n官方：@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 83,
+                "username": "Ziverk2"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "日本東京、臺灣臺北",
+        "name": "いいちゃん",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 787,
+          "like_count": 3058,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 2782
+        },
+        "username": "4rulq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T06:55:27.000Z",
+        "description": "怪人・lim社恐=+∞・某种奇怪的跨・infp&intp叠加态・喜欢［男, 女］孩子(闭区间)・千禧製・非二维・非线性・张量・什么时候给性别先安一个虚轴?・甚至可以跨物种?・傅立叶・贝叶斯・模拟?数字?连续?离散?・找到了神奇的介面・干什么都是半吊子・其实是个笨蛋\nhttps://t.co/FORM8d5HJj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/T9HsSQwz",
+                "end": 156,
+                "expanded_url": "https://discord.gg/T9HsSQwz",
+                "start": 133,
+                "url": "https://t.co/FORM8d5HJj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tat48760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tat48760",
+                "start": 0,
+                "url": "https://t.co/cyyi2t9Aci"
+              }
+            ]
+          }
+        },
+        "id": "2055900754968465408",
+        "location": "👆快来找我聊天喵👉",
+        "name": "uu",
+        "pinned_tweet_id": "2066245830496149751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059882826380775424/JNEraTve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 61,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/cyyi2t9Aci",
+        "username": "conv1x1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T17:18:11.000Z",
+        "description": "xyn，大学在读，计算机爱好者，激进自由主义者。欢迎同类互fo。自由，独立，进步",
+        "id": "1813261726391148546",
+        "name": "CuteOmega🏳️‍⚧️🏳️‍🌈🇹🇼🍥",
+        "pinned_tweet_id": "2067217968505749600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 400,
+          "like_count": 6901,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 591
+        },
+        "username": "James483582762",
+        "verified": false
+      }
+    ]
+  }
+}

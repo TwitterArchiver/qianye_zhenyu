@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1895470284444242351",
+    "created_at": "2025-02-28T15:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T16:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895503101685350810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaShota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895503101685350810",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895470284444242351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaShota 让我想起来，土豆是日本人挖的，那么西伯利亚的土豆是谁种的呢😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_1895470282111938560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4QLc-XcAATLwZ.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1583,
+        "media_key": "3_1895470281319477248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4QLaBbcAAyHfe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1895470284444242351",
+        "created_at": "2025-02-28T15:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895503101685350810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaShota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895503101685350810",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895470284444242351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaShota 让我想起来，土豆是日本人挖的，那么西伯利亚的土豆是谁种的呢😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895470282111938560",
+            "3_1895470281319477248"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "1895470284444242351",
+        "created_at": "2025-02-28T13:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895470284444242351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCAJ3qso7F",
+              "end": 54,
+              "expanded_url": "https://x.com/KawawaShota/status/1895470284444242351/photo/1",
+              "media_key": "3_1895470282111938560",
+              "start": 31,
+              "url": "https://t.co/TCAJ3qso7F"
+            },
+            {
+              "display_url": "pic.x.com/TCAJ3qso7F",
+              "end": 54,
+              "expanded_url": "https://x.com/KawawaShota/status/1895470284444242351/photo/1",
+              "media_key": "3_1895470281319477248",
+              "start": 31,
+              "url": "https://t.co/TCAJ3qso7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895470284444242351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6327,
+          "like_count": 178,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "俄国人最喜欢的农具是什么-😁\n美国人最喜欢的铁道钉是什么-🤬 https://t.co/TCAJ3qso7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889342921226469376/0dvuP-xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 333,
+          "like_count": 11770,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 150
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜&Minecraft船大工&Flight enthusiast👨‍✈️&僵毁老司机\n日本語⭕、English⭕、蜀语⭕\n爱支TV全国模范汉奸候选人\n对线推文不留＞5h\n拉面仙人🍜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rocom.qq.com",
+                "end": 23,
+                "expanded_url": "https://rocom.qq.com/",
+                "start": 0,
+                "url": "https://t.co/6NGSGyOMPh"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": "卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1818618506080141480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789605085322072065/MLtOe3d__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12306,
+          "following_count": 1977,
+          "like_count": 44670,
+          "listed_count": 60,
+          "media_count": 993,
+          "tweet_count": 6142
+        },
+        "url": "https://t.co/6NGSGyOMPh",
+        "username": "KawawaShota",
+        "verified": true
+      }
+    ]
+  }
+}

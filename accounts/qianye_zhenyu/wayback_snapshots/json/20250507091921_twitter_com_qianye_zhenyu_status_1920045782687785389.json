@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1919530245499015381",
+    "created_at": "2025-05-07T09:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T10:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920045782687785389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591057658890559489",
+          "start": 0,
+          "username": "PhilipPanNYC"
+        },
+        {
+          "end": 27,
+          "id": "1565937293570953216",
+          "start": 14,
+          "username": "laozhangisme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920045782687785389",
+    "in_reply_to_user_id": "1591057658890559489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919807369514455525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhilipPanNYC @laozhangisme bro以为中东是一个洲💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1919530245499015381",
+        "created_at": "2025-05-07T09:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920045782687785389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591057658890559489",
+              "start": 0,
+              "username": "PhilipPanNYC"
+            },
+            {
+              "end": 27,
+              "id": "1565937293570953216",
+              "start": 14,
+              "username": "laozhangisme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920045782687785389",
+        "in_reply_to_user_id": "1591057658890559489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919807369514455525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhilipPanNYC @laozhangisme bro以为中东是一个洲💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591057658890559489",
+        "conversation_id": "1919530245499015381",
+        "created_at": "2025-05-06T17:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T18:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919807369514455525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565937293570953216",
+              "start": 0,
+              "username": "laozhangisme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919807369514455525",
+        "in_reply_to_user_id": "1565937293570953216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18548,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919530245499015381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhangisme 以色列在亞洲？！你回去讀小學吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 423,
+          "like_count": 16308,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 388
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T13:18:19.000Z",
+        "description": "",
+        "id": "1591057658890559489",
+        "name": "Philip Pan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769157029199802368/X5APYaFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "username": "PhilipPanNYC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T05:38:47.000Z",
+        "description": "本人接出国移民付费咨询，包括各类问题，劳务，投资，留学，工作，等等，中介避坑指南，各国移民规划。按模版发本人具体条件情况，根据个人情况具体解答移民问题，一对一解答，付费咨询399元人民币咨询费，无限次咨询永久有效，有问题的主页电报或者私信。白嫖勿扰，非诚勿扰，谢谢https://t.co/SjW7XMyzWP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Mrzhang2025",
+                "end": 155,
+                "expanded_url": "http://t.me/Mrzhang2025",
+                "start": 132,
+                "url": "https://t.co/SjW7XMyzWP"
+              }
+            ]
+          }
+        },
+        "id": "1565937293570953216",
+        "name": "Mr. Z",
+        "pinned_tweet_id": "1920029666187919464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834485249562353664/XW0nMMaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88509,
+          "following_count": 1014,
+          "like_count": 8377,
+          "listed_count": 336,
+          "media_count": 8445,
+          "tweet_count": 17458
+        },
+        "username": "laozhangisme",
+        "verified": false
+      }
+    ]
+  }
+}

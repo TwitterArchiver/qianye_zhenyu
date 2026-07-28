@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1840643011300274613",
+    "created_at": "2024-09-30T19:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T20:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840833929135448471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676161442980982784",
+          "start": 0,
+          "username": "MephiSprt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840833929135448471",
+    "in_reply_to_user_id": "1676161442980982784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840643011300274613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MephiSprt 但总是想不通中式教育为什么总是能整出这些个畸形玩意儿。不过黑衣服那个是真死了马"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1840643011300274613",
+        "created_at": "2024-09-30T19:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T20:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840833929135448471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676161442980982784",
+              "start": 0,
+              "username": "MephiSprt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840833929135448471",
+        "in_reply_to_user_id": "1676161442980982784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840643011300274613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MephiSprt 但总是想不通中式教育为什么总是能整出这些个畸形玩意儿。不过黑衣服那个是真死了马"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840642994787233792",
+            "3_1840642994783031296",
+            "3_1840642994799874048",
+            "3_1840642994791456768"
+          ]
+        },
+        "author_id": "1676161442980982784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1840643011300274613",
+        "created_at": "2024-09-30T06:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T07:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840643011300274613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ln7mezyg7f",
+              "end": 23,
+              "expanded_url": "https://twitter.com/MephiSprt/status/1840643011300274613/photo/1",
+              "media_key": "3_1840642994787233792",
+              "start": 0,
+              "url": "https://t.co/ln7mezYG7F"
+            },
+            {
+              "display_url": "pic.x.com/ln7mezyg7f",
+              "end": 23,
+              "expanded_url": "https://twitter.com/MephiSprt/status/1840643011300274613/photo/1",
+              "media_key": "3_1840642994783031296",
+              "start": 0,
+              "url": "https://t.co/ln7mezYG7F"
+            },
+            {
+              "display_url": "pic.x.com/ln7mezyg7f",
+              "end": 23,
+              "expanded_url": "https://twitter.com/MephiSprt/status/1840643011300274613/photo/1",
+              "media_key": "3_1840642994799874048",
+              "start": 0,
+              "url": "https://t.co/ln7mezYG7F"
+            },
+            {
+              "display_url": "pic.x.com/ln7mezyg7f",
+              "end": 23,
+              "expanded_url": "https://twitter.com/MephiSprt/status/1840643011300274613/photo/1",
+              "media_key": "3_1840642994791456768",
+              "start": 0,
+              "url": "https://t.co/ln7mezYG7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840643011300274613",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 1040495,
+          "like_count": 5013,
+          "quote_count": 64,
+          "reply_count": 366,
+          "retweet_count": 650
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ln7mezYG7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "一个新人画师而已",
+        "id": "1834507955804536833",
+        "name": "鸩迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 128,
+          "like_count": 1017,
+          "listed_count": 0,
+          "tweet_count": 1
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T09:30:17.000Z",
+        "description": "Orthodoxy’s unconsciousness.Male/18/CS/paradox/Minecraft/philosophy/politics/history.inner @withoutaplace . with @Faust_Mio .管理爱人的1.20.1MC工业生存服务器，可以小窗我加入。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "withoutaplace"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Faust_Mio"
+              }
+            ]
+          }
+        },
+        "id": "1676161442980982784",
+        "location": "peking/小号withoutaplace",
+        "name": "Ice Cream",
+        "pinned_tweet_id": "1830602320834695470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829257917268115456/jBR7t-6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3147,
+          "following_count": 64,
+          "like_count": 32850,
+          "listed_count": 5,
+          "tweet_count": 14694
+        },
+        "username": "MephiSprt",
+        "verified": false
+      }
+    ]
+  }
+}

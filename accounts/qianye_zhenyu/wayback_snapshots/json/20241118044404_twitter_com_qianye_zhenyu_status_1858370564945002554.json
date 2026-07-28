@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1857950736036016567",
+    "created_at": "2024-11-18T04:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T05:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858370564945002554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "31083308",
+          "start": 0,
+          "username": "wangwatchworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858370564945002554",
+    "in_reply_to_user_id": "31083308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857950736036016567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangwatchworld 不是的捏（喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1857950736036016567",
+        "created_at": "2024-11-18T04:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T05:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858370564945002554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "31083308",
+              "start": 0,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858370564945002554",
+        "in_reply_to_user_id": "31083308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857950736036016567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwatchworld 不是的捏（喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857950700917186560"
+          ]
+        },
+        "author_id": "31083308",
+        "conversation_id": "1857950736036016567",
+        "created_at": "2024-11-17T00:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T01:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857950736036016567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrkebOf8eJ",
+              "end": 36,
+              "expanded_url": "https://x.com/wangwatchworld/status/1857950736036016567/photo/1",
+              "media_key": "3_1857950700917186560",
+              "start": 13,
+              "url": "https://t.co/YrkebOf8eJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857950736036016567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 575711,
+          "like_count": 1621,
+          "quote_count": 14,
+          "reply_count": 184,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈，你父母是这样吗？ https://t.co/YrkebOf8eJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 174,
+          "like_count": 4455,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-14T08:11:59.000Z",
+        "description": "大宗商品期货期权交易；\n博弈／行为金融／小概率投机／对冲\n理论理解：自由市场与失效市场，权力制衡与制度，博弈论，乌合之众\nhttps://t.co/20gEmbFstl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unclewaanginphuket.blogspot.com",
+                "end": 84,
+                "expanded_url": "http://unclewaanginphuket.blogspot.com",
+                "start": 61,
+                "url": "https://t.co/20gEmbFstl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ottfinance.com",
+                "end": 23,
+                "expanded_url": "http://www.ottfinance.com",
+                "start": 0,
+                "url": "https://t.co/ns4TvwZCkP"
+              }
+            ]
+          }
+        },
+        "id": "31083308",
+        "location": "上海",
+        "name": "博弈对冲交易者",
+        "pinned_tweet_id": "1845303605915681040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827671107148910592/noigV_pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198756,
+          "following_count": 961,
+          "like_count": 3085,
+          "listed_count": 1393,
+          "tweet_count": 41016
+        },
+        "url": "https://t.co/ns4TvwZCkP",
+        "username": "wangwatchworld",
+        "verified": true
+      }
+    ]
+  }
+}

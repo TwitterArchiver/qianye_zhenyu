@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1906499671817916473",
+    "created_at": "2025-03-31T15:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T16:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906729847277412628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "99866217",
+          "start": 0,
+          "username": "KK_CNJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906729847277412628",
+    "in_reply_to_user_id": "99866217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906499671817916473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK_CNJP 一看就是第一次出国，啥规矩也没了解清楚把这当国内呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906499659524395008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnU_Vtpa0AAwnJo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906499659516071936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnU_Vtnb0AA2QSt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906499659549573120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnU_VtvbAAAJhRV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1906499671817916473",
+        "created_at": "2025-03-31T15:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T16:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906729847277412628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "99866217",
+              "start": 0,
+              "username": "KK_CNJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906729847277412628",
+        "in_reply_to_user_id": "99866217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906499671817916473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_CNJP 一看就是第一次出国，啥规矩也没了解清楚把这当国内呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906499659524395008",
+            "3_1906499659516071936",
+            "3_1906499659549573120"
+          ]
+        },
+        "author_id": "99866217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1906499671817916473",
+        "created_at": "2025-03-31T00:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T01:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906499671817916473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PKmmuMZlj",
+              "end": 103,
+              "expanded_url": "https://x.com/KK_CNJP/status/1906499671817916473/photo/1",
+              "media_key": "3_1906499659524395008",
+              "start": 80,
+              "url": "https://t.co/4PKmmuMZlj"
+            },
+            {
+              "display_url": "pic.x.com/4PKmmuMZlj",
+              "end": 103,
+              "expanded_url": "https://x.com/KK_CNJP/status/1906499671817916473/photo/1",
+              "media_key": "3_1906499659516071936",
+              "start": 80,
+              "url": "https://t.co/4PKmmuMZlj"
+            },
+            {
+              "display_url": "pic.x.com/4PKmmuMZlj",
+              "end": 103,
+              "expanded_url": "https://x.com/KK_CNJP/status/1906499671817916473/photo/1",
+              "media_key": "3_1906499659549573120",
+              "start": 80,
+              "url": "https://t.co/4PKmmuMZlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906499671817916473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚，羽田机场三号航站楼候机区，我坐下吃早饭。因就餐乘客较多，一座难求。\n\n不知何时，对面不远的地方，两位食客离开了，把碗和盘子以及剩饭就留在桌子上，很刺眼。\n\n它们一直就摆在桌子上。食阁柜台里只有三个人：一个厨师、一个收银、一位洗碗工。他们忙得晕头转向，熙熙攘攘人群中，不可能注意到餐具遗留在桌子上，也不会有时间来收拾。\n\n我吃完饭，把自己餐具送回返却口之后，看见那些餐具还在桌子上，无人问津。\n\n此时我心里已经基本确定是哪国人干的了。歧视和偏见往往就是这样形成的：出现了不遵守公共道德的事，你怀疑是某国人干的，结果果然就是这个国家人干的。一次又一次，日积月累，以后再碰见类似不要脸面的事，你会说：Who else!\n\n我决定过去收拾一下。\n\n虽然几乎没有疑问是谁干的，Who else? !当然是中国人，但还是有点不甘心，心存侥幸，希望他们是白人，或与中国人无关。那样的话，我内心和颜面会有一种莫名的放松。\n\n我一边收拾，一边用英文问了隔壁染着黄发的老太太：您还记得他们是什么样的人吗？\n\n老太太用略带厌恶的语气说：They speak Chinese. 是两个年轻人，年龄在20-25岁之间。\n\n唉，说中文。果然Who else！我也不能往台湾人、香港人、新加坡人头上赖啊。\n\n我对老太太说：I am Chinese. I apologize for this. 老太太露出微笑，连忙说No, no need.\n\n如果说这两位年轻中国人刚来日本，或刚出国，不知道在食阁要自己收拾餐具，也不会观察别人是怎么做的，情有可原。\n\n那扔在桌子上这一沓餐巾纸呢？浪费已经是习惯？\n\n中国人国际形象不好，不就是这样日积月累形成的吗？其结果是所有其他守规矩的中国人受牵连。\n\n我对支黑深恶痛绝，见到一个，拉黑一个。慢慢发现，这些不讲公德的国人才是终极支黑，且令人毫无办法，无法拉黑，无法眼不见为净。\n\n请用爱护自己的眼睛一样来爱护我们在国外仅存的这点颜面吧！拜托了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 545139,
+          "like_count": 1209,
+          "quote_count": 28,
+          "reply_count": 525,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚，羽田机场三号航站楼候机区，我坐下吃早饭。因就餐乘客较多，一座难求。\n\n不知何时，对面不远的地方，两位食客离开了，把碗和盘子以及剩饭就留在桌子上，很刺眼。 https://t.co/4PKmmuMZlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "画画练习中…… 最近在学日语ing…. ………(正在努力逃离这片炼狱）",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 385,
+          "like_count": 13532,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 208
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-28T05:01:31.000Z",
+        "description": "日本永住者，中小企业主，房产投资人，资深股票玩家，古泉玩家，旅行达人。Treasure inner peace. Cherish traditional values. Like people with a kind heart.",
+        "id": "99866217",
+        "location": "Japan",
+        "name": "KK",
+        "pinned_tweet_id": "1852589667331568020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749432289132498944/OdxOqjRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38023,
+          "following_count": 14,
+          "like_count": 15643,
+          "listed_count": 191,
+          "media_count": 281,
+          "tweet_count": 7931
+        },
+        "username": "KK_CNJP",
+        "verified": true
+      }
+    ]
+  }
+}

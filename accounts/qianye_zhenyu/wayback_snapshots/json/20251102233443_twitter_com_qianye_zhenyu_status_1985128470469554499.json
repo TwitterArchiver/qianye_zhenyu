@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984936268434976768"
+      ],
+      "media_source_tweet_id": [
+        "1984936281286259062"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "1985128470469554499",
+    "created_at": "2025-11-02T23:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T00:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985128470469554499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1053952091276759040",
+          "start": 3,
+          "username": "wuubaiwan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eb9nK7c0jW",
+          "end": 38,
+          "expanded_url": "https://x.com/wuubaiwan/status/1984936281286259062/photo/1",
+          "media_key": "3_1984936268434976768",
+          "start": 15,
+          "url": "https://t.co/eb9nK7c0jW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985128470469554499",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 432
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984936281286259062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @wuubaiwan: https://t.co/eb9nK7c0jW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1984936268434976768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vpBP3bMAAyC9z.jpg",
+        "width": 1519
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984936268434976768"
+          ],
+          "media_source_tweet_id": [
+            "1984936281286259062"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "1985128470469554499",
+        "created_at": "2025-11-02T23:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T00:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985128470469554499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1053952091276759040",
+              "start": 3,
+              "username": "wuubaiwan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eb9nK7c0jW",
+              "end": 38,
+              "expanded_url": "https://x.com/wuubaiwan/status/1984936281286259062/photo/1",
+              "media_key": "3_1984936268434976768",
+              "start": 15,
+              "url": "https://t.co/eb9nK7c0jW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985128470469554499",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 432
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984936281286259062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @wuubaiwan: https://t.co/eb9nK7c0jW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984936268434976768"
+          ]
+        },
+        "author_id": "1053952091276759040",
+        "conversation_id": "1984936281286259062",
+        "created_at": "2025-11-02T10:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984936281286259062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eb9nK7c0jW",
+              "end": 23,
+              "expanded_url": "https://x.com/wuubaiwan/status/1984936281286259062/photo/1",
+              "media_key": "3_1984936268434976768",
+              "start": 0,
+              "url": "https://t.co/eb9nK7c0jW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984936281286259062",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 43577,
+          "like_count": 3127,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 432
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/eb9nK7c0jW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 483,
+          "like_count": 21504,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 535
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-21T10:12:14.000Z",
+        "description": "阴暗逼",
+        "id": "1053952091276759040",
+        "name": "○",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983883146774102016/My0ErpW8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10894,
+          "following_count": 0,
+          "like_count": 395,
+          "listed_count": 59,
+          "media_count": 131,
+          "tweet_count": 137
+        },
+        "username": "wuubaiwan",
+        "verified": false
+      }
+    ]
+  }
+}

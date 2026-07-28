@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1923573232852140304",
+    "created_at": "2025-05-17T15:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923758208021045711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1901710626772414464",
+          "start": 0,
+          "username": "alicaqaq"
+        },
+        {
+          "end": 21,
+          "id": "1841736030770364417",
+          "start": 10,
+          "username": "XD_orz_QoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923758208021045711",
+    "in_reply_to_user_id": "1901710626772414464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923742761871867944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alicaqaq @XD_orz_QoQ 我说的是毛的原话（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1923573232852140304",
+        "created_at": "2025-05-17T15:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923758208021045711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901710626772414464",
+              "start": 0,
+              "username": "alicaqaq"
+            },
+            {
+              "end": 21,
+              "id": "1841736030770364417",
+              "start": 10,
+              "username": "XD_orz_QoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923758208021045711",
+        "in_reply_to_user_id": "1901710626772414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923742761871867944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alicaqaq @XD_orz_QoQ 我说的是毛的原话（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901710626772414464",
+        "conversation_id": "1923573232852140304",
+        "created_at": "2025-05-17T14:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T15:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923742761871867944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            },
+            {
+              "end": 26,
+              "id": "1841736030770364417",
+              "start": 15,
+              "username": "XD_orz_QoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923742761871867944",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923661191538217108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu @XD_orz_QoQ 这里没有提到国内啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 431,
+          "like_count": 17072,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 424
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T19:02:18.000Z",
+        "description": "见到我的蛤蟆自动暴毙👊🇨🇳🔥\n\nmbti：entp-t\n\n自由主义/社会自由主义",
+        "id": "1901710626772414464",
+        "location": " 🇨🇳威海",
+        "name": "德三酱🇨🇳🇭🇰🇲🇴🇹🇼🇵🇸🇺🇦🇩🇪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908857966910169088/jbblEH5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 167,
+          "like_count": 2438,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 618
+        },
+        "username": "alicaqaq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:04:32.000Z",
+        "description": "中国人，你要学会烧杀抢掠，因为这之后的一切行为都可被视为宽厚和温良",
+        "id": "1841736030770364417",
+        "location": "你家",
+        "name": "追可怖的天津风⚜️",
+        "pinned_tweet_id": "1841737199865495934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912899744130813952/0OJsRL5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 200,
+          "like_count": 2997,
+          "listed_count": 8,
+          "media_count": 362,
+          "tweet_count": 917
+        },
+        "username": "XD_orz_QoQ",
+        "verified": false
+      }
+    ]
+  }
+}

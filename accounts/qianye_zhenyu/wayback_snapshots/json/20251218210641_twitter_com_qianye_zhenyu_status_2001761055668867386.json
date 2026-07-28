@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2001469957536973016",
+    "created_at": "2025-12-18T21:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T22:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001761055668867386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378164402101182469",
+          "start": 0,
+          "username": "Appraiser008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001761055668867386",
+    "in_reply_to_user_id": "1378164402101182469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001469957536973016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Appraiser008 谁最猛不知道，但是个人感觉美国国徽最好看😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001469953703309312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8amUZMacAA4AUd.jpg",
+        "width": 1768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2001469957536973016",
+        "created_at": "2025-12-18T21:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T22:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001761055668867386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378164402101182469",
+              "start": 0,
+              "username": "Appraiser008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001761055668867386",
+        "in_reply_to_user_id": "1378164402101182469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001469957536973016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Appraiser008 谁最猛不知道，但是个人感觉美国国徽最好看😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001469953703309312"
+          ]
+        },
+        "author_id": "1378164402101182469",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001469957536973016",
+        "created_at": "2025-12-18T01:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T02:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001469957536973016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fp2Az423x2",
+              "end": 30,
+              "expanded_url": "https://x.com/Appraiser008/status/2001469957536973016/photo/1",
+              "media_key": "3_2001469953703309312",
+              "start": 7,
+              "url": "https://t.co/Fp2Az423x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001469957536973016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 68708,
+          "like_count": 189,
+          "quote_count": 2,
+          "reply_count": 147,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "五常谁最猛？ https://t.co/Fp2Az423x2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001689444940906497/c3OtYxGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 634,
+          "like_count": 25462,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 711
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T01:56:26.000Z",
+        "description": "纵有千古，横有八荒；\n前途似海，来日方长。",
+        "id": "1378164402101182469",
+        "location": "Hong Kong",
+        "name": "🇨🇳 大牛🇨🇳",
+        "pinned_tweet_id": "1623214678917750785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922143712928530432/znfFyshI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144022,
+          "following_count": 5797,
+          "like_count": 109924,
+          "listed_count": 341,
+          "media_count": 15145,
+          "tweet_count": 63648
+        },
+        "username": "Appraiser008",
+        "verified": false
+      }
+    ]
+  }
+}

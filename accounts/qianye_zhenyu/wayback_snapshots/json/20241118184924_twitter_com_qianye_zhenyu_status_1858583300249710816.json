@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1858452900227215807",
+    "created_at": "2024-11-18T18:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T19:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858583300249710816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711287246488473600",
+          "start": 0,
+          "username": "chen_shang52593"
+        },
+        {
+          "end": 32,
+          "id": "1477342523555135490",
+          "start": 17,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858583300249710816",
+    "in_reply_to_user_id": "1711287246488473600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858470077492015343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen_shang52593 @torontobigface 其实没啥不同\n一个枪战房\n一个刀战房"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1858452900227215807",
+        "created_at": "2024-11-18T18:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T19:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858583300249710816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711287246488473600",
+              "start": 0,
+              "username": "chen_shang52593"
+            },
+            {
+              "end": 32,
+              "id": "1477342523555135490",
+              "start": 17,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858583300249710816",
+        "in_reply_to_user_id": "1711287246488473600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858470077492015343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen_shang52593 @torontobigface 其实没啥不同\n一个枪战房\n一个刀战房"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711287246488473600",
+        "conversation_id": "1858452900227215807",
+        "created_at": "2024-11-18T11:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T12:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858470077492015343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858470077492015343",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5857,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858452900227215807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 麻烦也统计下枪击每一天的美利坚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 175,
+          "like_count": 4595,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T07:47:39.000Z",
+        "description": "我自爱党爱国，蔑视独轮运有什么？",
+        "id": "1711287246488473600",
+        "name": "shang Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711287292084842496/w2tzfBzr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 79,
+          "like_count": 423,
+          "listed_count": 4,
+          "tweet_count": 2272
+        },
+        "username": "chen_shang52593",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNcDSW 投稿邮箱:Torontosquareface@gmail.com 电报群https://t.co/7fI2XsnFaH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNcDSW"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 68,
+                "url": "https://t.co/7fI2XsnFaH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrn0gco"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，温哥华",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1858072591904460805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640932,
+          "following_count": 247,
+          "like_count": 3995,
+          "listed_count": 2058,
+          "tweet_count": 15817
+        },
+        "url": "https://t.co/t3lSrn0gco",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2050938725945987539",
+    "created_at": "2026-05-04T11:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051268761986925012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847661193529610242",
+          "start": 0,
+          "username": "jenny_wang24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051268761986925012",
+    "in_reply_to_user_id": "1847661193529610242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050938725945987539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jenny_wang24 强强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2050938715036594176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZl5R3aMAAbtqj.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2050938725945987539",
+        "created_at": "2026-05-04T11:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051268761986925012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847661193529610242",
+              "start": 0,
+              "username": "jenny_wang24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051268761986925012",
+        "in_reply_to_user_id": "1847661193529610242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050938725945987539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jenny_wang24 强强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050938715036594176"
+          ]
+        },
+        "author_id": "1847661193529610242",
+        "conversation_id": "2050938725945987539",
+        "created_at": "2026-05-03T14:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050938725945987539"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQ5xPBRMzs",
+              "end": 28,
+              "expanded_url": "https://x.com/jenny_wang24/status/2050938725945987539/photo/1",
+              "media_key": "3_2050938715036594176",
+              "start": 5,
+              "url": "https://t.co/IQ5xPBRMzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050938725945987539",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/IQ5xPBRMzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生再次复活！\ninfp｜istp//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2050985824091541978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 872,
+          "like_count": 30970,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 635
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T15:29:02.000Z",
+        "description": "Math, drawings, cosplay\nMajor in Reverse1999\nAlso Honkai-Starrail&ZZZ&Stardew Valley\nFeel free to chat with me",
+        "id": "1847661193529610242",
+        "location": "Los Angeles, CA",
+        "name": "小维每天要开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050938687568093186/siwHLviZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 116,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 88
+        },
+        "username": "jenny_wang24",
+        "verified": false
+      }
+    ]
+  }
+}

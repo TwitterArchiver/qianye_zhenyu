@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1917084453303947503",
+    "created_at": "2025-04-30T10:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T11:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917529585484456452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829391339833823232",
+          "start": 0,
+          "username": "ohotomosan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917529585484456452",
+    "in_reply_to_user_id": "829391339833823232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917084453303947503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohotomosan 看到这种动不动就骂别人国家的人、其实把他们当做空气就行了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1917084453303947503",
+        "created_at": "2025-04-30T10:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T11:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917529585484456452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829391339833823232",
+              "start": 0,
+              "username": "ohotomosan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917529585484456452",
+        "in_reply_to_user_id": "829391339833823232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917084453303947503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohotomosan 看到这种动不动就骂别人国家的人、其实把他们当做空气就行了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829391339833823232",
+        "conversation_id": "1917084453303947503",
+        "created_at": "2025-04-29T05:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T06:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917084453303947503"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "日本",
+              "probability": 0.4914,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 21,
+              "normalized_text": "VPN",
+              "probability": 0.4374,
+              "start": 19,
+              "type": "Product"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917084453303947503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2186,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "頑なに日本批判してる中国人見ると、なぜVPNですり抜けてまで西洋諸国のメディア見てるんだ……という気持ちになる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 420,
+          "like_count": 15926,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 353
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T18:07:59.000Z",
+        "description": "日語/中文/English.\n在學華語（普通話，粵台語）。發信日本語學，文化，生活情報。\n普通にゲームかペチの話題多め",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/oilmajor_ootom…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/oilmajor_ootomo?t=hjDNDa&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/irBXWMOAFM"
+              }
+            ]
+          }
+        },
+        "id": "829391339833823232",
+        "name": "おほとも（犬儒）",
+        "pinned_tweet_id": "1865254598644240617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865256573465149440/MJPtJwmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 5191,
+          "like_count": 48520,
+          "listed_count": 10,
+          "media_count": 3190,
+          "tweet_count": 84592
+        },
+        "url": "https://t.co/irBXWMOAFM",
+        "username": "ohotomosan",
+        "verified": false
+      }
+    ]
+  }
+}

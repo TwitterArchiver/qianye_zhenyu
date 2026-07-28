@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1900870283327926507",
+    "created_at": "2025-03-15T17:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T18:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900960518510440941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1379836469095751682",
+          "start": 0,
+          "username": "WenJian0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900960518510440941",
+    "in_reply_to_user_id": "1379836469095751682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900870283327926507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WenJian0922 这是降落的时候失速了还是"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8893,
+        "height": 960,
+        "media_key": "7_1900870261320413185",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900870261320413185/pu/img/vbY9iXkbxcsWKnAn.jpg",
+        "public_metrics": {
+          "view_count": 4822
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900870261320413185/pu/vid/avc1/320x564/fvKV_AGbICrDpHMg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900870261320413185/pu/vid/avc1/480x846/id04k3HNSzyHdI8D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900870261320413185/pu/vid/avc1/544x960/7F8TvTL_Z2wdzgWn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900870261320413185/pu/pl/5Na6TiMCUIZR-mx_.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1900870283327926507",
+        "created_at": "2025-03-15T17:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T18:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900960518510440941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1379836469095751682",
+              "start": 0,
+              "username": "WenJian0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900960518510440941",
+        "in_reply_to_user_id": "1379836469095751682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900870283327926507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenJian0922 这是降落的时候失速了还是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900870261320413185"
+          ]
+        },
+        "author_id": "1379836469095751682",
+        "conversation_id": "1900870283327926507",
+        "created_at": "2025-03-15T11:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T12:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900870283327926507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AB8koNTkcC",
+              "end": 96,
+              "expanded_url": "https://x.com/WenJian0922/status/1900870283327926507/video/1",
+              "media_key": "7_1900870261320413185",
+              "start": 73,
+              "url": "https://t.co/AB8koNTkcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900870283327926507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 10437,
+          "like_count": 145,
+          "quote_count": 14,
+          "reply_count": 9,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "3月15日13时30分许，南部战区海军1架歼-15战斗机在进行训练时失事，坠毁于海南省临高县加来镇附近空地，飞行员成功跳伞，未造成地面附带损伤。 https://t.co/AB8koNTkcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "梦想是成为泥头车的减速带（     痛苦画画人，还在学上色………",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774684260560897/-rVPPNon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 370,
+          "like_count": 12830,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 182
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-07T16:40:38.000Z",
+        "description": "军事爱好者，模型收藏爱好者，顺便分享一些好吃好玩有趣的",
+        "id": "1379836469095751682",
+        "name": "DS北风（风哥）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379836646888116224/q5iB3mUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6903,
+          "following_count": 288,
+          "like_count": 7544,
+          "listed_count": 71,
+          "media_count": 2787,
+          "tweet_count": 3084
+        },
+        "username": "WenJian0922",
+        "verified": false
+      }
+    ]
+  }
+}

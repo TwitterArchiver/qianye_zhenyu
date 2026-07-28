@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1863586875186856156",
+    "created_at": "2024-12-03T14:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T15:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863956043417735254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669587573822603264",
+          "start": 0,
+          "username": "CrcZqvhlKm7191"
+        },
+        {
+          "end": 26,
+          "id": "1821011948571369473",
+          "start": 16,
+          "username": "Kikya2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863956043417735254",
+    "in_reply_to_user_id": "1669587573822603264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863785240894062856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrcZqvhlKm7191 @Kikya2000 习近平同志，万碎！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1863586875186856156",
+        "created_at": "2024-12-03T14:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863956043417735254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669587573822603264",
+              "start": 0,
+              "username": "CrcZqvhlKm7191"
+            },
+            {
+              "end": 26,
+              "id": "1821011948571369473",
+              "start": 16,
+              "username": "Kikya2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863956043417735254",
+        "in_reply_to_user_id": "1669587573822603264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863785240894062856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrcZqvhlKm7191 @Kikya2000 习近平同志，万碎！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669587573822603264",
+        "conversation_id": "1863586875186856156",
+        "created_at": "2024-12-03T03:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T04:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863785240894062856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821011948571369473",
+              "start": 0,
+              "username": "Kikya2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863785240894062856",
+        "in_reply_to_user_id": "1821011948571369473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863586875186856156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikya2000 中华人民共和国万岁！！🇨🇳🇨🇳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "真的以后会去摸图的，等我先摸个鱼…",
+        "id": "1834507955804536833",
+        "name": "鴆迁鵺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834511909749723136/Lh3fvnWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 185,
+          "like_count": 6433,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T06:08:01.000Z",
+        "description": "反对独裁 民主中国",
+        "id": "1669587573822603264",
+        "name": "z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837581023800184838/0cHxZJhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 39,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 860
+        },
+        "username": "CrcZqvhlKm7191",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:34:27.000Z",
+        "description": "",
+        "id": "1821011948571369473",
+        "location": "this",
+        "name": "💮Kikya🎄",
+        "pinned_tweet_id": "1859292205585760679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863770429833281536/mO0MjW3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 585,
+          "like_count": 5245,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2880
+        },
+        "username": "Kikya2000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2052039525917196518",
+    "created_at": "2026-05-06T15:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052044431788773673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2006235005698375680",
+          "start": 0,
+          "username": "xioqngx286233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052044431788773673",
+    "in_reply_to_user_id": "2006235005698375680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052039525917196518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioqngx286233 正常，我私信请求里卖冰的都有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052039512227004417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpPEG9bQAEwmFu.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2052039525917196518",
+        "created_at": "2026-05-06T15:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052044431788773673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006235005698375680",
+              "start": 0,
+              "username": "xioqngx286233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052044431788773673",
+        "in_reply_to_user_id": "2006235005698375680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052039525917196518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioqngx286233 正常，我私信请求里卖冰的都有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052039512227004417"
+          ]
+        },
+        "author_id": "2006235005698375680",
+        "conversation_id": "2052039525917196518",
+        "created_at": "2026-05-06T14:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052039525917196518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyfE9NeaV8",
+              "end": 28,
+              "expanded_url": "https://x.com/xioqngx286233/status/2052039525917196518/photo/1",
+              "media_key": "3_2052039512227004417",
+              "start": 5,
+              "url": "https://t.co/nyfE9NeaV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052039525917196518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么情况 https://t.co/nyfE9NeaV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2051680473718346218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 966,
+          "like_count": 31663,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 690
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T05:24:44.000Z",
+        "description": "07大学生 重度焦虑 双相情感障碍 重度药物依赖\n自残",
+        "id": "2006235005698375680",
+        "name": "小情绪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006235162279899136/p5ZU5CLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 128,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 43
+        },
+        "username": "xioqngx286233",
+        "verified": false
+      }
+    ]
+  }
+}

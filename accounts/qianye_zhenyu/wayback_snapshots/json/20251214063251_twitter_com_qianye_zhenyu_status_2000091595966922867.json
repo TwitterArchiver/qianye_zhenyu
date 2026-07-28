@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1686677912240680960",
+    "created_at": "2025-12-14T06:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000091595966922867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783136956420849664",
+          "start": 0,
+          "username": "BoredFish_XY"
+        },
+        {
+          "end": 22,
+          "id": "1150493879507943424",
+          "start": 14,
+          "username": "yen_922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000091595966922867",
+    "in_reply_to_user_id": "1783136956420849664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1783156474643963988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoredFish_XY @yen_922 何意味？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1783156474643963988].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1783156474643963988",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1783156474643963988"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1686677912240680960",
+        "created_at": "2025-12-14T06:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000091595966922867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783136956420849664",
+              "start": 0,
+              "username": "BoredFish_XY"
+            },
+            {
+              "end": 22,
+              "id": "1150493879507943424",
+              "start": 14,
+              "username": "yen_922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000091595966922867",
+        "in_reply_to_user_id": "1783136956420849664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1783156474643963988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoredFish_XY @yen_922 何意味？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 578,
+          "like_count": 24645,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 656
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "OC \n\n◽️DONT USE MY ART\n◽️CHN/ES\n◽️好兄弟：@qianye_zhenyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "qianye_zhenyu"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "。",
+        "pinned_tweet_id": "1969393791703425269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998028365442215937/-FzVIe3f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 503,
+          "like_count": 11276,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 1575
+        },
+        "username": "BoredFish_XY",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-14T19:54:50.000Z",
+        "description": "160/43/32F 23 33 ♥️ IG🔍yen_0922",
+        "id": "1150493879507943424",
+        "name": "言言kiwi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1208442913102999554/qucKLEUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111092,
+          "following_count": 13,
+          "like_count": 46,
+          "listed_count": 111,
+          "media_count": 18,
+          "tweet_count": 25
+        },
+        "username": "yen_922",
+        "verified": false
+      }
+    ]
+  }
+}

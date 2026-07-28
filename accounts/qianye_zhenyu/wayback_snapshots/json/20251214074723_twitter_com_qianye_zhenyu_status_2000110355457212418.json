@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1999662332608414112",
+    "created_at": "2025-12-14T07:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T08:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000110355457212418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        },
+        {
+          "end": 23,
+          "id": "1874809413229527040",
+          "start": 15,
+          "username": "zmx8067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000110355457212418",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999819097664622850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 @zmx8067 参考苏联：天上飞的最大的飞机与排队到1991年才能领到的电视机（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1999662332608414112",
+        "created_at": "2025-12-14T07:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T08:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000110355457212418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            },
+            {
+              "end": 23,
+              "id": "1874809413229527040",
+              "start": 15,
+              "username": "zmx8067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000110355457212418",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999819097664622850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 @zmx8067 参考苏联：天上飞的最大的飞机与排队到1991年才能领到的电视机（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164467672819499008",
+        "conversation_id": "1999662332608414112",
+        "created_at": "2025-12-13T12:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999819097664622850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874809413229527040",
+              "start": 0,
+              "username": "zmx8067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999819097664622850",
+        "in_reply_to_user_id": "1874809413229527040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 616,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999662332608414112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmx8067 你好像沒搞清楚共產主義是什麼東西吧😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 603,
+          "like_count": 24798,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 671
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "來自台灣的中國愛國主義者🇹🇼 |不敢反共|包密| 自由/民主/有限市場經濟/民主社會主義/三民主義/中華民國派/泛藍/左翼/人道主義/科學主義的支持者 | Glory to China | \n\n賽博搬史王|偶爾發抽象tv｜\n\n沒有義務的權利必將導致濫用，沒有權利的義務必將導致壓迫| 香港加油|\n\n鍵政勉強中。。",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳（🇭🇰願香港平安）",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 1041,
+          "like_count": 11282,
+          "listed_count": 6,
+          "media_count": 964,
+          "tweet_count": 10061
+        },
+        "username": "whitelate0001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T13:26:25.000Z",
+        "description": "關注與中國🇨🇳有關的時政新聞和八卦。\n\nFollow political news and gossip related to China.\n\n防失聯請關注二號機：@zmx8061",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "zmx8061"
+              }
+            ]
+          }
+        },
+        "id": "1874809413229527040",
+        "name": "油爆琵琶拌着面🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914664813873258498/lx4gOiqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11220,
+          "following_count": 4154,
+          "like_count": 36304,
+          "listed_count": 82,
+          "media_count": 1516,
+          "tweet_count": 15135
+        },
+        "username": "zmx8067",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1908715478954238092",
+    "created_at": "2025-04-06T14:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T15:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908885583088222424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589203507852152832",
+          "start": 0,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908885583088222424",
+    "in_reply_to_user_id": "1589203507852152832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908715478954238092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianLv117 挺好的，至少没负担了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1908715473170292736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn0enCubYAAYKEV.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1908715472952180736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn0enB6bQAAqsGb.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1908715475829481472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn0enMobYAAu23F.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1908715475493912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn0enLYbAAAD5vi.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1908715478954238092",
+        "created_at": "2025-04-06T14:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908885583088222424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908885583088222424",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908715478954238092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 挺好的，至少没负担了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908715473170292736",
+            "3_1908715472952180736",
+            "3_1908715475829481472",
+            "3_1908715475493912576"
+          ]
+        },
+        "author_id": "1589203507852152832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1908715478954238092",
+        "created_at": "2025-04-06T02:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T03:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908715478954238092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsVQUGibFK",
+              "end": 40,
+              "expanded_url": "https://x.com/JianLv117/status/1908715478954238092/photo/1",
+              "media_key": "3_1908715473170292736",
+              "start": 17,
+              "url": "https://t.co/CsVQUGibFK"
+            },
+            {
+              "display_url": "pic.x.com/CsVQUGibFK",
+              "end": 40,
+              "expanded_url": "https://x.com/JianLv117/status/1908715478954238092/photo/1",
+              "media_key": "3_1908715472952180736",
+              "start": 17,
+              "url": "https://t.co/CsVQUGibFK"
+            },
+            {
+              "display_url": "pic.x.com/CsVQUGibFK",
+              "end": 40,
+              "expanded_url": "https://x.com/JianLv117/status/1908715478954238092/photo/1",
+              "media_key": "3_1908715475829481472",
+              "start": 17,
+              "url": "https://t.co/CsVQUGibFK"
+            },
+            {
+              "display_url": "pic.x.com/CsVQUGibFK",
+              "end": 40,
+              "expanded_url": "https://x.com/JianLv117/status/1908715478954238092/photo/1",
+              "media_key": "3_1908715475493912576",
+              "start": 17,
+              "url": "https://t.co/CsVQUGibFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908715478954238092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4225,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "39岁单身汉混成这样算什么水平？ https://t.co/CsVQUGibFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我要爆炸！！！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SenNue",
+        "pinned_tweet_id": "1908193444385914956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904563165150732288/azrEuDqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 397,
+          "like_count": 14165,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 256
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱与大家讨论交流 爱评论点赞❤️\n华北人\n可互关(需私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n朋友: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（回复1和转推多为广告❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1908435423443247326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15108,
+          "following_count": 916,
+          "like_count": 56793,
+          "listed_count": 59,
+          "media_count": 2758,
+          "tweet_count": 6916
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

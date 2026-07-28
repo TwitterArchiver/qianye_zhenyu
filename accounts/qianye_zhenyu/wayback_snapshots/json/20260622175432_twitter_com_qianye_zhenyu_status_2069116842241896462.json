@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2068886593608573195",
+    "created_at": "2026-06-22T17:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069116842241896462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702135243665444864",
+          "start": 0,
+          "username": "pngzhji658760kk"
+        },
+        {
+          "end": 32,
+          "id": "1841306675674075136",
+          "start": 17,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069116842241896462",
+    "in_reply_to_user_id": "1702135243665444864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069047770867277887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pngzhji658760kk @suishoucrystal 体育运动扯上你共荣圈什么事了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2068886593608573195",
+        "created_at": "2026-06-22T17:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069116842241896462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702135243665444864",
+              "start": 0,
+              "username": "pngzhji658760kk"
+            },
+            {
+              "end": 32,
+              "id": "1841306675674075136",
+              "start": 17,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069116842241896462",
+        "in_reply_to_user_id": "1702135243665444864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069047770867277887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pngzhji658760kk @suishoucrystal 体育运动扯上你共荣圈什么事了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702135243665444864",
+        "conversation_id": "2068886593608573195",
+        "created_at": "2026-06-22T13:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069047770867277887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069047770867277887",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3166,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068886593608573195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 因为那帮垃圾总会想办法的往自己脸上贴金🤣，我们把这个行为叫大东亚共荣圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2069033829675762151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 2091,
+          "like_count": 38348,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T01:40:57.000Z",
+        "description": "我反对共产主义，也不喜欢历史妄想者。\n我支持中日友好但我不会看到日本右翼的杂种发表关于支那人言论后自我安慰为了中日友好，那不是在说我自己。\n如果你觉得我在对号入座，那也请你们别对日本杂种这个蔑称对号入座。^^",
+        "id": "1702135243665444864",
+        "name": "朝露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068787882761060352/nVGOcmsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 126,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "pngzhji658760kk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 ミセス一番好き🍏📰日本人向けの中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001 X引路人:@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "bailyLU"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "realNyarime"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル | Bird🕊️",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 1563,
+          "like_count": 2677,
+          "listed_count": 3,
+          "media_count": 474,
+          "tweet_count": 4876
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}
