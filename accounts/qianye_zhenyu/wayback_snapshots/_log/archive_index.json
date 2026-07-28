@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T16:28:12",
+  "last_updated": "2026-07-28T16:28:56",
   "html": {
     "https://web.archive.org/web/20240930202019if_/https://twitter.com/qianye_zhenyu/status/1840849174088335730": {
       "status": "done",
@@ -12965,27 +12965,27 @@
       "referenced_by": [
         "20250507200916_twitter_com_qianye_zhenyu_status_1920209339152761137.json"
       ],
-      "last_updated": "2026-07-28T15:50:16",
+      "last_updated": "2026-07-28T16:28:37",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250507200916/https://video.twimg.com/tweet_video/GqX0NRXWQAApZiz.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/GtgDdDfXsAA2ZGe.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20250615171957_twitter_com_qianye_zhenyu_status_1934299856153067777.json"
       ],
-      "last_updated": "2026-07-28T15:50:16",
+      "last_updated": "2026-07-28T16:28:40",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250615171957/https://video.twimg.com/tweet_video/GtgDdDfXsAA2ZGe.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1981379881851088896/vid/avc1/720x960/buq6uKOp7Ugsbo9U.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20251023151933_twitter_com_qianye_zhenyu_status_1981379977682776089.json"
       ],
-      "last_updated": "2026-07-28T15:50:20",
+      "last_updated": "2026-07-28T16:28:43",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251023151933/https://video.twimg.com/amplify_video/1981379881851088896/vid/avc1/720x960/buq6uKOp7Ugsbo9U.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1987359589759963136/vid/avc1/720x1280/_9cqT_-Uyz4AiY8x.mp4?tag=14": {
       "status": "done",
@@ -13086,22 +13086,22 @@
       "last_updated": "2026-07-28T15:12:14"
     },
     "https://video.twimg.com/amplify_video/2062590693445337089/vid/avc1/592x1280/Hvk3C1J1Rz4Igla8.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260604174221_twitter_com_qianye_zhenyu_status_2062590797149515900.json"
       ],
-      "last_updated": "2026-07-28T15:12:19",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260604174221/https://video.twimg.com/amplify_video/2062590693445337089/vid/avc1/592x1280/Hvk3C1J1Rz4Igla8.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-28T16:28:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604174221im_/https://video.twimg.com/amplify_video/2062590693445337089/vid/avc1/592x1280/Hvk3C1J1Rz4Igla8.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f76a3e2d070>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HKD-VNiaoAAaNHy.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260605160328_twitter_com_qianye_zhenyu_status_2062928297688989739.json"
       ],
-      "last_updated": "2026-07-28T15:12:18",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260605160328/https://video.twimg.com/tweet_video/HKD-VNiaoAAaNHy.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-28T16:28:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605160328im_/https://video.twimg.com/tweet_video/HKD-VNiaoAAaNHy.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f76a3a8e480>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HKOPAEMWIAAJZOf.mp4": {
       "status": "done",
@@ -13140,13 +13140,13 @@
       "last_updated": "2026-07-28T15:12:14"
     },
     "https://video.twimg.com/tweet_video/HLc62PSbYAAONVo.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260623132212_twitter_com_qianye_zhenyu_status_2069410695389532342.json"
       ],
-      "last_updated": "2026-07-28T15:50:16",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260623132212/https://video.twimg.com/tweet_video/HLc62PSbYAAONVo.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-28T16:28:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260623132212im_/https://video.twimg.com/tweet_video/HLc62PSbYAAONVo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f76a3e2cb30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     }
   },
   "avatars": {
@@ -40295,7 +40295,7 @@
       "last_updated": "2026-07-28T15:13:51"
     },
     "20260604174221_twitter_com_qianye_zhenyu_status_2062590797149515900.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -40305,7 +40305,7 @@
           "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T15:13:51"
+      "last_updated": "2026-07-28T16:28:47"
     },
     "20260604174317_twitter_com_qianye_zhenyu_status_2062591029618847904.json": {
       "status": "done",
@@ -40349,7 +40349,7 @@
       "last_updated": "2026-07-28T15:13:53"
     },
     "20260605160328_twitter_com_qianye_zhenyu_status_2062928297688989739.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -40359,7 +40359,7 @@
           "https://pbs.twimg.com/profile_images/2055335410268794880/mgB8ckKP_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T15:13:51"
+      "last_updated": "2026-07-28T16:28:52"
     },
     "20260606032636_twitter_com_qianye_zhenyu_status_2063100214995464379.json": {
       "status": "failed",
