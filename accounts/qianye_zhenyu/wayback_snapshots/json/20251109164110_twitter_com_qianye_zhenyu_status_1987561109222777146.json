@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987447911005962240"
+      ],
+      "media_source_tweet_id": [
+        "1987448048470102232"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987561109222777146",
+    "created_at": "2025-11-09T16:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T17:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987561109222777146"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "二階堂ヒロ",
+          "probability": 0.9061,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "47955870",
+          "start": 3,
+          "username": "kasuga_iz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pxFuTqNmOS",
+          "end": 44,
+          "expanded_url": "https://x.com/kasuga_iz/status/1987448048470102232/photo/1",
+          "media_key": "3_1987447911005962240",
+          "start": 21,
+          "url": "https://t.co/pxFuTqNmOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987561109222777146",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1006
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987448048470102232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasuga_iz: 二階堂ヒロ https://t.co/pxFuTqNmOS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1987447911005962240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TVWFkaQAAQJYK.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987447911005962240"
+          ],
+          "media_source_tweet_id": [
+            "1987448048470102232"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987561109222777146",
+        "created_at": "2025-11-09T16:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T17:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987561109222777146"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "二階堂ヒロ",
+              "probability": 0.9061,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "47955870",
+              "start": 3,
+              "username": "kasuga_iz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxFuTqNmOS",
+              "end": 44,
+              "expanded_url": "https://x.com/kasuga_iz/status/1987448048470102232/photo/1",
+              "media_key": "3_1987447911005962240",
+              "start": 21,
+              "url": "https://t.co/pxFuTqNmOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987561109222777146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1006
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987448048470102232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasuga_iz: 二階堂ヒロ https://t.co/pxFuTqNmOS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987447911005962240"
+          ]
+        },
+        "author_id": "47955870",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987448048470102232",
+        "created_at": "2025-11-09T09:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987448048470102232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "二階堂ヒロ",
+              "probability": 0.9074,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxFuTqNmOS",
+              "end": 29,
+              "expanded_url": "https://x.com/kasuga_iz/status/1987448048470102232/photo/1",
+              "media_key": "3_1987447911005962240",
+              "start": 6,
+              "url": "https://t.co/pxFuTqNmOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987448048470102232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 631,
+          "impression_count": 87304,
+          "like_count": 7419,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 1006
+        },
+        "reply_settings": "everyone",
+        "text": "二階堂ヒロ https://t.co/pxFuTqNmOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "ヒロちゃん可愛いだ好き！",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1978479818451865851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982470591052447744/WIArCKEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 496,
+          "like_count": 21923,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 548
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-17T13:16:03.000Z",
+        "description": "春日いづれです。エモとかわいいを描きたいです！最近はブルアカを遊んでいます。Fanbox：https://t.co/qo2sDpuDVW / Skeb : https://t.co/LMnBwJQPdx / Sub：@sub_kasuga ⚠Do not use my art.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sub_kasuga"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kasuga-iz.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://kasuga-iz.fanbox.cc",
+                "start": 45,
+                "url": "https://t.co/qo2sDpuDVW"
+              },
+              {
+                "display_url": "skeb.jp/@kasuga_iz",
+                "end": 101,
+                "expanded_url": "http://skeb.jp/@kasuga_iz",
+                "start": 78,
+                "url": "https://t.co/LMnBwJQPdx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kasugaizure",
+                "end": 23,
+                "expanded_url": "https://lit.link/kasugaizure",
+                "start": 0,
+                "url": "https://t.co/1YnOM7NVFC"
+              }
+            ]
+          }
+        },
+        "id": "47955870",
+        "location": "連絡先はlit.linkに記載しています！",
+        "name": "春日✨️C107(火)東ア-77ab",
+        "pinned_tweet_id": "1986706565458764041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325441442353852417/CkHPS4KU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71152,
+          "following_count": 1147,
+          "like_count": 27286,
+          "listed_count": 710,
+          "media_count": 2634,
+          "tweet_count": 59532
+        },
+        "url": "https://t.co/1YnOM7NVFC",
+        "username": "kasuga_iz",
+        "verified": true
+      }
+    ]
+  }
+}

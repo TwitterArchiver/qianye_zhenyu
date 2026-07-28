@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "1999506620108194087",
+    "created_at": "2025-12-14T03:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000051180085674158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1324943600929529857",
+          "start": 0,
+          "username": "chucaorenlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000051180085674158",
+    "in_reply_to_user_id": "1324943600929529857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999506620108194087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chucaorenlei 我不是我没有😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "1999506620108194087",
+        "created_at": "2025-12-14T03:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000051180085674158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1324943600929529857",
+              "start": 0,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000051180085674158",
+        "in_reply_to_user_id": "1324943600929529857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999506620108194087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chucaorenlei 我不是我没有😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324943600929529857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1999506620108194087",
+        "created_at": "2025-12-12T15:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T16:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999506620108194087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999506620108194087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 131407,
+          "like_count": 799,
+          "quote_count": 46,
+          "reply_count": 223,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "你的意思是 24号平安夜  25号圣诞节  31号跨年1号元旦  还有14号的情人节和16号的除夕  还有17号的春节  你都是一个人是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "中文｜EN｜日本語 ｜ 明日方舟玩家，但是最喜欢二阶堂希罗 苦难菜逼画画人，不定时诈尸 ｜另外记得关注@Boredfish_XY 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Boredfish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "森蚰_SenNue",
+        "pinned_tweet_id": "1998499824384323821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989018144476917761/t5O2sinr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 572,
+          "like_count": 24365,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 642
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭💔脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情💔爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "id": "1324943600929529857",
+        "location": "不会卖萌的不要跟我讲话了 我看到太冰冷的文字就聊不下去",
+        "name": "除草人类",
+        "pinned_tweet_id": "1995714754875199944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996245043880001536/EpSi5MzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4975,
+          "following_count": 583,
+          "like_count": 1245,
+          "listed_count": 15,
+          "media_count": 109,
+          "tweet_count": 1157
+        },
+        "username": "chucaorenlei",
+        "verified": false
+      }
+    ]
+  }
+}
