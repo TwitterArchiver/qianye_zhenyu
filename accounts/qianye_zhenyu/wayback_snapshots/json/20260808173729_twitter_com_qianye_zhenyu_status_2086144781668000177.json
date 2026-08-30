@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2085800778527301810",
+    "created_at": "2026-08-08T17:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T18:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086144781668000177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086144781668000177",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085800778527301810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 既得了钱又救助了猫，善"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 837,
+        "media_key": "3_2085800770600157184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJAv_PbwAAUbia.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2085800778527301810",
+        "created_at": "2026-08-08T17:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T18:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086144781668000177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086144781668000177",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085800778527301810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 既得了钱又救助了猫，善"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085800770600157184"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2085800778527301810",
+        "created_at": "2026-08-07T18:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085800778527301810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8kF3suBgT",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2085800778527301810/photo/1",
+              "media_key": "3_2085800770600157184",
+              "start": 0,
+              "url": "https://t.co/H8kF3suBgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085800778527301810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 364137,
+          "like_count": 896,
+          "quote_count": 1,
+          "reply_count": 263,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H8kF3suBgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 2137,
+          "like_count": 40023,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1256
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121851,
+          "following_count": 1119,
+          "like_count": 52086,
+          "listed_count": 297,
+          "media_count": 24292,
+          "tweet_count": 34848
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

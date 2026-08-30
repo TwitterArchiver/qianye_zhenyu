@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2086345104520863749",
+    "created_at": "2026-08-09T18:38:17.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086522470165778687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940808682998259712",
+          "start": 0,
+          "username": "Bomb_Revolution"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086522470165778687",
+    "in_reply_to_user_id": "1940808682998259712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086345104520863749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bomb_Revolution 恭喜喵w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 378,
+        "media_key": "3_2086345097621446656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQvz_aaoAAEFAB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2086345104520863749",
+        "created_at": "2026-08-09T18:38:17.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086522470165778687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940808682998259712",
+              "start": 0,
+              "username": "Bomb_Revolution"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086522470165778687",
+        "in_reply_to_user_id": "1940808682998259712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086345104520863749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bomb_Revolution 恭喜喵w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086345097621446656"
+          ]
+        },
+        "author_id": "1940808682998259712",
+        "conversation_id": "2086345104520863749",
+        "created_at": "2026-08-09T06:53:29.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086345104520863749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iRtu2G9eWT",
+              "end": 36,
+              "expanded_url": "https://x.com/Bomb_Revolution/status/2086345104520863749/photo/1",
+              "media_key": "3_2086345097621446656",
+              "start": 13,
+              "url": "https://t.co/iRtu2G9eWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086345104520863749",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086345097621446656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1601,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也有蓝色勾勾了！\n🥰🥰 https://t.co/iRtu2G9eWT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2086522470165778687",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 2147,
+          "like_count": 40284,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1268
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T16:23:55.000Z",
+        "description": "FPS超级爱好者（valorant，cs，apex），爱好音乐（rap或者是摇滚乐），平时喜欢自己写歌词或者编写吉他solo，或者是diy一些抽象的数码设备然后吃灰XD，最喜欢的动漫是EVA！（绫波丽是最好的:3）总之，随时欢迎交朋友：3",
+        "id": "1940808682998259712",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2086443806950625707",
+        "name": "BombRevolution",
+        "pinned_tweet_id": "2085351072273723574",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940808682998259712/1751587648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063627387527716864/JjLZtClE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 133,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "Bomb_Revolution",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

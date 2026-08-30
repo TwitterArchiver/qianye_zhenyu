@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2082181729985396747",
+    "created_at": "2026-07-28T19:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082187245214216531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066758908233027584",
+          "start": 0,
+          "username": "a_username_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082187245214216531",
+    "in_reply_to_user_id": "2066758908233027584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082183942871068824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_username_owo 吃过了，但还是偶尔会痛一阵。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2082181729985396747",
+        "created_at": "2026-07-28T19:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082187245214216531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066758908233027584",
+              "start": 0,
+              "username": "a_username_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082187245214216531",
+        "in_reply_to_user_id": "2066758908233027584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082183942871068824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_username_owo 吃过了，但还是偶尔会痛一阵。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066758908233027584",
+        "conversation_id": "2082181729985396747",
+        "created_at": "2026-07-28T19:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082183942871068824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082183942871068824",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082183187556364549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 抱抱你喵🫂\n家裡沒有止痛藥喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 2128,
+          "like_count": 39673,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1224
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T05:45:35.000Z",
+        "description": "小男孩2.0",
+        "id": "2066758908233027584",
+        "location": "你的心裡",
+        "name": "可愛的小男孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066759401760034816/sXQZVEgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 51,
+          "like_count": 11890,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "a_username_owo",
+        "verified": false
+      }
+    ]
+  }
+}

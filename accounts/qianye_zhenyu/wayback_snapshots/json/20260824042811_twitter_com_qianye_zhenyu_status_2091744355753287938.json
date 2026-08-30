@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2091686450807140570",
+    "created_at": "2026-08-24T04:28:11.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T05:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091744355753287938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1175566209003085824",
+          "start": 0,
+          "username": "JohnnyJO_J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091744355753287938",
+    "in_reply_to_user_id": "1175566209003085824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091686450807140570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnnyJO_J ！强强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 381,
+        "media_key": "3_2091686281193676800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQcplywbYAAi9cO.png",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2091686450807140570",
+        "created_at": "2026-08-24T04:28:11.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T05:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091744355753287938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1175566209003085824",
+              "start": 0,
+              "username": "JohnnyJO_J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091744355753287938",
+        "in_reply_to_user_id": "1175566209003085824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091686450807140570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnnyJO_J ！强强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091686281193676800"
+          ]
+        },
+        "author_id": "1175566209003085824",
+        "conversation_id": "2091686450807140570",
+        "created_at": "2026-08-24T00:38:06.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091686450807140570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwgo0Spqig",
+              "end": 49,
+              "expanded_url": "https://x.com/JohnnyJO_J/status/2091686450807140570/photo/1",
+              "media_key": "3_2091686281193676800",
+              "start": 26,
+              "url": "https://t.co/rwgo0Spqig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091686450807140570",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091686281193676800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7000 关注感谢！从来没有想到会走到今天！😭😭😭 https://t.co/rwgo0Spqig"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2091744355753287938",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091558349552947200/BmDidWZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 2467,
+          "like_count": 43132,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-22T00:23:44.000Z",
+        "description": "画自己想画的东西/Im bad at drawing. \n接受委托/Commission OPEN\nPls read my Pin post. \nBsky：https://t.co/A6e8DL15Kx \nPixiv：https://t.co/iTyHaEqPMH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "johnnyjo0.bsky.social",
+                "end": 101,
+                "expanded_url": "http://johnnyjo0.bsky.social",
+                "start": 78,
+                "url": "https://t.co/A6e8DL15Kx"
+              },
+              {
+                "display_url": "pixiv.net/users/14788469",
+                "end": 132,
+                "expanded_url": "https://www.pixiv.net/users/14788469",
+                "start": 109,
+                "url": "https://t.co/iTyHaEqPMH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/14788469",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/14788469",
+                "start": 0,
+                "url": "https://t.co/iTyHaEqPMH"
+              }
+            ]
+          }
+        },
+        "id": "1175566209003085824",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2091726095712432210",
+        "name": "杰洛尼JohnnyJOE（CM FULL）",
+        "pinned_tweet_id": "2087040537073525134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175566209003085824/1782991729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015955006021894146/jzqVnCRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7006,
+          "following_count": 6862,
+          "like_count": 86726,
+          "listed_count": 31,
+          "media_count": 689,
+          "tweet_count": 4560
+        },
+        "url": "https://t.co/iTyHaEqPMH",
+        "username": "JohnnyJO_J",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

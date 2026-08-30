@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092374636302565376"
+      ],
+      "media_source_tweet_id": [
+        "2092374641474261018"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2092568893915267261",
+    "created_at": "2026-08-26T11:04:37.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092568893915267261"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "OC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1517160611872141312",
+          "start": 3,
+          "username": "minto_0604"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VKSnfJCCfW",
+          "end": 43,
+          "expanded_url": "https://x.com/minto_0604/status/2092374641474261018/photo/1",
+          "media_key": "3_2092374636302565376",
+          "start": 20,
+          "url": "https://t.co/VKSnfJCCfW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092568893915267261",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2092374636302565376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092374641474261018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minto_0604: #OC https://t.co/VKSnfJCCfW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_2092374636302565376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmbpVXaAAAisAb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092374636302565376"
+          ],
+          "media_source_tweet_id": [
+            "2092374641474261018"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2092568893915267261",
+        "created_at": "2026-08-26T11:04:37.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092568893915267261"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "OC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1517160611872141312",
+              "start": 3,
+              "username": "minto_0604"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKSnfJCCfW",
+              "end": 43,
+              "expanded_url": "https://x.com/minto_0604/status/2092374641474261018/photo/1",
+              "media_key": "3_2092374636302565376",
+              "start": 20,
+              "url": "https://t.co/VKSnfJCCfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092568893915267261",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092374636302565376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092374641474261018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minto_0604: #OC https://t.co/VKSnfJCCfW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092374636302565376"
+          ]
+        },
+        "author_id": "1517160611872141312",
+        "conversation_id": "2092374641474261018",
+        "created_at": "2026-08-25T22:12:43.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T23:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092374641474261018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "OC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKSnfJCCfW",
+              "end": 27,
+              "expanded_url": "https://x.com/minto_0604/status/2092374641474261018/photo/1",
+              "media_key": "3_2092374636302565376",
+              "start": 4,
+              "url": "https://t.co/VKSnfJCCfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092374641474261018",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092374636302565376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 38863,
+          "like_count": 4178,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "#OC https://t.co/VKSnfJCCfW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2092568893915267261",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091558349552947200/BmDidWZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 2804,
+          "like_count": 45078,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1387
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-21T15:17:43.000Z",
+        "description": "本垢→@Minto_rururu 依頼受け付けてます\n料金表はウェブサイトをご参照下さい\n https://t.co/7E17QKnZ0t",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "Minto_rururu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@minto_0604/",
+                "end": 69,
+                "expanded_url": "https://skeb.jp/@minto_0604/",
+                "start": 46,
+                "url": "https://t.co/7E17QKnZ0t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mintiraiyou.booth.pm",
+                "end": 23,
+                "expanded_url": "https://mintiraiyou.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/LC6IagXtkf"
+              }
+            ]
+          }
+        },
+        "id": "1517160611872141312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092386807191396481",
+        "name": "みみんと",
+        "pinned_tweet_id": "2005127864266666122",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1517160611872141312/1767218184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033025041672409088/acvJQCA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28801,
+          "following_count": 81,
+          "like_count": 30838,
+          "listed_count": 107,
+          "media_count": 207,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/LC6IagXtkf",
+        "username": "minto_0604",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

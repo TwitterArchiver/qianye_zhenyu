@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2090461605297598937",
+    "created_at": "2026-08-20T17:03:37.000Z",
+    "display_text_range": [
+      16,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090484915397595461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090484915397595461",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090461605297598937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 差不多吧。。我家也负债2M多，好在老登能挣，应该落不到我头上来😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2090453084128632833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLIARsbYAEP4ai.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2090461605297598937",
+        "created_at": "2026-08-20T17:03:37.000Z",
+        "display_text_range": [
+          16,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090484915397595461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090484915397595461",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090461605297598937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 差不多吧。。我家也负债2M多，好在老登能挣，应该落不到我头上来😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090453084128632833"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2090461605297598937",
+        "created_at": "2026-08-20T15:31:00.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090461605297598937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioXuhCAHZV",
+              "end": 89,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2090461605297598937/photo/1",
+              "media_key": "3_2090453084128632833",
+              "start": 66,
+              "url": "https://t.co/ioXuhCAHZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090461605297598937",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090453084128632833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 9837,
+          "like_count": 203,
+          "quote_count": 1,
+          "reply_count": 87,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不久前環状線得知目前家里的负债是……\n三百五十多万人民币元😨\n\n父母希望環状線早点工作把债还清，而環状線听完之后已经不想回家了…… https://t.co/ioXuhCAHZV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//偶尔发点画//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2090484915397595461",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 2241,
+          "like_count": 41527,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1335
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/Rib36J6yzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cyberkanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/cyberkanjousen",
+                "start": 65,
+                "url": "https://t.co/Rib36J6yzI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090461605297598937",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15974,
+          "following_count": 878,
+          "like_count": 34116,
+          "listed_count": 24,
+          "media_count": 2731,
+          "tweet_count": 12547
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

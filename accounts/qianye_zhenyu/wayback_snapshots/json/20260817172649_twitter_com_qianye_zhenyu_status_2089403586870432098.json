@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2089390781769678884",
+    "created_at": "2026-08-17T17:26:49.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T18:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089403586870432098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089403586870432098",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089390781769678884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 像我相册里就全是美图😋（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2089390781769678884",
+        "created_at": "2026-08-17T17:26:49.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089403586870432098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089403586870432098",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089390781769678884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 像我相册里就全是美图😋（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2089390781769678884",
+        "created_at": "2026-08-17T16:35:56.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089390781769678884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089390781769678884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少吵架，多点赞多关注多转发好看的图就可以让你的主页全是好看的二次元图\n养眼多了（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//偶尔发点画//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2089403586870432098",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 2174,
+          "like_count": 40811,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n蓝标会回fo的，或者私信（\n本账号大部分发布的作品为转发\n鉴证打咩",
+        "id": "1699985068721082368",
+        "is_identity_verified": false,
+        "location": "凡爾登，378號高地陣地，1916",
+        "most_recent_tweet_id": "2089397597438169327",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2089350286569857289",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699985068721082368/1772490472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 480,
+          "like_count": 13020,
+          "listed_count": 5,
+          "media_count": 1576,
+          "tweet_count": 9614
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

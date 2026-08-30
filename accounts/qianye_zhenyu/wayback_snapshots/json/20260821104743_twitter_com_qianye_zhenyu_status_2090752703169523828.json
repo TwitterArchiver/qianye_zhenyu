@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090752546675863552"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2090752703169523828",
+    "created_at": "2026-08-21T10:47:43.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090752703169523828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOd8VlhvcH",
+          "end": 50,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2090752703169523828/photo/1",
+          "media_key": "3_2090752546675863552",
+          "start": 27,
+          "url": "https://t.co/wOd8VlhvcH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090752703169523828",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090752546675863552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日的战局情况是。。\n他妈的一整局的强电磁干扰！淦！ https://t.co/wOd8VlhvcH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 48,
+        "media_key": "3_2090752546675863552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPYXSnbsAArb6U.png",
+        "width": 207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090752546675863552"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2090752703169523828",
+        "created_at": "2026-08-21T10:47:43.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090752703169523828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOd8VlhvcH",
+              "end": 50,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2090752703169523828/photo/1",
+              "media_key": "3_2090752546675863552",
+              "start": 27,
+              "url": "https://t.co/wOd8VlhvcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090752703169523828",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090752546675863552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日的战局情况是。。\n他妈的一整局的强电磁干扰！淦！ https://t.co/wOd8VlhvcH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//偶尔发点画//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2090752703169523828",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 2302,
+          "like_count": 41938,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1338
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

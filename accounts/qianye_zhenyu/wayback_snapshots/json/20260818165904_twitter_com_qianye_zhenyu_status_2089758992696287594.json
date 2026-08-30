@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2089689246592610511",
+    "created_at": "2026-08-18T16:59:04.000Z",
+    "display_text_range": [
+      24,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089758992696287594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        },
+        {
+          "end": 23,
+          "id": "1917261838485708802",
+          "start": 13,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089758992696287594",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089689246592610511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 @qiujiudev 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089689082314317825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQARJhJbYAEjDUP.jpg",
+        "width": 4075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2089689246592610511",
+        "created_at": "2026-08-18T16:59:04.000Z",
+        "display_text_range": [
+          24,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089758992696287594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 23,
+              "id": "1917261838485708802",
+              "start": 13,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089758992696287594",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089689246592610511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @qiujiudev 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089689082314317825"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2089689246592610511",
+        "created_at": "2026-08-18T12:21:55.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089689246592610511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917261838485708802",
+              "start": 2,
+              "username": "qiujiudev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zm9zO8ExNH",
+              "end": 65,
+              "expanded_url": "https://x.com/Wesley10032/status/2089689246592610511/photo/1",
+              "media_key": "3_2089689082314317825",
+              "start": 42,
+              "url": "https://t.co/zm9zO8ExNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089689246592610511",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089689082314317825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1276,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "采用@qiujiudev 的工具制作的 1248fo 纪念帖喵！\n谢谢大家支持喵😭 https://t.co/zm9zO8ExNH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//偶尔发点画//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2089758992696287594",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 2179,
+          "like_count": 40860,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1310
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2089744134365905255",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1567,
+          "like_count": 17129,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089758595449782693",
+        "name": "秋玖",
+        "pinned_tweet_id": "2089403510664343750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917261838485708802/1784106973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086924198023401472/BvTDiyir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 588,
+          "like_count": 3534,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 993
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

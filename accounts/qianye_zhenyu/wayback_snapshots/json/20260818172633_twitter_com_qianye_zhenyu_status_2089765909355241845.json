@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2089689246592610511",
+    "created_at": "2026-08-18T17:26:33.000Z",
+    "display_text_range": [
+      37,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089765909355241845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917261838485708802",
+          "start": 0,
+          "username": "qiujiudev"
+        },
+        {
+          "end": 23,
+          "id": "1880979169297022976",
+          "start": 11,
+          "username": "Wesley10032"
+        },
+        {
+          "end": 36,
+          "id": "1870313420807163904",
+          "start": 24,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089765909355241845",
+    "in_reply_to_user_id": "1917261838485708802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089765596124885384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiujiudev @Wesley10032 @IzayoiMarin 苹果还是用不了，我还是用电脑端看看吧（悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2089689246592610511",
+        "created_at": "2026-08-18T17:26:33.000Z",
+        "display_text_range": [
+          37,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089765909355241845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917261838485708802",
+              "start": 0,
+              "username": "qiujiudev"
+            },
+            {
+              "end": 23,
+              "id": "1880979169297022976",
+              "start": 11,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 36,
+              "id": "1870313420807163904",
+              "start": 24,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089765909355241845",
+        "in_reply_to_user_id": "1917261838485708802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089765596124885384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiujiudev @Wesley10032 @IzayoiMarin 苹果还是用不了，我还是用电脑端看看吧（悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917261838485708802",
+        "conversation_id": "2089689246592610511",
+        "created_at": "2026-08-18T17:25:18.000Z",
+        "display_text_range": [
+          41,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089765596124885384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            },
+            {
+              "end": 27,
+              "id": "1880979169297022976",
+              "start": 15,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 40,
+              "id": "1870313420807163904",
+              "start": 28,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089765596124885384",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089759701760114841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu @Wesley10032 @IzayoiMarin 安卓手机play商店搜索狐猴浏览器就行，这个支持扩展喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//偶尔发点画//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2089765909355241845",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 2181,
+          "like_count": 40948,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1314
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089765596124885384",
+        "name": "秋玖",
+        "pinned_tweet_id": "2089403510664343750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917261838485708802/1784106973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086924198023401472/BvTDiyir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 589,
+          "like_count": 3538,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2089744134365905255",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1567,
+          "like_count": 17129,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛）|   09高三纯女🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  251： @umodamo | 互fo评论区留言 | 碎碎念 |  恋爱脑｜厌蠢症｜JPOPアニメ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 59,
+                "username": "aoim33"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "username": "umodamo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "is_identity_verified": false,
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "most_recent_tweet_id": "2089763422661390368",
+        "name": "星野まりん",
+        "pinned_tweet_id": "2089688194698596819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870313420807163904/1784883294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076574568773197824/WCbkByx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3352,
+          "following_count": 2261,
+          "like_count": 58725,
+          "listed_count": 9,
+          "media_count": 2975,
+          "tweet_count": 26373
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

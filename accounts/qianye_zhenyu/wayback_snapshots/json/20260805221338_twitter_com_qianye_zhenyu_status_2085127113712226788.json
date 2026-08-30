@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2084887494106161480",
+    "created_at": "2026-08-05T22:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T23:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085127113712226788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085127113712226788",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084887494106161480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 可能是表情的原因（大概"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2084887484203491328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8CHuSbYAAJHaV.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2084887494106161480",
+        "created_at": "2026-08-05T22:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T23:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085127113712226788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085127113712226788",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084887494106161480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 可能是表情的原因（大概"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084887484203491328"
+          ]
+        },
+        "author_id": "1699985068721082368",
+        "conversation_id": "2084887494106161480",
+        "created_at": "2026-08-05T06:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084887494106161480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3DCrZyXc4",
+              "end": 46,
+              "expanded_url": "https://x.com/RX_Xron28390/status/2084887494106161480/photo/1",
+              "media_key": "3_2084887484203491328",
+              "start": 23,
+              "url": "https://t.co/w3DCrZyXc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084887494106161480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2226,
+          "like_count": 340,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这个拉普兰德看起来有一股德克萨斯的感觉 https://t.co/w3DCrZyXc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 2128,
+          "like_count": 39764,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1239
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n蓝标会回fo的（忘记的话请私信\n本账号大部分发布的作品为转发\n鉴证打咩",
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2084887494106161480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 437,
+          "like_count": 12031,
+          "listed_count": 5,
+          "media_count": 1412,
+          "tweet_count": 8962
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2084051621206450286",
+    "created_at": "2026-08-03T01:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084083878382489931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084083878382489931",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084051621206450286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir 原来是1976年啊（眯眼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2083909188946980864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuIXcdbcAAhhfp.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2084051621206450286",
+        "created_at": "2026-08-03T01:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084083878382489931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084083878382489931",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084051621206450286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir 原来是1976年啊（眯眼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083909188946980864"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2084051621206450286",
+        "created_at": "2026-08-02T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084051621206450286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOh6V8ET17",
+              "end": 34,
+              "expanded_url": "https://x.com/bigjusir/status/2084051621206450286/photo/1",
+              "media_key": "3_2083909188946980864",
+              "start": 11,
+              "url": "https://t.co/pOh6V8ET17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084051621206450286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 496,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没看清楚，吓哭了…… https://t.co/pOh6V8ET17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 2115,
+          "like_count": 39721,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1235
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "bigjusir"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "littlejusir"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "pinned_tweet_id": "2082312956562583682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 2445,
+          "like_count": 6883,
+          "listed_count": 11,
+          "media_count": 800,
+          "tweet_count": 3440
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2090245722541338692",
+    "created_at": "2026-08-20T05:59:57.000Z",
+    "display_text_range": [
+      21,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090317895423426653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "121740770",
+          "start": 0,
+          "username": "uminekolk"
+        },
+        {
+          "end": 20,
+          "id": "924825768",
+          "start": 11,
+          "username": "nhamaguc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090317895423426653",
+    "in_reply_to_user_id": "121740770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090245722541338692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uminekolk @nhamaguc 法老！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2090242016055898112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIICf2bsAAoVQv.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2090245722541338692",
+        "created_at": "2026-08-20T05:59:57.000Z",
+        "display_text_range": [
+          21,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090317895423426653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "121740770",
+              "start": 0,
+              "username": "uminekolk"
+            },
+            {
+              "end": 20,
+              "id": "924825768",
+              "start": 11,
+              "username": "nhamaguc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090317895423426653",
+        "in_reply_to_user_id": "121740770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090245722541338692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uminekolk @nhamaguc 法老！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090242016055898112"
+          ]
+        },
+        "author_id": "121740770",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538468",
+              "name": "Final Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Final Fantasy VII",
+              "id": "1004437215219310592",
+              "name": "Final Fantasy VII"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Square Enix",
+              "id": "943863018647044096",
+              "name": "Square Enix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538468",
+              "name": "Final Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Square Enix",
+              "id": "943863018647044096",
+              "name": "Square Enix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "2090245722541338692",
+        "created_at": "2026-08-20T01:13:09.000Z",
+        "display_text_range": [
+          0,
+          263
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090245722541338692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "924825768",
+              "start": 26,
+              "username": "nhamaguc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvGK8bMC7K",
+              "end": 287,
+              "expanded_url": "https://x.com/uminekolk/status/2090245722541338692/photo/1",
+              "media_key": "3_2090242016055898112",
+              "start": 264,
+              "url": "https://t.co/XvGK8bMC7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090245722541338692",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090242016055898112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 189372,
+          "like_count": 4363,
+          "quote_count": 178,
+          "reply_count": 132,
+          "retweet_count": 842
+        },
+        "reply_settings": "everyone",
+        "text": "It was a pleasure meeting @nhamaguc  at Square Enix! Thank you for the warm welcome, studio tour, and for sharing insights from the FFVII Remake series. We learned a lot! Wishing the team all the best with FINAL FANTASY VII REVELATION. Hope to see you again soon! https://t.co/XvGK8bMC7K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//偶尔发点画//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2090317895423426653",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 2226,
+          "like_count": 41389,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1331
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-10T12:46:01.000Z",
+        "description": "Landscape architect . Producer of Arknights ♦https://t.co/gxKgGK74Xy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/904187",
+                "end": 68,
+                "expanded_url": "https://www.pixiv.net/users/904187",
+                "start": 45,
+                "url": "https://t.co/gxKgGK74Xy"
+              }
+            ]
+          }
+        },
+        "id": "121740770",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2090245722541338692",
+        "name": "海猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/121740770/1769053145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/944214367972737024/C2y-Vmnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37695,
+          "following_count": 626,
+          "like_count": 395,
+          "listed_count": 110,
+          "media_count": 33,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "uminekolk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-11-04T07:07:30.000Z",
+        "description": "Game Director / SQUARE ENIX / Studio Head / FF12 / FF13 / MobiusFF / FF7Remake / FF7Rebirth",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/naoki_nhamaguc/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/naoki_nhamaguc/",
+                "start": 0,
+                "url": "https://t.co/g3kw47HWc2"
+              }
+            ]
+          }
+        },
+        "id": "924825768",
+        "is_identity_verified": false,
+        "location": "東京 品川区",
+        "most_recent_tweet_id": "2090247891239764392",
+        "name": "浜口直樹 /FINAL FANTASY VII REVELATION, Spring 2027",
+        "pinned_tweet_id": "1762855293762077121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/924825768/1695765359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868439622113722368/acmUjb4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35798,
+          "following_count": 723,
+          "like_count": 5997,
+          "listed_count": 66,
+          "media_count": 234,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/g3kw47HWc2",
+        "username": "nhamaguc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

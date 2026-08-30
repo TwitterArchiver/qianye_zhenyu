@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2087282810742554801",
+    "created_at": "2026-08-12T04:02:41.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087389283623547229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087389283623547229",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087340472343969900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 泰拉人能飞～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2087340460247519232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPe5FuJakAA2Hso.jpg",
+        "width": 532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2087282810742554801",
+        "created_at": "2026-08-12T04:02:41.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087389283623547229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087389283623547229",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087340472343969900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 泰拉人能飞～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087340460247519232"
+          ]
+        },
+        "author_id": "1699985068721082368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087282810742554801",
+        "created_at": "2026-08-12T00:48:44.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087340472343969900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rHpGoFRwt",
+              "end": 45,
+              "expanded_url": "https://x.com/RX_Xron28390/status/2087340472343969900/photo/1",
+              "media_key": "3_2087340460247519232",
+              "start": 22,
+              "url": "https://t.co/6rHpGoFRwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087340472343969900",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087340460247519232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087282810742554801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 中国人能飞～ https://t.co/6rHpGoFRwt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2087389283623547229",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 2162,
+          "like_count": 40536,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1282
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n蓝标会回fo的（忘记的话请私信\n本账号大部分发布的作品为转发\n鉴证打咩",
+        "id": "1699985068721082368",
+        "is_identity_verified": false,
+        "location": "凡爾登，378號高地陣地，1916",
+        "most_recent_tweet_id": "2087358804442910837",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2087336559200932197",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699985068721082368/1772490472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 447,
+          "like_count": 12499,
+          "listed_count": 5,
+          "media_count": 1485,
+          "tweet_count": 9258
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

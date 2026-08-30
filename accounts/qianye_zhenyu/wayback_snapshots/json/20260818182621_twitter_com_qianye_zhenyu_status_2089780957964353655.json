@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2089682171028263300",
+    "created_at": "2026-08-18T18:26:21.000Z",
+    "display_text_range": [
+      8,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089780957964353655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1183048952708395009",
+          "start": 0,
+          "username": "KGY_HN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089780957964353655",
+    "in_reply_to_user_id": "1183048952708395009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089682171028263300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KGY_HN 我我我！能不能给窝的头像摸一个（两眼放光"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2089682171028263300",
+        "created_at": "2026-08-18T18:26:21.000Z",
+        "display_text_range": [
+          8,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089780957964353655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1183048952708395009",
+              "start": 0,
+              "username": "KGY_HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089780957964353655",
+        "in_reply_to_user_id": "1183048952708395009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089682171028263300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KGY_HN 我我我！能不能给窝的头像摸一个（两眼放光"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183048952708395009",
+        "conversation_id": "2089682171028263300",
+        "created_at": "2026-08-18T11:53:48.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089682171028263300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089682171028263300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3844,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 85,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请给我回复！我要画你们的头像！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//偶尔发点画//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2089780957964353655",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 2181,
+          "like_count": 40966,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1317
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-12T15:57:33.000Z",
+        "description": "KGYHN Generates Yet Higher Nonsense/\n輝夜はな🌸 / 叫我花花就好👌 / 已婚女同性恋🏳️‍🌈 / 艦これ⚓️ / 碎碎念💬 / 拙劣画师🎨 / 待就业人员💼 / 世界和平☮️ / 钱钱飞走了💸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kgy_hn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kgy_hn",
+                "start": 0,
+                "url": "https://t.co/fYn6aLyCHM"
+              }
+            ]
+          }
+        },
+        "id": "1183048952708395009",
+        "is_identity_verified": false,
+        "location": "Thailand",
+        "most_recent_tweet_id": "2089777732830077073",
+        "name": "🌸",
+        "pinned_tweet_id": "2089682171028263300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183048952708395009/1786346603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086714967827570688/SRAh-9Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14401,
+          "following_count": 3191,
+          "like_count": 2221,
+          "listed_count": 34,
+          "media_count": 1033,
+          "tweet_count": 12068
+        },
+        "url": "https://t.co/fYn6aLyCHM",
+        "username": "KGY_HN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

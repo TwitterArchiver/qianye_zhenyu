@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2091963282714193970",
+    "created_at": "2026-08-25T18:50:45.000Z",
+    "display_text_range": [
+      11,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T19:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092323816336683132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548738559410053120",
+          "start": 0,
+          "username": "_raminant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092323816336683132",
+    "in_reply_to_user_id": "1548738559410053120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091963282714193970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_raminant 因为玩游戏也好无聊所以只能画画。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2091963282714193970",
+        "created_at": "2026-08-25T18:50:45.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092323816336683132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548738559410053120",
+              "start": 0,
+              "username": "_raminant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092323816336683132",
+        "in_reply_to_user_id": "1548738559410053120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091963282714193970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_raminant 因为玩游戏也好无聊所以只能画画。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548738559410053120",
+        "conversation_id": "2091963282714193970",
+        "created_at": "2026-08-24T18:58:08.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091963282714193970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091963282714193970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 44599,
+          "like_count": 4405,
+          "quote_count": 81,
+          "reply_count": 95,
+          "retweet_count": 955
+        },
+        "reply_settings": "everyone",
+        "text": "genuinely how do people draw without giving up in the first 15 mins"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2092323816336683132",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091558349552947200/BmDidWZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 2748,
+          "like_count": 44659,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1381
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T18:37:11.000Z",
+        "description": "i like JRPGs, VNs, rhythm games, fighting games, touhou, vkei | self-proclaimed \"artist\", actually draws once a year | cr: rewrite | discord: raminant",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yourgamerprofile.com/raminant",
+                "end": 23,
+                "expanded_url": "https://yourgamerprofile.com/raminant",
+                "start": 0,
+                "url": "https://t.co/K162VKlDG6"
+              }
+            ]
+          }
+        },
+        "id": "1548738559410053120",
+        "is_identity_verified": false,
+        "location": "🇪🇬",
+        "most_recent_tweet_id": "2092318892576178193",
+        "name": "rami",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548738559410053120/1774218048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092183536853757952/UlOFqG6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1134,
+          "like_count": 66209,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/K162VKlDG6",
+        "username": "_raminant",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

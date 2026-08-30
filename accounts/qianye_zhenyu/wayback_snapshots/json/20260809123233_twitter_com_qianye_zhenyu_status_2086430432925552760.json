@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2086334468143587334",
+    "created_at": "2026-08-09T12:32:33.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086430432925552760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819039173913038849",
+          "start": 0,
+          "username": "chnydng1993317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086430432925552760",
+    "in_reply_to_user_id": "1819039173913038849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086404483459010985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnydng1993317 （居然看不出来吗？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2086334468143587334",
+        "created_at": "2026-08-09T12:32:33.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086430432925552760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819039173913038849",
+              "start": 0,
+              "username": "chnydng1993317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086430432925552760",
+        "in_reply_to_user_id": "1819039173913038849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086404483459010985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnydng1993317 （居然看不出来吗？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819039173913038849",
+        "conversation_id": "2086334468143587334",
+        "created_at": "2026-08-09T10:49:27.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086404483459010985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086404483459010985",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086334468143587334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 你这个电话怎么打不通😠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2086430432925552760",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 2141,
+          "like_count": 40254,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1267
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-01T15:55:33.000Z",
+        "description": "",
+        "id": "1819039173913038849",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086404544897196433",
+        "name": "玩原神救了我一命",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850938639582371840/Yon4rNlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 67,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "chnydng1993317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

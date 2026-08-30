@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2090691145827500271",
+    "created_at": "2026-08-24T17:50:34.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091946282655109377"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091946282655109377",
+    "in_reply_to_user_id": "1834507955804536833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090691145827500271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大便"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2090690834337497088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOgPKPaAAA4-TE.png",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2090691145827500271",
+        "created_at": "2026-08-24T17:50:34.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091946282655109377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091946282655109377",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090691145827500271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大便"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090690834337497088"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2090691145827500271",
+        "created_at": "2026-08-21T06:43:06.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090691145827500271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/waPh6L82j3",
+              "end": 47,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2090691145827500271/photo/1",
+              "media_key": "3_2090690834337497088",
+              "start": 24,
+              "url": "https://t.co/waPh6L82j3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090691145827500271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090690834337497088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 486,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是不会细化。。。\n（要不咱还是回去发梗图吧； https://t.co/waPh6L82j3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2091946282655109377",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091558349552947200/BmDidWZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 2576,
+          "like_count": 43763,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1379
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

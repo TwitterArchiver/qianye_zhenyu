@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089953063561773056"
+      ],
+      "media_source_tweet_id": [
+        "2089953170373922969"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2090072506472542229",
+    "created_at": "2026-08-19T13:44:51.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090072506472542229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060415929641545732",
+          "start": 3,
+          "username": "marichama_AI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/btSfAkzZZ8",
+          "end": 52,
+          "expanded_url": "https://x.com/marichama_AI/status/2089953170373922969/photo/1",
+          "media_key": "3_2089953063561773056",
+          "start": 29,
+          "url": "https://t.co/btSfAkzZZ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090072506472542229",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089953063561773056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 359
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089953170373922969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marichama_AI: まのさば\nエマとヒロ https://t.co/btSfAkzZZ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3280,
+        "media_key": "3_2089953063561773056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEBPP7WwAAONXe.jpg",
+        "width": 2248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089953063561773056"
+          ],
+          "media_source_tweet_id": [
+            "2089953170373922969"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2090072506472542229",
+        "created_at": "2026-08-19T13:44:51.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090072506472542229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060415929641545732",
+              "start": 3,
+              "username": "marichama_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/btSfAkzZZ8",
+              "end": 52,
+              "expanded_url": "https://x.com/marichama_AI/status/2089953170373922969/photo/1",
+              "media_key": "3_2089953063561773056",
+              "start": 29,
+              "url": "https://t.co/btSfAkzZZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090072506472542229",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089953063561773056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 359
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089953170373922969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marichama_AI: まのさば\nエマとヒロ https://t.co/btSfAkzZZ8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089953063561773056"
+          ]
+        },
+        "author_id": "2060415929641545732",
+        "conversation_id": "2089953170373922969",
+        "created_at": "2026-08-19T05:50:39.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089953170373922969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btSfAkzZZ8",
+              "end": 34,
+              "expanded_url": "https://x.com/marichama_AI/status/2089953170373922969/photo/1",
+              "media_key": "3_2089953063561773056",
+              "start": 11,
+              "url": "https://t.co/btSfAkzZZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089953170373922969",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089953063561773056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 380,
+          "impression_count": 25266,
+          "like_count": 3580,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 359
+        },
+        "reply_settings": "everyone",
+        "text": "まのさば\nエマとヒロ https://t.co/btSfAkzZZ8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//偶尔发点画//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2090072506472542229",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 2201,
+          "like_count": 41268,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1329
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-29T17:40:13.000Z",
+        "description": "AI Assisted slop,don't feed my shit to grok\nComfyUI • ClipStudioPaint \nReposting prohibited.\nMore content: https://t.co/n2kVXI2cMM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/PH06v",
+                "end": 130,
+                "expanded_url": "https://x.gd/PH06v",
+                "start": 107,
+                "url": "https://t.co/n2kVXI2cMM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/marichama",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/marichama",
+                "start": 0,
+                "url": "https://t.co/ZMtNLu9rIR"
+              }
+            ]
+          }
+        },
+        "id": "2060415929641545732",
+        "is_identity_verified": false,
+        "location": "Minors DNI, be polite or block",
+        "most_recent_tweet_id": "2090032001805934828",
+        "name": "marichama",
+        "pinned_tweet_id": "2084555887054578046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060415929641545732/1780483678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060422082513567747/DsWmWh-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5491,
+          "following_count": 442,
+          "like_count": 1438,
+          "listed_count": 25,
+          "media_count": 246,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/ZMtNLu9rIR",
+        "username": "marichama_AI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

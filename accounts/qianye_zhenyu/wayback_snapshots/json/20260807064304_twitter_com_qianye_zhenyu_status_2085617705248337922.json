@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085617695391645696"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2085310693264224361",
+    "created_at": "2026-08-07T06:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085617705248337922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HTCTcz7wn5",
+          "end": 54,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2085617705248337922/photo/1",
+          "media_key": "3_2085617695391645696",
+          "start": 31,
+          "url": "https://t.co/HTCTcz7wn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085617705248337922",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085310693264224361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir 这边建议是直接对原告发起武士对决以绝后患 https://t.co/HTCTcz7wn5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2085617695391645696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGaPm8WgAAQ7x6.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2085310629594779648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCC-BtX0AAzDMI.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085617695391645696"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2085310693264224361",
+        "created_at": "2026-08-07T06:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085617705248337922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTCTcz7wn5",
+              "end": 54,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2085617705248337922/photo/1",
+              "media_key": "3_2085617695391645696",
+              "start": 31,
+              "url": "https://t.co/HTCTcz7wn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085617705248337922",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085310693264224361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir 这边建议是直接对原告发起武士对决以绝后患 https://t.co/HTCTcz7wn5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085310629594779648"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2085310693264224361",
+        "created_at": "2026-08-06T10:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085310693264224361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1mvMCJu7N",
+              "end": 35,
+              "expanded_url": "https://x.com/bigjusir/status/2085310693264224361/photo/1",
+              "media_key": "3_2085310629594779648",
+              "start": 12,
+              "url": "https://t.co/D1mvMCJu7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085310693264224361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 378386,
+          "like_count": 2742,
+          "quote_count": 6,
+          "reply_count": 417,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "怎么打赢这把逆风局？🤔 https://t.co/D1mvMCJu7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 2136,
+          "like_count": 39885,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1242
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "bigjusir"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "littlejusir"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "pinned_tweet_id": "2082312956562583682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 2638,
+          "like_count": 7379,
+          "listed_count": 11,
+          "media_count": 847,
+          "tweet_count": 3680
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      }
+    ]
+  }
+}

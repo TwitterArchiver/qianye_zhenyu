@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2087225864954241366",
+    "created_at": "2026-08-12T17:40:29.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087595088360952134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087595088360952134",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087225864954241366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 三哥是什么鬼？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2087225864954241366",
+        "created_at": "2026-08-12T17:40:29.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087595088360952134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087595088360952134",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087225864954241366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 三哥是什么鬼？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "conversation_id": "2087225864954241366",
+        "created_at": "2026-08-11T17:13:19.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087225864954241366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087225864954241366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1729,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想看我评价我的所有前任，包括但不限于\n奥地利人，新西兰人，三哥，几个男的，地雷女，药娘，润到美国被开除的药娘，红n代，少年天才"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生\n传奇fo人王//已被上色难度肘飞//地球ol单人模式爱好者//！？达够份之王？！\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo喵🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2087595088360952134",
+        "name": "遷鵺）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1776848233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081288269527216128/K5IT4qQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 2169,
+          "like_count": 40586,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1285
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "is_identity_verified": true,
+        "location": "Auckland Region, New Zealand",
+        "most_recent_tweet_id": "2087564558479344025",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916817753635426304/1781200822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 1070,
+          "like_count": 9033,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

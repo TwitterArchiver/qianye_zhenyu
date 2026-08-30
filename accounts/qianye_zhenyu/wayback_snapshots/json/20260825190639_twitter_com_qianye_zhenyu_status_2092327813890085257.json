@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2091934142459944975",
+    "created_at": "2026-08-25T19:06:39.000Z",
+    "display_text_range": [
+      9,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T20:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092327813890085257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816185287506288643",
+          "start": 0,
+          "username": "rikripp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092327813890085257",
+    "in_reply_to_user_id": "1816185287506288643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091934142459944975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rikripp 说明手机里的压根就不是同一个人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2091934126165147648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgLAROXQAAOs0s.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2091934142459944975",
+        "created_at": "2026-08-25T19:06:39.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092327813890085257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816185287506288643",
+              "start": 0,
+              "username": "rikripp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092327813890085257",
+        "in_reply_to_user_id": "1816185287506288643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091934142459944975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rikripp 说明手机里的压根就不是同一个人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091934126165147648"
+          ]
+        },
+        "author_id": "1816185287506288643",
+        "conversation_id": "2091934142459944975",
+        "created_at": "2026-08-24T17:02:20.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091934142459944975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2I7lbcx2Ah",
+              "end": 75,
+              "expanded_url": "https://x.com/rikripp/status/2091934142459944975/photo/1",
+              "media_key": "3_2091934126165147648",
+              "start": 52,
+              "url": "https://t.co/2I7lbcx2Ah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091934142459944975",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2091934126165147648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3696,
+          "impression_count": 1019485,
+          "like_count": 79400,
+          "quote_count": 205,
+          "reply_count": 107,
+          "retweet_count": 7306
+        },
+        "reply_settings": "everyone",
+        "text": "cómo se siente verse bien en persona y mal en fotos https://t.co/2I7lbcx2Ah"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2092327813890085257",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091558349552947200/BmDidWZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 2749,
+          "like_count": 44708,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T18:55:00.000Z",
+        "description": "esp, frn . ۫ ꣑ৎ . subtwt .— \nside: @rikripp2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "rikripp2"
+              }
+            ]
+          }
+        },
+        "id": "1816185287506288643",
+        "is_identity_verified": false,
+        "location": "he / him ",
+        "most_recent_tweet_id": "2092323506239176803",
+        "name": "erro",
+        "pinned_tweet_id": "2079066244427227573",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816185287506288643/1776598933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079077704884727808/nRdt2tjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 934,
+          "like_count": 7915,
+          "listed_count": 11,
+          "media_count": 691,
+          "tweet_count": 5819
+        },
+        "url": "",
+        "username": "rikripp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
