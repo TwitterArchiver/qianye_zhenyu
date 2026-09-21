@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2097666196971852254",
+    "created_at": "2026-09-09T17:46:43.000Z",
+    "display_text_range": [
+      10,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T18:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097743517284188480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543753719451242496",
+          "start": 0,
+          "username": "4x_n2ym3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097743517284188480",
+    "in_reply_to_user_id": "1543753719451242496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097666196971852254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4x_n2ym3 如果是会画画的，那无聊的时候可就只能一直画了（？\n😎👍反正不用担心，一技之长毕竟是后天可以学习到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2097666196971852254",
+        "created_at": "2026-09-09T17:46:43.000Z",
+        "display_text_range": [
+          10,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097743517284188480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543753719451242496",
+              "start": 0,
+              "username": "4x_n2ym3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097743517284188480",
+        "in_reply_to_user_id": "1543753719451242496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097666196971852254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4x_n2ym3 如果是会画画的，那无聊的时候可就只能一直画了（？\n😎👍反正不用担心，一技之长毕竟是后天可以学习到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543753719451242496",
+        "conversation_id": "2097666196971852254",
+        "created_at": "2026-09-09T12:39:28.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097666196971852254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097666196971852254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么有时候挺羡慕那些有一技之长的人的\n可能因为无聊时能有事情做（？\n或者可以有某个标签来形容自己（？\n可惜我什么都不会TwT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我好困。。\n18｜还在学画画的渣子画手\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2097743517284188480",
+        "name": "遷",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 3016,
+          "like_count": 47409,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1475
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/目前使用gnrha/明日方舟摆烂玩家/arcaea7.0享受中/maimai有点菜/chunithm没瓶颈/间歇性潜水/99.99%回fo/备用@X_ouso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "X_ouso"
+              }
+            ]
+          }
+        },
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2097735572701970763",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2087979862351118414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 3437,
+          "like_count": 2939,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 798
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

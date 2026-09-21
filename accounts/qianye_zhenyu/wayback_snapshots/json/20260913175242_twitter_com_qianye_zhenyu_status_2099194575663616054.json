@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097324258976567298"
+      ],
+      "media_source_tweet_id": [
+        "2097324736095342662"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099194575663616054",
+    "created_at": "2026-09-13T17:52:42.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T18:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099194575663616054"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "AIS_05"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1331237425620819969",
+          "start": 3,
+          "username": "teadiA_violet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/psegJFI6iq",
+          "end": 66,
+          "expanded_url": "https://x.com/teadiA_violet/status/2097324736095342662/photo/1",
+          "media_key": "3_2097324258976567298",
+          "start": 43,
+          "url": "https://t.co/psegJFI6iq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099194575663616054",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097324258976567298"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097324736095342662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teadiA_violet: ｼｮｰﾄｹｰｷﾋﾟｻﾞ出ます。\n#AIS_05 https://t.co/psegJFI6iq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1607,
+        "media_key": "3_2097324258976567298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsxTSsbkAIBtq9.jpg",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097324258976567298"
+          ],
+          "media_source_tweet_id": [
+            "2097324736095342662"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099194575663616054",
+        "created_at": "2026-09-13T17:52:42.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099194575663616054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "AIS_05"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1331237425620819969",
+              "start": 3,
+              "username": "teadiA_violet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psegJFI6iq",
+              "end": 66,
+              "expanded_url": "https://x.com/teadiA_violet/status/2097324736095342662/photo/1",
+              "media_key": "3_2097324258976567298",
+              "start": 43,
+              "url": "https://t.co/psegJFI6iq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099194575663616054",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097324258976567298"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097324736095342662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teadiA_violet: ｼｮｰﾄｹｰｷﾋﾟｻﾞ出ます。\n#AIS_05 https://t.co/psegJFI6iq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097324258976567298"
+          ]
+        },
+        "author_id": "1331237425620819969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097324736095342662",
+        "created_at": "2026-09-08T14:02:38.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097324736095342662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "AIS_05"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psegJFI6iq",
+              "end": 47,
+              "expanded_url": "https://x.com/teadiA_violet/status/2097324736095342662/photo/1",
+              "media_key": "3_2097324258976567298",
+              "start": 24,
+              "url": "https://t.co/psegJFI6iq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097324736095342662",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097324258976567298"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 24036,
+          "like_count": 1979,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "ｼｮｰﾄｹｰｷﾋﾟｻﾞ出ます。\n#AIS_05 https://t.co/psegJFI6iq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我好困。。\n18｜还在学画画的渣子画手，梦想是被抓进金字塔（？\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2099194575663616054",
+        "name": "遷",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 3080,
+          "like_count": 47905,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1494
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-24T14:06:22.000Z",
+        "description": "ﾊﾟｲﾅｯﾌﾟﾙﾋﾟｻﾞは危険思想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/Hw0RwnbsjBWX…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/Hw0RwnbsjBWXx8zDbJUR9OSlhp92",
+                "start": 0,
+                "url": "https://t.co/QnSByuUSJZ"
+              }
+            ]
+          }
+        },
+        "id": "1331237425620819969",
+        "is_identity_verified": false,
+        "location": "Niigata",
+        "most_recent_tweet_id": "2099147947216904505",
+        "name": "ﾒ-ﾍﾞ",
+        "pinned_tweet_id": "2060980729732051326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1331237425620819969/1780317922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958488907865276416/GKGfNWOE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65081,
+          "following_count": 292,
+          "like_count": 43781,
+          "listed_count": 241,
+          "media_count": 1199,
+          "tweet_count": 5649
+        },
+        "url": "https://t.co/QnSByuUSJZ",
+        "username": "teadiA_violet",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

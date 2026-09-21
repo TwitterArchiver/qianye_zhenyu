@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2099123256003572035",
+    "created_at": "2026-09-13T17:59:09.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T18:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099196197298897323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2099112727382036480",
+          "start": 0,
+          "username": "wuyu19750794"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099196197298897323",
+    "in_reply_to_user_id": "2099112727382036480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099123256003572035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyu19750794 超强的！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_2099122567726698496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGU2o1bEAAnXv1.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2099123256003572035",
+        "created_at": "2026-09-13T17:59:09.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099196197298897323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2099112727382036480",
+              "start": 0,
+              "username": "wuyu19750794"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099196197298897323",
+        "in_reply_to_user_id": "2099112727382036480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099123256003572035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyu19750794 超强的！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099122567726698496"
+          ]
+        },
+        "author_id": "2099112727382036480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2099123256003572035",
+        "created_at": "2026-09-13T13:09:18.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099123256003572035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIsTlRk4MY",
+              "end": 47,
+              "expanded_url": "https://x.com/wuyu19750794/status/2099123256003572035/photo/1",
+              "media_key": "3_2099122567726698496",
+              "start": 24,
+              "url": "https://t.co/VIsTlRk4MY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099123256003572035",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099122567726698496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 529,
+          "impression_count": 43944,
+          "like_count": 3616,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 519
+        },
+        "reply_settings": "everyone",
+        "text": "追悼———##Arknights#アークナイツ https://t.co/VIsTlRk4MY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我好困。。\n18｜还在学画画的渣子画手，梦想是被抓进金字塔（？\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2099196197298897323",
+        "name": "遷",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 3081,
+          "like_count": 47910,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1495
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-13T12:28:10.000Z",
+        "description": "努力进步，求大家转发点赞支持一下，非常感谢",
+        "id": "2099112727382036480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099146888092226022",
+        "name": "猫玖",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099113287963320320/vB48Xzsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 51,
+          "like_count": 24,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "wuyu19750794",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

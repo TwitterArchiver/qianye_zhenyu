@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097698754375958528"
+      ],
+      "media_source_tweet_id": [
+        "2097698760528929033"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2097754394297258136",
+    "created_at": "2026-09-09T18:29:56.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T19:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097754394297258136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563865591592947713",
+          "start": 3,
+          "username": "oyasumiy0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hG994GlbsJ",
+          "end": 47,
+          "expanded_url": "https://x.com/oyasumiy0/status/2097698760528929033/photo/1",
+          "media_key": "3_2097698754375958528",
+          "start": 24,
+          "url": "https://t.co/hG994GlbsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097754394297258136",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097698754375958528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 355
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097698760528929033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oyasumiy0: ペルソナ3始めた https://t.co/hG994GlbsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2774,
+        "media_key": "3_2097698754375958528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyF5yxbwAAUS3v.jpg",
+        "width": 1957
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097698754375958528"
+          ],
+          "media_source_tweet_id": [
+            "2097698760528929033"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2097754394297258136",
+        "created_at": "2026-09-09T18:29:56.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097754394297258136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563865591592947713",
+              "start": 3,
+              "username": "oyasumiy0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hG994GlbsJ",
+              "end": 47,
+              "expanded_url": "https://x.com/oyasumiy0/status/2097698760528929033/photo/1",
+              "media_key": "3_2097698754375958528",
+              "start": 24,
+              "url": "https://t.co/hG994GlbsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097754394297258136",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097698754375958528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 355
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097698760528929033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oyasumiy0: ペルソナ3始めた https://t.co/hG994GlbsJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097698754375958528"
+          ]
+        },
+        "author_id": "1563865591592947713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2097698760528929033",
+        "created_at": "2026-09-09T14:48:52.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097698760528929033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hG994GlbsJ",
+              "end": 32,
+              "expanded_url": "https://x.com/oyasumiy0/status/2097698760528929033/photo/1",
+              "media_key": "3_2097698754375958528",
+              "start": 9,
+              "url": "https://t.co/hG994GlbsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097698760528929033",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097698754375958528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 15445,
+          "like_count": 2191,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 355
+        },
+        "reply_settings": "everyone",
+        "text": "ペルソナ3始めた https://t.co/hG994GlbsJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我好困。。\n18｜还在学画画的渣子画手\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2097754394297258136",
+        "name": "遷",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 3018,
+          "like_count": 47447,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1478
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-28T12:26:41.000Z",
+        "description": "おえかきだいすき🚫AI 無断転載、使用を禁じます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/oyasumiy0",
+                "end": 23,
+                "expanded_url": "https://lit.link/oyasumiy0",
+                "start": 0,
+                "url": "https://t.co/IIJL46LqpY"
+              }
+            ]
+          }
+        },
+        "id": "1563865591592947713",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097742954484134152",
+        "name": "🛌",
+        "pinned_tweet_id": "1993278722494075290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563865591592947713/1786720661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016233567836143617/MwZC8HR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29501,
+          "following_count": 307,
+          "like_count": 11870,
+          "listed_count": 188,
+          "media_count": 516,
+          "tweet_count": 13871
+        },
+        "url": "https://t.co/IIJL46LqpY",
+        "username": "oyasumiy0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

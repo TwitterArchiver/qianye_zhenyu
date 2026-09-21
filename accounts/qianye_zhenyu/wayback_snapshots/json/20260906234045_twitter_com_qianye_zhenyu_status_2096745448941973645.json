@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096737262205599744"
+      ],
+      "media_source_tweet_id": [
+        "2096737281239667193"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096745448941973645",
+    "created_at": "2026-09-06T23:40:45.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T00:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096745448941973645"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 29,
+          "tag": "GirlsFrontline2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819958281051541504",
+          "start": 3,
+          "username": "XinggeHess"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HyrD3qcfsv",
+          "end": 69,
+          "expanded_url": "https://x.com/XinggeHess/status/2096737281239667193/photo/1",
+          "media_key": "3_2096737262205599744",
+          "start": 46,
+          "url": "https://t.co/HyrD3qcfsv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096745448941973645",
+    "lang": "da",
+    "media_metadata": [
+      {
+        "media_key": "3_2096737262205599744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096737281239667193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XinggeHess: M4 SOPMOD II\n#GirlsFrontline2 https://t.co/HyrD3qcfsv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2096737262205599744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkbblUXAAAdtYw.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096737262205599744"
+          ],
+          "media_source_tweet_id": [
+            "2096737281239667193"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096745448941973645",
+        "created_at": "2026-09-06T23:40:45.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096745448941973645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 29,
+              "tag": "GirlsFrontline2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819958281051541504",
+              "start": 3,
+              "username": "XinggeHess"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyrD3qcfsv",
+              "end": 69,
+              "expanded_url": "https://x.com/XinggeHess/status/2096737281239667193/photo/1",
+              "media_key": "3_2096737262205599744",
+              "start": 46,
+              "url": "https://t.co/HyrD3qcfsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096745448941973645",
+        "lang": "da",
+        "media_metadata": [
+          {
+            "media_key": "3_2096737262205599744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096737281239667193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XinggeHess: M4 SOPMOD II\n#GirlsFrontline2 https://t.co/HyrD3qcfsv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096737262205599744"
+          ]
+        },
+        "author_id": "1819958281051541504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096737281239667193",
+        "created_at": "2026-09-06T23:08:17.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096737281239667193"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 13,
+              "tag": "GirlsFrontline2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyrD3qcfsv",
+              "end": 53,
+              "expanded_url": "https://x.com/XinggeHess/status/2096737281239667193/photo/1",
+              "media_key": "3_2096737262205599744",
+              "start": 30,
+              "url": "https://t.co/HyrD3qcfsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096737281239667193",
+        "lang": "da",
+        "media_metadata": [
+          {
+            "media_key": "3_2096737262205599744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 356,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "M4 SOPMOD II\n#GirlsFrontline2 https://t.co/HyrD3qcfsv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "18｜还在学画画的渣子画手\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2096745448941973645",
+        "name": "遷",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 3004,
+          "like_count": 47336,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1465
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T04:47:39.000Z",
+        "description": "小号：@Ning28He13Yi11                                               没尝试过抽烟跟喝酒等不良行为",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "Ning28He13Yi11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112040378",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112040378",
+                "start": 0,
+                "url": "https://t.co/LsulXRRQ3Y"
+              }
+            ]
+          }
+        },
+        "id": "1819958281051541504",
+        "is_identity_verified": false,
+        "location": "什么都不知道我也是",
+        "most_recent_tweet_id": "2096742391562842183",
+        "name": "Ning1宁3",
+        "pinned_tweet_id": "2091513190752440658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819958281051541504/1788247690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096391092161896448/OdSdiSmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 67,
+          "like_count": 133,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/LsulXRRQ3Y",
+        "username": "XinggeHess",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

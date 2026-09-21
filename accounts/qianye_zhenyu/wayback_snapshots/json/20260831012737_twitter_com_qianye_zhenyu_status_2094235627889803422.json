@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2094044480454218192",
+    "created_at": "2026-08-31T01:27:37.000Z",
+    "display_text_range": [
+      29,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T02:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094235627889803422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044185782420942850",
+          "start": 0,
+          "username": "IDontKnowuoxs"
+        },
+        {
+          "end": 28,
+          "id": "1699985068721082368",
+          "start": 15,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094235627889803422",
+    "in_reply_to_user_id": "2044185782420942850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094154791371031009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IDontKnowuoxs @RX_Xron28390 把乘客点燃了当热诱扔出去（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2094044480454218192",
+        "created_at": "2026-08-31T01:27:37.000Z",
+        "display_text_range": [
+          29,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094235627889803422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044185782420942850",
+              "start": 0,
+              "username": "IDontKnowuoxs"
+            },
+            {
+              "end": 28,
+              "id": "1699985068721082368",
+              "start": 15,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094235627889803422",
+        "in_reply_to_user_id": "2044185782420942850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094154791371031009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IDontKnowuoxs @RX_Xron28390 把乘客点燃了当热诱扔出去（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044185782420942850",
+        "conversation_id": "2094044480454218192",
+        "created_at": "2026-08-30T20:06:24.000Z",
+        "display_text_range": [
+          29,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094154791371031009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            },
+            {
+              "end": 28,
+              "id": "1699985068721082368",
+              "start": 15,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094154791371031009",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094102102532358199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu @RX_Xron28390 飞机上没有箔条怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n现阶段回炉重修画画中。//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2094235627889803422",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 2918,
+          "like_count": 46350,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1435
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T22:49:10.000Z",
+        "description": "我是飞马（你看我装的像不？）战争雷霆太不好玩了（骗你的我天天玩）希望能有飞友跟我交换几张珍惜机型的照片",
+        "id": "2044185782420942850",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094156569135177965",
+        "name": "一只正在玩德系的沈凤翎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044185782420942850/1778433902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092854346946125824/AM32sak9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 71,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "IDontKnowuoxs",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n蓝标会回fo的，或者私信（\n本账号大部分发布的作品为转发\n鉴证打咩",
+        "id": "1699985068721082368",
+        "is_identity_verified": false,
+        "location": "凡爾登，378號高地陣地，1916",
+        "most_recent_tweet_id": "2094235258291998725",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2092939375487390014",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699985068721082368/1772490472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 492,
+          "like_count": 14385,
+          "listed_count": 4,
+          "media_count": 1690,
+          "tweet_count": 10412
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

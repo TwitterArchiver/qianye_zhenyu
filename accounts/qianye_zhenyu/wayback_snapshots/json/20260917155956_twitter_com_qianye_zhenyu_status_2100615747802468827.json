@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2100604745841041735",
+    "created_at": "2026-09-17T15:59:56.000Z",
+    "display_text_range": [
+      12,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100615747802468827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819958281051541504",
+          "start": 0,
+          "username": "XinggeHess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100615747802468827",
+    "in_reply_to_user_id": "1819958281051541504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100613082083213615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinggeHess 我画布开的就是那么大（但是我用的qq截的图所以分辨率好低；"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2100604745841041735",
+        "created_at": "2026-09-17T15:59:56.000Z",
+        "display_text_range": [
+          12,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100615747802468827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819958281051541504",
+              "start": 0,
+              "username": "XinggeHess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100615747802468827",
+        "in_reply_to_user_id": "1819958281051541504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100613082083213615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinggeHess 我画布开的就是那么大（但是我用的qq截的图所以分辨率好低；"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819958281051541504",
+        "conversation_id": "2100604745841041735",
+        "created_at": "2026-09-17T15:49:20.000Z",
+        "display_text_range": [
+          15,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100613082083213615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100613082083213615",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100609517952422198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 最好是用大画布4000×3000\n或者用网页版\n换格式JPEG\n我用的是PNG5000×2200\n右上角三个点就有4K加载"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "我好困。。\n18｜还在学画画的渣子画手，梦想变成源石虫（？\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2100615747802468827",
+        "name": "遷",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 3077,
+          "like_count": 48096,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1510
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T04:47:39.000Z",
+        "description": "小号：@Ning28He13Yi11                                               没尝试过抽烟跟喝酒等不良行为\n拒绝淫秽创作（服装大于角色躯体）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "Ning28He13Yi11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112040378",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112040378",
+                "start": 0,
+                "url": "https://t.co/LsulXRRQ3Y"
+              }
+            ]
+          }
+        },
+        "id": "1819958281051541504",
+        "is_identity_verified": false,
+        "location": "什么都不知道我也是",
+        "most_recent_tweet_id": "2100613082083213615",
+        "name": "Ning1宁3",
+        "pinned_tweet_id": "2099904206564131168",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819958281051541504/1789128505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099510338211418112/eJbnUlv9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 66,
+          "like_count": 139,
+          "listed_count": 5,
+          "media_count": 111,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/LsulXRRQ3Y",
+        "username": "XinggeHess",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

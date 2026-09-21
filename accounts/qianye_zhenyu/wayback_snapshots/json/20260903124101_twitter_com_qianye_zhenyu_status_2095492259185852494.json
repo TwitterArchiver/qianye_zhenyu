@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095492075815067649"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2095461153690255843",
+    "created_at": "2026-09-03T12:41:01.000Z",
+    "display_text_range": [
+      14,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095492259185852494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636913725327446017",
+          "start": 0,
+          "username": "LingSing7263"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XgmOxqgtAa",
+          "end": 74,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2095492259185852494/photo/1",
+          "media_key": "3_2095492075815067649",
+          "start": 51,
+          "url": "https://t.co/XgmOxqgtAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095492259185852494",
+    "in_reply_to_user_id": "1636913725327446017",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095492075815067649"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095481060054151469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingSing7263 色彩是找的这位大佬看的（但是他不开课😭），报的速写团练10月才开始(瘫。 https://t.co/XgmOxqgtAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 145,
+        "media_key": "3_2095492075815067649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSu8MiaYAEqm3g.png",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095492075815067649"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2095461153690255843",
+        "created_at": "2026-09-03T12:41:01.000Z",
+        "display_text_range": [
+          14,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095492259185852494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636913725327446017",
+              "start": 0,
+              "username": "LingSing7263"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgmOxqgtAa",
+              "end": 74,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2095492259185852494/photo/1",
+              "media_key": "3_2095492075815067649",
+              "start": 51,
+              "url": "https://t.co/XgmOxqgtAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095492259185852494",
+        "in_reply_to_user_id": "1636913725327446017",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095492075815067649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095481060054151469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingSing7263 色彩是找的这位大佬看的（但是他不开课😭），报的速写团练10月才开始(瘫。 https://t.co/XgmOxqgtAa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636913725327446017",
+        "conversation_id": "2095461153690255843",
+        "created_at": "2026-09-03T11:56:31.000Z",
+        "display_text_range": [
+          15,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095481060054151469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095481060054151469",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095461153690255843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 看看你看的课……我也想学，但没渠道（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2095492259185852494",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 2988,
+          "like_count": 46993,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 1453
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-18T02:13:49.000Z",
+        "description": "白日梦想家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aboutGalaxyYi",
+                "end": 23,
+                "expanded_url": "https://t.me/aboutGalaxyYi",
+                "start": 0,
+                "url": "https://t.co/Sdo5s2x8T2"
+              }
+            ]
+          }
+        },
+        "id": "1636913725327446017",
+        "is_identity_verified": false,
+        "location": "星乡",
+        "most_recent_tweet_id": "2095481060054151469",
+        "name": "伊零星",
+        "pinned_tweet_id": "1990063035034345766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1636913725327446017/1692485227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039466151022034944/IaFgrLpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 1135,
+          "like_count": 28356,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 7472
+        },
+        "url": "https://t.co/Sdo5s2x8T2",
+        "username": "LingSing7263",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

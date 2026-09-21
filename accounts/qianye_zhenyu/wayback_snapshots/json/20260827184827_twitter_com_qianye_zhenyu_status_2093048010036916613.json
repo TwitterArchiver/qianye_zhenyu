@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2093040353800847520",
+    "created_at": "2026-08-27T18:48:27.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093048010036916613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2024782099635650560",
+          "start": 0,
+          "username": "PureArt01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093048010036916613",
+    "in_reply_to_user_id": "2024782099635650560",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093040353800847520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PureArt01 so cute🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093040345508675584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv5GtabAAAvRXN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2093040353800847520",
+        "created_at": "2026-08-27T18:48:27.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093048010036916613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2024782099635650560",
+              "start": 0,
+              "username": "PureArt01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093048010036916613",
+        "in_reply_to_user_id": "2024782099635650560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093040353800847520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PureArt01 so cute🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093040345508675584"
+          ]
+        },
+        "author_id": "2024782099635650560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2093040353800847520",
+        "created_at": "2026-08-27T18:18:01.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093040353800847520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 70,
+              "tag": "kuromi"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "クロミ"
+            },
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "sketch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/almdQMDz8R",
+              "end": 114,
+              "expanded_url": "https://x.com/PureArt01/status/2093040353800847520/photo/1",
+              "media_key": "3_2093040345508675584",
+              "start": 91,
+              "url": "https://t.co/almdQMDz8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093040353800847520",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2093040345508675584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My sketch &gt; My line Arts  \n\nThat’s why I really love sketching.🤣✨\n\n#kuromi #クロミ #sketch https://t.co/almdQMDz8R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "还在学画画的渣子画手\n//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2093048010036916613",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091558349552947200/BmDidWZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 2880,
+          "like_count": 45739,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T09:44:15.000Z",
+        "description": "Pure | Character Designer \n\nDA : https://t.co/pwyKkHwO32\nKo-fi : https://t.co/jpC6zAfCKq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "deviantart.com/mrpurerin",
+                "end": 56,
+                "expanded_url": "https://www.deviantart.com/mrpurerin",
+                "start": 33,
+                "url": "https://t.co/pwyKkHwO32"
+              },
+              {
+                "display_url": "ko-fi.com/pure",
+                "end": 88,
+                "expanded_url": "https://ko-fi.com/pure",
+                "start": 65,
+                "url": "https://t.co/jpC6zAfCKq"
+              }
+            ]
+          }
+        },
+        "id": "2024782099635650560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093040353800847520",
+        "name": "PureArt",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024782099635650560/1784477387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092162747501092864/3MF6Vk33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 448,
+          "like_count": 3844,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "PureArt01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

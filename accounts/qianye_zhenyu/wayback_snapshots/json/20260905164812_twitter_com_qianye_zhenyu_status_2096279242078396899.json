@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2096155121772064782",
+    "created_at": "2026-09-05T16:48:12.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096279242078396899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069835845776121856",
+          "start": 0,
+          "username": "graykrv7b0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096279242078396899",
+    "in_reply_to_user_id": "2069835845776121856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096155121772064782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@graykrv7b0 18"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2096155121772064782",
+        "created_at": "2026-09-05T16:48:12.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096279242078396899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069835845776121856",
+              "start": 0,
+              "username": "graykrv7b0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096279242078396899",
+        "in_reply_to_user_id": "2069835845776121856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096155121772064782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@graykrv7b0 18"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069835845776121856",
+        "conversation_id": "2096155121772064782",
+        "created_at": "2026-09-05T08:35:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096155121772064782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096155121772064782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都多大了啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "18｜还在学画画的渣子画手\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2096279242078396899",
+        "name": "遷千纤扦",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 2996,
+          "like_count": 47157,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1461
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T17:32:44.000Z",
+        "description": "しろちゃんです\n小白Gray，叫我小白就行\nMade in China\n我的英语考了42分\n私の日本語はとても下手です",
+        "id": "2069835845776121856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096258391173657039",
+        "name": "白ちゃん",
+        "pinned_tweet_id": "2069848687149527361",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069835845776121856/1782324778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069836359435460608/QUC1rJjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 99,
+          "like_count": 4902,
+          "listed_count": 0,
+          "media_count": 569,
+          "tweet_count": 1631
+        },
+        "url": "",
+        "username": "graykrv7b0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

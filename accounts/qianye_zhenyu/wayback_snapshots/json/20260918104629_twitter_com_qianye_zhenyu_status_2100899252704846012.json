@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2100809715559338110",
+    "created_at": "2026-09-18T10:46:29.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100899252704846012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100899252704846012",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100809715559338110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 人羊是什么鬼？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2100809715559338110].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2100809715559338110",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2100809715559338110"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2100809715559338110",
+        "created_at": "2026-09-18T10:46:29.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100899252704846012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100899252704846012",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100809715559338110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 人羊是什么鬼？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我好困。。\n18｜还在学画画的渣子画手，梦想变成源石虫（？\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2100899252704846012",
+        "name": "遷",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 3076,
+          "like_count": 48093,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1512
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "求回fo喵wwww\n2025.11 重生喵~\n一般路过 553/Ag/any\n09.12\n音ゲー/Minecraft/VRC/DTM(初心者)/FPV(痛苦禁飞中）\n（负能量预警）\n喵就是心情好\nCN/EN 欢迎私信www\n查成分通过/回fo 没回可私信\n粉红/卖的/看黄男勿扰\n备用@agsg_553",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "https://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/uQ1odbyt5k"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "is_identity_verified": false,
+        "location": "✝️昇天✝️",
+        "most_recent_tweet_id": "2100848760180089286",
+        "name": "AG553",
+        "pinned_tweet_id": "2090464501372211394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989517742127652866/1781934414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074846041879511040/MyFS7zss_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 1684,
+          "like_count": 46355,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 4230
+        },
+        "url": "https://t.co/uQ1odbyt5k",
+        "username": "AGNK_553",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

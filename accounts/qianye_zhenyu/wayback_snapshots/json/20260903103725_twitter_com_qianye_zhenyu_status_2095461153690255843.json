@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095461144312098816"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "conversation_id": "2095461153690255843",
+    "created_at": "2026-09-03T10:37:25.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095461153690255843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DPrYSLpUzJ",
+          "end": 79,
+          "expanded_url": "https://x.com/qianye_zhenyu/status/2095461153690255843/photo/1",
+          "media_key": "3_2095461144312098816",
+          "start": 56,
+          "url": "https://t.co/DPrYSLpUzJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095461153690255843",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095461144312098816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去学习了一下色彩的逻辑…\n从明度，色相，饱和度再到空间，环境又是各种调色什么的…听完人都是麻的…\n\n我是傻子。 https://t.co/DPrYSLpUzJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2095461144312098816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSSzvtbMAAZBX3.jpg",
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095461144312098816"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2095461153690255843",
+        "created_at": "2026-09-03T10:37:25.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095461153690255843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPrYSLpUzJ",
+              "end": 79,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2095461153690255843/photo/1",
+              "media_key": "3_2095461144312098816",
+              "start": 56,
+              "url": "https://t.co/DPrYSLpUzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095461153690255843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095461144312098816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去学习了一下色彩的逻辑…\n从明度，色相，饱和度再到空间，环境又是各种调色什么的…听完人都是麻的…\n\n我是傻子。 https://t.co/DPrYSLpUzJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "还在学画画的渣子画手\n写简介真的很麻烦…",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2095461153690255843",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 2988,
+          "like_count": 46990,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

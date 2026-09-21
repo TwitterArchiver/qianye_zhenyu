@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2095248150118506561",
+    "created_at": "2026-09-02T23:36:07.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T00:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095294732171690243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1018878317892493313",
+          "start": 0,
+          "username": "juvenal830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095294732171690243",
+    "in_reply_to_user_id": "1018878317892493313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095248150118506561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juvenal830 去拯救粥本吧老大😭👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2095248150118506561",
+        "created_at": "2026-09-02T23:36:07.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T00:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095294732171690243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1018878317892493313",
+              "start": 0,
+              "username": "juvenal830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095294732171690243",
+        "in_reply_to_user_id": "1018878317892493313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095248150118506561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juvenal830 去拯救粥本吧老大😭👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1018878317892493313",
+        "conversation_id": "2095248150118506561",
+        "created_at": "2026-09-02T20:31:01.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095248150118506561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/juvenal830/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/juvenal830/status/2095111923759206791",
+              "start": 39,
+              "url": "https://t.co/UliFRhatm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095248150118506561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2169,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095111923759206791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么热闹，难道画黑白的黄漫才是我人生的主线任务？这是上帝和提弗洛斯的指引吗？ https://t.co/UliFRhatm2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n写简介真的很麻烦…",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2095294732171690243",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 2987,
+          "like_count": 46983,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 1451
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-16T15:21:35.000Z",
+        "description": "Amateur illustrator、偶には好きなものを描きます｜ CN/JP/EN ｜NSFW｜Thanks for every comment/rt/likes/follow♥️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9156463",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/users/9156463",
+                "start": 0,
+                "url": "https://t.co/BYLRH6YbUg"
+              }
+            ]
+          }
+        },
+        "id": "1018878317892493313",
+        "is_identity_verified": false,
+        "location": "Queensland, Australia",
+        "most_recent_tweet_id": "2095248150118506561",
+        "name": "Aurelle",
+        "pinned_tweet_id": "1511693651495514113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1018878317892493313/1577458758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094232558292938752/BGZjTrjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 2385,
+          "like_count": 5922,
+          "listed_count": 20,
+          "media_count": 162,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/BYLRH6YbUg",
+        "username": "juvenal830",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

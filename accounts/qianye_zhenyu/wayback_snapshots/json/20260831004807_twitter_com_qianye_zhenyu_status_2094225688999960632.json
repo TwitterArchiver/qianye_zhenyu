@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2094052031967510957",
+    "created_at": "2026-08-31T00:48:07.000Z",
+    "display_text_range": [
+      13,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T01:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094225688999960632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083389012027531264",
+          "start": 0,
+          "username": "tongyao1215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094225688999960632",
+    "in_reply_to_user_id": "2083389012027531264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094052031967510957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongyao1215 非常美丽的画作🌹🌹\n（只不过近年画师行业确实内卷压力太大了，加上对应的教学也被普及。\n额总的来说就是全世界画技上升一万倍\n不然老大你的画但凡放十几年前都是乱杀\n\n不过老大的画技依旧强劲，一定要继续坚持下去（呱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2094052024711270401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-ROMIaUAEQyDG.jpg",
+        "width": 1682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2094052031967510957",
+        "created_at": "2026-08-31T00:48:07.000Z",
+        "display_text_range": [
+          13,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094225688999960632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083389012027531264",
+              "start": 0,
+              "username": "tongyao1215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094225688999960632",
+        "in_reply_to_user_id": "2083389012027531264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094052031967510957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongyao1215 非常美丽的画作🌹🌹\n（只不过近年画师行业确实内卷压力太大了，加上对应的教学也被普及。\n额总的来说就是全世界画技上升一万倍\n不然老大你的画但凡放十几年前都是乱杀\n\n不过老大的画技依旧强劲，一定要继续坚持下去（呱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094052024711270401"
+          ]
+        },
+        "author_id": "2083389012027531264",
+        "conversation_id": "2094052031967510957",
+        "created_at": "2026-08-30T13:18:04.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094052031967510957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZIbdglxbJ",
+              "end": 70,
+              "expanded_url": "https://x.com/tongyao1215/status/2094052031967510957/photo/1",
+              "media_key": "3_2094052024711270401",
+              "start": 47,
+              "url": "https://t.co/lZIbdglxbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094052031967510957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094052024711270401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2838,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我无疑是焦虑的，我为什么画的那么烂，那么丑，我真的配当画师，配画画吗，我好想结束我的画师人生 https://t.co/lZIbdglxbJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n现阶段回炉重修画画中。//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2094225688999960632",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 2919,
+          "like_count": 46343,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1434
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T03:09:34.000Z",
+        "description": "15⬇️/原创插画师\n中/日\n平时非常忙",
+        "id": "2083389012027531264",
+        "is_identity_verified": false,
+        "location": "实现梦想的那个时代",
+        "most_recent_tweet_id": "2094052031967510957",
+        "name": "小小爽",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083389012027531264/1787543561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090413802764578816/eKjs2N0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 32,
+          "like_count": 287,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "tongyao1215",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

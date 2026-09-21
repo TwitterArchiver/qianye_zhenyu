@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1834507955804536833",
+    "conversation_id": "2094358734159925332",
+    "created_at": "2026-08-31T12:40:58.000Z",
+    "display_text_range": [
+      13,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094405084147019833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567891216620191746",
+          "start": 0,
+          "username": "RhenHae5033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094405084147019833",
+    "in_reply_to_user_id": "1567891216620191746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094399244836753918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RhenHae5033 得够我放下个雷霆大电脑，再放个雷霆大板子，还得上个雷霆大键盘，再来俩雷霆大屏幕("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834507955804536833",
+        "conversation_id": "2094358734159925332",
+        "created_at": "2026-08-31T12:40:58.000Z",
+        "display_text_range": [
+          13,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094405084147019833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567891216620191746",
+              "start": 0,
+              "username": "RhenHae5033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094405084147019833",
+        "in_reply_to_user_id": "1567891216620191746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094399244836753918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RhenHae5033 得够我放下个雷霆大电脑，再放个雷霆大板子，还得上个雷霆大键盘，再来俩雷霆大屏幕("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567891216620191746",
+        "conversation_id": "2094358734159925332",
+        "created_at": "2026-08-31T12:17:46.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094399244836753918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094399244836753918",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094358734159925332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 多大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "还在学画画的渣子画手\n现阶段回炉重修画画中。//偶尔发点梗图和一堆乱七八糟的东西//地球ol单人模式爱好者//\n主玩明日方舟，终末地，战雷，hoi4，魔裁｜最喜欢二阶堂希罗亲\n现阶痛苦画图中。但还是欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2094405084147019833",
+        "name": "遷鵺）",
+        "pinned_tweet_id": "2091890633019719753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 2920,
+          "like_count": 46361,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1439
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-08T15:03:02.000Z",
+        "description": "一般路过人民群众，非资深动漫宅/恐怖游戏爱好者/特喜欢重型音乐/绘画苦手。\n正在进行以下活动：学习英语（好难）、学习日语（好难）、吉他入门   Pixiv账号: https://t.co/HN7OfeGwWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/66041175",
+                "end": 104,
+                "expanded_url": "https://www.pixiv.net/users/66041175",
+                "start": 81,
+                "url": "https://t.co/HN7OfeGwWo"
+              }
+            ]
+          }
+        },
+        "id": "1567891216620191746",
+        "is_identity_verified": false,
+        "location": "亞空間",
+        "most_recent_tweet_id": "2094404889933734337",
+        "name": "仁海",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567891216620191746/1718883464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049183821527203840/COxl0C0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 493,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "RhenHae5033",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

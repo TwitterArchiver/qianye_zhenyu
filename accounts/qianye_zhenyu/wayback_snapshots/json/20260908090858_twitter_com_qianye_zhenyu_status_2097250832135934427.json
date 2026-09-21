@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096976118050103296"
+      ],
+      "media_source_tweet_id": [
+        "2096976144474268092"
+      ]
+    },
+    "author_id": "1834507955804536833",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097250832135934427",
+    "created_at": "2026-09-08T09:08:58.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097250832135934427"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "Arknightsㅤ"
+        },
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "Persona3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1134523552751689728",
+          "start": 3,
+          "username": "Nekoko1551"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jl3k84cfZi",
+          "end": 61,
+          "expanded_url": "https://x.com/Nekoko1551/status/2096976144474268092/photo/1",
+          "media_key": "3_2096976118050103296",
+          "start": 38,
+          "url": "https://t.co/Jl3k84cfZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097250832135934427",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2096976118050103296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096976144474268092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nekoko1551: #Arknightsㅤ\n#Persona3 https://t.co/Jl3k84cfZi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2096976118050103296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn0q0raoAAIgPI.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096976118050103296"
+          ],
+          "media_source_tweet_id": [
+            "2096976144474268092"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097250832135934427",
+        "created_at": "2026-09-08T09:08:58.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097250832135934427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "Arknightsㅤ"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "Persona3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1134523552751689728",
+              "start": 3,
+              "username": "Nekoko1551"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jl3k84cfZi",
+              "end": 61,
+              "expanded_url": "https://x.com/Nekoko1551/status/2096976144474268092/photo/1",
+              "media_key": "3_2096976118050103296",
+              "start": 38,
+              "url": "https://t.co/Jl3k84cfZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097250832135934427",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096976118050103296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096976144474268092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nekoko1551: #Arknightsㅤ\n#Persona3 https://t.co/Jl3k84cfZi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096976118050103296"
+          ]
+        },
+        "author_id": "1134523552751689728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096976144474268092",
+        "created_at": "2026-09-07T14:57:27.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096976144474268092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "Arknightsㅤ"
+            },
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "Persona3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jl3k84cfZi",
+              "end": 45,
+              "expanded_url": "https://x.com/Nekoko1551/status/2096976144474268092/photo/1",
+              "media_key": "3_2096976118050103296",
+              "start": 22,
+              "url": "https://t.co/Jl3k84cfZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096976144474268092",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096976118050103296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 581,
+          "impression_count": 46661,
+          "like_count": 6213,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 1117
+        },
+        "reply_settings": "everyone",
+        "text": "#Arknightsㅤ\n#Persona3 https://t.co/Jl3k84cfZi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我好困。。\n18｜还在学画画的渣子画手\n简介太麻烦就空着了",
+        "id": "1834507955804536833",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2097250832135934427",
+        "name": "遷",
+        "pinned_tweet_id": "2095555302351364280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834507955804536833/1787500335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093743708206411778/z0IatQuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 3003,
+          "like_count": 47353,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1469
+        },
+        "url": "",
+        "username": "qianye_zhenyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-31T18:14:28.000Z",
+        "description": "18+／無断転載禁止、\nDo not repost my artworks without my permission/甘いものが好き",
+        "id": "1134523552751689728",
+        "is_identity_verified": false,
+        "location": "梦中",
+        "most_recent_tweet_id": "2096976144474268092",
+        "name": "NEKOKO",
+        "pinned_tweet_id": "1429238402436583428",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1134523552751689728/1768442032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014510015864770562/5e9RYX4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 255,
+          "like_count": 2751,
+          "listed_count": 11,
+          "media_count": 194,
+          "tweet_count": 1826
+        },
+        "url": "",
+        "username": "Nekoko1551",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
